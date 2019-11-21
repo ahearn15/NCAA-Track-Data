@@ -1,0 +1,11393 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2019 NCAA Div. II Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-second-title pb-0">
+                    <div class="row mb-10 ">
+                        <div class="col-lg-4 border-right">
+
+
+                            <div>
+                                <span class="panel-heading-normal-text font-size-15">ICON KEY:</span>
+
+
+                                <img src="http://images.tfrrs.org/ico-check-2.png" class="mb-3"
+                                     title="DII Auto">
+                                <span class="panel-heading-normal-text font-size-15">DII Auto</span>
+
+                                <img src="http://images.tfrrs.org/ico-plus-2.png" class="mb-3"
+                                     title="DII Prov">
+                                <span class="panel-heading-normal-text font-size-15">DII Prov</span>
+
+                            </div>
+
+                          </div>
+                   </div>
+            </div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+
+
+3000 Steeplechase
+	
+	
+ (Women)
+                            </h3>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+DII Auto
+&nbsp;
+10:12.97
+</span>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+DII Prov
+&nbsp;
+11:01.67
+</span>
+                        </div>
+
+                        <table id="myTable" class="tablesorter tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" id=0 scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" id=1 scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" id=2 scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" id=3 scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" id=4 scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" id=5 scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" id=6 scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody id="body" class="body">
+
+
+
+<tr class="filtered allRows standard_871 standard_872">
+
+<td id="col0"  >
+1<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Konieczek, Alicja
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Western Colorado
+</td>
+
+<td id="col4"  >
+9:52.32
+</td>
+
+<td id="col5"  >
+Payton Jordan Invitational
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+
+<tr class="filtered allRows standard_871 standard_872">
+
+<td id="col0"  >
+2<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Flanagan, Eilish
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Adams State
+</td>
+
+<td id="col4"  >
+9:55.25
+</td>
+
+<td id="col5"  >
+Payton Jordan Invitational
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+
+<tr class="filtered allRows standard_871 standard_872">
+
+<td id="col0"  >
+3<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Howley, Julia 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+<td id="col4"  >
+10:02.45
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+4<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Groeber, Hanna
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+<td id="col4"  >
+10:23.52
+</td>
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+5<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+McMillen, Nicole 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Tusculum
+</td>
+
+<td id="col4"  >
+10:25.37
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+6<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Eads, Allysen
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Hillsdale
+</td>
+
+<td id="col4"  >
+10:25.82
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+7<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Molnar, Zita
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Point Loma
+</td>
+
+<td id="col4"  >
+10:29.05
+</td>
+
+<td id="col5"  >
+2019 Pomona-Pitzer Invitational (College/Univ)
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+8<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Wenham , Megan
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+<td id="col4"  >
+10:29.23
+</td>
+
+<td id="col5"  >
+Stanford Invitational
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+9<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Anthony, Nicole
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Chico State
+</td>
+
+<td id="col4"  >
+10:32.30
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+10<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Schuette, Jaiden
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+U-Mary
+</td>
+
+<td id="col4"  >
+10:33.48
+</td>
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+11<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Hunter-Galvan, HaLeigh
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Adams State
+</td>
+
+<td id="col4"  >
+10:35.58
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+12<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Kelly, Mackenzie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+<td id="col4"  >
+10:35.70
+</td>
+
+<td id="col5"  >
+Drake Relays presented by Hy-Vee
+</td>
+
+<td id="col6"  >
+Apr 24, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+13<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Marston, Kialeigh
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Assumption
+</td>
+
+<td id="col4"  >
+10:35.74
+</td>
+
+<td id="col5"  >
+New England Outdoor Championship - NEICAAA
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+14<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+McKinney, Holly
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+<td id="col4"  >
+10:36.60
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+15<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Hanle, Leah
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+<td id="col4"  >
+10:37.00
+</td>
+
+<td id="col5"  >
+The Adidas Trojan Challenge
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+16<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Mitchell, Kaylee
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Seattle Pacific
+</td>
+
+<td id="col4"  >
+10:37.53
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+17<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Pineault, Sydney
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+<td id="col4"  >
+10:37.98
+</td>
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+18<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Ribeiro, Chelsea
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+<td id="col4"  >
+10:38.40
+</td>
+
+<td id="col5"  >
+2019 Willamette Invitational
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+19<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Goen, Madison
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+<td id="col4"  >
+10:39.48
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+20<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Keiser, Jenna
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Saginaw Valley
+</td>
+
+<td id="col4"  >
+10:39.50
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+21<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Casaletto, Kayla
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Cedarville
+</td>
+
+<td id="col4"  >
+10:39.68
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+22<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Fesenmeyer , Sydney
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+<td id="col4"  >
+10:39.87
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+23<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Middleton, Mandee
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+<td id="col4"  >
+10:41.42
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+24<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Willett, Olivia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+<td id="col4"  >
+10:42.19
+</td>
+
+<td id="col5"  >
+Portland Twilight
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+25<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Perkins, Camille
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+UC San Diego
+</td>
+
+<td id="col4"  >
+10:42.83
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+26<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Boynton, Haley
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Chico State
+</td>
+
+<td id="col4"  >
+10:43.65
+</td>
+
+<td id="col5"  >
+CCAA Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+27<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Leppelmeier, Alexa
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Walsh
+</td>
+
+<td id="col4"  >
+10:46.71
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+28<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Lewis, Arena
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Hillsdale
+</td>
+
+<td id="col4"  >
+10:48.10
+</td>
+
+<td id="col5"  >
+Hillsdale "Last-Chance" Classic w/ Multi
+</td>
+
+<td id="col6"  >
+May 8, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+29<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Kammeyer, Evie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+U-Mary
+</td>
+
+<td id="col4"  >
+10:48.93
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+30<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Leonard, Briana
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+<td id="col4"  >
+10:49.02
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+31<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Cunningham, Amira
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+<td id="col4"  >
+10:49.24
+</td>
+
+<td id="col5"  >
+2019 92nd Clyde Littlefield Texas Relays
+</td>
+
+<td id="col6"  >
+Mar 27, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+32<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Moore, Tori
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+<td id="col4"  >
+10:51.33
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+33<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Rienbolt, Katren
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Pittsburg St.
+</td>
+
+<td id="col4"  >
+10:51.42
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+34<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Hottovy, Courtney
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+<td id="col4"  >
+10:53.78
+</td>
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+35<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Gigstad, Hannah Mae
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Western Colorado
+</td>
+
+<td id="col4"  >
+10:54.13
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+36<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Rairdon, Rebekah
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+<td id="col4"  >
+10:56.49
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+37<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+DellaRova, Cierra
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+<td id="col4"  >
+10:56.89
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+38<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Ackley, Alayna
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cedarville
+</td>
+
+<td id="col4"  >
+10:57.42
+</td>
+
+<td id="col5"  >
+Jesse Owens Classic - The Ohio State University
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+39<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Dreicer, Talia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Western Washington
+</td>
+
+<td id="col4"  >
+10:58.11
+</td>
+
+<td id="col5"  >
+WWU Team Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+
+<tr class="filtered allRows standard_872">
+
+<td id="col0"  >
+40<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+<td id="col1"  >
+Mortensen, Sierra 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Washburn
+</td>
+
+<td id="col4"  >
+11:00.13
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+41
+</td>
+
+<td id="col1"  >
+Roy, Brooke
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cal St. Monterey Bay
+</td>
+
+<td id="col4"  >
+11:03.00
+</td>
+
+<td id="col5"  >
+CCAA Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+42
+</td>
+
+<td id="col1"  >
+Fuentes, Arianna
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Cal St. San B'dino
+</td>
+
+<td id="col4"  >
+11:03.09
+</td>
+
+<td id="col5"  >
+2019 California Collegiate Open
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+43
+</td>
+
+<td id="col1"  >
+Huggins, Carly
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+<td id="col4"  >
+11:04.13
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+44
+</td>
+
+<td id="col1"  >
+Minczuk, Alicja
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Harding
+</td>
+
+<td id="col4"  >
+11:04.82
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+45
+</td>
+
+<td id="col1"  >
+Costa, Starlynn
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+U-Mary
+</td>
+
+<td id="col4"  >
+11:06.00
+</td>
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+46
+</td>
+
+<td id="col1"  >
+Haynes, Clara
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Biola
+</td>
+
+<td id="col4"  >
+11:06.33
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+47
+</td>
+
+<td id="col1"  >
+Kurkowski, Sam
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+<td id="col4"  >
+11:06.73
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+48
+</td>
+
+<td id="col1"  >
+Torvi, Hanna
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Northern Michigan
+</td>
+
+<td id="col4"  >
+11:06.80
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+49
+</td>
+
+<td id="col1"  >
+Klotz, Analynne
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+<td id="col4"  >
+11:07.09
+</td>
+
+<td id="col5"  >
+SFA Carl Kight Invitational
+</td>
+
+<td id="col6"  >
+Apr 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+50
+</td>
+
+<td id="col1"  >
+Boersma, Claire
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+<td id="col4"  >
+11:07.16
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+51
+</td>
+
+<td id="col1"  >
+Henry, Alyse
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Chadron State
+</td>
+
+<td id="col4"  >
+11:08.74
+</td>
+
+<td id="col5"  >
+Mines Kit Mayer Invite
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+52
+</td>
+
+<td id="col1"  >
+Ryan, Juliet
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Slippery Rock
+</td>
+
+<td id="col4"  >
+11:10.55
+</td>
+
+<td id="col5"  >
+State Farm Friends of Track and Field Mountaineer Showcase
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+53
+</td>
+
+<td id="col1"  >
+Meuwissen, Piper
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Adams State
+</td>
+
+<td id="col4"  >
+11:10.95
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+54
+</td>
+
+<td id="col1"  >
+McKinney, Cessair
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Humboldt State
+</td>
+
+<td id="col4"  >
+11:11.06
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+54
+</td>
+
+<td id="col1"  >
+RAMOS, PAOLA
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+P.R.-Mayaguez
+</td>
+
+<td id="col4"  >
+11:11.06
+</td>
+
+<td id="col5"  >
+Justas LAI 2019
+</td>
+
+<td id="col6"  >
+Apr 25, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+56
+</td>
+
+<td id="col1"  >
+Kiser, Cadie
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+<td id="col4"  >
+11:11.31
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+57
+</td>
+
+<td id="col1"  >
+Ali, Peyton 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+McKendree
+</td>
+
+<td id="col4"  >
+11:11.44
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+58
+</td>
+
+<td id="col1"  >
+Ellis, Diani
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+San Francisco St.
+</td>
+
+<td id="col4"  >
+11:11.75
+</td>
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+59
+</td>
+
+<td id="col1"  >
+Callahan, Jordan
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Stonehill
+</td>
+
+<td id="col4"  >
+11:12.86
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+60
+</td>
+
+<td id="col1"  >
+Patterson, Paige
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Saint Leo
+</td>
+
+<td id="col4"  >
+11:14.49
+</td>
+
+<td id="col5"  >
+Florida Relays
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+61
+</td>
+
+<td id="col1"  >
+Vidal, Ia
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Drury
+</td>
+
+<td id="col4"  >
+11:15.24
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+62
+</td>
+
+<td id="col1"  >
+Anderle, Sophia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Stonehill
+</td>
+
+<td id="col4"  >
+11:15.57
+</td>
+
+<td id="col5"  >
+Holy Cross Invitational  2019
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+63
+</td>
+
+<td id="col1"  >
+Holmes, Robyn
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+<td id="col4"  >
+11:15.77
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+64
+</td>
+
+<td id="col1"  >
+O'Neill, Kathleen
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Carson-Newman
+</td>
+
+<td id="col4"  >
+11:16.45
+</td>
+
+<td id="col5"  >
+Lenoir Rhyne University Classic Track & Field Meet
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+65
+</td>
+
+<td id="col1"  >
+Rairdon, Rachel
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+<td id="col4"  >
+11:16.59
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+66
+</td>
+
+<td id="col1"  >
+Brand, Madison
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+SNHU
+</td>
+
+<td id="col4"  >
+11:16.64
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+67
+</td>
+
+<td id="col1"  >
+Gorton, Sophie 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Merrimack
+</td>
+
+<td id="col4"  >
+11:17.90
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+68
+</td>
+
+<td id="col1"  >
+Richtman, Becca
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Winona State
+</td>
+
+<td id="col4"  >
+11:19.29
+</td>
+
+<td id="col5"  >
+Phil Esten Challenge @ UW-La Crosse
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+69
+</td>
+
+<td id="col1"  >
+Diehl, Teresa
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Wayne State (Mich.)
+</td>
+
+<td id="col4"  >
+11:19.30
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+70
+</td>
+
+<td id="col1"  >
+Shearer, Hannah
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+<td id="col4"  >
+11:19.70
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+71
+</td>
+
+<td id="col1"  >
+Marx, Amy
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Central Missouri
+</td>
+
+<td id="col4"  >
+11:19.79
+</td>
+
+<td id="col5"  >
+UCM Mule Relays
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+72
+</td>
+
+<td id="col1"  >
+Wade, Bailey
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Concordia (Cal.)
+</td>
+
+<td id="col4"  >
+11:21.31
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+73
+</td>
+
+<td id="col1"  >
+Lindberg, Kara
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Concordia-St. Paul
+</td>
+
+<td id="col4"  >
+11:21.32
+</td>
+
+<td id="col5"  >
+Lady Bear Twilight
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+74
+</td>
+
+<td id="col1"  >
+Gahekave, Poro
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+<td id="col4"  >
+11:21.79
+</td>
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+75
+</td>
+
+<td id="col1"  >
+Henson, Ashton
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Pittsburg St.
+</td>
+
+<td id="col4"  >
+11:22.21
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+76
+</td>
+
+<td id="col1"  >
+Washenberger, Kelsey
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Seattle Pacific
+</td>
+
+<td id="col4"  >
+11:22.25
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+77
+</td>
+
+<td id="col1"  >
+Aiken, Nikki
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+MSU-Billings
+</td>
+
+<td id="col4"  >
+11:22.87
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+78
+</td>
+
+<td id="col1"  >
+Lofgren, Chrissy 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+St. Cloud State
+</td>
+
+<td id="col4"  >
+11:23.85
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+79
+</td>
+
+<td id="col1"  >
+Renteria, Alyssa
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Sonoma St.
+</td>
+
+<td id="col4"  >
+11:24.39
+</td>
+
+<td id="col5"  >
+East Bay Invite
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+80
+</td>
+
+<td id="col1"  >
+Rosencrans, Audrey
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Academy of Art
+</td>
+
+<td id="col4"  >
+11:24.61
+</td>
+
+<td id="col5"  >
+2019 Oxy Invitational (College/University)
+</td>
+
+<td id="col6"  >
+May 11, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+81
+</td>
+
+<td id="col1"  >
+Reyes, Amanda
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Biola
+</td>
+
+<td id="col4"  >
+11:25.02
+</td>
+
+<td id="col5"  >
+2019 Pomona-Pitzer Invitational (College/Univ)
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+82
+</td>
+
+<td id="col1"  >
+Moreno, Skylar
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+<td id="col4"  >
+11:26.54
+</td>
+
+<td id="col5"  >
+2019 Colonial Relays
+</td>
+
+<td id="col6"  >
+Apr 4, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+83
+</td>
+
+<td id="col1"  >
+Gannon, Grace
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Alaska Anchorage
+</td>
+
+<td id="col4"  >
+11:27.08
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+84
+</td>
+
+<td id="col1"  >
+Hernandez, Elizabeth
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Cal Poly Pomona
+</td>
+
+<td id="col4"  >
+11:27.54
+</td>
+
+<td id="col5"  >
+CCAA Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+85
+</td>
+
+<td id="col1"  >
+Boxall, Charlee
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lee (Tenn.)
+</td>
+
+<td id="col4"  >
+11:27.56
+</td>
+
+<td id="col5"  >
+2019 Gulf South Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+86
+</td>
+
+<td id="col1"  >
+Goertzen, Becca
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Sioux Falls
+</td>
+
+<td id="col4"  >
+11:28.09
+</td>
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+87
+</td>
+
+<td id="col1"  >
+Larson, Paige
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Northern State
+</td>
+
+<td id="col4"  >
+11:28.11
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+88
+</td>
+
+<td id="col1"  >
+Klimowicz, Tori
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Edinboro
+</td>
+
+<td id="col4"  >
+11:28.40
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+89
+</td>
+
+<td id="col1"  >
+Wenzel, Mickayla
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+<td id="col4"  >
+11:28.96
+</td>
+
+<td id="col5"  >
+Oliver Nikoloff Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+90
+</td>
+
+<td id="col1"  >
+Garibay, Yuliana
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Humboldt State
+</td>
+
+<td id="col4"  >
+11:29.08
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+91
+</td>
+
+<td id="col1"  >
+Umbarger, Becca
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lee (Tenn.)
+</td>
+
+<td id="col4"  >
+11:29.85
+</td>
+
+<td id="col5"  >
+2019 Gulf South Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+92
+</td>
+
+<td id="col1"  >
+Gonzales, Yessenia
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+<td id="col4"  >
+11:30.05
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+93
+</td>
+
+<td id="col1"  >
+Norris, Jillian
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Slippery Rock
+</td>
+
+<td id="col4"  >
+11:30.33
+</td>
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+94
+</td>
+
+<td id="col1"  >
+Price, Berkley
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+<td id="col4"  >
+11:31.60
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+95
+</td>
+
+<td id="col1"  >
+Mason, Marlee
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+<td id="col4"  >
+11:32.96
+</td>
+
+<td id="col5"  >
+Florida Relays
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+96
+</td>
+
+<td id="col1"  >
+Julian, Nicole
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Adelphi
+</td>
+
+<td id="col4"  >
+11:33.75
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+97
+</td>
+
+<td id="col1"  >
+Hammond, Breanna
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+North Georgia
+</td>
+
+<td id="col4"  >
+11:33.76
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+98
+</td>
+
+<td id="col1"  >
+Jasutis, Rebecca 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Wis.-Parkside
+</td>
+
+<td id="col4"  >
+11:34.08
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+99
+</td>
+
+<td id="col1"  >
+Hilmas, Krista
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+<td id="col4"  >
+11:35.99
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+100
+</td>
+
+<td id="col1"  >
+Mabritto, Shalyn
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+UC San Diego
+</td>
+
+<td id="col4"  >
+11:36.41
+</td>
+
+<td id="col5"  >
+2019 California Collegiate Open
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+101
+</td>
+
+<td id="col1"  >
+Shinnick, Peyton
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Western Washington
+</td>
+
+<td id="col4"  >
+11:37.38
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+102
+</td>
+
+<td id="col1"  >
+Feehan, Kuepper
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Nova Southeastern
+</td>
+
+<td id="col4"  >
+11:37.59
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+103
+</td>
+
+<td id="col1"  >
+Gohr, Caitlin 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Central Washington
+</td>
+
+<td id="col4"  >
+11:37.95
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+104
+</td>
+
+<td id="col1"  >
+Tyme, Melissa
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lincoln (Mo.)
+</td>
+
+<td id="col4"  >
+11:38.37
+</td>
+
+<td id="col5"  >
+Washington University St. Louis Mini Meet
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+105
+</td>
+
+<td id="col1"  >
+Kyes, Elizabeth
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+<td id="col4"  >
+11:38.39
+</td>
+
+<td id="col5"  >
+Lady Bear Twilight
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+106
+</td>
+
+<td id="col1"  >
+Gifford, Cate
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lee (Tenn.)
+</td>
+
+<td id="col4"  >
+11:38.45
+</td>
+
+<td id="col5"  >
+Emory Classic
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+107
+</td>
+
+<td id="col1"  >
+Hautala, Janna
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Missouri Southern
+</td>
+
+<td id="col4"  >
+11:39.58
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+108
+</td>
+
+<td id="col1"  >
+Vanderstelt, Kate
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Hillsdale
+</td>
+
+<td id="col4"  >
+11:40.65
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+109
+</td>
+
+<td id="col1"  >
+Hernandez, Anamauri
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Concordia (Cal.)
+</td>
+
+<td id="col4"  >
+11:41.56
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+110
+</td>
+
+<td id="col1"  >
+Spencer, Melissa
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+<td id="col4"  >
+11:41.57
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+111
+</td>
+
+<td id="col1"  >
+Bordewyk, Olivia
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Davenport
+</td>
+
+<td id="col4"  >
+11:42.90
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+112
+</td>
+
+<td id="col1"  >
+Delaney, Jordan
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Wheeling Jesuit
+</td>
+
+<td id="col4"  >
+11:43.29
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+113
+</td>
+
+<td id="col1"  >
+Watson, Madi
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Chadron State
+</td>
+
+<td id="col4"  >
+11:43.46
+</td>
+
+<td id="col5"  >
+2019 Tom Benich Invite
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+114
+</td>
+
+<td id="col1"  >
+Jones, Kenzie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Mansfield
+</td>
+
+<td id="col4"  >
+11:44.07
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+115
+</td>
+
+<td id="col1"  >
+Prince, Danielle
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Missouri Southern
+</td>
+
+<td id="col4"  >
+11:44.69
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+116
+</td>
+
+<td id="col1"  >
+Mobley, Angel
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+<td id="col4"  >
+11:44.79
+</td>
+
+<td id="col5"  >
+2019 Gulf South Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+117
+</td>
+
+<td id="col1"  >
+Mattson, Molly 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Central Washington
+</td>
+
+<td id="col4"  >
+11:45.50
+</td>
+
+<td id="col5"  >
+CWU Wildcat Invitational
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+118
+</td>
+
+<td id="col1"  >
+McKinney, Cassie
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Western Oregon
+</td>
+
+<td id="col4"  >
+11:45.62
+</td>
+
+<td id="col5"  >
+John Knight Twilight
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+119
+</td>
+
+<td id="col1"  >
+MacLeod, Rebecca
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+St. Thomas Aquinas
+</td>
+
+<td id="col4"  >
+11:46.17
+</td>
+
+<td id="col5"  >
+2019 ECC Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+120
+</td>
+
+<td id="col1"  >
+Sanchez, Gaby
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lewis
+</td>
+
+<td id="col4"  >
+11:46.27
+</td>
+
+<td id="col5"  >
+Bellarmine Invitational
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+121
+</td>
+
+<td id="col1"  >
+Lynch, Macy
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Walsh
+</td>
+
+<td id="col4"  >
+11:46.30
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+122
+</td>
+
+<td id="col1"  >
+Duffy, Kennedy
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+<td id="col4"  >
+11:46.63
+</td>
+
+<td id="col5"  >
+Arkansas Spring Invitational
+</td>
+
+<td id="col6"  >
+Mar 22, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+123
+</td>
+
+<td id="col1"  >
+Shipotofsky, Janelle 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Wingate
+</td>
+
+<td id="col4"  >
+11:46.92
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+124
+</td>
+
+<td id="col1"  >
+Cox, Kelsey
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Missouri Western
+</td>
+
+<td id="col4"  >
+11:47.66
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+125
+</td>
+
+<td id="col1"  >
+Owens, Amber
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+<td id="col4"  >
+11:47.73
+</td>
+
+<td id="col5"  >
+Alan Connie Shamrock Invite
+</td>
+
+<td id="col6"  >
+Mar 14, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+126
+</td>
+
+<td id="col1"  >
+Mancilla, Araceli
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Fresno Pacific
+</td>
+
+<td id="col4"  >
+11:48.05
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+127
+</td>
+
+<td id="col1"  >
+Blades, Shona
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+<td id="col4"  >
+11:48.55
+</td>
+
+<td id="col5"  >
+Conference Carolina Championship
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+128
+</td>
+
+<td id="col1"  >
+Manzer, Sierra 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Northwest Nazarene
+</td>
+
+<td id="col4"  >
+11:48.68
+</td>
+
+<td id="col5"  >
+Border Clash 2019
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+129
+</td>
+
+<td id="col1"  >
+Hutchinson, Katelyn 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Ferris State
+</td>
+
+<td id="col4"  >
+11:49.49
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+130
+</td>
+
+<td id="col1"  >
+Krejdl, Kennedy 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+<td id="col4"  >
+11:49.75
+</td>
+
+<td id="col5"  >
+MIAA Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+131
+</td>
+
+<td id="col1"  >
+Chouati, Najwa
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lindenwood
+</td>
+
+<td id="col4"  >
+11:49.79
+</td>
+
+<td id="col5"  >
+UCM Mule Relays
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+132
+</td>
+
+<td id="col1"  >
+Santiestaban, Brooke 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Tampa
+</td>
+
+<td id="col4"  >
+11:50.21
+</td>
+
+<td id="col5"  >
+USF Bulls Invitational
+</td>
+
+<td id="col6"  >
+Mar 22, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+133
+</td>
+
+<td id="col1"  >
+Super, Meg
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+UC-Colo. Spgs.
+</td>
+
+<td id="col4"  >
+11:50.41
+</td>
+
+<td id="col5"  >
+Mines Kit Mayer Invite
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+134
+</td>
+
+<td id="col1"  >
+Baca, Hayley
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Harding
+</td>
+
+<td id="col4"  >
+11:50.52
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+135
+</td>
+
+<td id="col1"  >
+Barton, Mary Kate
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+New Haven
+</td>
+
+<td id="col4"  >
+11:50.53
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+136
+</td>
+
+<td id="col1"  >
+Cheptum, Edna
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Cameron
+</td>
+
+<td id="col4"  >
+11:50.62
+</td>
+
+<td id="col5"  >
+Texas State Bobcat Invitational
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+137
+</td>
+
+<td id="col1"  >
+Hobson, Gabby
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Concordia (Ore.)
+</td>
+
+<td id="col4"  >
+11:50.68
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+138
+</td>
+
+<td id="col1"  >
+Stuart, Megan
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+<td id="col4"  >
+11:50.93
+</td>
+
+<td id="col5"  >
+Hamline Coed Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+139
+</td>
+
+<td id="col1"  >
+Bartello, Marissa
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Point Loma
+</td>
+
+<td id="col4"  >
+11:51.15
+</td>
+
+<td id="col5"  >
+2019 Triton Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+140
+</td>
+
+<td id="col1"  >
+Jacklich, Kayla
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Stanislaus State
+</td>
+
+<td id="col4"  >
+11:51.84
+</td>
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+141
+</td>
+
+<td id="col1"  >
+Gerlach, Lindsey
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Shippensburg
+</td>
+
+<td id="col4"  >
+11:51.98
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+142
+</td>
+
+<td id="col1"  >
+Longley, Elise
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Northern Michigan
+</td>
+
+<td id="col4"  >
+11:52.02
+</td>
+
+<td id="col5"  >
+2019 Golden Grizzlies Invite
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+143
+</td>
+
+<td id="col1"  >
+Schneider, Kath
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+<td id="col4"  >
+11:52.13
+</td>
+
+<td id="col5"  >
+53rd Annual Hillsdale "GINA" Relays
+</td>
+
+<td id="col6"  >
+Apr 25, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+144
+</td>
+
+<td id="col1"  >
+Mowery, Kaylee
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Shippensburg
+</td>
+
+<td id="col4"  >
+11:52.41
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+145
+</td>
+
+<td id="col1"  >
+Schlafke, Elizabeth
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+<td id="col4"  >
+11:52.78
+</td>
+
+<td id="col5"  >
+Lady Bear Twilight
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+146
+</td>
+
+<td id="col1"  >
+Rodney, Kenedi
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+North Georgia
+</td>
+
+<td id="col4"  >
+11:53.53
+</td>
+
+<td id="col5"  >
+JSU Girls Day Out Track & Field Meet
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+147
+</td>
+
+<td id="col1"  >
+Tabor, Sydney
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Harding
+</td>
+
+<td id="col4"  >
+11:53.65
+</td>
+
+<td id="col5"  >
+2019 Rhodes Invitational Track & Field Meet
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+148
+</td>
+
+<td id="col1"  >
+Carr, Lydia
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Concordia-St. Paul
+</td>
+
+<td id="col4"  >
+11:53.86
+</td>
+
+<td id="col5"  >
+Tommie Twilight
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+149
+</td>
+
+<td id="col1"  >
+Wilson, Brynn
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+North Georgia
+</td>
+
+<td id="col4"  >
+11:54.40
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+150
+</td>
+
+<td id="col1"  >
+Kodis, Amanda
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+West Chester
+</td>
+
+<td id="col4"  >
+11:54.69
+</td>
+
+<td id="col5"  >
+Bill Butler Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+151
+</td>
+
+<td id="col1"  >
+Carr, Tori
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+<td id="col4"  >
+11:55.71
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+152
+</td>
+
+<td id="col1"  >
+Arellano, Allyson
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Queens (N.C.)
+</td>
+
+<td id="col4"  >
+11:56.04
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+153
+</td>
+
+<td id="col1"  >
+Kohlbrenner, Amy
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cal Poly Pomona
+</td>
+
+<td id="col4"  >
+11:56.16
+</td>
+
+<td id="col5"  >
+adidas/Steve Scott Invitational
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+154
+</td>
+
+<td id="col1"  >
+Martone, Moriah
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+<td id="col4"  >
+11:56.65
+</td>
+
+<td id="col5"  >
+2019 ECC Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+155
+</td>
+
+<td id="col1"  >
+O'Connor, Lynne
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Kutztown
+</td>
+
+<td id="col4"  >
+11:56.71
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+156
+</td>
+
+<td id="col1"  >
+Cadenhead, Bridgett
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Angelo State
+</td>
+
+<td id="col4"  >
+11:58.05
+</td>
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+157
+</td>
+
+<td id="col1"  >
+Jaimz, Alexzandria
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+<td id="col4"  >
+11:58.93
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+158
+</td>
+
+<td id="col1"  >
+Melkerson, Sarah
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Montevallo
+</td>
+
+<td id="col4"  >
+11:59.27
+</td>
+
+<td id="col5"  >
+Berry Field Day Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+159
+</td>
+
+<td id="col1"  >
+Ilgenfritz, Morgan
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Bloomsburg
+</td>
+
+<td id="col4"  >
+11:59.60
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+160
+</td>
+
+<td id="col1"  >
+Collini, Letizia
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Clarion
+</td>
+
+<td id="col4"  >
+11:59.87
+</td>
+
+<td id="col5"  >
+State Farm Friends of Track and Field Mountaineer Showcase
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+161
+</td>
+
+<td id="col1"  >
+Norve, Nicole
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Adams State
+</td>
+
+<td id="col4"  >
+12:00.57
+</td>
+
+<td id="col5"  >
+Colorado Invitational 2019
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+162
+</td>
+
+<td id="col1"  >
+TERBUSH, KAITLYN
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+East Central
+</td>
+
+<td id="col4"  >
+12:01.58
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+163
+</td>
+
+<td id="col1"  >
+Caltagirone, Caitlin
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Edinboro
+</td>
+
+<td id="col4"  >
+12:02.57
+</td>
+
+<td id="col5"  >
+2019 Fred Hardy Invitational
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+164
+</td>
+
+<td id="col1"  >
+Estrada, Michelle
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Midwestern St.
+</td>
+
+<td id="col4"  >
+12:02.69
+</td>
+
+<td id="col5"  >
+2019 UTA Bobby Lane Invitational
+</td>
+
+<td id="col6"  >
+Mar 22, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+165
+</td>
+
+<td id="col1"  >
+Meza-Avila, Janet
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Cal St. Los Angeles
+</td>
+
+<td id="col4"  >
+12:02.82
+</td>
+
+<td id="col5"  >
+CCAA Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+166
+</td>
+
+<td id="col1"  >
+Fiala, Sinclare
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+<td id="col4"  >
+12:03.04
+</td>
+
+<td id="col5"  >
+UCM Mule Relays
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+167
+</td>
+
+<td id="col1"  >
+Joseph, Dootleen
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Kutztown
+</td>
+
+<td id="col4"  >
+12:03.77
+</td>
+
+<td id="col5"  >
+Charlotte 49er Classic
+</td>
+
+<td id="col6"  >
+Mar 14, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+168
+</td>
+
+<td id="col1"  >
+Wallace, Livia
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Northern State
+</td>
+
+<td id="col4"  >
+12:03.92
+</td>
+
+<td id="col5"  >
+UNK Loper Invitational
+</td>
+
+<td id="col6"  >
+Apr 14, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+169
+</td>
+
+<td id="col1"  >
+Schaller, Haley
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Clarion
+</td>
+
+<td id="col4"  >
+12:04.07
+</td>
+
+<td id="col5"  >
+2019 Fred Hardy Invitational
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+170
+</td>
+
+<td id="col1"  >
+Hassinger, Amanda
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+<td id="col4"  >
+12:04.19
+</td>
+
+<td id="col5"  >
+2019 Colonial Relays
+</td>
+
+<td id="col6"  >
+Apr 4, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+171
+</td>
+
+<td id="col1"  >
+Eberwein, Shelby
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Cal St. San Marcos
+</td>
+
+<td id="col4"  >
+12:04.22
+</td>
+
+<td id="col5"  >
+2019 Triton Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+172
+</td>
+
+<td id="col1"  >
+Gomez, Carissa
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Cal St. San B'dino
+</td>
+
+<td id="col4"  >
+12:05.69
+</td>
+
+<td id="col5"  >
+Oxy Distance Carnival Spring Break Classic
+</td>
+
+<td id="col6"  >
+Mar 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+173
+</td>
+
+<td id="col1"  >
+Richards, Taylor
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Tarleton State
+</td>
+
+<td id="col4"  >
+12:06.51
+</td>
+
+<td id="col5"  >
+East Texas Invitational 2019
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+174
+</td>
+
+<td id="col1"  >
+Chepseba, Sharon
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Harding
+</td>
+
+<td id="col4"  >
+12:06.73
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+175
+</td>
+
+<td id="col1"  >
+Petron, Kristen
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Bemidji State
+</td>
+
+<td id="col4"  >
+12:07.40
+</td>
+
+<td id="col5"  >
+33rd ANNUAL RON MASANZ TRACK & FIELD CLASSIC
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+176
+</td>
+
+<td id="col1"  >
+Edwards, Elizabeth
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+West Chester
+</td>
+
+<td id="col4"  >
+12:07.65
+</td>
+
+<td id="col5"  >
+15th Annual Paul Kaiser Classic
+</td>
+
+<td id="col6"  >
+Apr 27, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+177
+</td>
+
+<td id="col1"  >
+Sangl, Melea
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Anderson (S.C.)
+</td>
+
+<td id="col4"  >
+12:07.83
+</td>
+
+<td id="col5"  >
+8th Annual Terrier Relays
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+178
+</td>
+
+<td id="col1"  >
+Sgroi, Addison
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+<td id="col4"  >
+12:08.31
+</td>
+
+<td id="col5"  >
+2019 ECC Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+179
+</td>
+
+<td id="col1"  >
+Christman, Sam
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Indiana (Pa.)
+</td>
+
+<td id="col4"  >
+12:08.65
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+180
+</td>
+
+<td id="col1"  >
+Halm, Carly
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Azusa Pacific
+</td>
+
+<td id="col4"  >
+12:09.08
+</td>
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+181
+</td>
+
+<td id="col1"  >
+Stoner, Danielle
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Clarion
+</td>
+
+<td id="col4"  >
+12:09.24
+</td>
+
+<td id="col5"  >
+SRU Last Chence
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+182
+</td>
+
+<td id="col1"  >
+Perez, Marissa
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+<td id="col4"  >
+12:09.80
+</td>
+
+<td id="col5"  >
+ACU Oliver Jackson Twilight
+</td>
+
+<td id="col6"  >
+Apr 25, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+183
+</td>
+
+<td id="col1"  >
+Hurst, Erin
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Dixie State
+</td>
+
+<td id="col4"  >
+12:10.35
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+184
+</td>
+
+<td id="col1"  >
+Hernandez, Viridiana
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+San Francisco St.
+</td>
+
+<td id="col4"  >
+12:11.04
+</td>
+
+<td id="col5"  >
+East Bay Invite
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+185
+</td>
+
+<td id="col1"  >
+Salzano, Makiah
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Fort Lewis
+</td>
+
+<td id="col4"  >
+12:11.44
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+186
+</td>
+
+<td id="col1"  >
+Salmen, Katrina
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Northern Michigan
+</td>
+
+<td id="col4"  >
+12:11.45
+</td>
+
+<td id="col5"  >
+GVSU Al Owens Classic
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+187
+</td>
+
+<td id="col1"  >
+Cristan, Rylee
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+<td id="col4"  >
+12:11.55
+</td>
+
+<td id="col5"  >
+SFA Carl Kight Invitational
+</td>
+
+<td id="col6"  >
+Apr 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+188
+</td>
+
+<td id="col1"  >
+Ramirez, Hannah
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+West Liberty
+</td>
+
+<td id="col4"  >
+12:12.52
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+189
+</td>
+
+<td id="col1"  >
+Bauer, Michelle
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Nova Southeastern
+</td>
+
+<td id="col4"  >
+12:13.17
+</td>
+
+<td id="col5"  >
+Sharks Invitational Meet
+</td>
+
+<td id="col6"  >
+Mar 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+190
+</td>
+
+<td id="col1"  >
+Amill-Ramos, Arianna
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lewis
+</td>
+
+<td id="col4"  >
+12:13.37
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+191
+</td>
+
+<td id="col1"  >
+Bennett, Tasha
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Concordia-St. Paul
+</td>
+
+<td id="col4"  >
+12:14.21
+</td>
+
+<td id="col5"  >
+Lady Bear Twilight
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+192
+</td>
+
+<td id="col1"  >
+Herridge , Jamie 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+St. Cloud State
+</td>
+
+<td id="col4"  >
+12:14.68
+</td>
+
+<td id="col5"  >
+Lady Bear Twilight
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+193
+</td>
+
+<td id="col1"  >
+Hoey, Jessica
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+West Chester
+</td>
+
+<td id="col4"  >
+12:14.98
+</td>
+
+<td id="col5"  >
+Bill Butler Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+194
+</td>
+
+<td id="col1"  >
+Quesada, Cecilia
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+<td id="col4"  >
+12:15.72
+</td>
+
+<td id="col5"  >
+2019 Rhodes Invitational Track & Field Meet
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+195
+</td>
+
+<td id="col1"  >
+White, Bekah
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Carson-Newman
+</td>
+
+<td id="col4"  >
+12:15.95
+</td>
+
+<td id="col5"  >
+Lenoir Rhyne University Classic Track & Field Meet
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+196
+</td>
+
+<td id="col1"  >
+Messing, Andrea
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Davenport
+</td>
+
+<td id="col4"  >
+12:16.79
+</td>
+
+<td id="col5"  >
+Spartan Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+197
+</td>
+
+<td id="col1"  >
+McCarter, Skye
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Carson-Newman
+</td>
+
+<td id="col4"  >
+12:16.89
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+198
+</td>
+
+<td id="col1"  >
+Stangle, Kylie
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+East Stroudsburg
+</td>
+
+<td id="col4"  >
+12:18.18
+</td>
+
+<td id="col5"  >
+13th Annual All American Meet
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+199
+</td>
+
+<td id="col1"  >
+McKeever, Margaret
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+LIU Post
+</td>
+
+<td id="col4"  >
+12:19.13
+</td>
+
+<td id="col5"  >
+24th Annual Monmouth Season Opener
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+200
+</td>
+
+<td id="col1"  >
+Toineeta, Kendall
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lenoir-Rhyne
+</td>
+
+<td id="col4"  >
+12:19.64
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+201
+</td>
+
+<td id="col1"  >
+Church, Natalie
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+UC-Colo. Spgs.
+</td>
+
+<td id="col4"  >
+12:19.72
+</td>
+
+<td id="col5"  >
+CSU Pueblo Early Bird
+</td>
+
+<td id="col6"  >
+Mar 16, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+202
+</td>
+
+<td id="col1"  >
+Dempsey, Julia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Merrimack
+</td>
+
+<td id="col4"  >
+12:19.93
+</td>
+
+<td id="col5"  >
+SNHU Spring Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+203
+</td>
+
+<td id="col1"  >
+Evans, Kate
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Central Washington
+</td>
+
+<td id="col4"  >
+12:20.65
+</td>
+
+<td id="col5"  >
+CWU Wildcat Invitational
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+204
+</td>
+
+<td id="col1"  >
+Rivet-Tissot, Jessalyn
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Northwestern Oklahoma
+</td>
+
+<td id="col4"  >
+12:20.66
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+205
+</td>
+
+<td id="col1"  >
+Menegay, Iris
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Walsh
+</td>
+
+<td id="col4"  >
+12:21.15
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+206
+</td>
+
+<td id="col1"  >
+Safer, Kalista
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Jefferson (Pa.)
+</td>
+
+<td id="col4"  >
+12:21.25
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+207
+</td>
+
+<td id="col1"  >
+Manglaviti, Morgan
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Clarion
+</td>
+
+<td id="col4"  >
+12:22.32
+</td>
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+208
+</td>
+
+<td id="col1"  >
+Noel, Karlee
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+<td id="col4"  >
+12:22.35
+</td>
+
+<td id="col5"  >
+LHU Qualifier
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+209
+</td>
+
+<td id="col1"  >
+Reyes, Noelle
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Notre Dame de Namur
+</td>
+
+<td id="col4"  >
+12:22.77
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+210
+</td>
+
+<td id="col1"  >
+Jacobson, Skyler
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+SW Minnesota St.
+</td>
+
+<td id="col4"  >
+12:22.94
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+211
+</td>
+
+<td id="col1"  >
+Pfile, Katy
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Midwestern St.
+</td>
+
+<td id="col4"  >
+12:23.08
+</td>
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+212
+</td>
+
+<td id="col1"  >
+Banks, Miranda
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Wayne State (Mich.)
+</td>
+
+<td id="col4"  >
+12:23.30
+</td>
+
+<td id="col5"  >
+Oliver Nikoloff Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+213
+</td>
+
+<td id="col1"  >
+Mitchell, Dazya 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Clark Atlanta
+</td>
+
+<td id="col4"  >
+12:23.59
+</td>
+
+<td id="col5"  >
+SIAC Track and Field Championship
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+214
+</td>
+
+<td id="col1"  >
+Bohlman, Taylor
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+<td id="col4"  >
+12:24.16
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+215
+</td>
+
+<td id="col1"  >
+James, Shayleigh
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+NW Missouri
+</td>
+
+<td id="col4"  >
+12:24.54
+</td>
+
+<td id="col5"  >
+Kansas Relays
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+216
+</td>
+
+<td id="col1"  >
+Lee, Jordan
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Ferris State
+</td>
+
+<td id="col4"  >
+12:24.62
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+217
+</td>
+
+<td id="col1"  >
+Beakas, Jenna
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Malone
+</td>
+
+<td id="col4"  >
+12:24.98
+</td>
+
+<td id="col5"  >
+Walsh University Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+218
+</td>
+
+<td id="col1"  >
+Thomson, Ashleigh 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Wingate
+</td>
+
+<td id="col4"  >
+12:25.32
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+219
+</td>
+
+<td id="col1"  >
+Abbott, Mary
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+North Greenville
+</td>
+
+<td id="col4"  >
+12:25.35
+</td>
+
+<td id="col5"  >
+SWU-Susan Rouse Invite
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+220
+</td>
+
+<td id="col1"  >
+Rosener, Allie
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Wayne State (Neb.)
+</td>
+
+<td id="col4"  >
+12:25.94
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+221
+</td>
+
+<td id="col1"  >
+Walters, Mya
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+<td id="col4"  >
+12:26.50
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+222
+</td>
+
+<td id="col1"  >
+Underwood, Olivia 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+<td id="col4"  >
+12:26.53
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+223
+</td>
+
+<td id="col1"  >
+Tedrow, Therese
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Seton Hill
+</td>
+
+<td id="col4"  >
+12:26.94
+</td>
+
+<td id="col5"  >
+Dave Labor Invt.
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+224
+</td>
+
+<td id="col1"  >
+Treadway, Taylor 
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Alderson Broaddus
+</td>
+
+<td id="col4"  >
+12:27.45
+</td>
+
+<td id="col5"  >
+Coastal Carolina Invitational
+</td>
+
+<td id="col6"  >
+Mar 8, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+225
+</td>
+
+<td id="col1"  >
+Hakamaa, Mikaela
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+<td id="col4"  >
+12:28.09
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+226
+</td>
+
+<td id="col1"  >
+Neumann, Megan
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Biola
+</td>
+
+<td id="col4"  >
+12:28.51
+</td>
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+227
+</td>
+
+<td id="col1"  >
+Lay, Maisie
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+<td id="col4"  >
+12:29.18
+</td>
+
+<td id="col5"  >
+Oliver Nikoloff Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+228
+</td>
+
+<td id="col1"  >
+Hammesfahr, Rachel
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Augusta University
+</td>
+
+<td id="col4"  >
+12:29.66
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+229
+</td>
+
+<td id="col1"  >
+Duran, Alma
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cameron
+</td>
+
+<td id="col4"  >
+12:30.42
+</td>
+
+<td id="col5"  >
+J Fred Duckett Twilight Meet
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+230
+</td>
+
+<td id="col1"  >
+Hale, Carley
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+<td id="col4"  >
+12:30.59
+</td>
+
+<td id="col5"  >
+Great American Conference Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+231
+</td>
+
+<td id="col1"  >
+Burns, Leslie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Kentucky Wesleyan
+</td>
+
+<td id="col4"  >
+12:30.74
+</td>
+
+<td id="col5"  >
+APSU Governors Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+232
+</td>
+
+<td id="col1"  >
+Araldi, Meghan 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Barton
+</td>
+
+<td id="col4"  >
+12:31.31
+</td>
+
+<td id="col5"  >
+The Adidas Trojan Challenge
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+233
+</td>
+
+<td id="col1"  >
+Britt, Lisbeth
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+<td id="col4"  >
+12:31.32
+</td>
+
+<td id="col5"  >
+J Fred Duckett Twilight Meet
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+234
+</td>
+
+<td id="col1"  >
+Thompson, Karleigh
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Concord
+</td>
+
+<td id="col4"  >
+12:32.10
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+235
+</td>
+
+<td id="col1"  >
+Goedde, Sam
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Central Washington
+</td>
+
+<td id="col4"  >
+12:32.20
+</td>
+
+<td id="col5"  >
+WAR 12
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+236
+</td>
+
+<td id="col1"  >
+Andrie, Chloe
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Western Colorado
+</td>
+
+<td id="col4"  >
+12:32.61
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+237
+</td>
+
+<td id="col1"  >
+Allen, Maggie
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+<td id="col4"  >
+12:33.30
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+238
+</td>
+
+<td id="col1"  >
+Espindola, Karla
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+San Francisco St.
+</td>
+
+<td id="col4"  >
+12:34.15
+</td>
+
+<td id="col5"  >
+Mike Fanelli Track Classic
+</td>
+
+<td id="col6"  >
+Mar 28, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+239
+</td>
+
+<td id="col1"  >
+Meehleib, Kelly
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Maryville (Mo.)
+</td>
+
+<td id="col4"  >
+12:34.76
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+240
+</td>
+
+<td id="col1"  >
+St. Antoine, Caroline
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+<td id="col4"  >
+12:34.91
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+241
+</td>
+
+<td id="col1"  >
+Mendoza, Gabrielle 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Cal St. Los Angeles
+</td>
+
+<td id="col4"  >
+12:37.14
+</td>
+
+<td id="col5"  >
+41st Annual Aztec Open
+</td>
+
+<td id="col6"  >
+Mar 21, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+242
+</td>
+
+<td id="col1"  >
+Earnest, Sage
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Northwest Nazarene
+</td>
+
+<td id="col4"  >
+12:37.44
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+243
+</td>
+
+<td id="col1"  >
+Corkran, Cali
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Westminster (Utah)
+</td>
+
+<td id="col4"  >
+12:37.49
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+244
+</td>
+
+<td id="col1"  >
+Stoppel, Kailee
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+MSU-Billings
+</td>
+
+<td id="col4"  >
+12:38.53
+</td>
+
+<td id="col5"  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+245
+</td>
+
+<td id="col1"  >
+Wagner, Cami
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+<td id="col4"  >
+12:39.45
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+246
+</td>
+
+<td id="col1"  >
+Mitchell, Kelsey
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Merrimack
+</td>
+
+<td id="col4"  >
+12:40.21
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+247
+</td>
+
+<td id="col1"  >
+Friedrich, Aubrey
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Northern Michigan
+</td>
+
+<td id="col4"  >
+12:41.42
+</td>
+
+<td id="col5"  >
+2019 Golden Grizzlies Invite
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+248
+</td>
+
+<td id="col1"  >
+Merritt, Julia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Wilmington (Del.)
+</td>
+
+<td id="col4"  >
+12:41.49
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+249
+</td>
+
+<td id="col1"  >
+Oliver, Rylea
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+<td id="col4"  >
+12:42.75
+</td>
+
+<td id="col5"  >
+Emporia State Spring Invite
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+250
+</td>
+
+<td id="col1"  >
+Parry, Laurel
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+<td id="col4"  >
+12:43.74
+</td>
+
+<td id="col5"  >
+J Fred Duckett Twilight Meet
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+251
+</td>
+
+<td id="col1"  >
+Gorney, Kylee
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Midwestern St.
+</td>
+
+<td id="col4"  >
+12:43.77
+</td>
+
+<td id="col5"  >
+East Texas Invitational 2019
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+252
+</td>
+
+<td id="col1"  >
+Kraft , Isabella 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+St. Cloud State
+</td>
+
+<td id="col4"  >
+12:43.93
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+253
+</td>
+
+<td id="col1"  >
+Fields, Breasiah
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Benedict
+</td>
+
+<td id="col4"  >
+12:44.96
+</td>
+
+<td id="col5"  >
+SIAC Track and Field Championship
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+254
+</td>
+
+<td id="col1"  >
+Schotter, Abby
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+SW Minnesota St.
+</td>
+
+<td id="col4"  >
+12:45.06
+</td>
+
+<td id="col5"  >
+SMSU Mustang Twilight
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+255
+</td>
+
+<td id="col1"  >
+Green, Krista
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Cedarville
+</td>
+
+<td id="col4"  >
+12:45.60
+</td>
+
+<td id="col5"  >
+Centre College Track and Field Twilight
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+256
+</td>
+
+<td id="col1"  >
+Raczka, Kaylene
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+East Stroudsburg
+</td>
+
+<td id="col4"  >
+12:46.14
+</td>
+
+<td id="col5"  >
+37th Millersville Metrics
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+257
+</td>
+
+<td id="col1"  >
+Barron, Hayden
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Biola
+</td>
+
+<td id="col4"  >
+12:46.25
+</td>
+
+<td id="col5"  >
+Oxy Distance Carnival Spring Break Classic
+</td>
+
+<td id="col6"  >
+Mar 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+258
+</td>
+
+<td id="col1"  >
+Felice, Vanessa
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Bloomfield
+</td>
+
+<td id="col4"  >
+12:46.53
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+259
+</td>
+
+<td id="col1"  >
+Jerono, Bornes
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Nyack
+</td>
+
+<td id="col4"  >
+12:46.77
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+260
+</td>
+
+<td id="col1"  >
+Goble, Ashlin
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Dixie State
+</td>
+
+<td id="col4"  >
+12:47.11
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+261
+</td>
+
+<td id="col1"  >
+Ruiz, Denise
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+<td id="col4"  >
+12:47.18
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+262
+</td>
+
+<td id="col1"  >
+Perry, Morgan
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+<td id="col4"  >
+12:47.48
+</td>
+
+<td id="col5"  >
+Team Challenge
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+263
+</td>
+
+<td id="col1"  >
+Chickosky, Lauren
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+<td id="col4"  >
+12:47.55
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+264
+</td>
+
+<td id="col1"  >
+Guerra, Aleksa
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Florida Southern
+</td>
+
+<td id="col4"  >
+12:48.20
+</td>
+
+<td id="col5"  >
+Embry-Riddle First Chance Meet (college teams)
+</td>
+
+<td id="col6"  >
+Feb 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+265
+</td>
+
+<td id="col1"  >
+Gepford, Mady
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Missouri Southern
+</td>
+
+<td id="col4"  >
+12:48.64
+</td>
+
+<td id="col5"  >
+Dewey Allgood Invitational
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+266
+</td>
+
+<td id="col1"  >
+Bostick, Madeline
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Truman
+</td>
+
+<td id="col4"  >
+12:48.84
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+267
+</td>
+
+<td id="col1"  >
+Dalgleish, Sadie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Saint Martin's
+</td>
+
+<td id="col4"  >
+12:49.35
+</td>
+
+<td id="col5"  >
+WWU Ralph Vernacchia Invitational
+</td>
+
+<td id="col6"  >
+Apr 27, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+268
+</td>
+
+<td id="col1"  >
+Sporcich, Shelbie
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Ursuline (Ohio)
+</td>
+
+<td id="col4"  >
+12:49.49
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+269
+</td>
+
+<td id="col1"  >
+Cormier, Delia
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Merrimack
+</td>
+
+<td id="col4"  >
+12:51.24
+</td>
+
+<td id="col5"  >
+Assumption - Merrimack Meet
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+270
+</td>
+
+<td id="col1"  >
+Cain, Abigail
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Spring Hill
+</td>
+
+<td id="col4"  >
+12:51.35
+</td>
+
+<td id="col5"  >
+Southern Miss Invitational 
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+271
+</td>
+
+<td id="col1"  >
+Atkinson, Kimberly
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Spring Hill
+</td>
+
+<td id="col4"  >
+12:51.64
+</td>
+
+<td id="col5"  >
+SIAC Track and Field Championship
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+272
+</td>
+
+<td id="col1"  >
+Frame, Madison
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+<td id="col4"  >
+12:51.89
+</td>
+
+<td id="col5"  >
+Jasmine Claggett Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+273
+</td>
+
+<td id="col1"  >
+Schaeffer, Haley
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Queens (N.C.)
+</td>
+
+<td id="col4"  >
+12:53.33
+</td>
+
+<td id="col5"  >
+2019 Adidas Winthrop University Invitational
+</td>
+
+<td id="col6"  >
+Mar 21, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+274
+</td>
+
+<td id="col1"  >
+Cury, Luisa 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Shaw
+</td>
+
+<td id="col4"  >
+12:53.57
+</td>
+
+<td id="col5"  >
+2019 Mount Olive Final Qualifier
+</td>
+
+<td id="col6"  >
+May 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+275
+</td>
+
+<td id="col1"  >
+Butts, Meagan 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Southern Indiana
+</td>
+
+<td id="col4"  >
+12:54.73
+</td>
+
+<td id="col5"  >
+GLVC Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+276
+</td>
+
+<td id="col1"  >
+Herbes, Laura
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+St. Thomas Aquinas
+</td>
+
+<td id="col4"  >
+12:54.74
+</td>
+
+<td id="col5"  >
+2019 ECC Outdoor Championships
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+277
+</td>
+
+<td id="col1"  >
+Kaster, Lena
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+<td id="col4"  >
+12:54.90
+</td>
+
+<td id="col5"  >
+Alan Connie Shamrock Invite
+</td>
+
+<td id="col6"  >
+Mar 14, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+278
+</td>
+
+<td id="col1"  >
+Ammons, Allison
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+<td id="col4"  >
+12:54.95
+</td>
+
+<td id="col5"  >
+2019 Gulf South Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+279
+</td>
+
+<td id="col1"  >
+Varner, Tricia
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Indiana (Pa.)
+</td>
+
+<td id="col4"  >
+12:55.88
+</td>
+
+<td id="col5"  >
+Dave Labor Invt.
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+280
+</td>
+
+<td id="col1"  >
+Pierce, Carson
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+<td id="col4"  >
+12:56.29
+</td>
+
+<td id="col5"  >
+UNK Loper Invitational
+</td>
+
+<td id="col6"  >
+Apr 14, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+281
+</td>
+
+<td id="col1"  >
+Schnyder, Hannah
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Merrimack
+</td>
+
+<td id="col4"  >
+12:58.23
+</td>
+
+<td id="col5"  >
+Assumption - Merrimack Meet
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+282
+</td>
+
+<td id="col1"  >
+Allred, Lauren
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+<td id="col4"  >
+13:00.41
+</td>
+
+<td id="col5"  >
+2019 Gulf South Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+283
+</td>
+
+<td id="col1"  >
+Axe, Riley
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+<td id="col4"  >
+13:00.43
+</td>
+
+<td id="col5"  >
+2019 Adidas Winthrop University Invitational
+</td>
+
+<td id="col6"  >
+Mar 21, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+284
+</td>
+
+<td id="col1"  >
+Salazar-Torres, Eva
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Columbus St.
+</td>
+
+<td id="col4"  >
+13:00.70
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+285
+</td>
+
+<td id="col1"  >
+Cox, Marilyn 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+<td id="col4"  >
+13:01.15
+</td>
+
+<td id="col5"  >
+ACU Oliver Jackson Twilight
+</td>
+
+<td id="col6"  >
+Apr 25, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+286
+</td>
+
+<td id="col1"  >
+Jia, Crystal 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Queens (N.Y.)
+</td>
+
+<td id="col4"  >
+13:01.58
+</td>
+
+<td id="col5"  >
+TCNJ Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+287
+</td>
+
+<td id="col1"  >
+Wintergerst-Burch, Neville
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Bellarmine
+</td>
+
+<td id="col4"  >
+13:02.03
+</td>
+
+<td id="col5"  >
+Bellarmine Classic 2019
+</td>
+
+<td id="col6"  >
+Apr 13, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+288
+</td>
+
+<td id="col1"  >
+Ranck, Tori
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Millersville
+</td>
+
+<td id="col4"  >
+13:02.19
+</td>
+
+<td id="col5"  >
+37th Millersville Metrics
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+289
+</td>
+
+<td id="col1"  >
+Miller, Anabella
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+New Mexico Highlands
+</td>
+
+<td id="col4"  >
+13:03.97
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+290
+</td>
+
+<td id="col1"  >
+Rice, Darby
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Spring Hill
+</td>
+
+<td id="col4"  >
+13:04.70
+</td>
+
+<td id="col5"  >
+Mississippi College Twilight Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+291
+</td>
+
+<td id="col1"  >
+DiNardo , Celeste 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Nyack
+</td>
+
+<td id="col4"  >
+13:05.45
+</td>
+
+<td id="col5"  >
+Army West Point Twilight
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+292
+</td>
+
+<td id="col1"  >
+Rendich, Helen
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Augusta University
+</td>
+
+<td id="col4"  >
+13:06.14
+</td>
+
+<td id="col5"  >
+Victor Ice Breaker Duals
+</td>
+
+<td id="col6"  >
+Mar 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+293
+</td>
+
+<td id="col1"  >
+Willett, Emma
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Wayne State (Mich.)
+</td>
+
+<td id="col4"  >
+13:06.30
+</td>
+
+<td id="col5"  >
+Oliver Nikoloff Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+294
+</td>
+
+<td id="col1"  >
+Johnson, Divah
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Saint Rose
+</td>
+
+<td id="col4"  >
+13:07.36
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+295
+</td>
+
+<td id="col1"  >
+Efird, Hannah
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Catawba
+</td>
+
+<td id="col4"  >
+13:07.44
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+296
+</td>
+
+<td id="col1"  >
+Moseley, Bekah
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+<td id="col4"  >
+13:07.95
+</td>
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+297
+</td>
+
+<td id="col1"  >
+Smith, Keely 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Maryville (Mo.)
+</td>
+
+<td id="col4"  >
+13:10.51
+</td>
+
+<td id="col5"  >
+McKendree Bearcat Classic
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+298
+</td>
+
+<td id="col1"  >
+Walker, Brianna
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+<td id="col4"  >
+13:10.60
+</td>
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 3, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+299
+</td>
+
+<td id="col1"  >
+Chemeli, Rose 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Fort Lewis
+</td>
+
+<td id="col4"  >
+13:10.78
+</td>
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+300
+</td>
+
+<td id="col1"  >
+Cotten, Tierra
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Tiffin
+</td>
+
+<td id="col4"  >
+13:13.45
+</td>
+
+<td id="col5"  >
+Walsh University Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+301
+</td>
+
+<td id="col1"  >
+Seibert, Carly 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Slippery Rock
+</td>
+
+<td id="col4"  >
+13:14.52
+</td>
+
+<td id="col5"  >
+State Farm Friends of Track and Field Mountaineer Showcase
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+302
+</td>
+
+<td id="col1"  >
+Patselas, Chrysanthe
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Northern Michigan
+</td>
+
+<td id="col4"  >
+13:18.00
+</td>
+
+<td id="col5"  >
+Tiffleberg
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+303
+</td>
+
+<td id="col1"  >
+Buie-Cox, Sky
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Paine
+</td>
+
+<td id="col4"  >
+13:18.50
+</td>
+
+<td id="col5"  >
+SIAC Track and Field Championship
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+304
+</td>
+
+<td id="col1"  >
+Solomon, Stacy
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+<td id="col4"  >
+13:19.30
+</td>
+
+<td id="col5"  >
+2019 Rhodes Invitational Track & Field Meet
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+305
+</td>
+
+<td id="col1"  >
+Herdering, Ashley
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Bemidji State
+</td>
+
+<td id="col4"  >
+13:19.55
+</td>
+
+<td id="col5"  >
+2019 NSIC Outdoor Track & Field Championship
+</td>
+
+<td id="col6"  >
+May 10, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+306
+</td>
+
+<td id="col1"  >
+Buddenberg, Maddie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Anderson (S.C.)
+</td>
+
+<td id="col4"  >
+13:20.11
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+307
+</td>
+
+<td id="col1"  >
+Leal, Angelica
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Lewis
+</td>
+
+<td id="col4"  >
+13:28.40
+</td>
+
+<td id="col5"  >
+McKendree Bearcat Classic
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+308
+</td>
+
+<td id="col1"  >
+Donohue, Michelle 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+<td id="col4"  >
+13:29.53
+</td>
+
+<td id="col5"  >
+Harding Invitational
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+309
+</td>
+
+<td id="col1"  >
+Pausz, Rachel 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Georgian Court
+</td>
+
+<td id="col4"  >
+13:29.56
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+310
+</td>
+
+<td id="col1"  >
+O'Brien, Mary 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Jefferson (Pa.)
+</td>
+
+<td id="col4"  >
+13:29.79
+</td>
+
+<td id="col5"  >
+Osprey Open and Multi
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+311
+</td>
+
+<td id="col1"  >
+Ewell, Angel
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Livingstone
+</td>
+
+<td id="col4"  >
+13:30.13
+</td>
+
+<td id="col5"  >
+Aggie Invitational
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+312
+</td>
+
+<td id="col1"  >
+Meyer, Emma
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Wis.-Parkside
+</td>
+
+<td id="col4"  >
+13:30.37
+</td>
+
+<td id="col5"  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+<td id="col6"  >
+May 9, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+313
+</td>
+
+<td id="col1"  >
+O'Toole, Ashley
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cal St. Monterey Bay
+</td>
+
+<td id="col4"  >
+13:32.17
+</td>
+
+<td id="col5"  >
+2019 Hornet Invitational
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+314
+</td>
+
+<td id="col1"  >
+Glass, Emily
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lynn
+</td>
+
+<td id="col4"  >
+13:32.65
+</td>
+
+<td id="col5"  >
+South Florida Collegeiate Invitational
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+315
+</td>
+
+<td id="col1"  >
+Esquivel, Taylor
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Cameron
+</td>
+
+<td id="col4"  >
+13:35.48
+</td>
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+316
+</td>
+
+<td id="col1"  >
+Balderas, Briseidy
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Felician
+</td>
+
+<td id="col4"  >
+13:38.01
+</td>
+
+<td id="col5"  >
+Stockton Invite
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+317
+</td>
+
+<td id="col1"  >
+Feller, Alex
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Midwestern St.
+</td>
+
+<td id="col4"  >
+13:38.81
+</td>
+
+<td id="col5"  >
+2019 UTA Bobby Lane Invitational
+</td>
+
+<td id="col6"  >
+Mar 22, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+318
+</td>
+
+<td id="col1"  >
+Valentine, Grace
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+North Greenville
+</td>
+
+<td id="col4"  >
+13:39.42
+</td>
+
+<td id="col5"  >
+Conference Carolina Championship
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+319
+</td>
+
+<td id="col1"  >
+Meltzer, Alyssa 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Queens (N.Y.)
+</td>
+
+<td id="col4"  >
+13:39.54
+</td>
+
+<td id="col5"  >
+TCNJ Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+320
+</td>
+
+<td id="col1"  >
+Kratzer, Paige
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+<td id="col4"  >
+13:41.48
+</td>
+
+<td id="col5"  >
+Team Challenge
+</td>
+
+<td id="col6"  >
+Apr 20, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+321
+</td>
+
+<td id="col1"  >
+Brath, Corinne
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Indiana (Pa.)
+</td>
+
+<td id="col4"  >
+13:45.76
+</td>
+
+<td id="col5"  >
+Dave Labor Invt.
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+322
+</td>
+
+<td id="col1"  >
+Bouwkamp, Anne
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Newberry
+</td>
+
+<td id="col4"  >
+13:45.79
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+323
+</td>
+
+<td id="col1"  >
+Boschert, Christy
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Truman
+</td>
+
+<td id="col4"  >
+13:51.32
+</td>
+
+<td id="col5"  >
+Central Methodist Invite
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+324
+</td>
+
+<td id="col1"  >
+Wilson, Theresa
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Belmont Abbey
+</td>
+
+<td id="col4"  >
+13:51.45
+</td>
+
+<td id="col5"  >
+Conference Carolina Championship
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+325
+</td>
+
+<td id="col1"  >
+Martinez, Alysson
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Felician
+</td>
+
+<td id="col4"  >
+13:52.74
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+326
+</td>
+
+<td id="col1"  >
+Henley, Grace
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+West Liberty
+</td>
+
+<td id="col4"  >
+13:53.73
+</td>
+
+<td id="col5"  >
+Westminster Invitational 2019
+</td>
+
+<td id="col6"  >
+Apr 12, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+327
+</td>
+
+<td id="col1"  >
+Wyant, Ruthie
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Tiffin
+</td>
+
+<td id="col4"  >
+13:53.92
+</td>
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+328
+</td>
+
+<td id="col1"  >
+Reid, Victoria
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Holy Family
+</td>
+
+<td id="col4"  >
+13:56.90
+</td>
+
+<td id="col5"  >
+CACC Outdoor Track and Field Championship
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+329
+</td>
+
+<td id="col1"  >
+Halvorsen, Jordyn
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Lees-McRae
+</td>
+
+<td id="col4"  >
+13:57.91
+</td>
+
+<td id="col5"  >
+Conference Carolina Championship
+</td>
+
+<td id="col6"  >
+Apr 26, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+330
+</td>
+
+<td id="col1"  >
+Hizer, Kayla
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Wheeling Jesuit
+</td>
+
+<td id="col4"  >
+13:59.61
+</td>
+
+<td id="col5"  >
+John Falconi Invite
+</td>
+
+<td id="col6"  >
+Apr 17, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+331
+</td>
+
+<td id="col1"  >
+Williams, Cassie
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Harding
+</td>
+
+<td id="col4"  >
+14:05.34
+</td>
+
+<td id="col5"  >
+Rhodes College 7-Way Meet
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+332
+</td>
+
+<td id="col1"  >
+Hunt, Kara
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Sonoma St.
+</td>
+
+<td id="col4"  >
+14:09.53
+</td>
+
+<td id="col5"  >
+De Anza Open
+</td>
+
+<td id="col6"  >
+Feb 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+333
+</td>
+
+<td id="col1"  >
+Stagnita, Jillian
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+<td id="col4"  >
+14:14.80
+</td>
+
+<td id="col5"  >
+Hamilton College Continental Invitational
+</td>
+
+<td id="col6"  >
+Apr 6, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+334
+</td>
+
+<td id="col1"  >
+Lopez, Diamond 
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+Paine
+</td>
+
+<td id="col4"  >
+14:15.85
+</td>
+
+<td id="col5"  >
+GATA Classic
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+335
+</td>
+
+<td id="col1"  >
+Grantz, Jordan
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Queens (N.C.)
+</td>
+
+<td id="col4"  >
+14:17.92
+</td>
+
+<td id="col5"  >
+South Atlantic Outdoor Track & Field Championship 
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+336
+</td>
+
+<td id="col1"  >
+Alshujaieh, Hadeel
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Felician
+</td>
+
+<td id="col4"  >
+14:20.12
+</td>
+
+<td id="col5"  >
+Stockton Invite
+</td>
+
+<td id="col6"  >
+Mar 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+337
+</td>
+
+<td id="col1"  >
+Perrin, Melody 
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Lake Superior State
+</td>
+
+<td id="col4"  >
+14:20.26
+</td>
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+<td id="col6"  >
+May 1, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+338
+</td>
+
+<td id="col1"  >
+Wong, Channelle
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Albany State
+</td>
+
+<td id="col4"  >
+14:25.21
+</td>
+
+<td id="col5"  >
+Emory Invitational
+</td>
+
+<td id="col6"  >
+Mar 22, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+339
+</td>
+
+<td id="col1"  >
+Greene, Brittani
+</td>
+
+<td id="col2"  >
+SO-2
+</td>
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+<td id="col4"  >
+14:36.42
+</td>
+
+<td id="col5"  >
+Brandi Bowen Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+340
+</td>
+
+<td id="col1"  >
+Wilson, Matoaka
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Tuskegee
+</td>
+
+<td id="col4"  >
+14:38.76
+</td>
+
+<td id="col5"  >
+Emory Classic
+</td>
+
+<td id="col6"  >
+Mar 29, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+341
+</td>
+
+<td id="col1"  >
+Buck, Kaitlyn
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+<td id="col4"  >
+14:43.88
+</td>
+
+<td id="col5"  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+<td id="col6"  >
+Apr 18, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+342
+</td>
+
+<td id="col1"  >
+Goins, Katelyn
+</td>
+
+<td id="col2"  >
+SR-4
+</td>
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+<td id="col4"  >
+14:47.12
+</td>
+
+<td id="col5"  >
+Brandi Bowen Invitational
+</td>
+
+<td id="col6"  >
+Apr 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+343
+</td>
+
+<td id="col1"  >
+Anderson , Caleigh  
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+MSU-Moorhead
+</td>
+
+<td id="col4"  >
+14:59.56
+</td>
+
+<td id="col5"  >
+Cobber Twilight
+</td>
+
+<td id="col6"  >
+Apr 23, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+344
+</td>
+
+<td id="col1"  >
+Stubbs, Ariane
+</td>
+
+<td id="col2"  >
+JR-3
+</td>
+
+<td id="col3"  >
+Clark Atlanta
+</td>
+
+<td id="col4"  >
+15:05.42
+</td>
+
+<td id="col5"  >
+Victor Ice Breaker Duals
+</td>
+
+<td id="col6"  >
+Mar 2, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+345
+</td>
+
+<td id="col1"  >
+Karjala, Kaitlyn
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Emporia St.
+</td>
+
+<td id="col4"  >
+15:12.29
+</td>
+
+<td id="col5"  >
+2019 Emporia State Relays
+</td>
+
+<td id="col6"  >
+Mar 30, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+346
+</td>
+
+<td id="col1"  >
+Parsons, Briana 
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Concord
+</td>
+
+<td id="col4"  >
+15:36.14
+</td>
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+<td id="col6"  >
+May 5, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+347
+</td>
+
+<td id="col1"  >
+Henry, Ambria
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Paine
+</td>
+
+<td id="col4"  >
+15:48.89
+</td>
+
+<td id="col5"  >
+GATA Classic
+</td>
+
+<td id="col6"  >
+Mar 15, 2019
+</td>
+</tr>
+
+
+<tr class="filtered allRows ">
+
+<td id="col0"  >
+348
+</td>
+
+<td id="col1"  >
+Nelson, Julia
+</td>
+
+<td id="col2"  >
+FR-1
+</td>
+
+<td id="col3"  >
+Nyack
+</td>
+
+<td id="col4"  >
+16:11.22
+</td>
+
+<td id="col5"  >
+Greyhound Invite 
+</td>
+
+<td id="col6"  >
+Apr 19, 2019
+</td>
+</tr>
+
+
+                            </tbody>
+			
+                        </table>
+			<div class="loaderspinner"></div>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2019 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

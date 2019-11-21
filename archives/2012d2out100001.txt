@@ -1,0 +1,13130 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2012 NCAA Div. II Outdoor Qualifier List (Final)</h3></div>
+            <div class="panel-second-title pb-0">
+                    <div class="row mb-10 ">
+                        <div class="col-lg-4 border-right">
+
+
+                            <div>
+                                <span class="panel-heading-normal-text font-size-15">ICON KEY:</span>
+
+
+                                <img src="http://images.tfrrs.org/ico-check-2.png" class="mb-3"
+                                     title="NCAA DII Auto">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Auto</span>
+
+                                <img src="http://images.tfrrs.org/ico-plus-2.png" class="mb-3"
+                                     title="NCAA DII Prov">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Prov</span>
+
+                            </div>
+
+                          </div>
+                   </div>
+            </div>
+            <div class="panel-body">
+<a name="22" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+10,000m 
+	
+	
+ (Men)
+                            </h3>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Auto
+&nbsp;
+29:21.20
+</span>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Prov
+&nbsp;
+30:40.00
+</span>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Pennel, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+28:23.54
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Emerick, Dustin 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+28:33.35
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Chavez, Isaac
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+28:49.17
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Sialo, Laban
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+28:57.15
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Proctor, Gabe
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+29:05.45
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bond, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:08.69
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Samoei , Isaiah 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+29:20.11
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ndhlovu, Pardon
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UNC-Pembroke
+</td>
+
+
+<td  >
+29:31.58
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Huff, Austin 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+29:37.20
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Gildea, Sean
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+29:37.40
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Sellers, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:38.77
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Sanabria, Al
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+29:39.38
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Anderson, Scott
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+29:41.31
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Blackman, Trevor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+29:44.42
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Witt, Anthony
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+29:46.24
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Costales, Anthony
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+29:46.51
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Orvold, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+29:47.89
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet - 2012
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Schneider, Phil
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+29:53.97
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Godinez, Jovanny
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:55.26
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Yak, Paul
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+29:56.98
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Dandena, Kiya
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TAMU-Kingsville
+</td>
+
+
+<td  >
+29:59.66
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Hahn, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+30:00.74
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Knisely, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+30:05.58
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Monroe, Alex
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+30:09.64
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Volkert, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+30:21.81
+</td>
+
+
+<td  >
+Sam Williams Twilight Qualifier
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Watson, Barak
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+30:24.19
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27<img class="float-left  mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bascal, Shoayb
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Findlay
+</td>
+
+
+<td  >
+30:36.50
+</td>
+
+
+<td  >
+Sea Ray Relays
+</td>
+
+
+<td  >
+Apr 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Simon, Sharles
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Canyon
+</td>
+
+
+<td  >
+30:40.08
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+Deibel, Bryan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+30:41.21
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Ortiz, Mike
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+30:42.64
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Stratman, Matt 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+30:43.76
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Swanson, Josiah 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+30:43.87
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Roberts, Andrew
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+30:43.93
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Ott, Luke
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+30:44.10
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Coelho, Andrew
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+30:47.22
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Yilma, Yonatan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+30:48.97
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Dreier, Tobias
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+30:50.07
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Polito, Steve
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+30:50.48
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+Anthony, Dylan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+30:52.53
+</td>
+
+
+<td  >
+Oxy Distance Carnival Colleges
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Parayil, Jordan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+30:57.57
+</td>
+
+
+<td  >
+Sea Ray Relays
+</td>
+
+
+<td  >
+Apr 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41
+</td>
+
+
+<td  >
+Evans, Ryan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+30:58.55
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+Cisneros, Alfonso
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+30:59.21
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Alcorn, Derek
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+31:00.18
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Mutai, Kipkorir
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grand Canyon
+</td>
+
+
+<td  >
+31:00.47
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Riek, Dak
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+31:01.02
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Baggenstos, Jesse
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+31:01.66
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Benton, Jacob
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+31:02.60
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Eklof , Garrett 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+31:02.79
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Cushman, Brandon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+31:03.70
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Holubeck, Luke
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+31:05.32
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Moskalewski, Josh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+31:05.36
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Schott, Eric
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+31:05.63
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Laria, Greg
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+31:05.80
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Van Santen, Kyle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Martin's
+</td>
+
+
+<td  >
+31:06.32
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Butler, Ian
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+31:06.56
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Hall, Dustin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+31:08.45
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Reith, Cameron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+31:09.12
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Haje, Naseem
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+31:11.81
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Stuber, Tyler
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+31:16.39
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Dhaliwal, Kanwar
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Cal St. Stanislaus
+</td>
+
+
+<td  >
+31:17.15
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+English, Mike 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC-Colo. Spgs.
+</td>
+
+
+<td  >
+31:17.19
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+McBride, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+31:19.76
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Fox, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+31:21.18
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Barrows, Ben
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+31:21.55
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Ostini, Joseph
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+31:21.85
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Epperson, Andrew
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+31:22.08
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Heath, Taylor
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+31:22.52
+</td>
+
+
+<td  >
+Northwood Open
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Edwards, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+31:23.32
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Garraway, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+31:24.69
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Noble, Tyler
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+31:24.69
+</td>
+
+
+<td  >
+CSULA Twilight Open
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Maguire, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+31:25.28
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Brummitt, Jeremy
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+31:26.40
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Thomas, Dustin 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+31:27.67
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Parisien, Jacob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+31:27.86
+</td>
+
+
+<td  >
+Oxy Distance Carnival Colleges
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+List, Mark
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+31:30.08
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Johnson, Colton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+31:31.42
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Bodnar, Adam
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+31:32.22
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Knack, David
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+31:35.96
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Mirth, Joshua
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Hillsdale
+</td>
+
+
+<td  >
+31:35.98
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Brill, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+31:37.22
+</td>
+
+
+<td  >
+Puget Sound Quad
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Carder, Kevin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+31:37.28
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Sanchez, Johnny
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+31:37.87
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Adams, Dustin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+31:38.21
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+McGuan, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+31:39.19
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Grooms, Chris
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+31:40.33
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Rey, Agustin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+31:40.41
+</td>
+
+
+<td  >
+FSU Relays
+</td>
+
+
+<td  >
+Mar 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Devine, Brendan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:41.19
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Haffner, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+31:41.32
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Perronie, Dominic
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+31:42.27
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Viano, Austin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:43.18
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Dolan, Connor
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+31:43.33
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Minard, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+31:43.90
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Poulsen, Joseph
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+So. Conn. St.
+</td>
+
+
+<td  >
+31:49.70
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Theiler, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+31:50.49
+</td>
+
+
+<td  >
+NCC First Chance Track & Field Meet
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Svet, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+31:51.24
+</td>
+
+
+<td  >
+2012 Cal-Nevada Championships
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Weaver, Justin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+31:52.23
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Rawerts, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern State
+</td>
+
+
+<td  >
+31:55.73
+</td>
+
+
+<td  >
+2012 Doane Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Latta, John 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:56.07
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Pitcel, Emery
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+31:59.43
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Cushman, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+32:01.23
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Butler, John
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Hillsdale
+</td>
+
+
+<td  >
+32:02.23
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Liem, Warren
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+32:02.24
+</td>
+
+
+<td  >
+2012 Cal-Nevada Championships
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Miller, Wade
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+32:03.09
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Neumann, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Cloud State
+</td>
+
+
+<td  >
+32:04.25
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Todd, Adrian
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+32:05.97
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Ritschel, Brent
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+32:06.37
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Mueller, Joe
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northern Kentucky
+</td>
+
+
+<td  >
+32:07.25
+</td>
+
+
+<td  >
+Cumberlands Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Toledo, Charles
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Tampa
+</td>
+
+
+<td  >
+32:07.46
+</td>
+
+
+<td  >
+FSU Relays
+</td>
+
+
+<td  >
+Mar 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Chapman, Ben
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Drury
+</td>
+
+
+<td  >
+32:08.64
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+McClellan, Wynn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+32:09.06
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Kaht, Richard
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+32:09.08
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Schmidt, Michael
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+32:09.18
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Spitz, Eric
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+32:09.25
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Morgan, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+32:09.64
+</td>
+
+
+<td  >
+NCCAA Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Breen, Dillon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+32:09.89
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Lozano, Jacob 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+32:11.83
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Walker, Travis
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+32:12.23
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Hummingbird, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+32:13.40
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Wilder, Everett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+32:14.27
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Witherell, Tom
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+32:14.32
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Boyle, Zach 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+32:16.37
+</td>
+
+
+<td  >
+Saint Louis University Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Bogue, Cameron
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+32:16.73
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Thompson, Taylor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U-Mary
+</td>
+
+
+<td  >
+32:16.74
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Lee, Derek
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+32:17.32
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Souza, Dalton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+32:17.38
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Lombardi, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+32:17.41
+</td>
+
+
+<td  >
+Montana State Open
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Campbell, Gabe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+32:17.91
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Wilcox, Bryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+32:18.68
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Humphrey, Casey 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+32:18.84
+</td>
+
+
+<td  >
+Saint Louis University Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Eckel, Bart
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+32:18.92
+</td>
+
+
+<td  >
+2012 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Mahoney, Sean
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+32:19.45
+</td>
+
+
+<td  >
+WSC-GHS Combined Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Ball, Jacob 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+32:20.15
+</td>
+
+
+<td  >
+UWRF Falcon Invite
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Wolfe, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Seattle Pacific
+</td>
+
+
+<td  >
+32:21.79
+</td>
+
+
+<td  >
+Puget Sound Quad
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Piropato, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+32:22.97
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Hauge, Nathan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+32:23.50
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Gleason, TJ
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+32:23.54
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Diltz, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+32:23.69
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Micnhimer, David
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+32:25.06
+</td>
+
+
+<td  >
+WSC-GHS Combined Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Noor, Mohamed 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+32:25.11
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Riley, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+32:25.24
+</td>
+
+
+<td  >
+2012 Cal-Nevada Championships
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Rosario-Diaz, Diego
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+32:25.33
+</td>
+
+
+<td  >
+Justas LAI 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Dial, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+32:26.10
+</td>
+
+
+<td  >
+2012 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Lahmers, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+California (Pa.)
+</td>
+
+
+<td  >
+32:27.56
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Poss, Christopher
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+California (Pa.)
+</td>
+
+
+<td  >
+32:29.08
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Foster, Cody
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+32:29.75
+</td>
+
+
+<td  >
+WSC-GHS Combined Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Pease, Lucas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+32:31.16
+</td>
+
+
+<td  >
+Northwood Open
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Joslin, Miles
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Tarleton State
+</td>
+
+
+<td  >
+32:31.63
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Bader, Gregory
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+32:32.64
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Amirault, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+32:33.37
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Donahoe, Corey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+32:33.90
+</td>
+
+
+<td  >
+Stonehill Skyhawk Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Peterson, Dylan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+32:34.63
+</td>
+
+
+<td  >
+Puget Sound Quad
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Pike, William
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Abilene Christian
+</td>
+
+
+<td  >
+32:35.81
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Veres, Connor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+32:35.86
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Stanton, Patrick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+32:37.01
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Santos, Manuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+32:37.68
+</td>
+
+
+<td  >
+2012 Ralph Vernacchia Team Track & Field Meet
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Inman, Josh
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+32:38.12
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Cannon, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+32:39.33
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Naderer, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+32:40.63
+</td>
+
+
+<td  >
+2012 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Harm, Rick
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Kentucky
+</td>
+
+
+<td  >
+32:43.57
+</td>
+
+
+<td  >
+Georgia Relays/UGA Alumni Meet
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Petrofsky, Chad
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+32:43.67
+</td>
+
+
+<td  >
+2012 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Evans, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+32:44.04
+</td>
+
+
+<td  >
+Richmond Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Hinrichs, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+32:44.26
+</td>
+
+
+<td  >
+Shippensburg Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Kneebone, Curran
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+32:44.36
+</td>
+
+
+<td  >
+Millersville Metrics & Multis
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Carden, Jake
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+32:44.92
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Reich, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+32:45.53
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Leonard, Stephen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+32:45.94
+</td>
+
+
+<td  >
+Stonehill Skyhawk Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Fadale, Vince
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+32:46.10
+</td>
+
+
+<td  >
+Richmond Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Lok, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+32:46.24
+</td>
+
+
+<td  >
+2012 Cal-Nevada Championships
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Mains, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+32:47.66
+</td>
+
+
+<td  >
+Millersville Metrics & Multis
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Garcia, Bryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tarleton State
+</td>
+
+
+<td  >
+32:47.84
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Bekelcho , Gemechu 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Cloud State
+</td>
+
+
+<td  >
+32:48.52
+</td>
+
+
+<td  >
+UWRF Falcon Invite
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Sebeck, Sean
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+32:51.98
+</td>
+
+
+<td  >
+2012 Golden Ram Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Thomas, York 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+32:52.01
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Shedden, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mansfield
+</td>
+
+
+<td  >
+32:52.24
+</td>
+
+
+<td  >
+Millersville Metrics & Multis
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Farley, Teddy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+32:52.40
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Todd, Mike
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northwood
+</td>
+
+
+<td  >
+32:53.56
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Ordonez, Erasmo
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+32:54.65
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Koby, Kyle 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Anderson (S.C.)
+</td>
+
+
+<td  >
+32:54.67
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Goodspeed, Grant
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northwood
+</td>
+
+
+<td  >
+32:55.01
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Cox, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+32:55.40
+</td>
+
+
+<td  >
+Washington University Invite
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Kizzire, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+32:56.78
+</td>
+
+
+<td  >
+2012 Kansas Relays
+</td>
+
+
+<td  >
+Apr 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Villareal, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+32:57.58
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Poppe, Rick
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+32:58.38
+</td>
+
+
+<td  >
+2012 Prairie Wolf Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Harrison, Will
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Seattle Pacific
+</td>
+
+
+<td  >
+33:03.25
+</td>
+
+
+<td  >
+Puget Sound Quad
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Meagher, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+33:04.38
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Hernandez, Alejandro
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+33:04.67
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Selters, Clark
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Poly Pomona
+</td>
+
+
+<td  >
+33:05.45
+</td>
+
+
+<td  >
+Oxy Distance Carnival Colleges
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+LaCava, Chris 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+33:08.18
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Johnson, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC-Colo. Spgs.
+</td>
+
+
+<td  >
+33:09.58
+</td>
+
+
+<td  >
+Washington University Invite
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Lucento, Nick 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+33:10.68
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Nakrin, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+33:11.64
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Sullivan, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMass Lowell
+</td>
+
+
+<td  >
+33:12.39
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Doherty, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+33:13.69
+</td>
+
+
+<td  >
+Northeastern Spring Open
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Estep, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+33:13.92
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Forrestir, Erik
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Abilene Christian
+</td>
+
+
+<td  >
+33:14.46
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Anliker, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+33:15.47
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Reddy, Justin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMass Lowell
+</td>
+
+
+<td  >
+33:17.02
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Wilson, Josh
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+U-Mary
+</td>
+
+
+<td  >
+33:17.44
+</td>
+
+
+<td  >
+University of Mary Marauder Open
+</td>
+
+
+<td  >
+Apr 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Sherwood, Justin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+33:20.06
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Cruz, Reimanuel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Mayaguez
+</td>
+
+
+<td  >
+33:20.73
+</td>
+
+
+<td  >
+1ra Clasificatoria LAI 2012
+</td>
+
+
+<td  >
+Feb 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Doty, Tye
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Tarleton State
+</td>
+
+
+<td  >
+33:20.85
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Cortes, Javier
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Oregon
+</td>
+
+
+<td  >
+33:22.54
+</td>
+
+
+<td  >
+2012 Pacific Twilight
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Bishop, Brandon 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+33:23.74
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+DiBenedetto, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Molloy
+</td>
+
+
+<td  >
+33:23.84
+</td>
+
+
+<td  >
+Army Dick Shea Open
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Segura-Cook, Mac
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+33:26.68
+</td>
+
+
+<td  >
+Northeastern Spring Open
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Austin, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+33:26.97
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Franke, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+33:28.60
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Viets, Aaron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+33:29.08
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Gustas, Robert
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+33:29.64
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Vriseno, Zerrick 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+33:29.79
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Hernandez-Mancilla, Ian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+33:30.34
+</td>
+
+
+<td  >
+Justas LAI 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+Hatton, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+33:30.44
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Sturgill, Ronnie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+33:30.58
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Robinson, Trevor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+33:31.60
+</td>
+
+
+<td  >
+Saint Martin's Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Menjares, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+33:32.58
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Polshak, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+33:32.84
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Tucker, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Drury
+</td>
+
+
+<td  >
+33:33.85
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Singh, Raman
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+33:35.58
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Agbede, Shinola
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+33:36.20
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Cumpian, Matthew
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+33:36.25
+</td>
+
+
+<td  >
+Rhodes Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Kadlec, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Metropolitan St.
+</td>
+
+
+<td  >
+33:36.87
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Fockler, Kellen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Metropolitan St.
+</td>
+
+
+<td  >
+33:37.48
+</td>
+
+
+<td  >
+2012 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Schmidt, Otto
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+33:38.48
+</td>
+
+
+<td  >
+Saint Martin's Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Valdez, Isac
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+33:38.81
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Blackburn, Eric
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+33:39.97
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Felch, Scott
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+33:40.16
+</td>
+
+
+<td  >
+Saint Martin's Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Pauley, Joshua 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+33:40.96
+</td>
+
+
+<td  >
+Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 22, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Wolfer, Andy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Kentucky
+</td>
+
+
+<td  >
+33:41.16
+</td>
+
+
+<td  >
+University of Cincinnati Oliver Nickoloff
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Frantom, Spencer 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+33:43.45
+</td>
+
+
+<td  >
+2012 Conference Carolina Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Alvarado, Reinaldo
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+P.R.-Mayaguez
+</td>
+
+
+<td  >
+33:44.29
+</td>
+
+
+<td  >
+Relevos LAI 2012
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Kimp, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+33:45.40
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Berger, Joe
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Martin's
+</td>
+
+
+<td  >
+33:45.96
+</td>
+
+
+<td  >
+PLU Invitational
+</td>
+
+
+<td  >
+Mar 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Calvin, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+33:47.36
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Rotich, Solomon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+33:48.08
+</td>
+
+
+<td  >
+Lone Star Conference Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Lloyd, Brock
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Findlay
+</td>
+
+
+<td  >
+33:48.28
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Rogers, Tyler
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+33:49.49
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Parker, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+33:50.55
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Bollero, Kiel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+33:50.70
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Hussey, Matt
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Roberts Wesleyan
+</td>
+
+
+<td  >
+33:51.73
+</td>
+
+
+<td  >
+NCCAA Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Reedy, Tabor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+33:52.34
+</td>
+
+
+<td  >
+CWU Spike Arlt Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Eason, Ryan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+33:52.67
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Riffle, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+33:53.65
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Slaughter, Derek
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+33:54.31
+</td>
+
+
+<td  >
+Puget Sound Quad
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Eccleston, Joshua
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hillsdale
+</td>
+
+
+<td  >
+33:54.45
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Reynolds, Theodore
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+33:56.07
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Albino-Zurita, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Bayamon
+</td>
+
+
+<td  >
+34:04.35
+</td>
+
+
+<td  >
+1ra Clasificatoria LAI 2012
+</td>
+
+
+<td  >
+Feb 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Hall, Nicholas
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+34:04.41
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Neselu, Kasahun
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+34:04.44
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Cortes, Bertin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Oregon
+</td>
+
+
+<td  >
+34:06.29
+</td>
+
+
+<td  >
+2012 Pacific Twilight
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Knotts, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+34:06.90
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Young, Kyle
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+34:08.17
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Hart, Bradley
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+34:08.23
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Fleenor, Kaleb 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+34:08.44
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Belachew, Biniam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wingate
+</td>
+
+
+<td  >
+34:08.53
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Harshberger, Nathan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+34:11.47
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Abrams, Brendan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+34:12.54
+</td>
+
+
+<td  >
+Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Slaughter, Brad
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+34:12.86
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Kirwa, Justus
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Limestone
+</td>
+
+
+<td  >
+34:14.39
+</td>
+
+
+<td  >
+2012 Conference Carolina Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Gilbert, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+34:15.38
+</td>
+
+
+<td  >
+Washington University Invite
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Galonski, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Thomas Aquinas
+</td>
+
+
+<td  >
+34:16.36
+</td>
+
+
+<td  >
+CTC Outdoor Championships '12
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Casa, Pete
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+34:21.56
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Walker, Jared
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+NW Missouri
+</td>
+
+
+<td  >
+34:22.36
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Toroitich, Dickson
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Benedict
+</td>
+
+
+<td  >
+34:22.73
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Bogert, Jonathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+34:23.01
+</td>
+
+
+<td  >
+6th Annual Gator Invitational
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Ahlswede, Greg 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+34:27.01
+</td>
+
+
+<td  >
+Shippensburg Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Koehlinger, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hillsdale
+</td>
+
+
+<td  >
+34:27.02
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Shepherd, Aaron
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+34:31.03
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Maloney, James
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+34:34.69
+</td>
+
+
+<td  >
+2012 Conference Carolina Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Simon, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+34:38.65
+</td>
+
+
+<td  >
+2012 MIAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Robinson, Max
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+34:42.20
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Brown, Edmund
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Rose
+</td>
+
+
+<td  >
+34:45.17
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+McKinney, Wes
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+34:48.98
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Parsell, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan Tech
+</td>
+
+
+<td  >
+34:52.51
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Greza, Lucas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+34:53.93
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Benge, Carter
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+34:54.74
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+Okiishi, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+34:54.94
+</td>
+
+
+<td  >
+Washington University Invite
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Johnson, Matthew
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Augusta State
+</td>
+
+
+<td  >
+34:55.07
+</td>
+
+
+<td  >
+40th Robert "Jet" Johnson Bulldog Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Lee, Zachary
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+34:56.40
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Pealer, Ethan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+35:00.01
+</td>
+
+
+<td  >
+Millersville Metrics & Multis
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Nadler, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Queens (N.Y.)
+</td>
+
+
+<td  >
+35:00.40
+</td>
+
+
+<td  >
+CTC Outdoor Championships '12
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Tracy, Greg
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Wayne St. (Neb.)
+</td>
+
+
+<td  >
+35:01.07
+</td>
+
+
+<td  >
+NSIC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Dowds, Corey
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+35:01.15
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Wallace, Ian
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Francis Marion
+</td>
+
+
+<td  >
+35:01.35
+</td>
+
+
+<td  >
+40th Robert "Jet" Johnson Bulldog Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Witherspoon, Cameron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+35:03.51
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Burris, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wingate
+</td>
+
+
+<td  >
+35:03.67
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Prickett, Nathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Columbus St.
+</td>
+
+
+<td  >
+35:07.31
+</td>
+
+
+<td  >
+41st Annual Morehouse Relays
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Edgell, Todd
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+35:09.31
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Biales, Dan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+35:10.23
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Imes, Mathew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Anderson (S.C.)
+</td>
+
+
+<td  >
+35:13.86
+</td>
+
+
+<td  >
+Coastal Carolina University Invitational
+</td>
+
+
+<td  >
+Mar 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Laski, Jack
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+35:14.90
+</td>
+
+
+<td  >
+Indiana Little State Championships
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Brittingham, Ed
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+35:15.32
+</td>
+
+
+<td  >
+2012 WCU Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Kall, Andy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+35:30.44
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Willett, Jordan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+35:32.24
+</td>
+
+
+<td  >
+Dr. Jack M. Toms Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+Hanifee, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+35:34.14
+</td>
+
+
+<td  >
+Millersville Metrics & Multis
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Thomason, Tanner
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Clayton State
+</td>
+
+
+<td  >
+35:36.78
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+DeRosa, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alderson-Broaddus
+</td>
+
+
+<td  >
+35:38.44
+</td>
+
+
+<td  >
+4th Annual Brandi Bowen Memorial Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Gonzalez, Gustavo
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+P.R.-Mayaguez
+</td>
+
+
+<td  >
+35:46.37
+</td>
+
+
+<td  >
+1ra Clasificatoria LAI 2012
+</td>
+
+
+<td  >
+Feb 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Bernasky, Jonny
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+35:50.77
+</td>
+
+
+<td  >
+Southwestern Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Toews, Wes
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+35:53.98
+</td>
+
+
+<td  >
+Southwestern Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Roark, Brent
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+35:54.52
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Martin, Jaron
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+35:55.54
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Jones, Scott
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+35:58.45
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Smith, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Albany State
+</td>
+
+
+<td  >
+36:01.56
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Gide, Bsrat
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fort Valley State
+</td>
+
+
+<td  >
+36:08.26
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Pirrello, Danny
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+36:08.41
+</td>
+
+
+<td  >
+Northeastern Spring Open
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Springston, Nick
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+36:09.23
+</td>
+
+
+<td  >
+Coastal Carolina University Invitational
+</td>
+
+
+<td  >
+Mar 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Balkey, Darren
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Belmont Abbey
+</td>
+
+
+<td  >
+36:10.22
+</td>
+
+
+<td  >
+2012 Winthrop Invitational
+</td>
+
+
+<td  >
+Mar 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Maiyo, Hillary
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wingate
+</td>
+
+
+<td  >
+36:11.75
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Peel, Tony
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+36:13.57
+</td>
+
+
+<td  >
+Northwood Open
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Pulido, Francisco
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal St. East Bay
+</td>
+
+
+<td  >
+36:17.26
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Novaris, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+36:19.64
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Riggs, Morgan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Emporia St.
+</td>
+
+
+<td  >
+36:23.28
+</td>
+
+
+<td  >
+ESU Spring Twilight
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Kreis, Al
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+36:32.91
+</td>
+
+
+<td  >
+Shippensburg Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Halley, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+36:36.00
+</td>
+
+
+<td  >
+2012 Outdoor GLVC Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Ashley, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Roberts Wesleyan
+</td>
+
+
+<td  >
+36:37.38
+</td>
+
+
+<td  >
+6th Annual Gator Invitational
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+Picciotto, Bryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Roberts Wesleyan
+</td>
+
+
+<td  >
+36:37.47
+</td>
+
+
+<td  >
+6th Annual Gator Invitational
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+Molina, Giovanny
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Benedict
+</td>
+
+
+<td  >
+36:41.43
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Cook, Philip 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Limestone
+</td>
+
+
+<td  >
+36:42.44
+</td>
+
+
+<td  >
+2012 Conference Carolina Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Valencia, Preston
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Clayton State
+</td>
+
+
+<td  >
+36:50.94
+</td>
+
+
+<td  >
+41st Annual Morehouse Relays
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Stadelman, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+36:59.24
+</td>
+
+
+<td  >
+4th Annual Brandi Bowen Memorial Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Overstreet, Franklin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Philadelphia U.
+</td>
+
+
+<td  >
+37:02.05
+</td>
+
+
+<td  >
+2012 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Jean-Pierre, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kentucky State
+</td>
+
+
+<td  >
+37:05.77
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Laszlo, Jon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Thomas Aquinas
+</td>
+
+
+<td  >
+37:12.64
+</td>
+
+
+<td  >
+Dr. Jack M. Toms Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Holton, Clay
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augusta State
+</td>
+
+
+<td  >
+37:15.17
+</td>
+
+
+<td  >
+40th Robert "Jet" Johnson Bulldog Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Liang, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+37:23.01
+</td>
+
+
+<td  >
+Stonehill Skyhawk Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Hunter, Chris
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Glenville St.
+</td>
+
+
+<td  >
+37:24.21
+</td>
+
+
+<td  >
+W&J Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Garza, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TAMU-Kingsville
+</td>
+
+
+<td  >
+37:27.30
+</td>
+
+
+<td  >
+Trinity Alumni Classic
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Regehr, Bentley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+37:28.69
+</td>
+
+
+<td  >
+Southwestern Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Rosario-Davila, Steven
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Bayamon
+</td>
+
+
+<td  >
+37:50.83
+</td>
+
+
+<td  >
+1ra Clasificatoria LAI 2012
+</td>
+
+
+<td  >
+Feb 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Malarsie, Christian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+37:55.70
+</td>
+
+
+<td  >
+Northeastern Solomon Husky Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+De Jesus-Reyes, Luis 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+38:16.03
+</td>
+
+
+<td  >
+1ra Clasificatoria LAI 2012
+</td>
+
+
+<td  >
+Feb 18, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Byers, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Liberty St.
+</td>
+
+
+<td  >
+38:25.03
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Liotchev, Stefan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+38:27.14
+</td>
+
+
+<td  >
+2012 Conference Carolina Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Higgins, Brandon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kentucky State
+</td>
+
+
+<td  >
+38:49.25
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+Lutz, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Liberty St.
+</td>
+
+
+<td  >
+39:05.29
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Woloszyn, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Francis Marion
+</td>
+
+
+<td  >
+39:17.52
+</td>
+
+
+<td  >
+40th Robert "Jet" Johnson Bulldog Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Kome, Chaston
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+William Jewell
+</td>
+
+
+<td  >
+39:36.70
+</td>
+
+
+<td  >
+Baker Relays
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+McCarter, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+40:18.75
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Saxon, Andra
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Claflin
+</td>
+
+
+<td  >
+42:47.21
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Douglas, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alderson-Broaddus
+</td>
+
+
+<td  >
+43:02.11
+</td>
+
+
+<td  >
+Dr. Jack M. Toms Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

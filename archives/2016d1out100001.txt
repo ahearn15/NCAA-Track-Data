@@ -1,0 +1,25524 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2016 NCAA Division I Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-body">
+<a name="22" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+10,000m 
+	
+	
+ (Men)
+                            </h3>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1
+</td>
+
+
+<td  >
+Zienasellassie, Futsum
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+27:52.70
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2
+</td>
+
+
+<td  >
+Ronoh, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+28:36.20
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3
+</td>
+
+
+<td  >
+Peterson, Erik
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+28:44.18
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4
+</td>
+
+
+<td  >
+Thompson, Shaun
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Duke
+</td>
+
+
+<td  >
+28:47.48
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5
+</td>
+
+
+<td  >
+Murphy, Pierce
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+28:48.79
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6
+</td>
+
+
+<td  >
+Bennie, Colin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+28:52.72
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7
+</td>
+
+
+<td  >
+Nelson, Aaron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+28:53.70
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8
+</td>
+
+
+<td  >
+Terer, Amon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Campbell
+</td>
+
+
+<td  >
+28:54.42
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9
+</td>
+
+
+<td  >
+Reichow, Joel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+28:55.84
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10
+</td>
+
+
+<td  >
+Goehler, Timo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+28:57.27
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11
+</td>
+
+
+<td  >
+Landes, Evan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+28:58.43
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12
+</td>
+
+
+<td  >
+Cheserek, Edward
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+28:58.57
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13
+</td>
+
+
+<td  >
+Thomson, Jacob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kentucky
+</td>
+
+
+<td  >
+29:01.34
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14
+</td>
+
+
+<td  >
+Gonzalez, Gabe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+29:01.62
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15
+</td>
+
+
+<td  >
+Stewart, Joseph
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+29:03.79
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16
+</td>
+
+
+<td  >
+Barraza, Brian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Houston
+</td>
+
+
+<td  >
+29:04.11
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17
+</td>
+
+
+<td  >
+Germano, Philo
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+29:04.60
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18
+</td>
+
+
+<td  >
+Fink, Willy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+29:04.92
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19
+</td>
+
+
+<td  >
+Melancon, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+29:05.34
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20
+</td>
+
+
+<td  >
+Dillard, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:05.98
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21
+</td>
+
+
+<td  >
+Day, Tyler
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+29:06.85
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22
+</td>
+
+
+<td  >
+Schubert, Dan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oklahoma
+</td>
+
+
+<td  >
+29:06.90
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23
+</td>
+
+
+<td  >
+Werley, Lane
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+29:07.23
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24
+</td>
+
+
+<td  >
+King, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+29:09.15
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25
+</td>
+
+
+<td  >
+Williams, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+29:09.28
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26
+</td>
+
+
+<td  >
+Fischer, Reed 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Drake
+</td>
+
+
+<td  >
+29:09.86
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27
+</td>
+
+
+<td  >
+Traynor, Luke
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+29:10.19
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Barnett, Ian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+29:10.83
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+Rackers, Tim 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+29:10.99
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Kipkoech, Lawrence
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Campbell
+</td>
+
+
+<td  >
+29:11.00
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Parsons, George
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+29:11.87
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Glines, Cory
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+29:11.99
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Gallagher, Wes
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+29:13.67
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Flanagan, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+29:13.72
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Keelan, Jack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+29:13.92
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Taylor, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+29:14.07
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Leach, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+San Francisco
+</td>
+
+
+<td  >
+29:14.36
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Halsted, Trevor 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+29:14.73
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+McMillan, Connor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+29:15.02
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Sweatt, Garrett
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+29:15.67
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41
+</td>
+
+
+<td  >
+Rutherford, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+29:15.86
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+Whelan, John
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+29:15.94
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Lennon, Dan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+29:16.13
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Vargas, Luis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+29:16.20
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Armstrong, Hugh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+29:16.73
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Buchanan, Reid
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:18.74
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+McClintock, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+29:18.79
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Baxter, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+29:19.45
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Short, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+San Francisco
+</td>
+
+
+<td  >
+29:19.55
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Kosgei, Antibahs
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+29:19.63
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Visokay, Adam 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+29:19.84
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Ruiz, Clark
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+29:20.21
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Dressel, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+29:20.97
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Hanson, Spencer
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+29:22.04
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Hillery, Liam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+29:22.38
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Chemoiywo, Calvin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+29:22.91
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Mathenge, Charles
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+29:23.59
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Mulherin, Stephen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Carolina
+</td>
+
+
+<td  >
+29:23.75
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Lusignan, Trent
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+29:24.33
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Demarest, Brent
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+29:24.80
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Boit, Gilbert
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tennessee Tech
+</td>
+
+
+<td  >
+29:25.41
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+Harper, Jonathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+29:26.52
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Martinez, Danny
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:27.29
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Rhynard, Caleb
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+29:27.55
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Shearn, Brendan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+29:28.83
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Curtin, Thomas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+29:29.12
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Hawks, Hayden
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Utah
+</td>
+
+
+<td  >
+29:29.61
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Milechman, Dan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+29:29.80
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Moussa, Ammar
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+29:29.92
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Raymond, Nicholas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+29:30.06
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Sushchickh, Sergey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+29:30.36
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Wharton, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+29:30.98
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Omar, Hassan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+29:31.05
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Kibet, Ernest
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+29:32.65
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Crozier, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+29:32.76
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Arias-Sheridan , Gabe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Mary's (Cal.)
+</td>
+
+
+<td  >
+29:33.15
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Green, Jonathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+29:33.57
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Young, Clayton
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+29:34.00
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Dunbar, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lamar
+</td>
+
+
+<td  >
+29:34.20
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Magnesen, Billy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+29:34.94
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Mehmen, Colby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+29:34.95
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Masterson, Brian 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+29:35.86
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Johnson, Brady
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+29:36.00
+</td>
+
+
+<td  >
+Wichita State KT Woodman Classic
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Smith, Myles
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+29:36.28
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Andresson, Hlynur
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+29:36.71
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Posada, Nicholas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+29:37.01
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Fernandez, Bryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+29:37.33
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Sublette, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+29:37.90
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Dooney, Kevin 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+29:39.06
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Silenieks, Juris 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+29:39.56
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Hoyos, Kevyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+29:39.85
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Vaughn, Sid
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+29:40.64
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Garcia, Eddie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+29:41.09
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Tonui, Frankline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+29:41.37
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Johnson, Brendan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+American
+</td>
+
+
+<td  >
+29:41.51
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Rutherford, Tait 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+29:41.64
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Matko, Csaba
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+29:41.70
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Rainero, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+29:41.73
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Lockley, Ollie 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+29:41.88
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Musa, Mubarik
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+29:42.32
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Zutz, Adam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+29:42.39
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Krebs, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:42.73
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Salas, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+29:43.54
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Fischer, Grant
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+29:44.74
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Haughey, Gabriel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:45.38
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Perales, Jaime
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+29:45.43
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Crichlow, Matthew 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+29:45.54
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Burkhardt, Glen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+29:45.74
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Norton, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arizona State
+</td>
+
+
+<td  >
+29:45.84
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Boyle, Jack
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+29:46.10
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Knight, Justyn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+29:46.41
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Mattes, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+29:47.88
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Medina, Oscar
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+29:48.01
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Schwartzer, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+29:48.15
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Pappas, August
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+29:48.61
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Robertson, Mark
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+29:49.02
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Clark, Jimmy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+29:49.06
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Forsyth, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+29:49.96
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Rosa, Jim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+29:50.30
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Kiprono, Reuben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+29:51.48
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Byrne, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+29:51.61
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Lynch, Jason
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+29:51.78
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Ball, Tim
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Notre Dame
+</td>
+
+
+<td  >
+29:51.89
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Gaiser, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+29:52.29
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Guerrero, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UT-Arlington
+</td>
+
+
+<td  >
+29:52.45
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Ahmed, Ibrahim
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Utah
+</td>
+
+
+<td  >
+29:52.66
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Shemonia, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+29:52.72
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Tario, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+29:52.75
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Walling, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+29:52.82
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Stalnaker, Lucas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+29:52.94
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Maloy, Chad
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+29:53.07
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Cheruiyot, Amos
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mid. Tenn. State
+</td>
+
+
+<td  >
+29:53.84
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Israel, Zack
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+29:54.12
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Whitelaw, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tennessee
+</td>
+
+
+<td  >
+29:54.46
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Weaverling, Chase
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+29:54.66
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Kipkoech, Japhet
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+29:54.70
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Allen, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Harvard
+</td>
+
+
+<td  >
+29:54.91
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Raymond, Paul
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+29:55.17
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Stifel, Evan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+29:55.24
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Vientos, Brandon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola Marymount
+</td>
+
+
+<td  >
+29:55.37
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Kemp, Barrett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+29:55.52
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Montanez, Nicolas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+29:56.45
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Kendell, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Detroit
+</td>
+
+
+<td  >
+29:56.52
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Melgares, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+29:56.76
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Adams, Nathaniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+29:57.49
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Farris, Christian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas A&M
+</td>
+
+
+<td  >
+29:58.70
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Ghena, Nate
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Michigan
+</td>
+
+
+<td  >
+29:59.42
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Sakallah, Faris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+29:59.84
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Sullivan, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+30:00.39
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Johnson, Bobby
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+30:00.76
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+de Backer, Manuel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Louis
+</td>
+
+
+<td  >
+30:01.32
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Campbell, Patrick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bradley
+</td>
+
+
+<td  >
+30:01.39
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Solomon, Nahom
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+30:01.85
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Dholakia, Amar
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+30:02.83
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Aloiloi, Moses
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+30:02.99
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Derner, Aaron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+30:03.35
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Roe, Dan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+30:04.14
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Hanlon, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+30:06.29
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Reilly, Patrick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+30:06.39
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Phillips, Jon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+30:06.43
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Luciano, Christopher
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+30:06.43
+</td>
+
+
+<td  >
+Sam Howell (College)
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Goodwin, Sumner
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:07.63
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Armstrong, Elijah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+30:08.25
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Corona, Patrick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Air Force
+</td>
+
+
+<td  >
+30:08.34
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Enriquez, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+30:08.67
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Musselman, Brent
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+30:08.78
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Knox III, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+30:08.86
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Melchert, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Iowa
+</td>
+
+
+<td  >
+30:10.32
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Soto, Enrique
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+McNeese State
+</td>
+
+
+<td  >
+30:10.43
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Kowalsky, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+30:10.64
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Hanson, Sebastian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+30:11.58
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Geberkidane, Cerake 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oklahoma State
+</td>
+
+
+<td  >
+30:13.43
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Morse, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+30:13.44
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Eller, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Air Force
+</td>
+
+
+<td  >
+30:13.69
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Wells, Austin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas A&M
+</td>
+
+
+<td  >
+30:14.98
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Ho, Richard
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+30:15.97
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Pearce, Jack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:16.62
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Weinmeister, Justin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+30:16.72
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+O'Dowd, Mike
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+30:17.69
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Kroon, Eric 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas
+</td>
+
+
+<td  >
+30:18.01
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Steffenson, Gabriel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lamar
+</td>
+
+
+<td  >
+30:18.46
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Shellhouse, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Air Force
+</td>
+
+
+<td  >
+30:18.61
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Haller, Miler
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+30:19.12
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Stroede, Bryce
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oakland
+</td>
+
+
+<td  >
+30:19.70
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Kwiatkowski, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fresno State
+</td>
+
+
+<td  >
+30:19.97
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Pratt, Mitchell
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+30:20.70
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Maier, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+30:21.10
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Symmes, Keegan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+30:21.37
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Meyer, Keith
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+30:21.76
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Lathrop, Dan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+30:21.97
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Forsee, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+30:22.30
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+McAfee, Louis
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+30:22.51
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Schienbein, Tate
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+30:22.76
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Brewster, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Davidson
+</td>
+
+
+<td  >
+30:22.80
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Guerra, Nicholas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+30:23.24
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Beck, Caleb
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bradley
+</td>
+
+
+<td  >
+30:23.85
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Soto, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Iowa
+</td>
+
+
+<td  >
+30:24.00
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Jones, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+McNeese State
+</td>
+
+
+<td  >
+30:24.36
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Fitzpatrick, Neal
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Louis
+</td>
+
+
+<td  >
+30:24.46
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Bright, Jackson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+30:25.30
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Rau, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+30:25.69
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Beamer, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+30:25.96
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Kaderabek, Max
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:26.42
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Wilkinson, Aaron
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+30:26.60
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Aldritt, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oklahoma
+</td>
+
+
+<td  >
+30:27.02
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Antolos, Jeffrey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+30:27.77
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Hamilton, Vince
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:28.41
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Norris, Wil
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+30:28.47
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Bourguet, Stephen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Brown
+</td>
+
+
+<td  >
+30:28.64
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Boyal, Swarnjit
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+30:28.87
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Ubriaco, Otis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+30:29.26
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+Morgan, Grayson
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+30:29.35
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Bergin, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+30:29.47
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+McGowan, John 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+30:29.54
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Chauvin, Samuel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+30:29.91
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Anderson, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Brown
+</td>
+
+
+<td  >
+30:30.06
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Speir, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+30:30.22
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Walker, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+30:30.33
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Berge, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+30:30.40
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Kosgey, Amos
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+30:31.24
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Oliver, George
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+30:31.63
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Sims, Zack  
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+30:32.05
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Post, Austin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+30:32.29
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Samet, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Davidson
+</td>
+
+
+<td  >
+30:33.08
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Lowe, Mike
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Texas
+</td>
+
+
+<td  >
+30:33.63
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+King, Curtis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+30:33.66
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Campbell, Jacob
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+30:34.21
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Dwyer, James
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Clemson
+</td>
+
+
+<td  >
+30:34.25
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Goltra, Aidan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+30:34.26
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Giguere, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+30:34.40
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Fitzgerald, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+30:35.44
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Murray, Peter
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+30:35.51
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Quintana, Dillon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:35.54
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Lumbar, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+30:36.47
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Kaempfen, Ricardo
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+30:36.56
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Brickell, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+30:36.89
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Monogue, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+30:37.06
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Croteau, Blake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+30:37.29
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Capel, Lance
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola Marymount
+</td>
+
+
+<td  >
+30:37.58
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Lutz, Fabian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+30:37.66
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Letz, Pat
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+30:38.40
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Spooner, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Mary's (Cal.)
+</td>
+
+
+<td  >
+30:38.41
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Beck, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+30:38.56
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Bearden, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+30:38.79
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Jaworski, Griffin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Drake
+</td>
+
+
+<td  >
+30:38.79
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Kawalec, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+30:38.84
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Chance, Edward
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Mary's (Cal.)
+</td>
+
+
+<td  >
+30:39.32
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Lalang, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Arkansas-Little Rock
+</td>
+
+
+<td  >
+30:40.02
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Roache, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+30:40.60
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Barnhill, Ian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+30:40.91
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Galvin, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Baylor
+</td>
+
+
+<td  >
+30:41.45
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Petty, Logan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+30:42.40
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Giugliano, Luke
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+30:42.74
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+LaFemina, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+30:42.75
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Anvelt, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+30:43.25
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Florez, Julian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+30:43.88
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Kelly, Brett
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+30:44.07
+</td>
+
+
+<td  >
+Sam Howell (College)
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Bajema, Jeff
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+30:44.12
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Layding, Sam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+30:44.23
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Roderique, Adam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+30:44.49
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Keith, Spencer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+30:44.60
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Miehe, Tyson
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+30:44.75
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Anderson, William
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bradley
+</td>
+
+
+<td  >
+30:44.85
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Seidel, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Seattle U.
+</td>
+
+
+<td  >
+30:45.04
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Sheehan, Patrick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+30:45.13
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Withers, James
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+30:45.16
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Geithner, Peter
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+30:45.20
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Kearns, Jason
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+30:45.81
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Belles, Dylan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+30:46.71
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Arguinchona, Baxter
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Seattle U.
+</td>
+
+
+<td  >
+30:47.62
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Craven, Jeremy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+30:48.11
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Korir, Ronald
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+30:48.31
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Hermsmeier, Nathaniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+30:49.17
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Meade, Joseph
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas State
+</td>
+
+
+<td  >
+30:49.62
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Creech, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lamar
+</td>
+
+
+<td  >
+30:50.40
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+Leahey, Jack
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+30:50.55
+</td>
+
+
+<td  >
+Sam Howell (College)
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Guijarro, Carlos
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+30:50.74
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Ojeda, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UT-Arlington
+</td>
+
+
+<td  >
+30:51.92
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Heath, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pepperdine
+</td>
+
+
+<td  >
+30:51.98
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Thomas, Andy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+30:52.69
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Miranda, Carlos
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+30:52.95
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+McLeod, Kaleb
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Belmont
+</td>
+
+
+<td  >
+30:52.97
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Maeder, Albert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+30:53.11
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Moll, Quinlan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+30:53.70
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Herzig, Matt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+30:54.35
+</td>
+
+
+<td  >
+Sam Howell (College)
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Glad, Cody
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+30:54.45
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Nielsen, Terry
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+30:55.34
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Norris, Trevor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+30:55.52
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Libbi, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+30:55.73
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Menard, Paxson 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+30:55.95
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Scheuer, Sammy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+30:56.17
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Webb, Dallin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+30:56.69
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Robinson, Beau
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UL-Lafayette
+</td>
+
+
+<td  >
+30:56.75
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+Vandenberg, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+30:56.94
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Keter, Benard
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas Tech
+</td>
+
+
+<td  >
+30:57.10
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Norstrom, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+30:57.74
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Munie, Craig
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+30:58.04
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Stafford, Christian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+30:58.17
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Sheldon, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+30:59.00
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Burke, Sean
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+31:00.15
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Leitch, Mitch
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+31:00.40
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Takele, Endalow 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+31:00.58
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Ortolan, Anthony
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+31:00.63
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Vekaria, Jaimin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rutgers
+</td>
+
+
+<td  >
+31:01.27
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Brown, Jake 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+31:01.71
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Johnson, Spencer
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+31:01.77
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Makevic, Dusan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+31:02.28
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Everett, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+31:02.42
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Robertson, Stuart
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+31:02.71
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Voytilla, Dimitri
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+31:04.06
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Adamovics, Andy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+31:04.20
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Borg, Preston
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+31:04.51
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Nelson, Harvey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+31:04.95
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Cheruiyot, Daniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UTEP
+</td>
+
+
+<td  >
+31:05.74
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Browning, Robert
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+31:06.22
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+Hahne, Jesse
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+31:06.83
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+McBride, Zackery
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+31:07.00
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Hurlbut, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Villanova
+</td>
+
+
+<td  >
+31:08.89
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Kiprono, Evans
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UTEP
+</td>
+
+
+<td  >
+31:09.16
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Crawley, Trevor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+31:09.48
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Costello, Christian 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+31:09.81
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Austin, Chandler
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+31:10.11
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Cox, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oakland
+</td>
+
+
+<td  >
+31:10.14
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Pulliam, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Notre Dame
+</td>
+
+
+<td  >
+31:10.53
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Templeton, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+31:10.79
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Sage, Brendan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+31:11.14
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+England, Bryce
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+31:12.04
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Sullivan, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+31:12.36
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Costello, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+31:12.55
+</td>
+
+
+<td  >
+Kansas Relays
+</td>
+
+
+<td  >
+Apr 20, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Sheryak, Connor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+31:12.90
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+Munns, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+31:13.00
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Ballard, Chase
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Belmont
+</td>
+
+
+<td  >
+31:13.91
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Wilson, Dustin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+31:14.00
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Humphreys, Griffin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+31:14.51
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+Medrano, Akis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+31:14.68
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Fambrough, Jason
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+31:14.92
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Moore, Daniel 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Duke
+</td>
+
+
+<td  >
+31:15.16
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Bell, Imran
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+31:16.14
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Lapovich, Grant
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Loyola Marymount
+</td>
+
+
+<td  >
+31:16.22
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Burns, Alan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+31:16.81
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Paikowski, Vince
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Milwaukee
+</td>
+
+
+<td  >
+31:18.13
+</td>
+
+
+<td  >
+EIU Big Blue Classic 2016
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Harrison, Silvester
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Texas
+</td>
+
+
+<td  >
+31:18.30
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Bouchikhi, Lahsene
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+31:18.47
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Grudev, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+31:18.67
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Branick, Connor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+31:18.86
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+346
+</td>
+
+
+<td  >
+Turner, Ben 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+31:19.07
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Miller, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+31:19.70
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Dubbs, Dakota
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+31:20.69
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+McGonnigle, Michael 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+31:20.95
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Kitzan, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+31:21.80
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+Pruett, Damon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+31:21.87
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Prest, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Louis
+</td>
+
+
+<td  >
+31:22.07
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Fink, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+31:22.53
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Bachman, Jeffrey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kansas State
+</td>
+
+
+<td  >
+31:22.66
+</td>
+
+
+<td  >
+LSU Battle on the Bayou
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Barnett, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+31:22.76
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Gill, Cooper
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fresno State
+</td>
+
+
+<td  >
+31:23.32
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Wells, Jose
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UT-Rio Grande Valley
+</td>
+
+
+<td  >
+31:23.39
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Kirna, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+31:23.48
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Oelstad, Vegard
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oklahoma State
+</td>
+
+
+<td  >
+31:23.86
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Lara, Frank
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+31:23.87
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Beavin, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kentucky
+</td>
+
+
+<td  >
+31:24.67
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Monaghan, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Miss State
+</td>
+
+
+<td  >
+31:25.20
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Keter, Elias
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+31:25.30
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Wharrey, Hunter
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+31:25.55
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Corbusier, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Villanova
+</td>
+
+
+<td  >
+31:25.63
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Giacco, Alexander 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+31:25.82
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Esparza, Nathaniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fresno State
+</td>
+
+
+<td  >
+31:25.93
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+Hogston, Will
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oklahoma
+</td>
+
+
+<td  >
+31:26.06
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Mosel, Dietrich
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+31:26.08
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Zmija, Max
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+31:26.12
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Tomas, Fabian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+31:26.55
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+Hort, Brad
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+31:27.39
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Tarbath, Forest 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+31:27.59
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+Kiptum, Manoah 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Louisiana Tech
+</td>
+
+
+<td  >
+31:28.15
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+Gliha , Nick 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+31:28.80
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Flores, Abel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+31:29.00
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+LaCoste, Jeff
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+31:29.63
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Moses, Jon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+31:29.88
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Mueller, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+31:30.07
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Sanders, Greg
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+31:30.47
+</td>
+
+
+<td  >
+Oliver Nikoloff Invite Day 2 (Invited Teams)
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+Anderson, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+31:31.26
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Monk, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Seattle U.
+</td>
+
+
+<td  >
+31:31.28
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+383
+</td>
+
+
+<td  >
+Robertson, Stephen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+31:31.75
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Welsh, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+31:31.80
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+DiPietrantonio, Josef 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+31:33.09
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Thompson, Conner
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+31:33.22
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+387
+</td>
+
+
+<td  >
+Carmack, Dylan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Davidson
+</td>
+
+
+<td  >
+31:33.36
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Dohner, Brad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+31:34.32
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Morin, Dylan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+31:35.80
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+390
+</td>
+
+
+<td  >
+Collichio, Dominic
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+31:35.84
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Price, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Harvard
+</td>
+
+
+<td  >
+31:36.02
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Fick, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+31:36.14
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Stewart, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+31:36.14
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Greth, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+31:36.48
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+Anderson, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+31:36.77
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Damato, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+31:36.79
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Salcido, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+31:36.95
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Kazanjian, Christian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+31:37.37
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Barajas, Juan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+31:37.65
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Rmidi Kinini , Khalil
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+31:37.65
+</td>
+
+
+<td  >
+2016 NAVY Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+Sleight, Trevor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+31:37.77
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Ross, Hale
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+31:37.80
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+Scheel, Branden
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Dakota State
+</td>
+
+
+<td  >
+31:38.56
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Oberfeitinger, Carl
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+31:39.23
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+405
+</td>
+
+
+<td  >
+Piotto, Roberto
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+31:39.84
+</td>
+
+
+<td  >
+Central Connecticut State University Invite
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Jacobs, Rickus
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+31:39.94
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+McCreary, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+31:39.95
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Del Valle, Nolan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+31:40.17
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+Burdett, Cullin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boston U.
+</td>
+
+
+<td  >
+31:40.18
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Stucker, Dwain
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+31:40.48
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+Harter, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+31:41.10
+</td>
+
+
+<td  >
+Wichita State KT Woodman Classic
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Williams, Samuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+31:41.32
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Golebiowski, Nicholas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+31:41.44
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+Bryant, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+31:42.08
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Thompson, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+31:42.45
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Rogers, Greg 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+31:42.70
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+417
+</td>
+
+
+<td  >
+Franklin, Jacob
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+31:42.82
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Perry, Braden
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+31:42.83
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Hanig, Jonah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+31:43.96
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Galante, Robert
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colgate
+</td>
+
+
+<td  >
+31:44.47
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Stout, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+31:44.82
+</td>
+
+
+<td  >
+2016 Buc Scoring Invite
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Leber, Brent
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+31:45.13
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+McNutt, Stuart
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+31:45.26
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Hendrickson, Connor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas
+</td>
+
+
+<td  >
+31:45.77
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Trusty, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Carolina
+</td>
+
+
+<td  >
+31:46.18
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+Hughes, Riley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+31:46.42
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+Aebi, Carter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+31:46.52
+</td>
+
+
+<td  >
+Linfield Erik Anderson Memorial Icebreaker
+</td>
+
+
+<td  >
+Mar 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+Wigent, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Detroit
+</td>
+
+
+<td  >
+31:46.61
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Chouati, Oussama
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+31:46.63
+</td>
+
+
+<td  >
+2016 NAVY Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Schaible, Peter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+31:47.15
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+Sommer, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+American
+</td>
+
+
+<td  >
+31:47.32
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+Wollant, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+31:48.42
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Loveridge, Toby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+31:48.88
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Pengelly, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+31:48.88
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Weishaar, Luke
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+31:49.78
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Cowman, Brice
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+31:50.05
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+437
+</td>
+
+
+<td  >
+Sery, Alec
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+31:50.08
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Gonzalez, Cesar
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+31:50.43
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Ceja, Jordy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+31:50.49
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+440
+</td>
+
+
+<td  >
+Bridges, William
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida State
+</td>
+
+
+<td  >
+31:51.34
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Owens, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+31:52.09
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+Carson, Dray
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+31:53.11
+</td>
+
+
+<td  >
+Wichita State KT Woodman Classic
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Morris, Jack
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+31:54.49
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Avers, Brandon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+31:55.45
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Gardner, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+31:55.57
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+White, Drew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+31:55.71
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+447
+</td>
+
+
+<td  >
+Szogi, Istvan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Utah
+</td>
+
+
+<td  >
+31:55.72
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+448
+</td>
+
+
+<td  >
+Richardson, Paul
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+31:56.29
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+449
+</td>
+
+
+<td  >
+Van Buskirk, Shaun
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+31:56.85
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+450
+</td>
+
+
+<td  >
+Nguyen, Aaron 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Riverside
+</td>
+
+
+<td  >
+31:57.23
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+451
+</td>
+
+
+<td  >
+Brooks, Liam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+31:57.63
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+452
+</td>
+
+
+<td  >
+Eason, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+31:57.96
+</td>
+
+
+<td  >
+Hokie Twilight
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+453
+</td>
+
+
+<td  >
+Bergstrom, Tim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Long Beach St.
+</td>
+
+
+<td  >
+31:58.07
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+454
+</td>
+
+
+<td  >
+Conway, Samuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+31:58.08
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Webb, Lloyd
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+31:58.63
+</td>
+
+
+<td  >
+Lou	Onesty/Milton G. Abramson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+456
+</td>
+
+
+<td  >
+Guerrero, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+31:59.16
+</td>
+
+
+<td  >
+Islander Collegiate Open
+</td>
+
+
+<td  >
+Mar 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+457
+</td>
+
+
+<td  >
+White, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Va. Military Institute
+</td>
+
+
+<td  >
+31:59.21
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Baffuto, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+32:00.25
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Cook, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+32:00.25
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+460
+</td>
+
+
+<td  >
+Dengler, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+American
+</td>
+
+
+<td  >
+32:01.25
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+461
+</td>
+
+
+<td  >
+Zentmeyer, James
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+32:02.71
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+462
+</td>
+
+
+<td  >
+Castillo, Zac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+32:03.00
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+463
+</td>
+
+
+<td  >
+Forde, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UT-Arlington
+</td>
+
+
+<td  >
+32:03.28
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+464
+</td>
+
+
+<td  >
+Condon, Daniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+32:03.82
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+465
+</td>
+
+
+<td  >
+Wilson, Ethan 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+32:04.31
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+466
+</td>
+
+
+<td  >
+Meli, Stanley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+32:05.36
+</td>
+
+
+<td  >
+2016 NAVY Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+467
+</td>
+
+
+<td  >
+Trenary, Hunter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Morehead State
+</td>
+
+
+<td  >
+32:06.65
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Klaiber, Jon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+32:06.85
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+469
+</td>
+
+
+<td  >
+Daniels, Jimmy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+32:07.80
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+470
+</td>
+
+
+<td  >
+Walton, Xavier
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bethune-Cookman
+</td>
+
+
+<td  >
+32:08.64
+</td>
+
+
+<td  >
+Tiger Orange and Blue Classic
+</td>
+
+
+<td  >
+Mar 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+471
+</td>
+
+
+<td  >
+Cornine, Nicholas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+32:09.37
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+472
+</td>
+
+
+<td  >
+Wilson, Edward
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+32:09.82
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Pfeil, Frankie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+32:11.05
+</td>
+
+
+<td  >
+Lou	Onesty/Milton G. Abramson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+474
+</td>
+
+
+<td  >
+Ward, Evan 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+32:11.62
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+475
+</td>
+
+
+<td  >
+Greenhalgh, Connor 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+32:12.99
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+476
+</td>
+
+
+<td  >
+Denari, Nicholas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+32:13.17
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Montero, Rick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UT-Rio Grande Valley
+</td>
+
+
+<td  >
+32:13.98
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+478
+</td>
+
+
+<td  >
+Alexander, Paden
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+32:14.08
+</td>
+
+
+<td  >
+WAR 9
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Sumerford, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+32:14.17
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+480
+</td>
+
+
+<td  >
+Orlando, Christopher
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+32:14.99
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+481
+</td>
+
+
+<td  >
+Bourget, Jeremie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+32:15.28
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+482
+</td>
+
+
+<td  >
+Morelli, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+32:15.84
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+483
+</td>
+
+
+<td  >
+Grossman, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Miami
+</td>
+
+
+<td  >
+32:16.35
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Benka, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+32:16.49
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Kuchta, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+32:16.49
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+486
+</td>
+
+
+<td  >
+Mireles, Izzak 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+32:18.13
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+487
+</td>
+
+
+<td  >
+Fong, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+32:18.24
+</td>
+
+
+<td  >
+Lou	Onesty/Milton G. Abramson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+488
+</td>
+
+
+<td  >
+Maier, Chad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+32:19.70
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+489
+</td>
+
+
+<td  >
+Lucci, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+32:19.86
+</td>
+
+
+<td  >
+UMass Leap Year Tri Meet
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+490
+</td>
+
+
+<td  >
+Thompson, William
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+32:19.92
+</td>
+
+
+<td  >
+2016 Buc Scoring Invite
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+491
+</td>
+
+
+<td  >
+Johnson, Preston
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+32:20.65
+</td>
+
+
+<td  >
+UNLV Invitational and Sheila Tarr Multis
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+492
+</td>
+
+
+<td  >
+Wellington, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+32:20.94
+</td>
+
+
+<td  >
+WAR 9
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+493
+</td>
+
+
+<td  >
+Tucker, AJ
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+32:21.08
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+494
+</td>
+
+
+<td  >
+Victor, Kipkirui
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+32:21.25
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+495
+</td>
+
+
+<td  >
+Zarate Sada, Jaime
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+32:21.34
+</td>
+
+
+<td  >
+Drury Hotels Joey Haines Invite
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+496
+</td>
+
+
+<td  >
+O'Connor, Quincy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+32:21.75
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+497
+</td>
+
+
+<td  >
+Purtzer, Quentin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+San Francisco
+</td>
+
+
+<td  >
+32:22.69
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+498
+</td>
+
+
+<td  >
+Riesterer, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+32:23.13
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+499
+</td>
+
+
+<td  >
+Rigsby, Shane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Morehead State
+</td>
+
+
+<td  >
+32:23.93
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+500
+</td>
+
+
+<td  >
+Bryan, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+32:24.11
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+501
+</td>
+
+
+<td  >
+Schueller, Adam 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Milwaukee
+</td>
+
+
+<td  >
+32:25.17
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+502
+</td>
+
+
+<td  >
+Kurdieh, Zade
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois-Chicago
+</td>
+
+
+<td  >
+32:26.15
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+503
+</td>
+
+
+<td  >
+Gonzalez, Jose Angel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas State
+</td>
+
+
+<td  >
+32:26.22
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+504
+</td>
+
+
+<td  >
+Bland, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+32:26.57
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+505
+</td>
+
+
+<td  >
+Bezdek, Sean
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UL-Lafayette
+</td>
+
+
+<td  >
+32:27.01
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+506
+</td>
+
+
+<td  >
+Huff, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chicago State
+</td>
+
+
+<td  >
+32:27.80
+</td>
+
+
+<td  >
+Cougar Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+507
+</td>
+
+
+<td  >
+Demsie, Haileysus
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+32:28.05
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+508
+</td>
+
+
+<td  >
+Day, Derek
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+32:28.80
+</td>
+
+
+<td  >
+UNLV Invitational and Sheila Tarr Multis
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Kennedy, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+32:30.41
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+510
+</td>
+
+
+<td  >
+Hadley, Mark
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+32:31.38
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+511
+</td>
+
+
+<td  >
+Clark, Spencer
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+32:31.92
+</td>
+
+
+<td  >
+Oliver Nikoloff Invite Day 2 (Invited Teams)
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+512
+</td>
+
+
+<td  >
+O'Leary, Ciaran
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+32:33.95
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+513
+</td>
+
+
+<td  >
+Kemboi, Bill
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+32:34.15
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+514
+</td>
+
+
+<td  >
+Cacciatore, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+32:34.58
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+515
+</td>
+
+
+<td  >
+McNinch, Tucker
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+32:35.68
+</td>
+
+
+<td  >
+UMass Leap Year Tri Meet
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+516
+</td>
+
+
+<td  >
+Brooks, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Milwaukee
+</td>
+
+
+<td  >
+32:36.18
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+517
+</td>
+
+
+<td  >
+Hayslett, Austin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+32:36.73
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+518
+</td>
+
+
+<td  >
+Frazier, Grady
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Texas
+</td>
+
+
+<td  >
+32:36.77
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+519
+</td>
+
+
+<td  >
+Winchester, David
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+32:37.93
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+520
+</td>
+
+
+<td  >
+Simpson, Andrew 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+32:38.83
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+521
+</td>
+
+
+<td  >
+Weaver, John
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+32:41.78
+</td>
+
+
+<td  >
+2016 Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+522
+</td>
+
+
+<td  >
+Hazlehurst, Fletcher
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+32:42.23
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+523
+</td>
+
+
+<td  >
+Drew, Micah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+32:42.87
+</td>
+
+
+<td  >
+WAR 9
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+524
+</td>
+
+
+<td  >
+Hirdt, Nicholas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+32:43.29
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+Baires, Fredis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Francis (N.Y.)
+</td>
+
+
+<td  >
+32:43.45
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+Penaloza, Jose
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal St. Fullerton
+</td>
+
+
+<td  >
+32:43.45
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+527
+</td>
+
+
+<td  >
+Hadity, Joshua
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+32:43.83
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Murphy, Joseph
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+32:44.13
+</td>
+
+
+<td  >
+U Mass Amherst Minuteman Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+529
+</td>
+
+
+<td  >
+Raymond, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+32:46.10
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+530
+</td>
+
+
+<td  >
+Stevens, Russell
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bryant
+</td>
+
+
+<td  >
+32:46.48
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+531
+</td>
+
+
+<td  >
+Cabean, Perry
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+N. Carolina A&T
+</td>
+
+
+<td  >
+32:46.73
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+532
+</td>
+
+
+<td  >
+Padesky, Luke
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+32:47.65
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+533
+</td>
+
+
+<td  >
+White, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+32:48.02
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+534
+</td>
+
+
+<td  >
+Holshouser, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+32:48.70
+</td>
+
+
+<td  >
+Wash U Invite
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+535
+</td>
+
+
+<td  >
+Libbey, Pierce
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+32:48.92
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+536
+</td>
+
+
+<td  >
+Leon, Jordan 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+32:49.24
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+537
+</td>
+
+
+<td  >
+Nichols, Travis 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+32:49.41
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+538
+</td>
+
+
+<td  >
+Hurd, Sean
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+32:51.24
+</td>
+
+
+<td  >
+Drury Hotels Joey Haines Invite
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+539
+</td>
+
+
+<td  >
+Handfield, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+32:51.66
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+540
+</td>
+
+
+<td  >
+Williams, Brandon 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+32:51.88
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+541
+</td>
+
+
+<td  >
+Kirwa, Azaria
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+32:52.85
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+542
+</td>
+
+
+<td  >
+Fransham, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mount St. Mary's
+</td>
+
+
+<td  >
+32:54.03
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+543
+</td>
+
+
+<td  >
+Straubel, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+32:54.42
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+544
+</td>
+
+
+<td  >
+Williams, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+32:55.18
+</td>
+
+
+<td  >
+Colorado Mesa Open
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+545
+</td>
+
+
+<td  >
+Ndirangu, Isaac
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+32:55.83
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+546
+</td>
+
+
+<td  >
+Wanene, Joseph
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+32:56.54
+</td>
+
+
+<td  >
+Norfolk State University Twilight Meet
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+Dixon, Alden 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mid. Tenn. State
+</td>
+
+
+<td  >
+32:56.83
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+O'Callaghan, Clayton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Orleans
+</td>
+
+
+<td  >
+32:56.83
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+549
+</td>
+
+
+<td  >
+Greco, G Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+32:57.01
+</td>
+
+
+<td  >
+U Mass Amherst Minuteman Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+550
+</td>
+
+
+<td  >
+Marindich, Amon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+32:57.79
+</td>
+
+
+<td  >
+Norfolk State University Twilight Meet
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+551
+</td>
+
+
+<td  >
+Adamo, Nicholas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+32:57.88
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+552
+</td>
+
+
+<td  >
+Daughtry, Calvin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC-Wilmington
+</td>
+
+
+<td  >
+32:58.04
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+553
+</td>
+
+
+<td  >
+Cheruyot, Joshua
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+32:59.13
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+554
+</td>
+
+
+<td  >
+White, Darren
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+N. Carolina A&T
+</td>
+
+
+<td  >
+33:01.87
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+555
+</td>
+
+
+<td  >
+Dominguez, Leo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UT-Rio Grande Valley
+</td>
+
+
+<td  >
+33:01.94
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+556
+</td>
+
+
+<td  >
+Nedrich, James 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+33:02.18
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+557
+</td>
+
+
+<td  >
+Duckworth, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+33:02.91
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+558
+</td>
+
+
+<td  >
+Durkin, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Memphis
+</td>
+
+
+<td  >
+33:04.67
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+559
+</td>
+
+
+<td  >
+Jeffcoat, Jonathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+33:04.86
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+560
+</td>
+
+
+<td  >
+Boone, Zach
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+33:05.02
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+561
+</td>
+
+
+<td  >
+Canavan, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+33:05.17
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+562
+</td>
+
+
+<td  >
+Morello, Max
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+33:05.20
+</td>
+
+
+<td  >
+EIU Big Blue Classic 2016
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+563
+</td>
+
+
+<td  >
+Bruno, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+33:05.53
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+564
+</td>
+
+
+<td  >
+O'Hara, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+33:07.52
+</td>
+
+
+<td  >
+21st Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+565
+</td>
+
+
+<td  >
+Labadie, Mason 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Mary's (Cal.)
+</td>
+
+
+<td  >
+33:08.29
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+566
+</td>
+
+
+<td  >
+Alfredson, Corey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+33:08.45
+</td>
+
+
+<td  >
+EIU Big Blue Classic 2016
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+567
+</td>
+
+
+<td  >
+Love, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+33:08.85
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+568
+</td>
+
+
+<td  >
+Lewis, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+33:11.08
+</td>
+
+
+<td  >
+Ball State Challenge
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+569
+</td>
+
+
+<td  >
+Wikler, Justin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+33:11.18
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+570
+</td>
+
+
+<td  >
+Smart, Eric 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+33:12.45
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+571
+</td>
+
+
+<td  >
+Sprung, Sawyer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Troy
+</td>
+
+
+<td  >
+33:12.62
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+572
+</td>
+
+
+<td  >
+Kiptoo, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bethune-Cookman
+</td>
+
+
+<td  >
+33:13.64
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+573
+</td>
+
+
+<td  >
+Garst, James
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+33:13.70
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+574
+</td>
+
+
+<td  >
+Mustafaa, Hakeem
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+N. Carolina A&T
+</td>
+
+
+<td  >
+33:15.55
+</td>
+
+
+<td  >
+New Captains Classic & Comb Events - Collegiate Team Entries
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+575
+</td>
+
+
+<td  >
+Baker, Scott
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount St. Mary's
+</td>
+
+
+<td  >
+33:16.75
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+576
+</td>
+
+
+<td  >
+Lopez, Jeff
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+33:17.70
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+577
+</td>
+
+
+<td  >
+Rooney, William
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Duke
+</td>
+
+
+<td  >
+33:19.91
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+578
+</td>
+
+
+<td  >
+Kingeter, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+33:20.26
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+579
+</td>
+
+
+<td  >
+Lantz, Mike
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Citadel
+</td>
+
+
+<td  >
+33:20.48
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+580
+</td>
+
+
+<td  >
+Peynado, Mathew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UT-Rio Grande Valley
+</td>
+
+
+<td  >
+33:23.60
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+581
+</td>
+
+
+<td  >
+Kun, Mitchell
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stony Brook
+</td>
+
+
+<td  >
+33:25.00
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+582
+</td>
+
+
+<td  >
+Thompson, Joel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+33:26.02
+</td>
+
+
+<td  >
+Ball State Challenge
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+583
+</td>
+
+
+<td  >
+Clark, Ethan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+33:26.10
+</td>
+
+
+<td  >
+SLU Billiken Invite
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+584
+</td>
+
+
+<td  >
+Hauersperger, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+33:26.35
+</td>
+
+
+<td  >
+Ball State Challenge
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+585
+</td>
+
+
+<td  >
+Salvano, Steven
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+33:27.35
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+586
+</td>
+
+
+<td  >
+Sisay, Chernet
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+33:28.97
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+587
+</td>
+
+
+<td  >
+Gooding, Darrel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fairleigh Dickinson
+</td>
+
+
+<td  >
+33:30.03
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+588
+</td>
+
+
+<td  >
+Hawkins, Cody
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colgate
+</td>
+
+
+<td  >
+33:30.50
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+589
+</td>
+
+
+<td  >
+Davis, Charles
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hartford
+</td>
+
+
+<td  >
+33:31.45
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+590
+</td>
+
+
+<td  >
+Galbreath, Christopher
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+33:31.59
+</td>
+
+
+<td  >
+Drury Hotels Joey Haines Invite
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+591
+</td>
+
+
+<td  >
+Kruse, Josh
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+33:32.09
+</td>
+
+
+<td  >
+SLU Billiken Invite
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+592
+</td>
+
+
+<td  >
+Newsom, Zach 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Mary's (Cal.)
+</td>
+
+
+<td  >
+33:32.36
+</td>
+
+
+<td  >
+East Bay Invite
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+593
+</td>
+
+
+<td  >
+Degraeve, Matthew 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oakland
+</td>
+
+
+<td  >
+33:34.45
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+594
+</td>
+
+
+<td  >
+Hand, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kennesaw State
+</td>
+
+
+<td  >
+33:34.87
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+595
+</td>
+
+
+<td  >
+Kessler, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+33:36.56
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+596
+</td>
+
+
+<td  >
+Carey, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+33:37.65
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+597
+</td>
+
+
+<td  >
+Kozyra, Nathaniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+33:37.69
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+598
+</td>
+
+
+<td  >
+Freeman, Joel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+33:39.39
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+599
+</td>
+
+
+<td  >
+Tanner, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+LSU
+</td>
+
+
+<td  >
+33:40.80
+</td>
+
+
+<td  >
+LSU Battle on the Bayou
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+600
+</td>
+
+
+<td  >
+Whitehead, Nassor 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+33:41.25
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+601
+</td>
+
+
+<td  >
+Bias, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Troy
+</td>
+
+
+<td  >
+33:41.39
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+602
+</td>
+
+
+<td  >
+Tonero, Kieran
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount St. Mary's
+</td>
+
+
+<td  >
+33:41.52
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+603
+</td>
+
+
+<td  >
+Silva, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+33:42.09
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+604
+</td>
+
+
+<td  >
+Bulger, Tim
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Troy
+</td>
+
+
+<td  >
+33:42.70
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+605
+</td>
+
+
+<td  >
+Begley, Patrick 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+33:43.93
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+606
+</td>
+
+
+<td  >
+Buley, Grant
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sam Houston St.
+</td>
+
+
+<td  >
+33:44.25
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+607
+</td>
+
+
+<td  >
+Richmond, Jon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+33:45.03
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+608
+</td>
+
+
+<td  >
+Park, Rhys
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+33:47.44
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+609
+</td>
+
+
+<td  >
+Broderick, Bryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+33:47.48
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+610
+</td>
+
+
+<td  >
+Vallecorsa, Jonathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+33:47.55
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+611
+</td>
+
+
+<td  >
+Chepkwony, Hassan 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grambling
+</td>
+
+
+<td  >
+33:47.61
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+612
+</td>
+
+
+<td  >
+Cuyeu, Julien
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+33:49.61
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+613
+</td>
+
+
+<td  >
+Phipps III, Gordon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+33:50.44
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+614
+</td>
+
+
+<td  >
+Snyder, Galen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+33:53.48
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+615
+</td>
+
+
+<td  >
+Harper, Jonathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oral Roberts
+</td>
+
+
+<td  >
+33:54.85
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+616
+</td>
+
+
+<td  >
+Vaccaro, Adam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+33:55.09
+</td>
+
+
+<td  >
+21st Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+617
+</td>
+
+
+<td  >
+Albert, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+33:55.60
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+618
+</td>
+
+
+<td  >
+Friedlander, Phillip 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Alabama
+</td>
+
+
+<td  >
+33:57.17
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+619
+</td>
+
+
+<td  >
+Sanchez, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+33:58.79
+</td>
+
+
+<td  >
+2016 OSU High Performance Meet
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+620
+</td>
+
+
+<td  >
+Cunningham, Jamie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Citadel
+</td>
+
+
+<td  >
+34:00.09
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+621
+</td>
+
+
+<td  >
+Bryan, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+34:00.96
+</td>
+
+
+<td  >
+Embry-Riddle Spike's Classic - Collegiate
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+622
+</td>
+
+
+<td  >
+Mitchell, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+34:01.04
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+623
+</td>
+
+
+<td  >
+Stoker, Colton
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sam Houston St.
+</td>
+
+
+<td  >
+34:03.34
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+624
+</td>
+
+
+<td  >
+Hammond, Craig 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+34:03.40
+</td>
+
+
+<td  >
+UMass Leap Year Tri Meet
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+625
+</td>
+
+
+<td  >
+Machabee, Keith
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albany
+</td>
+
+
+<td  >
+34:05.54
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+626
+</td>
+
+
+<td  >
+Davidson, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+34:07.01
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+627
+</td>
+
+
+<td  >
+Hale, Aedan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Hartford
+</td>
+
+
+<td  >
+34:07.62
+</td>
+
+
+<td  >
+2016 Silfen Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+628
+</td>
+
+
+<td  >
+Bilotta, Brendan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+34:08.71
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+629
+</td>
+
+
+<td  >
+Turi, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+34:08.84
+</td>
+
+
+<td  >
+Mets Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+630
+</td>
+
+
+<td  >
+Morales-Perryman, Quentin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hampton
+</td>
+
+
+<td  >
+34:10.54
+</td>
+
+
+<td  >
+Norfolk State University Twilight Meet
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+631
+</td>
+
+
+<td  >
+Eubanks, Griffin 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+34:10.85
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+632
+</td>
+
+
+<td  >
+Catrine, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+34:11.46
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+633
+</td>
+
+
+<td  >
+Freeman, Noah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+34:14.58
+</td>
+
+
+<td  >
+Kansas Relays
+</td>
+
+
+<td  >
+Apr 20, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+634
+</td>
+
+
+<td  >
+Welch, Zach
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+34:16.33
+</td>
+
+
+<td  >
+Sioux CIty Relays 2016 UCO
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+635
+</td>
+
+
+<td  >
+Gugendiran, Pratheip
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Francis (N.Y.)
+</td>
+
+
+<td  >
+34:17.44
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+636
+</td>
+
+
+<td  >
+Baltezore, Darin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Dakota
+</td>
+
+
+<td  >
+34:20.21
+</td>
+
+
+<td  >
+2016 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+637
+</td>
+
+
+<td  >
+King, Brandon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+34:20.87
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+638
+</td>
+
+
+<td  >
+Kinyanjui, Derick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kennesaw State
+</td>
+
+
+<td  >
+34:22.57
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+639
+</td>
+
+
+<td  >
+Paige-Rispoli, Arrane
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Canisius
+</td>
+
+
+<td  >
+34:22.58
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+640
+</td>
+
+
+<td  >
+Gonzales, Bryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+34:23.51
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+641
+</td>
+
+
+<td  >
+Whitsell, Iszack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Morehead State
+</td>
+
+
+<td  >
+34:26.14
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+642
+</td>
+
+
+<td  >
+Misoy, Timothy 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+34:27.87
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+643
+</td>
+
+
+<td  >
+Jenck, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+34:35.39
+</td>
+
+
+<td  >
+Linfield Erik Anderson Memorial Icebreaker
+</td>
+
+
+<td  >
+Mar 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+644
+</td>
+
+
+<td  >
+Smaltz, Joel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+34:40.44
+</td>
+
+
+<td  >
+Norfolk State University Twilight Meet
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+645
+</td>
+
+
+<td  >
+Kiprop, Hillary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grambling
+</td>
+
+
+<td  >
+34:44.85
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+646
+</td>
+
+
+<td  >
+Franklin, Eclecius
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Jackson State
+</td>
+
+
+<td  >
+34:48.58
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+647
+</td>
+
+
+<td  >
+Cheruiyot, Derrick 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+34:49.80
+</td>
+
+
+<td  >
+2016 NAVY Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+648
+</td>
+
+
+<td  >
+Schilmoeller, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+34:50.93
+</td>
+
+
+<td  >
+Sioux CIty Relays 2016 UCO
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+649
+</td>
+
+
+<td  >
+Nelson, Mathew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+34:52.55
+</td>
+
+
+<td  >
+21st Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+650
+</td>
+
+
+<td  >
+Harris, Montieco
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grambling
+</td>
+
+
+<td  >
+34:59.00
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+651
+</td>
+
+
+<td  >
+Schueller, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Troy
+</td>
+
+
+<td  >
+35:00.37
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+652
+</td>
+
+
+<td  >
+Smith, Grant 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Citadel
+</td>
+
+
+<td  >
+35:00.96
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+653
+</td>
+
+
+<td  >
+Golay, Mark
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Orleans
+</td>
+
+
+<td  >
+35:02.51
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+654
+</td>
+
+
+<td  >
+Gafkjen, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+35:04.19
+</td>
+
+
+<td  >
+EIU Big Blue Classic 2016
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+654
+</td>
+
+
+<td  >
+Medina, Jose 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas Southern
+</td>
+
+
+<td  >
+35:04.19
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+656
+</td>
+
+
+<td  >
+Hernandez, Abraham 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+35:14.09
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+657
+</td>
+
+
+<td  >
+Lewis, Ereck 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+35:22.75
+</td>
+
+
+<td  >
+Coach O Coastal Carolina University Invitational
+</td>
+
+
+<td  >
+Mar 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+658
+</td>
+
+
+<td  >
+Potter, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+35:23.28
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+659
+</td>
+
+
+<td  >
+Krchnavy, Dane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+35:29.27
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+660
+</td>
+
+
+<td  >
+O'Grady, Patrick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+35:36.85
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+661
+</td>
+
+
+<td  >
+Russell, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Jersey Institute
+</td>
+
+
+<td  >
+35:43.37
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+662
+</td>
+
+
+<td  >
+Newton, Tyree
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+35:43.69
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+663
+</td>
+
+
+<td  >
+Cotton, Ethan 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+35:44.58
+</td>
+
+
+<td  >
+Linfield Jenn Boyman Memorial Invitational
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+664
+</td>
+
+
+<td  >
+Frishberg, Charlie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+36:12.97
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+665
+</td>
+
+
+<td  >
+Spencer, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+36:15.13
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+666
+</td>
+
+
+<td  >
+Arelleno, Xavier
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+36:56.98
+</td>
+
+
+<td  >
+Islander Collegiate Open
+</td>
+
+
+<td  >
+Mar 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+667
+</td>
+
+
+<td  >
+Grullon, Angelio
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+38:42.29
+</td>
+
+
+<td  >
+Mets Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

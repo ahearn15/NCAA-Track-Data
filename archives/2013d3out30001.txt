@@ -1,0 +1,25030 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2013 NCAA Division III Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+3000 Steeple 
+	
+	
+ (Men)
+                            </h3>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1
+</td>
+
+
+<td  >
+Davies, Jack
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Middlebury
+</td>
+
+
+<td  >
+8:52.12
+</td>
+
+
+<td  >
+Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2
+</td>
+
+
+<td  >
+LeDuc, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+8:54.80
+</td>
+
+
+<td  >
+Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3
+</td>
+
+
+<td  >
+Amengual, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+8:57.54
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4
+</td>
+
+
+<td  >
+Bregman, Avi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+8:59.67
+</td>
+
+
+<td  >
+Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5
+</td>
+
+
+<td  >
+Miller, Dawson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:04.12
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6
+</td>
+
+
+<td  >
+Kieser, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+9:04.61
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7
+</td>
+
+
+<td  >
+Gallagher, Andy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:04.62
+</td>
+
+
+<td  >
+IC4A/ECAC DI Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8
+</td>
+
+
+<td  >
+Rohlman, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:05.72
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9
+</td>
+
+
+<td  >
+Simmons, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+9:06.11
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10
+</td>
+
+
+<td  >
+Martin, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:06.19
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11
+</td>
+
+
+<td  >
+Newby, Josh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+9:06.32
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12
+</td>
+
+
+<td  >
+Wallis, Ben
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:06.49
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13
+</td>
+
+
+<td  >
+Naden, Bennett
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:06.59
+</td>
+
+
+<td  >
+Oxy-Lu Last Chance Qualifier
+</td>
+
+
+<td  >
+May 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14
+</td>
+
+
+<td  >
+Kelly, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+9:07.23
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15
+</td>
+
+
+<td  >
+Mangiapane, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+9:07.26
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16
+</td>
+
+
+<td  >
+Lee, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+9:07.69
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17
+</td>
+
+
+<td  >
+Carpenter, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+9:07.84
+</td>
+
+
+<td  >
+47th Annual Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18
+</td>
+
+
+<td  >
+Haagsma, Steven 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:08.16
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19
+</td>
+
+
+<td  >
+Waterman, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:08.90
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20
+</td>
+
+
+<td  >
+Kremer, Jordan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:09.44
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21
+</td>
+
+
+<td  >
+Kurvach, Mike
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+RIT
+</td>
+
+
+<td  >
+9:09.62
+</td>
+
+
+<td  >
+ECAC DIII Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22
+</td>
+
+
+<td  >
+Boyce, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:10.15
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23
+</td>
+
+
+<td  >
+Perdomo, Sal
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Trinity (Tex.)
+</td>
+
+
+<td  >
+9:11.08
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24
+</td>
+
+
+<td  >
+Salvucci, Anthony
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+9:11.25
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25
+</td>
+
+
+<td  >
+Berton, Mark
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+9:12.17
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26
+</td>
+
+
+<td  >
+Abasolo, Brandon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+9:12.32
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27
+</td>
+
+
+<td  >
+Wortham, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:13.42
+</td>
+
+
+<td  >
+IC4A/ECAC DI Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Rial, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+9:13.69
+</td>
+
+
+<td  >
+GVSU Second to Last Chance Meet
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+Brimstein, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+9:13.74
+</td>
+
+
+<td  >
+Univ of Rochester Alumni Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Boeding, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+9:14.12
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Ruter, Brendan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hamline
+</td>
+
+
+<td  >
+9:14.24
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Melvin, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Albion
+</td>
+
+
+<td  >
+9:15.21
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Cason, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Guilford
+</td>
+
+
+<td  >
+9:15.34
+</td>
+
+
+<td  >
+Duke Twilight
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Janet, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:17.19
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Taute, Brock
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+9:20.16
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Hetke, Paul
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+9:20.52
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Cavanaugh, Patrick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+9:21.07
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Lee, Anthony
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Middlebury
+</td>
+
+
+<td  >
+9:21.24
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+Mickesh, Grant 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Edgewood
+</td>
+
+
+<td  >
+9:22.08
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Steinbock, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+9:22.80
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41
+</td>
+
+
+<td  >
+Huderle, Marcus
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+9:23.35
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+Norton, Chad 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Guilford
+</td>
+
+
+<td  >
+9:23.57
+</td>
+
+
+<td  >
+ODAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Sauter, Charlie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Occidental
+</td>
+
+
+<td  >
+9:23.79
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Roza, David
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:23.90
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Stevens, Sam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+9:25.05
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Dixon, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+9:25.16
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Jackson, Drew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+9:25.20
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Dannenhauer, Rafer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:25.37
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Harvey, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+9:25.80
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Hosch, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:26.48
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Broderick, Brian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+NYU
+</td>
+
+
+<td  >
+9:26.51
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Iacovelli, Jarred
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:26.94
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Shunk, Alec
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:27.40
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Rittenhouse, Abram
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bridgewater (Va.)
+</td>
+
+
+<td  >
+9:27.42
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Harvey, Cameron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:28.70
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Togami, Adam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:28.83
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Reed, Dominick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+9:29.72
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Heinz, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:29.85
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Seipel, Logan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:30.26
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Pagano, Marshall
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:30.29
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Hitchcock, Sawyer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+9:30.95
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+Mattiucci, Mike
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+9:31.02
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Gaither, Brent
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:31.03
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Clark, Greg
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+9:31.83
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Gutierrez, Cristobal
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+9:31.98
+</td>
+
+
+<td  >
+SCIAC Quad Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Budman, Josh
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Johns Hopkins
+</td>
+
+
+<td  >
+9:32.36
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Lewis, Paul
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Albion
+</td>
+
+
+<td  >
+9:32.36
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Hinze, Martin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Concordia (Wis.)
+</td>
+
+
+<td  >
+9:32.88
+</td>
+
+
+<td  >
+Rex Foster Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Barr, Jacob
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Monmouth (Ill.)
+</td>
+
+
+<td  >
+9:33.54
+</td>
+
+
+<td  >
+Augustana Meet of Champions
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Austin, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Elmhurst
+</td>
+
+
+<td  >
+9:33.66
+</td>
+
+
+<td  >
+47th Annual Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Dobbins, Nate 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hamline
+</td>
+
+
+<td  >
+9:33.96
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Allabastro, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:34.26
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Trimble, Logan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+9:34.32
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Knutson, Eric
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+9:34.96
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Butler, Samuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+9:35.07
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Habermann, Charlie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+9:35.14
+</td>
+
+
+<td  >
+UW-La Crosse NCAA Qualifier
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Loustalet, Zorg
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:35.35
+</td>
+
+
+<td  >
+SCIAC Quad Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Buckley, Dillon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+9:35.50
+</td>
+
+
+<td  >
+University of Massachusetts Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Pearsall, Graham
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:35.56
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Purcella, Corey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pomona-Pitzer
+</td>
+
+
+<td  >
+9:35.85
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Edwards, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+9:36.62
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Brunk, Griffin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+9:36.91
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Heroux, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:37.25
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Pruitt, Dakota
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carroll
+</td>
+
+
+<td  >
+9:37.25
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Duncan, Alec 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Moravian
+</td>
+
+
+<td  >
+9:37.45
+</td>
+
+
+<td  >
+Duke Twilight
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Showalter, Joshua
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+9:38.30
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Trama, Zach
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+9:38.45
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Hoose, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+9:38.60
+</td>
+
+
+<td  >
+Springfield College Outdoor T&F Meet #1
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Faiges, Randall
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stockton
+</td>
+
+
+<td  >
+9:38.68
+</td>
+
+
+<td  >
+2013 TCNJ Lions Invitational
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Rottschafer, Blake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+9:38.95
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Steil, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+9:39.00
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Lary, Will
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+9:39.10
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Ray, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:39.28
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Blazey, Joe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:39.28
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Catanese, Andrew 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:39.90
+</td>
+
+
+<td  >
+Wash U Invite
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Stumme, Cam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+9:39.99
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Horvath, Stephen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Coast Guard
+</td>
+
+
+<td  >
+9:39.99
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Meister, Joe
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+9:40.24
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Shartrand, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+9:40.35
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Nehrenz, Bret
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Capital
+</td>
+
+
+<td  >
+9:40.39
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Molineux, Evan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:40.39
+</td>
+
+
+<td  >
+SCIAC Quad Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Garrity, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+9:40.40
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Seekatz, Joshua
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+9:41.08
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Buntman, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:41.20
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Sousis, C.J.
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cobleskill
+</td>
+
+
+<td  >
+9:41.26
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Zalov, Renat
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+9:41.69
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Waterman, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:41.90
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Kerska, Garrett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:42.00
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Ehinger, Joshua
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Whittier
+</td>
+
+
+<td  >
+9:42.05
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Turissini, Greg
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+9:42.28
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Hoffman, Ken
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:42.32
+</td>
+
+
+<td  >
+Don Church Wheaton Twilight 2013
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Pietras, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+9:42.43
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Dudley, Trent
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+9:42.78
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Weisgerber, Patrick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:43.25
+</td>
+
+
+<td  >
+Twilight Invite Benedictine University
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Reighard, Charlie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+9:43.26
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Trostle, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:43.27
+</td>
+
+
+<td  >
+Augustana Twilight
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Sutton, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+9:43.29
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Johnson, Daniel 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oberlin
+</td>
+
+
+<td  >
+9:43.61
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Longo, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+9:43.70
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Berget, Jerrod
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+9:43.80
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Harris, Tommy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:43.86
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Savage, Scott
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:44.07
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Lindquist, Jackson
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+9:44.13
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Frey, Reuben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:44.14
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Davis, Joe
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Defiance
+</td>
+
+
+<td  >
+9:44.47
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Baker, Brett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:44.67
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Quinn, Jared
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Buffalo State
+</td>
+
+
+<td  >
+9:45.33
+</td>
+
+
+<td  >
+7th Annual Gator Invitational
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Benkovsky, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Olivet
+</td>
+
+
+<td  >
+9:45.34
+</td>
+
+
+<td  >
+47th Annual Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Stackman, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:45.47
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Sutton, Aaron
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Westminster (Pa.)
+</td>
+
+
+<td  >
+9:45.54
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Toney, Harrison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+9:45.70
+</td>
+
+
+<td  >
+Commonwealth Duals
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Spisiak, Brian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+9:46.07
+</td>
+
+
+<td  >
+MIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Pedrick, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+9:46.11
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Saba, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+9:46.20
+</td>
+
+
+<td  >
+Springfield College Outdoor T&F Meet #1
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Remillard, Charles
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+9:46.23
+</td>
+
+
+<td  >
+VA Commonwealth Duals @LC
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Caddick, Jacob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:46.82
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Warnke, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+9:46.83
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Howell, Billy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ramapo
+</td>
+
+
+<td  >
+9:47.32
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Ceruzzi, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Johns Hopkins
+</td>
+
+
+<td  >
+9:47.32
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Strother, Aldous
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+9:47.33
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Avanatti, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:47.41
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Giamberdino, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+9:47.44
+</td>
+
+
+<td  >
+UW-La Crosse NCAA Qualifier
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Davies, Cam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+9:47.58
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Kellher, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+9:48.04
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Gilbert, Mitchell
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:48.11
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Czech, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Platteville
+</td>
+
+
+<td  >
+9:48.56
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Stockwell, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:48.66
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Metz, Peter
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:48.77
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Spitzer, Phillip
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:49.05
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Eidenschink, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:49.06
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Kirk, Joel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:49.56
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Gridello, Edgar
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+9:49.61
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Arce, Angelo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+9:49.76
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Read, Sam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:50.00
+</td>
+
+
+<td  >
+Wartburg Select
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Krick, Hayden
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Defiance
+</td>
+
+
+<td  >
+9:50.02
+</td>
+
+
+<td  >
+Defiance Dick Small Invitational
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Davis, Mitchell
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+9:50.19
+</td>
+
+
+<td  >
+2013 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Mahone, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:50.31
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Kline, Brad 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+9:50.50
+</td>
+
+
+<td  >
+OWU Ron Althoff Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Padgett, Hunter
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Utica
+</td>
+
+
+<td  >
+9:50.77
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Clinton, Mitch 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Albion
+</td>
+
+
+<td  >
+9:50.83
+</td>
+
+
+<td  >
+47th Annual Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Stocker, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+9:51.20
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Eberhardt, Colin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+9:51.64
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Mendoza, Steve
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+9:51.77
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Huinker, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:51.77
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Boggs, Garrett
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:52.10
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Safai, Eric
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+9:52.13
+</td>
+
+
+<td  >
+MIT Quad
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Dodd, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+9:52.14
+</td>
+
+
+<td  >
+Amy Adams Memorial Invitational
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Cole, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+9:52.38
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Root, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:52.70
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Hird, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:52.96
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Strenta, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+9:52.98
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Dickerson, Baylor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bridgewater (Va.)
+</td>
+
+
+<td  >
+9:53.10
+</td>
+
+
+<td  >
+VA Commonwealth Duals @LC
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Grisham, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+9:53.20
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Talbot, Mark
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+9:53.21
+</td>
+
+
+<td  >
+Grove City Mini Dual Meet 2013
+</td>
+
+
+<td  >
+Apr 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Edwards, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Allegheny
+</td>
+
+
+<td  >
+9:53.27
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Paziora, Tim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ramapo
+</td>
+
+
+<td  >
+9:53.39
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Branson, Jeff
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+9:53.61
+</td>
+
+
+<td  >
+Hopkins/Loyola Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Linzmeier, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+9:53.67
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Meyer, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:53.70
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Harmon, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+9:53.76
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Richard, Daniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+9:53.84
+</td>
+
+
+<td  >
+2013 Colonial Relays
+</td>
+
+
+<td  >
+Apr 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Bunnell, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colby-Sawyer
+</td>
+
+
+<td  >
+9:53.96
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Miehe, Kent
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:54.04
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Tokar, Paul
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:54.16
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Millar, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Plattsburgh St.
+</td>
+
+
+<td  >
+9:54.21
+</td>
+
+
+<td  >
+Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Lu, Joseph
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+9:54.22
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Cook, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:54.24
+</td>
+
+
+<td  >
+Caltech/Chapman/CMS/Occidental/Pomona-Pitzer
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Nelson, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+RIT
+</td>
+
+
+<td  >
+9:54.29
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Parker, Bobby
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+9:54.43
+</td>
+
+
+<td  >
+2013 Capital District Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Wubben, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Platteville
+</td>
+
+
+<td  >
+9:54.48
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Glasser, Dillon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stockton
+</td>
+
+
+<td  >
+9:54.94
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Gerlach, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+9:55.10
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Mills, Franky
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+9:55.19
+</td>
+
+
+<td  >
+Crusader Outdoor Classic
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+DeLong, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+9:55.34
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Johnsrud, Derek
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+9:55.35
+</td>
+
+
+<td  >
+UW Oshkosh Open
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Ferris, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+9:55.38
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Schatz, Jared
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+9:55.40
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Bunnell, Hayden
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colby-Sawyer
+</td>
+
+
+<td  >
+9:55.41
+</td>
+
+
+<td  >
+FSU Spring Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Keller, Mitchell
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Denison
+</td>
+
+
+<td  >
+9:55.49
+</td>
+
+
+<td  >
+2013 5 Team Invite
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Poupard, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:55.54
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+DeToledo, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Middlebury
+</td>
+
+
+<td  >
+9:55.84
+</td>
+
+
+<td  >
+Army Quad Meet
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Wortner, Brendan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+9:55.85
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Reilly, Sam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:55.91
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Vega, Zach
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:56.16
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Foley, Connor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+9:56.21
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Acosta, Alberto
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+9:56.25
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Traxler, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Saint Mary's (Minn.)
+</td>
+
+
+<td  >
+9:56.49
+</td>
+
+
+<td  >
+MIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Leversen, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:56.67
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Kirchoff, Shane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:56.72
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Karmazin, Jon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+9:56.96
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Versen, Willie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+9:57.09
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+Seeger, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:57.21
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Claflin, Lance
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Allegheny
+</td>
+
+
+<td  >
+9:57.22
+</td>
+
+
+<td  >
+Mount Union John Homon Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Sufczynski, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Salisbury
+</td>
+
+
+<td  >
+9:57.61
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Jin, Evan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+9:58.04
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Sansevere, Robbie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+9:58.14
+</td>
+
+
+<td  >
+2013 Little Three Track & Field Championship
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Sustayta, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+9:58.16
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Yost, Tyler
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+9:58.23
+</td>
+
+
+<td  >
+Mason-Dixon Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Yenter, Jordan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:58.29
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Huff, Nicklas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+9:58.40
+</td>
+
+
+<td  >
+TAMUC East Texas Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Dunn, Chris
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Southern Maine
+</td>
+
+
+<td  >
+9:58.44
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Pollack, Alexander
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alma
+</td>
+
+
+<td  >
+9:58.51
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Mercer, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+9:58.63
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Blancero, Francis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+9:58.67
+</td>
+
+
+<td  >
+Millersville Metrics
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Keller, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Denison
+</td>
+
+
+<td  >
+9:58.71
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Crowley, Dan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+9:58.77
+</td>
+
+
+<td  >
+Little Three Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Shafi, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+9:58.85
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Busch, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:58.86
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Bickell, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+9:58.93
+</td>
+
+
+<td  >
+2013 Muhlenberg Spring Invitational 
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Caporale, Jason
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+9:59.27
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Wheat, Scott
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Birmingham-Southern
+</td>
+
+
+<td  >
+9:59.27
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Kuntz, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wittenberg
+</td>
+
+
+<td  >
+9:59.57
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Dunic, Brian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+9:59.77
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Clesi, Christian 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Birmingham-Southern
+</td>
+
+
+<td  >
+9:59.80
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Kuess, Dustin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Heidelberg
+</td>
+
+
+<td  >
+9:59.82
+</td>
+
+
+<td  >
+OAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Matthies, Hunter
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+10:00.14
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Lamp, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Buena Vista
+</td>
+
+
+<td  >
+10:00.84
+</td>
+
+
+<td  >
+Augustana Open
+</td>
+
+
+<td  >
+Mar 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Joyce, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+10:01.25
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Murray, Wil
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+York (Pa.)
+</td>
+
+
+<td  >
+10:01.26
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Dreibelbis, Kyle 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+George Fox
+</td>
+
+
+<td  >
+10:01.58
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Cole, Tristan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+10:01.91
+</td>
+
+
+<td  >
+American International Yellow Jacket Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+LaMarre, Robert
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:02.09
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Owlett, Bob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+10:02.10
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Tharp, Patrick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Millikin
+</td>
+
+
+<td  >
+10:02.13
+</td>
+
+
+<td  >
+2013 Millikin Big Blue Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Harrison, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+10:02.29
+</td>
+
+
+<td  >
+MIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Mueller, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:02.39
+</td>
+
+
+<td  >
+MIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Rubins, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:02.71
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Doughan, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+10:02.81
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Cyganik, Jon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+10:02.89
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Kopchick, Benjamin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Washington and Jefferson
+</td>
+
+
+<td  >
+10:02.99
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Grasela, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+10:03.09
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Conway, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:03.15
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Dooley, Brendan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:03.22
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Granville, Peter
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kenyon
+</td>
+
+
+<td  >
+10:03.40
+</td>
+
+
+<td  >
+North Coast Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Sheeran, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:03.41
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Shepherd, Timothy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+10:03.53
+</td>
+
+
+<td  >
+Central College Open
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Shelley, Brett 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hood
+</td>
+
+
+<td  >
+10:03.55
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Pena, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+RIC
+</td>
+
+
+<td  >
+10:03.92
+</td>
+
+
+<td  >
+New England DIII Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Zayac, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:04.10
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Miller, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+10:04.38
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Zandbergen, Zachary
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+10:04.47
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+O'Neil, Joe
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+10:04.53
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Johnson, Nicholas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+10:04.70
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Delligatti, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+10:04.74
+</td>
+
+
+<td  >
+Upstate Track & Field Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Turner, Bradley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+10:04.96
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Sisson, Peter
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+10:04.99
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Pitcavage, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+10:05.24
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Foley, Connor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bridgewater St.
+</td>
+
+
+<td  >
+10:05.43
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Habura, Bret
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:05.57
+</td>
+
+
+<td  >
+47th Annual Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Kressin, Christian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-River Falls
+</td>
+
+
+<td  >
+10:06.04
+</td>
+
+
+<td  >
+WIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Kakazu, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+10:06.64
+</td>
+
+
+<td  >
+Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Avila, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+10:06.87
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Ramirez, Andres
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hendrix
+</td>
+
+
+<td  >
+10:06.95
+</td>
+
+
+<td  >
+Hendrix Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Debronsky, Michael 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:07.10
+</td>
+
+
+<td  >
+Upstate Track & Field Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Geurds, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+10:07.10
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+August, Dan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:07.14
+</td>
+
+
+<td  >
+Augustana Meet of Champions
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Kreuser, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+10:07.44
+</td>
+
+
+<td  >
+Augustana Meet of Champions
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Pontius, Trevor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marietta
+</td>
+
+
+<td  >
+10:07.62
+</td>
+
+
+<td  >
+OAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Mascote, Yonatan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:07.64
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Mucha, Matt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+10:07.66
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Markham, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:07.77
+</td>
+
+
+<td  >
+Prairie Wolf Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Ferguson, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:07.84
+</td>
+
+
+<td  >
+Lynchburg College Dr. Toms Open 2013
+</td>
+
+
+<td  >
+Mar 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Jones, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+10:07.88
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Hanne, Bradley
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington and Jefferson
+</td>
+
+
+<td  >
+10:07.97
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Haden, Dan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:08.07
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Scopp, Ryne
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:08.53
+</td>
+
+
+<td  >
+NCC First Chance Track & Field Invitational 
+</td>
+
+
+<td  >
+Mar 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Nevills, Payton
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dubuque
+</td>
+
+
+<td  >
+10:08.56
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Deardorff, Tobias 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+10:08.91
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Murtagh, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+10:08.91
+</td>
+
+
+<td  >
+Silfen Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Doron, Gilad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+10:08.93
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Janus, Brian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+10:09.07
+</td>
+
+
+<td  >
+Rhodes Open
+</td>
+
+
+<td  >
+Mar 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Monaghan, Stephen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+10:09.28
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Harrigan, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:09.65
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+McGowan, Timothy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Houghton
+</td>
+
+
+<td  >
+10:09.70
+</td>
+
+
+<td  >
+RWC Redhawk Open
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Barber, Ben 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Greenville
+</td>
+
+
+<td  >
+10:10.01
+</td>
+
+
+<td  >
+Saint Louis University Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Armbruster, Ethan 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+10:10.87
+</td>
+
+
+<td  >
+MIAC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Rustad, Luke 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bethel (Minn.)
+</td>
+
+
+<td  >
+10:10.95
+</td>
+
+
+<td  >
+Hamline Unsaintly
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Black, Jason
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:11.23
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Borutta, Stephen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hendrix
+</td>
+
+
+<td  >
+10:11.34
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Short, Will
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+10:11.44
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+O'Brien, Sean
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Stout
+</td>
+
+
+<td  >
+10:11.74
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Lyons, Corey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+10:11.97
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Green, William
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+10:12.00
+</td>
+
+
+<td  >
+Hopkins/Loyola Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Guarnaccia, Nicholas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:12.78
+</td>
+
+
+<td  >
+Brown Invitational 2013
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Sandreuter, Stefan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:12.78
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Murray, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Buffalo State
+</td>
+
+
+<td  >
+10:12.93
+</td>
+
+
+<td  >
+Cardinal Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Hendrickson, Tyler 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+10:12.95
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Griffith, Stephen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:12.97
+</td>
+
+
+<td  >
+Cardinal Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Garrell, Jeremy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+10:13.07
+</td>
+
+
+<td  >
+2013 NJ Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Stortz, Sam 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ursinus
+</td>
+
+
+<td  >
+10:13.22
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Bollens, Brian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+10:13.25
+</td>
+
+
+<td  >
+2013 Quad Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Dumont, Nolan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:13.26
+</td>
+
+
+<td  >
+NESCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Moynihan, Will
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:13.27
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Mette, Robert
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:13.32
+</td>
+
+
+<td  >
+NCC First Chance Track & Field Invitational 
+</td>
+
+
+<td  >
+Mar 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Collins, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+10:13.38
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+McKee, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:13.41
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+Lebovitz, Lucas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+10:13.59
+</td>
+
+
+<td  >
+Little Three Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Horner, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:13.99
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Mintz, Jesse
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:14.09
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Yaeger, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+10:14.12
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Mansor, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Geneva
+</td>
+
+
+<td  >
+10:14.49
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Lee, Ian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+10:14.53
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Killen, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+10:14.58
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Lloyd, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Vassar
+</td>
+
+
+<td  >
+10:15.02
+</td>
+
+
+<td  >
+Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Nelson, Zachary
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:15.17
+</td>
+
+
+<td  >
+Liberty League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Gonzalez, Dominic
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:15.24
+</td>
+
+
+<td  >
+Springfield College Outdoor T&F Meet #2
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+McNamara, Jamie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Utica
+</td>
+
+
+<td  >
+10:15.48
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Strasinopohlas, Nik
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+10:15.48
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Schultz, Brent
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bethel (Minn.)
+</td>
+
+
+<td  >
+10:15.55
+</td>
+
+
+<td  >
+Don Church Wheaton Twilight 2013
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Hart, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+10:15.79
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+D'Antona, Chris
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+10:16.08
+</td>
+
+
+<td  >
+Rochester Spring Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Watson, Elliot
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+10:16.12
+</td>
+
+
+<td  >
+2013 5 Team Invite
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Pritschau, Kody
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:16.18
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Brinkmeier, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:16.48
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+Russ, Martin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bluffton
+</td>
+
+
+<td  >
+10:16.58
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Marra, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+10:16.64
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Hamilton, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+10:16.65
+</td>
+
+
+<td  >
+RWC Redhawk Open
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Trapane, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Juniata
+</td>
+
+
+<td  >
+10:16.82
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Gerding, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Baldwin-Wallace
+</td>
+
+
+<td  >
+10:16.91
+</td>
+
+
+<td  >
+OAC East Split
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Cooper, Sam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:16.96
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Winegardner, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Saint Mary's (Minn.)
+</td>
+
+
+<td  >
+10:17.39
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Kennedy, Sean
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+10:17.64
+</td>
+
+
+<td  >
+Marv Frye Invitational 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Bonds, Eliott
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lebanon Valley
+</td>
+
+
+<td  >
+10:17.73
+</td>
+
+
+<td  >
+2013 Green & White Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Belling Jr., Douglas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+10:17.98
+</td>
+
+
+<td  >
+Augustana Twilight
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Spector, Jesse
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+10:18.03
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+346
+</td>
+
+
+<td  >
+Peterson, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Buena Vista
+</td>
+
+
+<td  >
+10:18.04
+</td>
+
+
+<td  >
+Augustana Open
+</td>
+
+
+<td  >
+Mar 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Clark, Morgan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+10:18.20
+</td>
+
+
+<td  >
+Wooster Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Murphy, Conor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+10:19.20
+</td>
+
+
+<td  >
+Cornell Big Red Outdoor Invitational 2013
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+Phearman, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:19.59
+</td>
+
+
+<td  >
+Rolex Classic
+</td>
+
+
+<td  >
+Apr 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Ruddy, Shane
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:19.74
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+Zook, Sam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:20.05
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Clemetson, Alexander
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+10:20.13
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Karpin, Casey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:20.15
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Ory, Steven
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pomona-Pitzer
+</td>
+
+
+<td  >
+10:20.16
+</td>
+
+
+<td  >
+SCIAC 5-Way Dual
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Fleming, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:20.33
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Holcomb, Jason
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hanover
+</td>
+
+
+<td  >
+10:20.48
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Krott, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Juniata
+</td>
+
+
+<td  >
+10:20.52
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Markert, Matthew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:20.97
+</td>
+
+
+<td  >
+TAMUC East Texas Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Blain, Derek
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:21.02
+</td>
+
+
+<td  >
+TAMUC East Texas Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Fransen, Sam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:21.19
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Knipe, Alden
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:21.44
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Boehm, Jacob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:21.47
+</td>
+
+
+<td  >
+OAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Quinn, Bryant
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+George Fox
+</td>
+
+
+<td  >
+10:21.85
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Novorolsky, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:21.95
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Park, Stephen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Juniata
+</td>
+
+
+<td  >
+10:21.96
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Rumpza, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Coe
+</td>
+
+
+<td  >
+10:22.26
+</td>
+
+
+<td  >
+Central College Open
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Secor, Duncan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:22.32
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+Gagliardi, Connor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+10:22.43
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Moses, Jack
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hamilton
+</td>
+
+
+<td  >
+10:22.80
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Hernandez, Arturo
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cornell College
+</td>
+
+
+<td  >
+10:23.14
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Bakken, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:23.26
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+St. Pierre, Joseph
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:23.48
+</td>
+
+
+<td  >
+George Davis Invitational T&F Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Klobassa, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+10:23.91
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+Dugan, Brandon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+10:24.04
+</td>
+
+
+<td  >
+Shamrock Invitational XVII
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+McBee, Ethan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concordia (Ill.)
+</td>
+
+
+<td  >
+10:24.12
+</td>
+
+
+<td  >
+Northern Athletics Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Phipps, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bridgewater St.
+</td>
+
+
+<td  >
+10:24.21
+</td>
+
+
+<td  >
+FSU Spring Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+Ivory, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bethel (Minn.)
+</td>
+
+
+<td  >
+10:24.22
+</td>
+
+
+<td  >
+Don Church Wheaton Twilight 2013
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Parlette, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:24.93
+</td>
+
+
+<td  >
+Don Church Wheaton Twilight 2013
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Lick, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:25.06
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Paz, Fernando
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mississippi College
+</td>
+
+
+<td  >
+10:25.33
+</td>
+
+
+<td  >
+Mississippi College Open
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+Fonseca, Mason
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:25.34
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Laursen, Jonah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+10:25.55
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Thompson, Denton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Otterbein
+</td>
+
+
+<td  >
+10:25.55
+</td>
+
+
+<td  >
+Marv Frye Invitational 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Westwater, Keegan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:25.75
+</td>
+
+
+<td  >
+Springfield College Outdoor T&F Meet #2
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+Hirschauer, Chad
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:25.95
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Finitz, Mitchell  
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+10:26.28
+</td>
+
+
+<td  >
+Upstate Track & Field Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Ryan, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+10:26.28
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Perkins, Jonathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+10:26.32
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Hight, Jason
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Linfield
+</td>
+
+
+<td  >
+10:26.66
+</td>
+
+
+<td  >
+L&C Spring Break Open
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+390
+</td>
+
+
+<td  >
+Pfander, Charles
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hamilton
+</td>
+
+
+<td  >
+10:26.90
+</td>
+
+
+<td  >
+Upstate Track & Field Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Bender, Gabriel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:27.31
+</td>
+
+
+<td  >
+Cardinal Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Tomlinson, Preston 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:27.36
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+393
+</td>
+
+
+<td  >
+Wynes, Jack
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+10:27.65
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Larson, Evan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Carroll
+</td>
+
+
+<td  >
+10:27.68
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+McCready, Trevor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alma
+</td>
+
+
+<td  >
+10:27.79
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Wright, Scott
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+10:27.96
+</td>
+
+
+<td  >
+Commonwealth Duals
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Flieger, Sebastian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:28.04
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Vorensky, Mark
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+10:28.57
+</td>
+
+
+<td  >
+Cornell Big Red Outdoor Invitational 2013
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Hartline, Jake
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:28.60
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+400
+</td>
+
+
+<td  >
+Varnas, Adam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:28.71
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+Crumpler, J.J.
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+10:28.74
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Rod, Colton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:28.86
+</td>
+
+
+<td  >
+Rolex Classic
+</td>
+
+
+<td  >
+Apr 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+Larson, Tyler
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alma
+</td>
+
+
+<td  >
+10:28.99
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Clous, Travis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+10:29.02
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+405
+</td>
+
+
+<td  >
+Crozier, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+10:29.38
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Wittman, Luke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:29.48
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+Ropel, BJ
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wisconsin Lutheran
+</td>
+
+
+<td  >
+10:29.58
+</td>
+
+
+<td  >
+St. Norbert Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Kane, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:29.60
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+Mehrhof, Calvin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+10:29.77
+</td>
+
+
+<td  >
+UW-La Crosse NCAA Qualifier
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Meier, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+10:29.82
+</td>
+
+
+<td  >
+SCIAC Multi-Dual Meet 3
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+Clarke, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:29.95
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Walsh , Nicholas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:30.46
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Miluski, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Salisbury
+</td>
+
+
+<td  >
+10:30.47
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+DeCristofaro, Tom
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+RIC
+</td>
+
+
+<td  >
+10:30.67
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Updegrove, Will
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:30.68
+</td>
+
+
+<td  >
+Middle Atlantic Conferences Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Austin, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+10:31.19
+</td>
+
+
+<td  >
+Mason-Dixon Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Bentz, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:31.19
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Phillips, Bryce
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+10:31.38
+</td>
+
+
+<td  >
+Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Iovoli, Austin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+10:31.44
+</td>
+
+
+<td  >
+Crusader Outdoor Classic
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Jordan, Zack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Berry
+</td>
+
+
+<td  >
+10:31.51
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Lindley, Quinn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+10:31.56
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Sponsel, Joe 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southwestern (Tex.)
+</td>
+
+
+<td  >
+10:31.63
+</td>
+
+
+<td  >
+Texas State Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+Frey, Kristoffer
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+10:31.76
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Nystrom, Ian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:32.01
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Bugajsky, Timmy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Benedictine (Ill.)
+</td>
+
+
+<td  >
+10:32.41
+</td>
+
+
+<td  >
+Northern Athletics Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+Cooper, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:32.66
+</td>
+
+
+<td  >
+Osprey Open
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+Devine, Shea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Coe
+</td>
+
+
+<td  >
+10:32.75
+</td>
+
+
+<td  >
+Cornell College Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+Jordan, Christopher
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMass Dartmouth
+</td>
+
+
+<td  >
+10:33.05
+</td>
+
+
+<td  >
+Corsair Classic Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Melius, Hunter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Virginia Wesleyan
+</td>
+
+
+<td  >
+10:33.29
+</td>
+
+
+<td  >
+ODAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Davis, Jackson
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+10:33.50
+</td>
+
+
+<td  >
+Millersville Metrics
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+D'Agostino, Nick 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:33.52
+</td>
+
+
+<td  >
+Jim Sheehan Memorial Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+DeJausserand, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Salisbury
+</td>
+
+
+<td  >
+10:34.19
+</td>
+
+
+<td  >
+Hopkins/Loyola Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Dierberger, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:34.63
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+434
+</td>
+
+
+<td  >
+Lewis, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:34.93
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Allison, John
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+10:35.22
+</td>
+
+
+<td  >
+Westminster College Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Fortoul, Alejandro
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montclair State
+</td>
+
+
+<td  >
+10:35.25
+</td>
+
+
+<td  >
+Ramapo College Roadrunner Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+437
+</td>
+
+
+<td  >
+Dusza, Sean
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+10:35.40
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Welters, Jeremy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:35.70
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Baldino, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:35.80
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+DeGroot, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+10:35.80
+</td>
+
+
+<td  >
+All-Ohio Division III Track & Field Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Hebeler, Travis
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Millsaps
+</td>
+
+
+<td  >
+10:35.83
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+deLeon, Chris
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Babson
+</td>
+
+
+<td  >
+10:35.96
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Waddingham, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:36.00
+</td>
+
+
+<td  >
+TAMUC East Texas Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Marron, Matt 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+10:36.19
+</td>
+
+
+<td  >
+Mount Union John Homon Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Rossiter, Noah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+10:36.42
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+Manta, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Goucher
+</td>
+
+
+<td  >
+10:36.43
+</td>
+
+
+<td  >
+Goucher Classic
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+447
+</td>
+
+
+<td  >
+Wohl, Kenneth
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Muhlenberg
+</td>
+
+
+<td  >
+10:36.61
+</td>
+
+
+<td  >
+2013 Muhlenberg Spring Invitational 
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+448
+</td>
+
+
+<td  >
+Wilber, Malcolm
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+10:36.80
+</td>
+
+
+<td  >
+NYSCTC Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+449
+</td>
+
+
+<td  >
+Yockel, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:36.88
+</td>
+
+
+<td  >
+Cardinal Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+450
+</td>
+
+
+<td  >
+Wilson, Brandon 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trinity (Tex.)
+</td>
+
+
+<td  >
+10:37.05
+</td>
+
+
+<td  >
+Angelo State David Noble Relays
+</td>
+
+
+<td  >
+Apr 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+451
+</td>
+
+
+<td  >
+Waite, Patrick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+10:37.09
+</td>
+
+
+<td  >
+NJAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+452
+</td>
+
+
+<td  >
+Panella, Brian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+10:37.17
+</td>
+
+
+<td  >
+2013 Muhlenberg Spring Invitational 
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+453
+</td>
+
+
+<td  >
+Comiska, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+10:38.13
+</td>
+
+
+<td  >
+MIAA Track and Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+454
+</td>
+
+
+<td  >
+Jennings, Dylan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+10:38.24
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Connolly, Steven 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+10:38.30
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+456
+</td>
+
+
+<td  >
+Tarduno, Matthew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+10:38.41
+</td>
+
+
+<td  >
+Little Three Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+457
+</td>
+
+
+<td  >
+Ben-Dor, Shai
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+10:38.67
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Toro, Alec
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Swarthmore
+</td>
+
+
+<td  >
+10:38.91
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+459
+</td>
+
+
+<td  >
+Traester, James
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:39.02
+</td>
+
+
+<td  >
+George Davis Invitational T&F Meet
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+460
+</td>
+
+
+<td  >
+Jackson, Shawn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+10:39.35
+</td>
+
+
+<td  >
+SCIAC Multi-Dual Meet 3
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+461
+</td>
+
+
+<td  >
+Nieves, Sam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:39.50
+</td>
+
+
+<td  >
+OAC West Split Meet
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+462
+</td>
+
+
+<td  >
+Dittmer, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:39.54
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+463
+</td>
+
+
+<td  >
+Swerdlow, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell College
+</td>
+
+
+<td  >
+10:39.59
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+464
+</td>
+
+
+<td  >
+Cooke, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emory
+</td>
+
+
+<td  >
+10:39.62
+</td>
+
+
+<td  >
+Johnson C. Smith University Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+465
+</td>
+
+
+<td  >
+Ambrulavage, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:39.70
+</td>
+
+
+<td  >
+WCU Collegiate Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+466
+</td>
+
+
+<td  >
+Honold, Jeremy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+10:39.90
+</td>
+
+
+<td  >
+2013 Northwest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+467
+</td>
+
+
+<td  >
+Quiroz, Javier
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Occidental
+</td>
+
+
+<td  >
+10:40.06
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Lawrey, Brian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stevens Institute
+</td>
+
+
+<td  >
+10:40.46
+</td>
+
+
+<td  >
+Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+469
+</td>
+
+
+<td  >
+Sturz, Ricky
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:40.62
+</td>
+
+
+<td  >
+W&L Track & Field Carnival
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+470
+</td>
+
+
+<td  >
+Gilbert, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+10:41.31
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+471
+</td>
+
+
+<td  >
+Parker, Charles
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Geneva
+</td>
+
+
+<td  >
+10:41.55
+</td>
+
+
+<td  >
+NCCAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+472
+</td>
+
+
+<td  >
+McGetrick, Bobby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Muhlenberg
+</td>
+
+
+<td  >
+10:41.56
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Petow, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Coast Guard
+</td>
+
+
+<td  >
+10:41.61
+</td>
+
+
+<td  >
+Springfield College Outdoor T&F Meet #2
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+474
+</td>
+
+
+<td  >
+Almy, Amos
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ursinus
+</td>
+
+
+<td  >
+10:41.63
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+475
+</td>
+
+
+<td  >
+Jones, Tommy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wisconsin Lutheran
+</td>
+
+
+<td  >
+10:41.66
+</td>
+
+
+<td  >
+Wash U Invite
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+476
+</td>
+
+
+<td  >
+Yang, Max
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Earlham
+</td>
+
+
+<td  >
+10:42.05
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Waite, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+10:42.14
+</td>
+
+
+<td  >
+Adrian College All American Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+478
+</td>
+
+
+<td  >
+Vann, Wesley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+10:42.19
+</td>
+
+
+<td  >
+UW-Whitewater Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Lee, Sam 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trinity (Tex.)
+</td>
+
+
+<td  >
+10:42.22
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Normand, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia (Tex.)
+</td>
+
+
+<td  >
+10:42.22
+</td>
+
+
+<td  >
+Texas State Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+481
+</td>
+
+
+<td  >
+Ward, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+York (Pa.)
+</td>
+
+
+<td  >
+10:42.28
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+482
+</td>
+
+
+<td  >
+Peterson, Tim
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Concordia-Moorhead
+</td>
+
+
+<td  >
+10:42.38
+</td>
+
+
+<td  >
+Cobber Spite The Flood Meet
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+483
+</td>
+
+
+<td  >
+Zendt, Zach 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dallas
+</td>
+
+
+<td  >
+10:42.43
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Saeger, Ryan  
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+10:42.59
+</td>
+
+
+<td  >
+2013 Capital District Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+485
+</td>
+
+
+<td  >
+Albin, Kenneth
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Millikin
+</td>
+
+
+<td  >
+10:42.62
+</td>
+
+
+<td  >
+2013 Millikin Big Blue Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+486
+</td>
+
+
+<td  >
+Nordby, Grant
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:42.73
+</td>
+
+
+<td  >
+GPAC Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+487
+</td>
+
+
+<td  >
+Konecni, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+10:42.77
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+488
+</td>
+
+
+<td  >
+Plazak, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:42.83
+</td>
+
+
+<td  >
+Wisconsin Private College Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+489
+</td>
+
+
+<td  >
+Henn, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Thomas More
+</td>
+
+
+<td  >
+10:43.17
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+490
+</td>
+
+
+<td  >
+Santana, Jared
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:43.49
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+491
+</td>
+
+
+<td  >
+Goroff, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+10:43.78
+</td>
+
+
+<td  >
+UNH Wildcat Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+492
+</td>
+
+
+<td  >
+Bouchey, Kenny 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+RIC
+</td>
+
+
+<td  >
+10:44.13
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+493
+</td>
+
+
+<td  >
+Rose, Glenn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Virginia Wesleyan
+</td>
+
+
+<td  >
+10:44.27
+</td>
+
+
+<td  >
+ODAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+494
+</td>
+
+
+<td  >
+Reigh, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+10:44.67
+</td>
+
+
+<td  >
+Wisconsin Private College Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+495
+</td>
+
+
+<td  >
+Corrigan, Joe
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+York (Pa.)
+</td>
+
+
+<td  >
+10:44.95
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+496
+</td>
+
+
+<td  >
+Brandt, Clare
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:45.01
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+497
+</td>
+
+
+<td  >
+Powley, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:45.04
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+498
+</td>
+
+
+<td  >
+Pack, Cody
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+10:45.16
+</td>
+
+
+<td  >
+Centre Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+499
+</td>
+
+
+<td  >
+Caneega, Michael 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oglethorpe
+</td>
+
+
+<td  >
+10:45.38
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+500
+</td>
+
+
+<td  >
+Bartell, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:46.45
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+501
+</td>
+
+
+<td  >
+Robbs, Mike
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Keystone
+</td>
+
+
+<td  >
+10:46.46
+</td>
+
+
+<td  >
+2013 TCNJ Lions Invitational
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+502
+</td>
+
+
+<td  >
+Hayward, Cal
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:46.97
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+503
+</td>
+
+
+<td  >
+Litofsky, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Beloit
+</td>
+
+
+<td  >
+10:47.06
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+504
+</td>
+
+
+<td  >
+Duggan, Matt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roger Williams
+</td>
+
+
+<td  >
+10:48.00
+</td>
+
+
+<td  >
+Commonwealth Coast Conference Invitational
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+505
+</td>
+
+
+<td  >
+Lemerande, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Linfield
+</td>
+
+
+<td  >
+10:48.20
+</td>
+
+
+<td  >
+Pioneer Invite
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+506
+</td>
+
+
+<td  >
+Yarrington, Cory
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bethany (W.V.)
+</td>
+
+
+<td  >
+10:48.70
+</td>
+
+
+<td  >
+The 2013 Bethany Invite
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+507
+</td>
+
+
+<td  >
+Caldwell, Josh
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Westminster (Pa.)
+</td>
+
+
+<td  >
+10:48.92
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+508
+</td>
+
+
+<td  >
+Dieguez, Frank
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+10:48.93
+</td>
+
+
+<td  >
+Presidents' AC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Giardina, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+10:49.50
+</td>
+
+
+<td  >
+2013 5 Team Invite
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Nelson, Wes
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gordon
+</td>
+
+
+<td  >
+10:49.50
+</td>
+
+
+<td  >
+Commonwealth Coast Conference Invitational
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+511
+</td>
+
+
+<td  >
+Caggiano, Dan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manhattanville
+</td>
+
+
+<td  >
+10:49.99
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+512
+</td>
+
+
+<td  >
+Martin, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Millikin
+</td>
+
+
+<td  >
+10:50.00
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+513
+</td>
+
+
+<td  >
+Grubb, Austin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+10:50.44
+</td>
+
+
+<td  >
+Roanoke College Track and Field Invitational
+</td>
+
+
+<td  >
+Mar 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+514
+</td>
+
+
+<td  >
+Cook, Connor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:50.49
+</td>
+
+
+<td  >
+Mississippi College Open
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+515
+</td>
+
+
+<td  >
+Dekel, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Denison
+</td>
+
+
+<td  >
+10:50.82
+</td>
+
+
+<td  >
+Marv Frye Invitational 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+516
+</td>
+
+
+<td  >
+Adams, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:50.96
+</td>
+
+
+<td  >
+FSU Spring Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+517
+</td>
+
+
+<td  >
+Denison, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio Wesleyan
+</td>
+
+
+<td  >
+10:51.04
+</td>
+
+
+<td  >
+Amy Adams Memorial Invitational
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+518
+</td>
+
+
+<td  >
+Greensten, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:51.28
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+519
+</td>
+
+
+<td  >
+Tumolo, Benjamin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lynchburg
+</td>
+
+
+<td  >
+10:51.70
+</td>
+
+
+<td  >
+ODAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+520
+</td>
+
+
+<td  >
+Korth, Joe
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:52.08
+</td>
+
+
+<td  >
+Rhodes Invite
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+521
+</td>
+
+
+<td  >
+Davies, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+10:52.40
+</td>
+
+
+<td  >
+CTC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+522
+</td>
+
+
+<td  >
+Adame, Juan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Caltech
+</td>
+
+
+<td  >
+10:52.84
+</td>
+
+
+<td  >
+Caltech/Chapman/CMS/Occidental/Pomona-Pitzer
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+523
+</td>
+
+
+<td  >
+Willitz, Noah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Martin Luther
+</td>
+
+
+<td  >
+10:53.36
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+524
+</td>
+
+
+<td  >
+Marek, Gage
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+10:53.39
+</td>
+
+
+<td  >
+Mount Union John Homon Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+Eppler, Paul 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+10:53.50
+</td>
+
+
+<td  >
+2013 Messiah Multi/Invitational 
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+526
+</td>
+
+
+<td  >
+Darkstar, Dakota
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:54.36
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+527
+</td>
+
+
+<td  >
+Hamel, Corey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+10:54.44
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Zeigler, Joel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:54.88
+</td>
+
+
+<td  >
+2013 Messiah Multi/Invitational 
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+529
+</td>
+
+
+<td  >
+Ippolito, Vince
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John Fisher
+</td>
+
+
+<td  >
+10:55.20
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+530
+</td>
+
+
+<td  >
+Lokken, Peter
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+10:55.44
+</td>
+
+
+<td  >
+2013 Rose-Hulman Twilight Meet
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+531
+</td>
+
+
+<td  >
+Frederiksen, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+10:55.61
+</td>
+
+
+<td  >
+Mason-Dixon Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+532
+</td>
+
+
+<td  >
+King, Dominic
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:55.66
+</td>
+
+
+<td  >
+Cedarville Collegiate All-Comers
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+533
+</td>
+
+
+<td  >
+Blubaugh, Scott
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:55.70
+</td>
+
+
+<td  >
+Rhodes Invite
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+534
+</td>
+
+
+<td  >
+Culver, Anders
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:55.75
+</td>
+
+
+<td  >
+Hamline Unsaintly
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+535
+</td>
+
+
+<td  >
+Hebert, Corey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Emmanuel
+</td>
+
+
+<td  >
+10:56.27
+</td>
+
+
+<td  >
+Regis College Pride Classic
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+536
+</td>
+
+
+<td  >
+Northrop, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lasell
+</td>
+
+
+<td  >
+10:56.30
+</td>
+
+
+<td  >
+Regis College Pride Classic
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+537
+</td>
+
+
+<td  >
+Soudani, Connor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+10:56.97
+</td>
+
+
+<td  >
+8th Annual Sam Adams Classic
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+538
+</td>
+
+
+<td  >
+Kane, Thorin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oswego State
+</td>
+
+
+<td  >
+10:57.08
+</td>
+
+
+<td  >
+Univ of Rochester Alumni Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+539
+</td>
+
+
+<td  >
+Hamilton, Jason 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:57.46
+</td>
+
+
+<td  >
+TAMUC Early Season Lion Open
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+540
+</td>
+
+
+<td  >
+Dye, Keane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Virginia Wesleyan
+</td>
+
+
+<td  >
+10:57.60
+</td>
+
+
+<td  >
+Norfolk State University Relays
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+541
+</td>
+
+
+<td  >
+Bombard, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stevens Institute
+</td>
+
+
+<td  >
+10:58.04
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+542
+</td>
+
+
+<td  >
+Beno, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:58.45
+</td>
+
+
+<td  >
+Mississippi College Open
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+543
+</td>
+
+
+<td  >
+Larson, Lars
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+10:58.50
+</td>
+
+
+<td  >
+Iowa Conference Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+544
+</td>
+
+
+<td  >
+Losey, Colin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+10:58.57
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+545
+</td>
+
+
+<td  >
+Millard, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Franklin
+</td>
+
+
+<td  >
+10:58.88
+</td>
+
+
+<td  >
+2013 Rose-Hulman Early Bird
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+546
+</td>
+
+
+<td  >
+Ruane, Brian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+10:59.14
+</td>
+
+
+<td  >
+W&L Track & Field Carnival
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+Kluender, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+11:00.40
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+548
+</td>
+
+
+<td  >
+Thurston, Cooper
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+11:00.42
+</td>
+
+
+<td  >
+Cal U Early Bird
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+549
+</td>
+
+
+<td  >
+White, Anthony
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota-Morris
+</td>
+
+
+<td  >
+11:00.70
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+550
+</td>
+
+
+<td  >
+Michell, Mike
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+11:01.27
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+551
+</td>
+
+
+<td  >
+Martin, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Millsaps
+</td>
+
+
+<td  >
+11:01.50
+</td>
+
+
+<td  >
+SAA Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+552
+</td>
+
+
+<td  >
+Hirsh, Aaron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+11:01.52
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+553
+</td>
+
+
+<td  >
+Hoffman, Luke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+11:01.54
+</td>
+
+
+<td  >
+2nd Annual Whitworth Twilight Meet
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+554
+</td>
+
+
+<td  >
+Waltman, Mike
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+11:02.41
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+555
+</td>
+
+
+<td  >
+Martin, Pat
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+11:02.62
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+556
+</td>
+
+
+<td  >
+Rothman, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado College
+</td>
+
+
+<td  >
+11:03.00
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+557
+</td>
+
+
+<td  >
+Wold, Carl
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bethany Lutheran
+</td>
+
+
+<td  >
+11:03.28
+</td>
+
+
+<td  >
+Central College Open
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+558
+</td>
+
+
+<td  >
+Smith, Patrick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Anderson (Ind.)
+</td>
+
+
+<td  >
+11:03.55
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+559
+</td>
+
+
+<td  >
+Boyer, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia (Ill.)
+</td>
+
+
+<td  >
+11:03.84
+</td>
+
+
+<td  >
+Twilight Invite Benedictine University
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+560
+</td>
+
+
+<td  >
+Young, Jason
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Baldwin-Wallace
+</td>
+
+
+<td  >
+11:04.02
+</td>
+
+
+<td  >
+2013 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+561
+</td>
+
+
+<td  >
+Kachlik, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+11:04.39
+</td>
+
+
+<td  >
+Don Church Wheaton Twilight 2013
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+562
+</td>
+
+
+<td  >
+Ditsch, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+11:05.81
+</td>
+
+
+<td  >
+Wisconsin Private College Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+563
+</td>
+
+
+<td  >
+Houff, Tate
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+11:06.02
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+564
+</td>
+
+
+<td  >
+Splavec, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+11:06.07
+</td>
+
+
+<td  >
+2013 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+565
+</td>
+
+
+<td  >
+Decker, Shelby
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+11:06.29
+</td>
+
+
+<td  >
+2013 Willamette Corban Dual
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+566
+</td>
+
+
+<td  >
+Humphrey, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+11:06.47
+</td>
+
+
+<td  >
+Doane v. Wesleyan Dual
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+567
+</td>
+
+
+<td  >
+Williams, Rik
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Monmouth (Ill.)
+</td>
+
+
+<td  >
+11:06.95
+</td>
+
+
+<td  >
+Loras Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+568
+</td>
+
+
+<td  >
+O'Neill, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+11:07.94
+</td>
+
+
+<td  >
+Caltech/Chapman/CMS/Occidental/Pomona-Pitzer
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+569
+</td>
+
+
+<td  >
+Rista, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Whittier
+</td>
+
+
+<td  >
+11:08.15
+</td>
+
+
+<td  >
+SCIAC 5-Way Dual
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+570
+</td>
+
+
+<td  >
+Marcotte, Samuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Albright
+</td>
+
+
+<td  >
+11:08.25
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+571
+</td>
+
+
+<td  >
+McGowan, David
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+USMMA
+</td>
+
+
+<td  >
+11:08.48
+</td>
+
+
+<td  >
+Ramapo Northeast Challenge
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+572
+</td>
+
+
+<td  >
+Ramos, Jose
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. John Fisher
+</td>
+
+
+<td  >
+11:08.96
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+573
+</td>
+
+
+<td  >
+Hickey, Brian 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Babson
+</td>
+
+
+<td  >
+11:09.18
+</td>
+
+
+<td  >
+UNH Wildcat Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+574
+</td>
+
+
+<td  >
+Ferguson, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+11:10.13
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier Track & Field Meet
+</td>
+
+
+<td  >
+May 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+575
+</td>
+
+
+<td  >
+Hansen, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+11:10.15
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+576
+</td>
+
+
+<td  >
+Sabanty, Kerry 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Worcester State
+</td>
+
+
+<td  >
+11:10.17
+</td>
+
+
+<td  >
+Tufts Snowflake Classic
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+577
+</td>
+
+
+<td  >
+Martin, Edward
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+11:11.90
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+578
+</td>
+
+
+<td  >
+Runyan, Keith
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Earlham
+</td>
+
+
+<td  >
+11:14.15
+</td>
+
+
+<td  >
+Spartan Classic
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+579
+</td>
+
+
+<td  >
+Dyjack, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hood
+</td>
+
+
+<td  >
+11:14.20
+</td>
+
+
+<td  >
+Battleground Relays
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+580
+</td>
+
+
+<td  >
+Price, Rich
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+11:14.51
+</td>
+
+
+<td  >
+Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+581
+</td>
+
+
+<td  >
+Repchenko, Daniil
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Frostburg State
+</td>
+
+
+<td  >
+11:14.93
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+582
+</td>
+
+
+<td  >
+Long, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Baldwin-Wallace
+</td>
+
+
+<td  >
+11:15.03
+</td>
+
+
+<td  >
+2013 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+583
+</td>
+
+
+<td  >
+Rose, Zach
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Plattsburgh St.
+</td>
+
+
+<td  >
+11:15.20
+</td>
+
+
+<td  >
+Upstate Track & Field Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+584
+</td>
+
+
+<td  >
+Stapleton, Will
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ohio Wesleyan
+</td>
+
+
+<td  >
+11:15.30
+</td>
+
+
+<td  >
+Marv Frye Invitational 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+585
+</td>
+
+
+<td  >
+Houle, Travis
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+11:17.45
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+586
+</td>
+
+
+<td  >
+Burns, Patrick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+11:17.57
+</td>
+
+
+<td  >
+Springfield College Invitation T&F Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+587
+</td>
+
+
+<td  >
+Luce, Shawn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+11:18.32
+</td>
+
+
+<td  >
+University of Massachusetts Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+588
+</td>
+
+
+<td  >
+Denton, Tyson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Hardin-Simmons
+</td>
+
+
+<td  >
+11:19.31
+</td>
+
+
+<td  >
+Trinity Tiger Relays
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+589
+</td>
+
+
+<td  >
+Zakowski, Tommy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+11:19.53
+</td>
+
+
+<td  >
+Wisconsin Private College Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+590
+</td>
+
+
+<td  >
+Lapointe, Caelan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+11:20.06
+</td>
+
+
+<td  >
+2013 Capital District Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+591
+</td>
+
+
+<td  >
+Beling, Jeff
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+11:21.31
+</td>
+
+
+<td  >
+Silfen Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+592
+</td>
+
+
+<td  >
+Yuen, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+11:21.87
+</td>
+
+
+<td  >
+2013 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+593
+</td>
+
+
+<td  >
+Klutch, Conor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+11:21.95
+</td>
+
+
+<td  >
+PSU-Behrend Invitational
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+594
+</td>
+
+
+<td  >
+Colello, Scott
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Saint Mary
+</td>
+
+
+<td  >
+11:22.05
+</td>
+
+
+<td  >
+Silfen Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+595
+</td>
+
+
+<td  >
+Slinkman, Joey 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Elmhurst
+</td>
+
+
+<td  >
+11:22.80
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+596
+</td>
+
+
+<td  >
+Hansen, Anthony
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-River Falls
+</td>
+
+
+<td  >
+11:22.97
+</td>
+
+
+<td  >
+UW La Crosse Ashton May Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+597
+</td>
+
+
+<td  >
+Mundell, Lex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+11:23.25
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+598
+</td>
+
+
+<td  >
+Yarnell, Adam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+11:23.41
+</td>
+
+
+<td  >
+Cal Tech SCIAC 3-Way
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+599
+</td>
+
+
+<td  >
+Oetinger, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oswego State
+</td>
+
+
+<td  >
+11:23.91
+</td>
+
+
+<td  >
+Univ of Rochester Alumni Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+600
+</td>
+
+
+<td  >
+Blair, Brendan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Worcester State
+</td>
+
+
+<td  >
+11:25.16
+</td>
+
+
+<td  >
+FSU Spring Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+601
+</td>
+
+
+<td  >
+Mickalini, Colton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+11:25.76
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+602
+</td>
+
+
+<td  >
+Barrett, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Farmingdale St.
+</td>
+
+
+<td  >
+11:25.89
+</td>
+
+
+<td  >
+2013 NJ Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+603
+</td>
+
+
+<td  >
+Jablonski, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John Fisher
+</td>
+
+
+<td  >
+11:26.43
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+604
+</td>
+
+
+<td  >
+Davis, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+11:26.86
+</td>
+
+
+<td  >
+American Southwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+605
+</td>
+
+
+<td  >
+Pierce, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Babson
+</td>
+
+
+<td  >
+11:26.89
+</td>
+
+
+<td  >
+Coast Guard Outdoor Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+606
+</td>
+
+
+<td  >
+Viera, Gerardo
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+11:27.23
+</td>
+
+
+<td  >
+Trinity Tiger Relays
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+607
+</td>
+
+
+<td  >
+Liberto, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas
+</td>
+
+
+<td  >
+11:27.35
+</td>
+
+
+<td  >
+TAMUC East Texas Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+608
+</td>
+
+
+<td  >
+Daley, Patrick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Worcester State
+</td>
+
+
+<td  >
+11:28.15
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+609
+</td>
+
+
+<td  >
+Strain, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dallas
+</td>
+
+
+<td  >
+11:28.16
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+610
+</td>
+
+
+<td  >
+Mart, Cody
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trine
+</td>
+
+
+<td  >
+11:30.86
+</td>
+
+
+<td  >
+Michigan State Spartan Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+611
+</td>
+
+
+<td  >
+Krogman, William
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+11:32.84
+</td>
+
+
+<td  >
+American Southwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+612
+</td>
+
+
+<td  >
+Browning, Elliott
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DePauw
+</td>
+
+
+<td  >
+11:33.11
+</td>
+
+
+<td  >
+Indiana DIII Championships
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+613
+</td>
+
+
+<td  >
+Tamagnan, Jules
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Conn College
+</td>
+
+
+<td  >
+11:33.51
+</td>
+
+
+<td  >
+Silfen Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+614
+</td>
+
+
+<td  >
+Hardy, Rich
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Keystone
+</td>
+
+
+<td  >
+11:35.52
+</td>
+
+
+<td  >
+2013 Muhlenberg Spring Invitational 
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+615
+</td>
+
+
+<td  >
+Tarchick, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+11:36.35
+</td>
+
+
+<td  >
+Amy Adams Memorial Invitational
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+616
+</td>
+
+
+<td  >
+Wargo, Glenn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Geneva
+</td>
+
+
+<td  >
+11:36.67
+</td>
+
+
+<td  >
+Westminster College Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+617
+</td>
+
+
+<td  >
+Solem, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+11:38.30
+</td>
+
+
+<td  >
+Chicagoland Championships
+</td>
+
+
+<td  >
+Apr 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+618
+</td>
+
+
+<td  >
+Cusick, Will
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+11:38.98
+</td>
+
+
+<td  >
+Cal U Early Bird
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+619
+</td>
+
+
+<td  >
+Horning, Gregory
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Frostburg State
+</td>
+
+
+<td  >
+11:39.31
+</td>
+
+
+<td  >
+Capital Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+620
+</td>
+
+
+<td  >
+Kretschmer, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trine
+</td>
+
+
+<td  >
+11:39.84
+</td>
+
+
+<td  >
+Michigan State Spartan Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+621
+</td>
+
+
+<td  >
+Vega, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Whittier
+</td>
+
+
+<td  >
+11:40.15
+</td>
+
+
+<td  >
+SCIAC Multi-Dual Meet #2
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+622
+</td>
+
+
+<td  >
+Barnes, Robert
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+11:41.04
+</td>
+
+
+<td  >
+SCIAC Multi-Dual Meet #2
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+623
+</td>
+
+
+<td  >
+Glaude, Evan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Conn. St.
+</td>
+
+
+<td  >
+11:41.76
+</td>
+
+
+<td  >
+Springfield College Invitation T&F Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+624
+</td>
+
+
+<td  >
+Christensen, Tim
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wisconsin Lutheran
+</td>
+
+
+<td  >
+11:43.06
+</td>
+
+
+<td  >
+Wisconsin Private College Championships
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+625
+</td>
+
+
+<td  >
+Feliz, Gene
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+CCNY
+</td>
+
+
+<td  >
+11:44.80
+</td>
+
+
+<td  >
+2013 TCNJ Lions Invitational
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+626
+</td>
+
+
+<td  >
+Wherry, Jonathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+11:45.17
+</td>
+
+
+<td  >
+W&L Track & Field Carnival
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+627
+</td>
+
+
+<td  >
+Walter, Taylor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Westminster (Pa.)
+</td>
+
+
+<td  >
+11:46.48
+</td>
+
+
+<td  >
+Westminster College Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+628
+</td>
+
+
+<td  >
+Collins, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+11:48.30
+</td>
+
+
+<td  >
+UW-La Crosse NCAA Qualifier
+</td>
+
+
+<td  >
+May 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+629
+</td>
+
+
+<td  >
+DiMaria, Patick 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Farmingdale St.
+</td>
+
+
+<td  >
+11:50.26
+</td>
+
+
+<td  >
+CTC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+630
+</td>
+
+
+<td  >
+Brown, Pat
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+11:50.68
+</td>
+
+
+<td  >
+ESU All American Meet 
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+631
+</td>
+
+
+<td  >
+McPherson, Steve
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Heidelberg
+</td>
+
+
+<td  >
+11:51.08
+</td>
+
+
+<td  >
+Shamrock Invitational XVII
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+632
+</td>
+
+
+<td  >
+Conway, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Franklin
+</td>
+
+
+<td  >
+11:53.02
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+633
+</td>
+
+
+<td  >
+Boyce, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+11:54.47
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+634
+</td>
+
+
+<td  >
+Lynch, Hunter 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+11:54.52
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+635
+</td>
+
+
+<td  >
+Cosme, Anibal
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ripon
+</td>
+
+
+<td  >
+11:56.42
+</td>
+
+
+<td  >
+Midwest Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+636
+</td>
+
+
+<td  >
+Matzke, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+11:59.01
+</td>
+
+
+<td  >
+Shippensburg Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+637
+</td>
+
+
+<td  >
+Riley, Brian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+11:59.43
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+638
+</td>
+
+
+<td  >
+Obregon , Christian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia (Tex.)
+</td>
+
+
+<td  >
+12:00.88
+</td>
+
+
+<td  >
+Trinity Tiger Relays
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+639
+</td>
+
+
+<td  >
+Gabler, Nathaniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Methodist
+</td>
+
+
+<td  >
+12:06.61
+</td>
+
+
+<td  >
+Johnson C. Smith University Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+640
+</td>
+
+
+<td  >
+Elliott, Brian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alvernia
+</td>
+
+
+<td  >
+12:11.00
+</td>
+
+
+<td  >
+WCU Collegiate Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+641
+</td>
+
+
+<td  >
+Knox, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount St. Joseph
+</td>
+
+
+<td  >
+12:13.38
+</td>
+
+
+<td  >
+2013 HCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+642
+</td>
+
+
+<td  >
+Unger, Connor 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Albright
+</td>
+
+
+<td  >
+12:16.88
+</td>
+
+
+<td  >
+2013 Messiah Multi/Invitational 
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+643
+</td>
+
+
+<td  >
+Flores, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+CCNY
+</td>
+
+
+<td  >
+12:18.84
+</td>
+
+
+<td  >
+2013 TCNJ Lions Invitational
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+644
+</td>
+
+
+<td  >
+Melick, Grier
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Stevenson
+</td>
+
+
+<td  >
+12:19.52
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+645
+</td>
+
+
+<td  >
+Guello, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+12:22.21
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+646
+</td>
+
+
+<td  >
+Rosenbaum, Luke 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Martin Luther
+</td>
+
+
+<td  >
+12:28.95
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+647
+</td>
+
+
+<td  >
+Beal, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pacific Lutheran
+</td>
+
+
+<td  >
+12:31.24
+</td>
+
+
+<td  >
+CWU Spike Arlt Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+648
+</td>
+
+
+<td  >
+Aragon, Richard
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia (Tex.)
+</td>
+
+
+<td  >
+12:35.98
+</td>
+
+
+<td  >
+Trinity Tiger Relays
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+649
+</td>
+
+
+<td  >
+Chester, George
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+12:46.05
+</td>
+
+
+<td  >
+Macalester Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+650
+</td>
+
+
+<td  >
+Schneck, Dan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia-Moorhead
+</td>
+
+
+<td  >
+12:53.52
+</td>
+
+
+<td  >
+Cobber Twilight
+</td>
+
+
+<td  >
+Apr 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+651
+</td>
+
+
+<td  >
+Johnson, Alexander 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oglethorpe
+</td>
+
+
+<td  >
+13:20.00
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 8, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+652
+</td>
+
+
+<td  >
+Henderson, Richard
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stevenson
+</td>
+
+
+<td  >
+13:21.37
+</td>
+
+
+<td  >
+2013 Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+653
+</td>
+
+
+<td  >
+Tassone, Bobby
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rockford
+</td>
+
+
+<td  >
+13:25.90
+</td>
+
+
+<td  >
+Northern Athletics Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+654
+</td>
+
+
+<td  >
+Turner, Tom
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mass. Maritime
+</td>
+
+
+<td  >
+14:12.69
+</td>
+
+
+<td  >
+Silfen Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

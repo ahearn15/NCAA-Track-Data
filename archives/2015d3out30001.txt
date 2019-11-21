@@ -1,0 +1,25334 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2015 NCAA Division III Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+3000 Steeple 
+	
+	
+ (Men)
+                            </h3>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1
+</td>
+
+
+<td  >
+Miller, Dawson
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+8:56.82
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2
+</td>
+
+
+<td  >
+Taute, Brock
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+9:01.84
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3
+</td>
+
+
+<td  >
+Lake, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+NYU
+</td>
+
+
+<td  >
+9:03.12
+</td>
+
+
+<td  >
+Princeton Open (College)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4
+</td>
+
+
+<td  >
+Brown, Jake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+9:04.51
+</td>
+
+
+<td  >
+UW-La Crosse Qualifier
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5
+</td>
+
+
+<td  >
+Benkovsky, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Olivet
+</td>
+
+
+<td  >
+9:05.36
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6
+</td>
+
+
+<td  >
+Roza, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:05.90
+</td>
+
+
+<td  >
+Larry Ellis (College)
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7
+</td>
+
+
+<td  >
+Geiger, Zachary
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio Wesleyan
+</td>
+
+
+<td  >
+9:07.66
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8
+</td>
+
+
+<td  >
+Togami, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:07.96
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9
+</td>
+
+
+<td  >
+Reed, Dominick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+9:08.23
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10
+</td>
+
+
+<td  >
+Haagsma, Steven 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:08.43
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11
+</td>
+
+
+<td  >
+Boyce, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:08.92
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12
+</td>
+
+
+<td  >
+Schatz, Jared
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+9:09.11
+</td>
+
+
+<td  >
+2015  Middle Atlantic Conference
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13
+</td>
+
+
+<td  >
+Ehinger, Joshua
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Whittier
+</td>
+
+
+<td  >
+9:09.25
+</td>
+
+
+<td  >
+Occidental Invitational (College/University)
+</td>
+
+
+<td  >
+May 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14
+</td>
+
+
+<td  >
+VanGrinsven, Paul
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Stout
+</td>
+
+
+<td  >
+9:09.55
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15
+</td>
+
+
+<td  >
+Eidenschink, Matt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:09.69
+</td>
+
+
+<td  >
+UW - La Crosse Eagle Open
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16
+</td>
+
+
+<td  >
+Hoffman, Ken
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:10.39
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17
+</td>
+
+
+<td  >
+Mees, Lukas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Emory
+</td>
+
+
+<td  >
+9:10.58
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18
+</td>
+
+
+<td  >
+McCurry, Pat
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+9:11.24
+</td>
+
+
+<td  >
+ECAC Division III Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19
+</td>
+
+
+<td  >
+Iacovelli, Jarred
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:11.27
+</td>
+
+
+<td  >
+2015 Penn Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20
+</td>
+
+
+<td  >
+Root, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:11.82
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21
+</td>
+
+
+<td  >
+O'Connor, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:11.96
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22
+</td>
+
+
+<td  >
+Pataky, Victor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+9:13.67
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23
+</td>
+
+
+<td  >
+O'Brien, Pat
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+9:13.72
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24
+</td>
+
+
+<td  >
+Adlfinger, Ethan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:14.82
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25
+</td>
+
+
+<td  >
+Garrity, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+9:15.05
+</td>
+
+
+<td  >
+ECAC Division III Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26
+</td>
+
+
+<td  >
+Toney, Harrison
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+9:15.14
+</td>
+
+
+<td  >
+VRoanoke/Virginia Tech Twilight Qualifier
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27
+</td>
+
+
+<td  >
+Zayac, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+9:15.39
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Freed, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+9:16.04
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+Ryan, Mitch
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:19.06
+</td>
+
+
+<td  >
+2015 Penn Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Peterson, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hamline
+</td>
+
+
+<td  >
+9:19.18
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Savage, Scott
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:20.55
+</td>
+
+
+<td  >
+Larry Ellis (College)
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Caporale, Jason
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+9:21.29
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Schalois, Kase
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+9:21.40
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Davis, Jackson
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+9:21.94
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Gomez, Stephen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+9:22.25
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Harms, Brett
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:22.70
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Jackson, Drew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+9:23.30
+</td>
+
+
+<td  >
+Kansas  Relays
+</td>
+
+
+<td  >
+Apr 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Richard, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+9:23.44
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+Lindquist, Jackson
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+9:24.46
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Bell, Grant
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:24.50
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41
+</td>
+
+
+<td  >
+Brinks, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+9:24.59
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+Eberhardt, Colin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+9:25.28
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Stecklair, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Johns Hopkins
+</td>
+
+
+<td  >
+9:25.29
+</td>
+
+
+<td  >
+Larry Ellis (College)
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Garrell, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:25.70
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Hoose, Kevin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+9:26.01
+</td>
+
+
+<td  >
+New England DIII Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Miller, Ben 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+9:26.08
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Gandolfo-Lucia, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:26.53
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Duncan, Alec 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Moravian
+</td>
+
+
+<td  >
+9:27.44
+</td>
+
+
+<td  >
+ECAC Division III Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Shartrand, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+9:28.14
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Cason, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Guilford
+</td>
+
+
+<td  >
+9:28.46
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Conway, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+9:28.47
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Habura, Bret
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:28.52
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Curry, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:29.03
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Murray, Wil
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+York (Pa.)
+</td>
+
+
+<td  >
+9:29.10
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Sands, Keith
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:30.01
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Shepherd, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+9:30.10
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Ewers, Ian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-La Crosse
+</td>
+
+
+<td  >
+9:30.24
+</td>
+
+
+<td  >
+UW - La Crosse Eagle Open
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Giamberdino, Joe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+9:30.57
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Owlett, Bob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:31.26
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Loustalet, Zorg
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:31.52
+</td>
+
+
+<td  >
+2015 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Yaeger, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+9:32.00
+</td>
+
+
+<td  >
+2015 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+Metz, Peter
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:32.20
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Head, Parker
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pomona-Pitzer
+</td>
+
+
+<td  >
+9:32.50
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Nevills, Payton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dubuque
+</td>
+
+
+<td  >
+9:32.65
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Frawley, JJ
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:32.80
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Lodi, Juliano
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:32.97
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Knight, Tate
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wesleyan
+</td>
+
+
+<td  >
+9:33.01
+</td>
+
+
+<td  >
+New England DIII Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Enos, Ty
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:33.08
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Lee, Ian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+9:33.61
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Gudeman, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+9:34.11
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Seekatz, Joshua
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+9:34.34
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Knobbe, Thomas 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+9:34.42
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Bugler, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+9:34.48
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Trueblood, Noah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Vassar
+</td>
+
+
+<td  >
+9:34.54
+</td>
+
+
+<td  >
+UAlbany Purple & Gold Last Chance Meet
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Pagano, Marshall
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:34.83
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+O'Keefe, Dan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:34.86
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Caldwell, Galen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+9:36.25
+</td>
+
+
+<td  >
+Marv Frye 2015
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+McOmber, Timothy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Birmingham-Southern
+</td>
+
+
+<td  >
+9:36.47
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+McMullin	, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Johns Hopkins
+</td>
+
+
+<td  >
+9:36.69
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Nowicki, Zachary
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:36.77
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 13, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Catanese, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:37.35
+</td>
+
+
+<td  >
+SLU Billiken Invite
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Clinton, Mitch 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Albion
+</td>
+
+
+<td  >
+9:37.71
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Seelaus, Jeff
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+9:38.00
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Meyer, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:38.03
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Cotton, Dan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+9:38.27
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Boggs, Garrett
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:38.28
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Johnston, Lukas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:38.31
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Forte, Jared 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Caltech
+</td>
+
+
+<td  >
+9:38.84
+</td>
+
+
+<td  >
+Occidental Invitational (College/University)
+</td>
+
+
+<td  >
+May 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Davies, Cam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+9:38.90
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Pederson, Benjamin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+9:39.19
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Harris, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Berry
+</td>
+
+
+<td  >
+9:39.49
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Zalov, Renat
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+9:39.74
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Tonelli, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:40.00
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Jurenec, Benjamin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+9:40.35
+</td>
+
+
+<td  >
+Augustana College Meet of Champions- Men
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+DeGroot, Kieran
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carroll
+</td>
+
+
+<td  >
+9:40.50
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Tomlin, Bridger
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+9:40.78
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+De Jong, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:40.86
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Ferguson-Hull, Evan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:40.91
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Watro, Curtis
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+9:41.26
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Whittemore, Steve
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+9:41.30
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Marpe, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:41.61
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Piro, Antonino
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stockton
+</td>
+
+
+<td  >
+9:42.23
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Hale, Peter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+9:42.42
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Dudley, Trent
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+9:42.83
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+D'Antona, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+9:42.85
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Shafi, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+9:42.88
+</td>
+
+
+<td  >
+2015 Willamette Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Stephen, Vince
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+9:43.02
+</td>
+
+
+<td  >
+Redbird Track And Field Invitational
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Doughty, Luke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:43.11
+</td>
+
+
+<td  >
+Indiana DIII Track and Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Hall, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alfred
+</td>
+
+
+<td  >
+9:43.33
+</td>
+
+
+<td  >
+UAlbany Purple & Gold Last Chance Meet
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Hoffmann, Hayden
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+9:43.43
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Mettler, Charlie 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:43.71
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Hill, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:43.89
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Howell, Billy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ramapo
+</td>
+
+
+<td  >
+9:43.92
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Molineux, Evan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:44.81
+</td>
+
+
+<td  >
+Caltech/Cal Lu/Chapman/CMS/Whittier
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Kramer, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+9:44.92
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Zandbergen, Zachary
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+9:45.10
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Meier, Nathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+9:45.95
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Bass, Kaleb
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pacific (Ore.)
+</td>
+
+
+<td  >
+9:46.12
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Berry, Adam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+9:46.17
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Derr, Bryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+9:46.22
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Horowicz, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bates
+</td>
+
+
+<td  >
+9:46.37
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Waite, Nathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+9:46.73
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Woods, Jonah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:46.91
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Hess, Zakk
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+9:47.02
+</td>
+
+
+<td  >
+Marv Frye 2015
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Wright, Austin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+9:47.15
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Higa, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+9:47.27
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Barber, Ben 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Greenville
+</td>
+
+
+<td  >
+9:47.36
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Witt, Kevin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nazareth
+</td>
+
+
+<td  >
+9:47.44
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Lamp, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Buena Vista
+</td>
+
+
+<td  >
+9:47.47
+</td>
+
+
+<td  >
+2015 Viking Classic
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Sisario, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emory
+</td>
+
+
+<td  >
+9:48.53
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Hinwood, Lachlan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+9:48.62
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Cook, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:48.74
+</td>
+
+
+<td  >
+SCIAC Multi Dual
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Douglas, Edward (EJ)
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oberlin
+</td>
+
+
+<td  >
+9:48.90
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Sugimoto, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Occidental
+</td>
+
+
+<td  >
+9:49.14
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Sensenig, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+9:49.37
+</td>
+
+
+<td  >
+Swarthmore Final Qualifier
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Santana, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+9:49.42
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Menear, Ty
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+9:49.50
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Waite, Patrick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:49.55
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Sundberg, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carroll
+</td>
+
+
+<td  >
+9:49.69
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Rasmussen, Soren
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+9:49.70
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Brandt, Clare
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+9:49.71
+</td>
+
+
+<td  >
+UW-La Crosse Qualifier
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Mitchell, Spencer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Spalding
+</td>
+
+
+<td  >
+9:50.00
+</td>
+
+
+<td  >
+University of the Cumberlands Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Terhune, Conor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado College
+</td>
+
+
+<td  >
+9:50.11
+</td>
+
+
+<td  >
+Occidental Invitational (College/University)
+</td>
+
+
+<td  >
+May 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Miehe, Kent
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Whitewater
+</td>
+
+
+<td  >
+9:50.28
+</td>
+
+
+<td  >
+Augustana College Meet of Champions- Men
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Kaplan, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cortland St.
+</td>
+
+
+<td  >
+9:50.37
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Erickson, Michael 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trinity (Tex.)
+</td>
+
+
+<td  >
+9:50.48
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Long, Ben
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+9:50.49
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Honkala, Johnny
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+9:50.53
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Luft, Harrison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Occidental
+</td>
+
+
+<td  >
+9:50.62
+</td>
+
+
+<td  >
+SCIAC Quad Meet # 3
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Dunn, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Maine
+</td>
+
+
+<td  >
+9:50.70
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Sandreuter, Stefan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+9:50.77
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Allen, Jared
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Millsaps
+</td>
+
+
+<td  >
+9:50.84
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Leversen, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:50.89
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Kiefer, J.P
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+9:51.11
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+McLean, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+9:51.32
+</td>
+
+
+<td  >
+2015 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Dodd, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+9:51.40
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Klockenkemper, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Middlebury
+</td>
+
+
+<td  >
+9:51.47
+</td>
+
+
+<td  >
+2015 PLNU Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Kennedy, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+9:51.50
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Lopez, Saul
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Park
+</td>
+
+
+<td  >
+9:51.95
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Cole, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+9:51.97
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Smith, Drew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lynchburg
+</td>
+
+
+<td  >
+9:52.22
+</td>
+
+
+<td  >
+2015 Liberty Twilight
+</td>
+
+
+<td  >
+Apr 29, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Berkowitz, Adam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+9:52.48
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Watson, Elliot
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+9:52.61
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Martin, Jack
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+9:52.83
+</td>
+
+
+<td  >
+2015 Liberty League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Chabraja, Alexander
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+9:52.85
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Posner, Cameron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Otterbein
+</td>
+
+
+<td  >
+9:53.34
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Scola, Billy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Johns Hopkins
+</td>
+
+
+<td  >
+9:53.41
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Cummings, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+9:53.42
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Meister, Joe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+9:53.57
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Whalen, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+9:53.57
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Richardson, Owen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bethany Lutheran
+</td>
+
+
+<td  >
+9:53.65
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Turner, Bradley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+9:53.86
+</td>
+
+
+<td  >
+2015 Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Tincher, Aaron 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+9:54.07
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Fleming, Andy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+9:54.39
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Phearman, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+9:54.42
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Whitehead, Mick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+9:54.55
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Smolinski, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+9:54.60
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Lundquist, Will 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Maine
+</td>
+
+
+<td  >
+9:54.69
+</td>
+
+
+<td  >
+New England DIII Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Eddy, Griffith
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+9:54.81
+</td>
+
+
+<td  >
+Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Mommsen, Seth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:55.12
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Franta, Brandon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+9:55.26
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Zeccola, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+9:55.56
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+West, Stuart
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+9:55.59
+</td>
+
+
+<td  >
+Indiana DIII Track and Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Hepner, Mason
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+9:55.63
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Toppin, Joel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+9:55.84
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+McKee, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+9:55.98
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+DeMaria, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:56.30
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Kilheeney, Bradley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+9:56.31
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Adams, Nick
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+9:56.36
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Oja, Sebastian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+NYU
+</td>
+
+
+<td  >
+9:56.37
+</td>
+
+
+<td  >
+Bulls Invitational
+</td>
+
+
+<td  >
+Mar 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Koch, Ethan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:56.52
+</td>
+
+
+<td  >
+Augustana College Twilight Meet
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Shoemaker, George 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lewis & Clark
+</td>
+
+
+<td  >
+9:56.76
+</td>
+
+
+<td  >
+L&C Spring Break Open
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Hartline, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+9:56.82
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Allison, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+9:56.85
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Becher, Leighton 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+9:57.43
+</td>
+
+
+<td  >
+Meet of the UnSaintly
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Guiducci, Roberto
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TCNJ
+</td>
+
+
+<td  >
+9:58.04
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Cabrera, Ricardo
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+9:58.06
+</td>
+
+
+<td  >
+2015 Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Davis, Brendan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+9:58.30
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Hanselman, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+9:58.37
+</td>
+
+
+<td  >
+Carleton Rolex Classic
+</td>
+
+
+<td  >
+Apr 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Smith, Trevor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+9:58.41
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Lohnes, Drake
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Denison
+</td>
+
+
+<td  >
+9:58.52
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Markin, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+9:58.61
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Stasinopohlas, Nik
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+9:59.09
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Haffner, Brett
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+9:59.45
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Cooper, Sam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+9:59.55
+</td>
+
+
+<td  >
+2015 Widener Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Foley, Connor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bridgewater St.
+</td>
+
+
+<td  >
+9:59.59
+</td>
+
+
+<td  >
+NEICAAA Track and Field Outdoor Championship
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Wendt, Nate
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+9:59.69
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Howard, Charlend
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+9:59.72
+</td>
+
+
+<td  >
+UW-Whitewater Drake Alternative
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Sommer, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oswego State
+</td>
+
+
+<td  >
+9:59.94
+</td>
+
+
+<td  >
+Oneonta May Meet
+</td>
+
+
+<td  >
+May 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+O'Hare, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Mary's (Minn.)
+</td>
+
+
+<td  >
+10:00.05
+</td>
+
+
+<td  >
+UW-La Crosse Qualifier
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Kuntz, Isaac
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Heidelberg
+</td>
+
+
+<td  >
+10:00.13
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+Henkes, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Trinity (Tex.)
+</td>
+
+
+<td  >
+10:00.15
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+LaMarre, Robert
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:00.28
+</td>
+
+
+<td  >
+2015 Capital District Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Nisly, Jared
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Mennonite
+</td>
+
+
+<td  >
+10:00.85
+</td>
+
+
+<td  >
+W&L Carnival
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Rusnak, Cameron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+10:00.98
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Sheilds, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+10:01.33
+</td>
+
+
+<td  >
+CTC Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Miceli, Brien 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Franklin & Marshall
+</td>
+
+
+<td  >
+10:01.36
+</td>
+
+
+<td  >
+Little 3 Championship
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Dammann, Carston 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:01.49
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Avila, David
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+10:01.59
+</td>
+
+
+<td  >
+Occidental Invitational (College/University)
+</td>
+
+
+<td  >
+May 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Finnegan, Patrick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:01.61
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+McKinney, Mason
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:01.75
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Geffers, Luke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:01.78
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Timm, Paul
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:01.81
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Wild, Scotty 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Birmingham-Southern
+</td>
+
+
+<td  >
+10:01.83
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Atchison, Colin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+George Fox
+</td>
+
+
+<td  >
+10:02.00
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Becker, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+10:02.06
+</td>
+
+
+<td  >
+Rose-Hulman Early Bird Invitational
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Trama, Zach
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:02.10
+</td>
+
+
+<td  >
+Elizabethtown "Early Bird" Opener
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Markham, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+10:02.19
+</td>
+
+
+<td  >
+2015 Capital Athletic Conference Outdoor Track & Field Champ
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Boelens, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:02.33
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Dean, Thomas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+10:02.63
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Schaap, Jonathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:03.28
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Graham, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+10:03.38
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Nelson, Craig
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+10:03.53
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Farnan, Jimmy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+10:03.70
+</td>
+
+
+<td  >
+PAC-2015 QUAD SOUTH MEET
+</td>
+
+
+<td  >
+Apr 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Varnas, Adam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:04.32
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Rich-Fiondella, Raymond
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Connecticut College
+</td>
+
+
+<td  >
+10:04.37
+</td>
+
+
+<td  >
+2015 Silfen Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Long, Scott
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bridgewater (Va.)
+</td>
+
+
+<td  >
+10:04.51
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Sheeran, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:04.75
+</td>
+
+
+<td  >
+Dr. Tucker Loras Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Oswald, Matt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+10:04.81
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Eisenbeis, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pacific (Ore.)
+</td>
+
+
+<td  >
+10:04.95
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Morbeck, Brad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+10:04.95
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Van Haitsma, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Calvin
+</td>
+
+
+<td  >
+10:05.07
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 13, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Fishbein, Benjamin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:05.15
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Beyerle, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Centre
+</td>
+
+
+<td  >
+10:05.20
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Van LaarHoven, Tim
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+10:05.22
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Davies, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+10:05.25
+</td>
+
+
+<td  >
+CTC Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Williams, Robby
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+10:05.52
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+King, Thomas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+10:05.60
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Kozlowski, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+10:05.79
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Burguete, Polo
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DePauw
+</td>
+
+
+<td  >
+10:05.85
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Koski, Jordan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+10:05.90
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Ben-Dor, Shai
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+10:06.81
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Dixon, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alfred
+</td>
+
+
+<td  >
+10:06.90
+</td>
+
+
+<td  >
+St. John Fisher Cardinal Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Dumont, Nolan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:06.93
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Barr, Emmett
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Allegheny
+</td>
+
+
+<td  >
+10:07.18
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Damkot, Trevor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:07.35
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Quinn, Bryant
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+George Fox
+</td>
+
+
+<td  >
+10:07.38
+</td>
+
+
+<td  >
+GFU Rich Allen Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Grundy, Jack
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+10:07.39
+</td>
+
+
+<td  >
+SLU Billiken Invite
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Busby, David
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oneonta
+</td>
+
+
+<td  >
+10:07.74
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Hassett, Jeremy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+10:07.80
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Markert, Matthew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:07.92
+</td>
+
+
+<td  >
+ASC Track and Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Ahrens, Connor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Stout
+</td>
+
+
+<td  >
+10:08.20
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Zubler, Bayley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+10:08.35
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Franco, Alec
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+10:08.59
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Scott, Leander
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+10:08.70
+</td>
+
+
+<td  >
+2015 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Berens, Chad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:08.85
+</td>
+
+
+<td  >
+2015 NWU Prairie Wolf Invite
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Baller, Mitch
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+10:08.91
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Porter, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+10:09.32
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Lynch, Peter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+10:09.49
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Moody, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Misericordia
+</td>
+
+
+<td  >
+10:09.53
+</td>
+
+
+<td  >
+2015  Middle Atlantic Conference
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Linse, Brennan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concordia (Wis.)
+</td>
+
+
+<td  >
+10:10.10
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Iovoli, Austin 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Susquehanna
+</td>
+
+
+<td  >
+10:10.32
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Bernard, Thomas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+10:10.35
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Knabe, Derek
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Capital
+</td>
+
+
+<td  >
+10:10.35
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Joyce, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Connecticut College
+</td>
+
+
+<td  >
+10:10.50
+</td>
+
+
+<td  >
+2015 Silfen Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+Tiberg, Cam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Superior
+</td>
+
+
+<td  >
+10:10.66
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Stimson, Ronnie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hamline
+</td>
+
+
+<td  >
+10:10.77
+</td>
+
+
+<td  >
+Hamline Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Cullen, Kieran
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+10:10.93
+</td>
+
+
+<td  >
+2015 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Yost, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+10:11.49
+</td>
+
+
+<td  >
+Penn State Behrend Open 2015
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Mueller, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:11.51
+</td>
+
+
+<td  >
+MIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Connolly, Steven 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+10:11.94
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Hanss, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alfred State
+</td>
+
+
+<td  >
+10:12.14
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Wilkens, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Martin Luther
+</td>
+
+
+<td  >
+10:12.21
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Beemer, Joseph
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+10:12.48
+</td>
+
+
+<td  >
+Alma College Charlie Gray Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Stomski, Daniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:12.66
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Reid, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chapman
+</td>
+
+
+<td  >
+10:12.74
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Harris, Blake
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Manchester
+</td>
+
+
+<td  >
+10:12.76
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Stocking, Teddy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+10:13.17
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Ferris, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+10:13.21
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Rimmele, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Coast Guard
+</td>
+
+
+<td  >
+10:13.21
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Tvrdy, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Knox
+</td>
+
+
+<td  >
+10:13.23
+</td>
+
+
+<td  >
+University of Dubuque Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Miller, Tim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bridgewater (Va.)
+</td>
+
+
+<td  >
+10:13.27
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Smith, Clay 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Geneva
+</td>
+
+
+<td  >
+10:13.39
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+O'Connell, William
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Elmhurst
+</td>
+
+
+<td  >
+10:13.90
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Brier, Mike
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+10:14.00
+</td>
+
+
+<td  >
+2015 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Boyd, Samuel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ohio Northern
+</td>
+
+
+<td  >
+10:14.12
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Vasic, Dusan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Baldwin Wallace
+</td>
+
+
+<td  >
+10:14.26
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Kovalovsky, Jed
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:14.48
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Cornell, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+10:14.64
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Fish, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:15.03
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Beyer, Rory
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+MIT
+</td>
+
+
+<td  >
+10:15.11
+</td>
+
+
+<td  >
+2015 PLNU Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Bunnell, Benjamin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colby-Sawyer
+</td>
+
+
+<td  >
+10:16.00
+</td>
+
+
+<td  >
+2015 North Atlantic Conference Championship and Invitational
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Pasquali, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dickinson
+</td>
+
+
+<td  >
+10:16.07
+</td>
+
+
+<td  >
+York College Twilight Meet
+</td>
+
+
+<td  >
+Apr 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Ervin, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+10:16.30
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Franklin, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rochester
+</td>
+
+
+<td  >
+10:16.58
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Rink, Collin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+10:16.61
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Tipker, George
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Franklin
+</td>
+
+
+<td  >
+10:17.05
+</td>
+
+
+<td  >
+Louisville Twilight
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Harriger, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:17.07
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Horner, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:17.07
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Shaw, Scott
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+New England College
+</td>
+
+
+<td  >
+10:17.18
+</td>
+
+
+<td  >
+2015 North Atlantic Conference Championship and Invitational
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Whitman, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Case Western
+</td>
+
+
+<td  >
+10:17.31
+</td>
+
+
+<td  >
+Marv Frye 2015
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Herlihy, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMass Dartmouth
+</td>
+
+
+<td  >
+10:17.46
+</td>
+
+
+<td  >
+MIT Sean Collier Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Peters, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+10:17.50
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Hayward, Connor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:18.19
+</td>
+
+
+<td  >
+SUNYAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Thibault, Drew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+10:18.27
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+Plazak, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:18.40
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+McKeehan, Zach
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stevens Institute
+</td>
+
+
+<td  >
+10:18.44
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Poupard, Joe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:18.47
+</td>
+
+
+<td  >
+2015 Silfen Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Horvath, Stephen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Coast Guard
+</td>
+
+
+<td  >
+10:18.53
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Welters, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:18.53
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Zollner, Austin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:18.92
+</td>
+
+
+<td  >
+2015 PLNU Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+McLaughlin, Bobby
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tufts
+</td>
+
+
+<td  >
+10:19.07
+</td>
+
+
+<td  >
+George Davis Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Torda, Ben
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+10:19.09
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Pauers, Mitch
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:19.19
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Fleming, Nathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:19.33
+</td>
+
+
+<td  >
+2015  Middle Atlantic Conference
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Grossnickle, Kenton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:19.44
+</td>
+
+
+<td  >
+2015  Middle Atlantic Conference
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Hulbert, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alfred State
+</td>
+
+
+<td  >
+10:19.60
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Erb, Landon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio Wesleyan
+</td>
+
+
+<td  >
+10:19.61
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Runzheimer, Evan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Eau Claire
+</td>
+
+
+<td  >
+10:19.61
+</td>
+
+
+<td  >
+WIAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Grifith, Ian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+10:19.64
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+Bakken, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:20.09
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Mamerow, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:20.25
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Hedges, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:20.44
+</td>
+
+
+<td  >
+Dr. Tucker Loras Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Gallo, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alfred
+</td>
+
+
+<td  >
+10:20.56
+</td>
+
+
+<td  >
+Empire 8 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+Lumbar, Luke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:20.57
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Simmons, Justin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+10:20.63
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Krott, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Juniata
+</td>
+
+
+<td  >
+10:20.68
+</td>
+
+
+<td  >
+11th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Torres, Alberto
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Beloit
+</td>
+
+
+<td  >
+10:21.02
+</td>
+
+
+<td  >
+University of Dubuque Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+DeJausserand, Justin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Salisbury
+</td>
+
+
+<td  >
+10:21.03
+</td>
+
+
+<td  >
+New Captains Classic & Combined Events
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Humphreys, Jay
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+RIT
+</td>
+
+
+<td  >
+10:21.29
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Doherty, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas
+</td>
+
+
+<td  >
+10:21.31
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Langtry, Andrew 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+10:21.48
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Nelson, Scott
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Amherst
+</td>
+
+
+<td  >
+10:21.58
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Harmon, Leo
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:21.64
+</td>
+
+
+<td  >
+2015 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Chamenko, Ian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emmanuel (Mass.)
+</td>
+
+
+<td  >
+10:21.71
+</td>
+
+
+<td  >
+MIT Sean Collier Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+346
+</td>
+
+
+<td  >
+Mascio, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+10:21.78
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Peterson, Tim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concordia-Moorhead
+</td>
+
+
+<td  >
+10:22.10
+</td>
+
+
+<td  >
+Masanz Classic 
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Copeland, CJ
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+DePauw
+</td>
+
+
+<td  >
+10:22.14
+</td>
+
+
+<td  >
+Indiana DIII Track and Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+Swanson, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+10:22.29
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Secor, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:22.32
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+O'Donnell, Thomas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:22.49
+</td>
+
+
+<td  >
+2015 NESCAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Hafenstein, Danny
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wisconsin Lutheran
+</td>
+
+
+<td  >
+10:22.75
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Kane, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+10:23.63
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Nelson, Sam 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wabash
+</td>
+
+
+<td  >
+10:23.90
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Millard, Matt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Franklin
+</td>
+
+
+<td  >
+10:24.21
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Keller, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Denison
+</td>
+
+
+<td  >
+10:24.49
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Kreuch, Peter
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+10:24.53
+</td>
+
+
+<td  >
+2015 Ted Haydon Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Braz, Benjamin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UMass Dartmouth
+</td>
+
+
+<td  >
+10:24.68
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Satterthwaite, Lincoln
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+10:24.72
+</td>
+
+
+<td  >
+Bill Butler Collegiate Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Feola, Nolan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:24.96
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Melcer, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ithaca
+</td>
+
+
+<td  >
+10:25.05
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Arrigoni, Trevor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Westminster (Pa.)
+</td>
+
+
+<td  >
+10:25.17
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Tyris, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+York (Pa.)
+</td>
+
+
+<td  >
+10:25.25
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Wise, Brad
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+DePauw
+</td>
+
+
+<td  >
+10:25.27
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Wohl, Kenneth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Muhlenberg
+</td>
+
+
+<td  >
+10:25.29
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Jackson, Shawn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+10:25.40
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Abulebda, Mohammed
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Montclair State
+</td>
+
+
+<td  >
+10:25.52
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+White, Jimmy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+10:25.54
+</td>
+
+
+<td  >
+Muskingum - Amy Adams Memorial
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Hebeler, Travis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Millsaps
+</td>
+
+
+<td  >
+10:25.62
+</td>
+
+
+<td  >
+Mississippi College Season Opener
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Wittmershaus, Jacob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+10:25.68
+</td>
+
+
+<td  >
+St. Norbert Private College Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Dunic, Brian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:25.72
+</td>
+
+
+<td  >
+2015 NWU Prairie Wolf Invite
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+McClure, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+10:25.80
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Spadavecchia, Nicolo
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stockton
+</td>
+
+
+<td  >
+10:25.81
+</td>
+
+
+<td  >
+2015 Widener Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+Cohen, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emory
+</td>
+
+
+<td  >
+10:26.09
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+Mitchell, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+10:26.11
+</td>
+
+
+<td  >
+SCIAC Multi Dual
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Belden, Zane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:26.12
+</td>
+
+
+<td  >
+2015 Liberty League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+Pulvidente, Connor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+10:26.17
+</td>
+
+
+<td  >
+Big Red Invitational 2015
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Spera, Ian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:26.30
+</td>
+
+
+<td  >
+Coach P Open
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Donahue, Matthew 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+10:26.43
+</td>
+
+
+<td  >
+2015 McMurry University War Hawk Classic
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Ditsch, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carthage
+</td>
+
+
+<td  >
+10:26.64
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+Houle, Travis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:26.72
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Miller, Brandon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+10:26.83
+</td>
+
+
+<td  >
+2015 NACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+383
+</td>
+
+
+<td  >
+Dietz, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:26.94
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Garcia, David
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+10:27.06
+</td>
+
+
+<td  >
+2015 SCIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+Kessler, Caleb
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:27.24
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Wohl, Erich
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hamilton
+</td>
+
+
+<td  >
+10:27.26
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+387
+</td>
+
+
+<td  >
+Quesenberry, Trevor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+10:27.74
+</td>
+
+
+<td  >
+Roanoke College Track and Field Invitational
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Dorsey, Ronan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois Wesleyan
+</td>
+
+
+<td  >
+10:27.88
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Bass, Stewart
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+10:27.91
+</td>
+
+
+<td  >
+2015 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Lick, Austin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:27.91
+</td>
+
+
+<td  >
+CSB-SJU Quads
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Espino, Luis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pomona-Pitzer
+</td>
+
+
+<td  >
+10:27.96
+</td>
+
+
+<td  >
+SCIAC Multi-Dual #1
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Geurds, Joe 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+10:28.29
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+393
+</td>
+
+
+<td  >
+Olsen, Tanner
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Whittier
+</td>
+
+
+<td  >
+10:28.31
+</td>
+
+
+<td  >
+Pomona-Pitzer/Whittier/La Verne/Claremont-M-S
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Crise, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:28.41
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+Atkins, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+10:28.52
+</td>
+
+
+<td  >
+UW-La Crosse Qualifier
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Melia, Vincent
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fredonia
+</td>
+
+
+<td  >
+10:28.83
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Reardon, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+10:29.07
+</td>
+
+
+<td  >
+New Jersey Athletic Conference Outdoor Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Cooper, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+10:29.30
+</td>
+
+
+<td  >
+2015  Middle Atlantic Conference
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Prestigiacomo, Sam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:29.37
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+400
+</td>
+
+
+<td  >
+Wegter, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+10:29.45
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+King, James
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mary Washington
+</td>
+
+
+<td  >
+10:29.59
+</td>
+
+
+<td  >
+Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Rossiter, Noah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+10:29.60
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+Speca, Marcus
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:29.83
+</td>
+
+
+<td  >
+Lee Krough Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Melius, Hunter
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia Wesleyan
+</td>
+
+
+<td  >
+10:29.92
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Kimler, Tommy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+10:29.92
+</td>
+
+
+<td  >
+PLU Invitational
+</td>
+
+
+<td  >
+Mar 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Ramussen, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Carnegie Mellon
+</td>
+
+
+<td  >
+10:30.02
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+Mortimer, Daniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+WPI
+</td>
+
+
+<td  >
+10:30.21
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Rusco, Tommy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hamline
+</td>
+
+
+<td  >
+10:30.55
+</td>
+
+
+<td  >
+Meet of the UnSaintly
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+McCullough, Caleb
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Otterbein
+</td>
+
+
+<td  >
+10:30.70
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Schreiber, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Thomas (Minn.)
+</td>
+
+
+<td  >
+10:30.73
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+Condon, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Coast Guard
+</td>
+
+
+<td  >
+10:30.93
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Flank, Jaryd
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Muhlenberg
+</td>
+
+
+<td  >
+10:31.35
+</td>
+
+
+<td  >
+Lehigh Games
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Belk, Jonah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:31.44
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+Chesterman, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Geneseo St.
+</td>
+
+
+<td  >
+10:31.65
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Bolt, Chris
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Redlands
+</td>
+
+
+<td  >
+10:31.74
+</td>
+
+
+<td  >
+Redlands Last Chance Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Dunning, Egan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pacific Lutheran
+</td>
+
+
+<td  >
+10:31.79
+</td>
+
+
+<td  >
+Northwest Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+417
+</td>
+
+
+<td  >
+Meyer, Matthieu
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Randolph
+</td>
+
+
+<td  >
+10:32.04
+</td>
+
+
+<td  >
+2015 Aggie Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Parker, Jesse
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Mennonite
+</td>
+
+
+<td  >
+10:32.59
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Gehman, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Mennonite
+</td>
+
+
+<td  >
+10:32.64
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Spahn, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Stevens Point
+</td>
+
+
+<td  >
+10:32.76
+</td>
+
+
+<td  >
+Augustana College Meet of Champions- Men
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Lowe, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+10:32.87
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Daly, Alan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Augustana (Ill.)
+</td>
+
+
+<td  >
+10:33.11
+</td>
+
+
+<td  >
+Lee Calhoun Memorial Invitational
+</td>
+
+
+<td  >
+Apr 9, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+Thurston, Robert 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Morris
+</td>
+
+
+<td  >
+10:33.18
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Frandanisa, Steve
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+John Carroll
+</td>
+
+
+<td  >
+10:33.19
+</td>
+
+
+<td  >
+2015 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Monack, Ron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Vincent (Pa.)
+</td>
+
+
+<td  >
+10:33.33
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+King, Dominic
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:33.56
+</td>
+
+
+<td  >
+Wittenberg Tiger Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+Trosen, Josh
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+10:33.75
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+Sprague, Kyle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Transylvania
+</td>
+
+
+<td  >
+10:33.80
+</td>
+
+
+<td  >
+University of the Cumberlands Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Cole, Brian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Knox
+</td>
+
+
+<td  >
+10:33.92
+</td>
+
+
+<td  >
+Knox College Outdoor Open
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Gonzalez, Erik
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+10:34.05
+</td>
+
+
+<td  >
+MIAA Jamboree
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+Bassett, Liam
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Haverford
+</td>
+
+
+<td  >
+10:34.11
+</td>
+
+
+<td  >
+Centennial Conference Outdoor Track & Field Championhsips
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+Nozzi, Nathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Oshkosh
+</td>
+
+
+<td  >
+10:34.19
+</td>
+
+
+<td  >
+UW-Whitewater Drake Alternative
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Pepin, Adam
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Worcester State
+</td>
+
+
+<td  >
+10:34.36
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+434
+</td>
+
+
+<td  >
+Luzzi, Sean 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Misericordia
+</td>
+
+
+<td  >
+10:34.49
+</td>
+
+
+<td  >
+W&L Carnival
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Blubaugh, Scott
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+10:34.54
+</td>
+
+
+<td  >
+DIII All-Ohio Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Westman, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alfred State
+</td>
+
+
+<td  >
+10:34.65
+</td>
+
+
+<td  >
+NYSCTC Outdoor Championships (Roster Submission)
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+437
+</td>
+
+
+<td  >
+Mart, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Trine
+</td>
+
+
+<td  >
+10:35.02
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Statler, Charles
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rose-Hulman
+</td>
+
+
+<td  >
+10:35.39
+</td>
+
+
+<td  >
+'15 Rose-Hulman Twilight Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Rahal Jr., Mounir
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+10:35.46
+</td>
+
+
+<td  >
+Golden Eagle Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+440
+</td>
+
+
+<td  >
+Beno, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:35.50
+</td>
+
+
+<td  >
+Rhodes College Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Bohlken, Connor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:35.94
+</td>
+
+
+<td  >
+GPAC 2015 Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+Ciccone, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Keystone
+</td>
+
+
+<td  >
+10:36.21
+</td>
+
+
+<td  >
+Gwynedd Mercy Mid-Week Twilight Invitational
+</td>
+
+
+<td  >
+Apr 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Long, Tanner
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+10:36.71
+</td>
+
+
+<td  >
+SCIAC Multi-Dual #1
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Humphreys, Sean
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Heidelberg
+</td>
+
+
+<td  >
+10:36.82
+</td>
+
+
+<td  >
+Polar Bear Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Teed, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington U.
+</td>
+
+
+<td  >
+10:36.90
+</td>
+
+
+<td  >
+Washington University of St. Louis Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+Nordby, Grant
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:37.02
+</td>
+
+
+<td  >
+UW-La Crosse Qualifier
+</td>
+
+
+<td  >
+May 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+447
+</td>
+
+
+<td  >
+Polley, Benjamin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wartburg
+</td>
+
+
+<td  >
+10:37.24
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+448
+</td>
+
+
+<td  >
+Horton, Matthew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Shenandoah
+</td>
+
+
+<td  >
+10:37.72
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+449
+</td>
+
+
+<td  >
+Roth, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Linfield
+</td>
+
+
+<td  >
+10:38.86
+</td>
+
+
+<td  >
+GFU Rich Allen Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+450
+</td>
+
+
+<td  >
+Baldino, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Lawrence
+</td>
+
+
+<td  >
+10:39.03
+</td>
+
+
+<td  >
+2015 Liberty League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+451
+</td>
+
+
+<td  >
+Henn, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Thomas More
+</td>
+
+
+<td  >
+10:39.10
+</td>
+
+
+<td  >
+University of the Cumberlands Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+452
+</td>
+
+
+<td  >
+Northrop, Kyle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lasell
+</td>
+
+
+<td  >
+10:39.20
+</td>
+
+
+<td  >
+Regis Pride Classic
+</td>
+
+
+<td  >
+Apr 26, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+453
+</td>
+
+
+<td  >
+Lloyd, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lebanon Valley
+</td>
+
+
+<td  >
+10:39.71
+</td>
+
+
+<td  >
+York College Twilight Meet
+</td>
+
+
+<td  >
+Apr 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+454
+</td>
+
+
+<td  >
+Westby, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:39.74
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Kuipers, Josh
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+10:40.64
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+456
+</td>
+
+
+<td  >
+Gaikwad, Hirsh
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Emory
+</td>
+
+
+<td  >
+10:40.68
+</td>
+
+
+<td  >
+UAA Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+457
+</td>
+
+
+<td  >
+Burkholder, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio Wesleyan
+</td>
+
+
+<td  >
+10:40.70
+</td>
+
+
+<td  >
+North Coast Athletic Conference Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Lindley, Quinn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+10:40.79
+</td>
+
+
+<td  >
+2015 Willamette - Corban Dual
+</td>
+
+
+<td  >
+Mar 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+459
+</td>
+
+
+<td  >
+Giganti, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+10:41.21
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+460
+</td>
+
+
+<td  >
+Disalvo, Joe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Me.)
+</td>
+
+
+<td  >
+10:41.38
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+461
+</td>
+
+
+<td  >
+Zeigler, Joel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:41.51
+</td>
+
+
+<td  >
+11th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+462
+</td>
+
+
+<td  >
+Griffin, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Linfield
+</td>
+
+
+<td  >
+10:41.71
+</td>
+
+
+<td  >
+Pacific Twilight Meet
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+463
+</td>
+
+
+<td  >
+Mitchell, Jack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bowdoin
+</td>
+
+
+<td  >
+10:41.76
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+464
+</td>
+
+
+<td  >
+Downey, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stevens Institute
+</td>
+
+
+<td  >
+10:42.84
+</td>
+
+
+<td  >
+Mathew Vassar Twilight 2015
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+465
+</td>
+
+
+<td  >
+Horning, Gregory
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Frostburg State
+</td>
+
+
+<td  >
+10:42.87
+</td>
+
+
+<td  >
+2015 Capital Athletic Conference Outdoor Track & Field Champ
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+466
+</td>
+
+
+<td  >
+Jordan, Zack
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Berry
+</td>
+
+
+<td  >
+10:43.52
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+467
+</td>
+
+
+<td  >
+Underwood, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Willamette
+</td>
+
+
+<td  >
+10:43.86
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Horbinski, Tripp
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Milwaukee Sch. of Eng.
+</td>
+
+
+<td  >
+10:44.16
+</td>
+
+
+<td  >
+St. Norbert Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Bonnell, Brendon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pacific Lutheran
+</td>
+
+
+<td  >
+10:44.16
+</td>
+
+
+<td  >
+Puget Sound Shotwell Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+470
+</td>
+
+
+<td  >
+Angelo, Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:44.34
+</td>
+
+
+<td  >
+2015 Liberty League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+471
+</td>
+
+
+<td  >
+Rose, Glenn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Virginia Wesleyan
+</td>
+
+
+<td  >
+10:44.60
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+472
+</td>
+
+
+<td  >
+Herber, Peter
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:44.80
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Reynolds, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Guilford
+</td>
+
+
+<td  >
+10:45.46
+</td>
+
+
+<td  >
+Duke Twilight
+</td>
+
+
+<td  >
+May 6, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+474
+</td>
+
+
+<td  >
+Polania-Gonzalez, Ernesto
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Carleton
+</td>
+
+
+<td  >
+10:45.85
+</td>
+
+
+<td  >
+Hamline Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+475
+</td>
+
+
+<td  >
+Hallisey, Noah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Eastern Conn. St.
+</td>
+
+
+<td  >
+10:45.92
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+476
+</td>
+
+
+<td  >
+Dusza, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+10:46.00
+</td>
+
+
+<td  >
+Coach P Open
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Kirts, Miles
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Simpson (Iowa)
+</td>
+
+
+<td  >
+10:46.36
+</td>
+
+
+<td  >
+2015 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Tuebner, Glen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Westminster (Mo.)
+</td>
+
+
+<td  >
+10:46.36
+</td>
+
+
+<td  >
+Darrel Gourley Open
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Good, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bridgewater (Va.)
+</td>
+
+
+<td  >
+10:46.48
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+480
+</td>
+
+
+<td  >
+Carney-Knisely, Geoffrey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+10:46.76
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+481
+</td>
+
+
+<td  >
+Davis, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bethany (W.V.)
+</td>
+
+
+<td  >
+10:46.92
+</td>
+
+
+<td  >
+Westminster Invitational 2015
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+482
+</td>
+
+
+<td  >
+Tallo, Thomas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Emmanuel (Mass.)
+</td>
+
+
+<td  >
+10:47.39
+</td>
+
+
+<td  >
+MIT Sean Collier Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+483
+</td>
+
+
+<td  >
+Gussiaas, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Shenandoah
+</td>
+
+
+<td  >
+10:47.56
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Wallenta, Adam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+10:47.67
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+485
+</td>
+
+
+<td  >
+Fries, Tim
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+10:47.89
+</td>
+
+
+<td  >
+Muskingum - Amy Adams Memorial
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+486
+</td>
+
+
+<td  >
+Nail, Cody
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+10:48.23
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+487
+</td>
+
+
+<td  >
+Paquin, Cyrenus
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMass Dartmouth
+</td>
+
+
+<td  >
+10:48.59
+</td>
+
+
+<td  >
+Westfield - Gerry Gravel Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+488
+</td>
+
+
+<td  >
+Maurer, Kristopher
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alma
+</td>
+
+
+<td  >
+10:48.73
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+489
+</td>
+
+
+<td  >
+Thornton, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kenyon
+</td>
+
+
+<td  >
+10:49.02
+</td>
+
+
+<td  >
+Marv Frye 2015
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+490
+</td>
+
+
+<td  >
+Schein, Steve
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Claremont-Mudd-Scripps
+</td>
+
+
+<td  >
+10:49.03
+</td>
+
+
+<td  >
+SCIAC Multi Dual
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+491
+</td>
+
+
+<td  >
+Mahon, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Farmingdale St.
+</td>
+
+
+<td  >
+10:49.08
+</td>
+
+
+<td  >
+The Coach Omeltchenko Invitational
+</td>
+
+
+<td  >
+Apr 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+492
+</td>
+
+
+<td  >
+Plugge, Cory
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:49.16
+</td>
+
+
+<td  >
+2015 Concordia Twilight
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+493
+</td>
+
+
+<td  >
+Wylie, Jon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albion
+</td>
+
+
+<td  >
+10:49.73
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+494
+</td>
+
+
+<td  >
+Luce, Shawn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+10:50.03
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+495
+</td>
+
+
+<td  >
+Liebsch, Nate
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Elizabethtown
+</td>
+
+
+<td  >
+10:50.11
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+496
+</td>
+
+
+<td  >
+Peck, Nathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+10:50.30
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+497
+</td>
+
+
+<td  >
+Monks, Conor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rhodes
+</td>
+
+
+<td  >
+10:50.36
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+498
+</td>
+
+
+<td  >
+Weaver, Karl
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+10:50.47
+</td>
+
+
+<td  >
+Iowa Conference Outdoor Track & Field Championshiops
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+499
+</td>
+
+
+<td  >
+Pickering, Brendon 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheaton (Mass.)
+</td>
+
+
+<td  >
+10:50.73
+</td>
+
+
+<td  >
+Ramapo College Roadrunner Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+500
+</td>
+
+
+<td  >
+Armstrong, Zach
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Puget Sound
+</td>
+
+
+<td  >
+10:50.74
+</td>
+
+
+<td  >
+Puget Sound Five Way
+</td>
+
+
+<td  >
+Mar 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+501
+</td>
+
+
+<td  >
+Malin, Benjamin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Springfield
+</td>
+
+
+<td  >
+10:51.10
+</td>
+
+
+<td  >
+Springfield/WPI/Coast Guard
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+502
+</td>
+
+
+<td  >
+Thomas, Nick 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+10:51.20
+</td>
+
+
+<td  >
+Walsh University Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+503
+</td>
+
+
+<td  >
+Brauer, Dave
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Heidelberg
+</td>
+
+
+<td  >
+10:51.29
+</td>
+
+
+<td  >
+Marv Frye 2015
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+504
+</td>
+
+
+<td  >
+Cruickshank, Rowan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+CCNY
+</td>
+
+
+<td  >
+10:51.35
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+505
+</td>
+
+
+<td  >
+Saeger, Ryan  
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+10:51.83
+</td>
+
+
+<td  >
+2015 Liberty League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+506
+</td>
+
+
+<td  >
+Weberg, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Macalester
+</td>
+
+
+<td  >
+10:51.97
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+507
+</td>
+
+
+<td  >
+Anhold, Steven
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Eastern Mennonite
+</td>
+
+
+<td  >
+10:52.52
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+508
+</td>
+
+
+<td  >
+Vanella, Dustin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Catholic
+</td>
+
+
+<td  >
+10:52.69
+</td>
+
+
+<td  >
+Messiah Invitational 
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Blankenship, Josh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+10:52.77
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+510
+</td>
+
+
+<td  >
+Harris, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Earlham
+</td>
+
+
+<td  >
+10:52.81
+</td>
+
+
+<td  >
+Indiana DIII Track and Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+511
+</td>
+
+
+<td  >
+Parsons, Ray
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Shenandoah
+</td>
+
+
+<td  >
+10:53.20
+</td>
+
+
+<td  >
+Battleground Relays
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+512
+</td>
+
+
+<td  >
+Prueger, Hunter 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:54.48
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+513
+</td>
+
+
+<td  >
+Lowry, Chris
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DePauw
+</td>
+
+
+<td  >
+10:54.55
+</td>
+
+
+<td  >
+DePauw Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+514
+</td>
+
+
+<td  >
+Wagner, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+RPI
+</td>
+
+
+<td  >
+10:54.58
+</td>
+
+
+<td  >
+Dick Farley Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+515
+</td>
+
+
+<td  >
+Hodgdon, Chas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+10:55.21
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+516
+</td>
+
+
+<td  >
+Ulrich, Jake
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+10:55.27
+</td>
+
+
+<td  >
+2015 Capital District Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+517
+</td>
+
+
+<td  >
+Veasy, Logan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Whitworth
+</td>
+
+
+<td  >
+10:55.65
+</td>
+
+
+<td  >
+4th Annual Whitworth Twilight
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+518
+</td>
+
+
+<td  >
+Rector, James
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:56.22
+</td>
+
+
+<td  >
+2015 Benedictine University Twilight Invitational
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+519
+</td>
+
+
+<td  >
+Thompson, Cole
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado College
+</td>
+
+
+<td  >
+10:56.36
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+520
+</td>
+
+
+<td  >
+Collins, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:56.62
+</td>
+
+
+<td  >
+Bolstorff Twilight
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+521
+</td>
+
+
+<td  >
+Mast, Timothy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:56.84
+</td>
+
+
+<td  >
+11th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+522
+</td>
+
+
+<td  >
+Rider, Christian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+10:57.00
+</td>
+
+
+<td  >
+Caltech/Cal Lu/Chapman/CMS/Whittier
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+523
+</td>
+
+
+<td  >
+Putnam, Gabe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wheaton (Mass.)
+</td>
+
+
+<td  >
+10:57.08
+</td>
+
+
+<td  >
+Brown Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+524
+</td>
+
+
+<td  >
+Lester, Jake
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colby
+</td>
+
+
+<td  >
+10:57.15
+</td>
+
+
+<td  >
+Men's State of Maine Championships
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+Conrardy, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cornell College
+</td>
+
+
+<td  >
+10:57.20
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+526
+</td>
+
+
+<td  >
+Pilon, Victor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Scholastica
+</td>
+
+
+<td  >
+10:57.38
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+527
+</td>
+
+
+<td  >
+Hebert, Corey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Emmanuel (Mass.)
+</td>
+
+
+<td  >
+10:57.40
+</td>
+
+
+<td  >
+MIT Sean Collier Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Amann, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:57.61
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+529
+</td>
+
+
+<td  >
+Dombrowski, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+10:57.71
+</td>
+
+
+<td  >
+Walsh University Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+530
+</td>
+
+
+<td  >
+Truong, Phil
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska Wesleyan
+</td>
+
+
+<td  >
+10:57.74
+</td>
+
+
+<td  >
+GPAC 2015 Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+531
+</td>
+
+
+<td  >
+Redden, Jourdan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+U. of the South
+</td>
+
+
+<td  >
+10:58.02
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+532
+</td>
+
+
+<td  >
+O'Leary, Shane
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+10:58.39
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+533
+</td>
+
+
+<td  >
+Kachlik, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+10:58.54
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+534
+</td>
+
+
+<td  >
+Potesta, Spencer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Messiah
+</td>
+
+
+<td  >
+10:58.64
+</td>
+
+
+<td  >
+11th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+535
+</td>
+
+
+<td  >
+Cifuentes, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hood
+</td>
+
+
+<td  >
+10:58.66
+</td>
+
+
+<td  >
+Mason-Dixon Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+536
+</td>
+
+
+<td  >
+Dierberger, Thomas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+St. John's (Minn.)
+</td>
+
+
+<td  >
+10:58.79
+</td>
+
+
+<td  >
+Meet of Saints
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+537
+</td>
+
+
+<td  >
+Parece, Kenneth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+10:58.87
+</td>
+
+
+<td  >
+Westfield - Gerry Gravel Classic
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+538
+</td>
+
+
+<td  >
+Horan, Tucker
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cornell College
+</td>
+
+
+<td  >
+10:58.88
+</td>
+
+
+<td  >
+University of Dubuque Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+539
+</td>
+
+
+<td  >
+Allen, Tim
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+10:59.44
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+540
+</td>
+
+
+<td  >
+Kall, Tony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+10:59.56
+</td>
+
+
+<td  >
+Ohio Athletic Conference Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+541
+</td>
+
+
+<td  >
+Miller, Mitchell
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Olaf
+</td>
+
+
+<td  >
+11:00.04
+</td>
+
+
+<td  >
+Carleton Rolex Classic
+</td>
+
+
+<td  >
+Apr 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+542
+</td>
+
+
+<td  >
+Good, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington and Lee
+</td>
+
+
+<td  >
+11:01.47
+</td>
+
+
+<td  >
+W&L Carnival
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+543
+</td>
+
+
+<td  >
+Stoll, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cornell College
+</td>
+
+
+<td  >
+11:02.59
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+544
+</td>
+
+
+<td  >
+Rose, Zach
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Plattsburgh St.
+</td>
+
+
+<td  >
+11:02.78
+</td>
+
+
+<td  >
+Dick Farley Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+545
+</td>
+
+
+<td  >
+Bosel, Chad
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Union
+</td>
+
+
+<td  >
+11:02.79
+</td>
+
+
+<td  >
+John Homon Open
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+546
+</td>
+
+
+<td  >
+Smith, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wis.-Platteville
+</td>
+
+
+<td  >
+11:03.04
+</td>
+
+
+<td  >
+UW - La Crosse Eagle Open
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+Healey, Aidan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+11:03.06
+</td>
+
+
+<td  >
+2015 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+548
+</td>
+
+
+<td  >
+Tanner, Dylan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Baldwin Wallace
+</td>
+
+
+<td  >
+11:03.14
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 19, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+549
+</td>
+
+
+<td  >
+Wydra, Tony
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wilmington (Ohio)
+</td>
+
+
+<td  >
+11:03.28
+</td>
+
+
+<td  >
+Wittenberg Tiger Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+550
+</td>
+
+
+<td  >
+Trapani, Alec 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rowan
+</td>
+
+
+<td  >
+11:03.42
+</td>
+
+
+<td  >
+Oscar Moore Track and Field Open
+</td>
+
+
+<td  >
+Apr 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+551
+</td>
+
+
+<td  >
+Nur, Ahmed
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augsburg
+</td>
+
+
+<td  >
+11:04.18
+</td>
+
+
+<td  >
+Cactus Cup
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+552
+</td>
+
+
+<td  >
+Dunkelberg, Luke 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John Fisher
+</td>
+
+
+<td  >
+11:04.40
+</td>
+
+
+<td  >
+2015 Colonial Relays
+</td>
+
+
+<td  >
+Apr 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+553
+</td>
+
+
+<td  >
+Jenkins, Evan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Benedictine (Ill.)
+</td>
+
+
+<td  >
+11:04.46
+</td>
+
+
+<td  >
+2015 Benedictine University Twilight Invitational
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+554
+</td>
+
+
+<td  >
+Shelly, Stephen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lebanon Valley
+</td>
+
+
+<td  >
+11:05.04
+</td>
+
+
+<td  >
+2015 Widener Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+555
+</td>
+
+
+<td  >
+McAllister, Casey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oswego State
+</td>
+
+
+<td  >
+11:05.10
+</td>
+
+
+<td  >
+St. John Fisher Cardinal Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+556
+</td>
+
+
+<td  >
+Punke, Ian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+11:05.72
+</td>
+
+
+<td  >
+Norse Relays
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+557
+</td>
+
+
+<td  >
+Michell, Mike
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+11:05.96
+</td>
+
+
+<td  >
+Coach P Open
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+558
+</td>
+
+
+<td  >
+Thompson, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Monmouth (Ill.)
+</td>
+
+
+<td  >
+11:06.19
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+559
+</td>
+
+
+<td  >
+Ferguson, Thomas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stevenson
+</td>
+
+
+<td  >
+11:07.15
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+560
+</td>
+
+
+<td  >
+Schmidt, Zachary
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ripon
+</td>
+
+
+<td  >
+11:07.46
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+561
+</td>
+
+
+<td  >
+Arteaga, Luis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wesley
+</td>
+
+
+<td  >
+11:07.89
+</td>
+
+
+<td  >
+2015 Delaware Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+562
+</td>
+
+
+<td  >
+Carraci, Jeremy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central College
+</td>
+
+
+<td  >
+11:08.07
+</td>
+
+
+<td  >
+2015 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+563
+</td>
+
+
+<td  >
+Simac, Thomas
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Park
+</td>
+
+
+<td  >
+11:08.53
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+564
+</td>
+
+
+<td  >
+Friedrich, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gustavus Adolphus
+</td>
+
+
+<td  >
+11:09.71
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+565
+</td>
+
+
+<td  >
+Sullivan, Cameron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Birmingham-Southern
+</td>
+
+
+<td  >
+11:10.23
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+566
+</td>
+
+
+<td  >
+Jacobsen, Pat
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brockport St.
+</td>
+
+
+<td  >
+11:11.21
+</td>
+
+
+<td  >
+Univ of Rochester Alumni Invitational
+</td>
+
+
+<td  >
+Apr 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+567
+</td>
+
+
+<td  >
+DeSantis, Rob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+11:11.25
+</td>
+
+
+<td  >
+49th Hillsdale College GINA Relays
+</td>
+
+
+<td  >
+Apr 23, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+568
+</td>
+
+
+<td  >
+Murphy, James
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+11:11.47
+</td>
+
+
+<td  >
+Messiah Invitational 
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+569
+</td>
+
+
+<td  >
+Vear, Mark
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Central (Ill.)
+</td>
+
+
+<td  >
+11:11.72
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+570
+</td>
+
+
+<td  >
+Buchheim-Jurrison, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+11:12.06
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+571
+</td>
+
+
+<td  >
+Rees, Levi
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lynchburg
+</td>
+
+
+<td  >
+11:12.92
+</td>
+
+
+<td  >
+2015 Dr. Jack M. Toms Open
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+572
+</td>
+
+
+<td  >
+Bourdon, Adam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+11:13.00
+</td>
+
+
+<td  >
+New England Alliance Outdoor T&F Championship
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+573
+</td>
+
+
+<td  >
+Morgan, Dan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+11:13.50
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+574
+</td>
+
+
+<td  >
+Concannon, Ian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Williams
+</td>
+
+
+<td  >
+11:13.94
+</td>
+
+
+<td  >
+Springfield College Invitation T&F Meet
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+575
+</td>
+
+
+<td  >
+deLeon, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Babson
+</td>
+
+
+<td  >
+11:14.82
+</td>
+
+
+<td  >
+NEWMAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+576
+</td>
+
+
+<td  >
+Flynn, Riley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Webster
+</td>
+
+
+<td  >
+11:15.07
+</td>
+
+
+<td  >
+Greenville Invitational
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+577
+</td>
+
+
+<td  >
+Heimberger, Casey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Waynesburg
+</td>
+
+
+<td  >
+11:15.49
+</td>
+
+
+<td  >
+Presidents' Athletic Conference Championship Meet
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+578
+</td>
+
+
+<td  >
+Yocca, Alan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+11:15.68
+</td>
+
+
+<td  >
+OWU Ron Althoff Final Qualifying Meet
+</td>
+
+
+<td  >
+May 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+579
+</td>
+
+
+<td  >
+Gariby, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas-Tyler
+</td>
+
+
+<td  >
+11:15.73
+</td>
+
+
+<td  >
+SFA Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+580
+</td>
+
+
+<td  >
+Dannenberg, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Vassar
+</td>
+
+
+<td  >
+11:16.14
+</td>
+
+
+<td  >
+Mathew Vassar Twilight 2015
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+581
+</td>
+
+
+<td  >
+Gagen, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loras
+</td>
+
+
+<td  >
+11:16.32
+</td>
+
+
+<td  >
+Dr. Tucker Loras Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+582
+</td>
+
+
+<td  >
+Wirth, Quinn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+11:16.54
+</td>
+
+
+<td  >
+33rd Millersville Metrics
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+583
+</td>
+
+
+<td  >
+Turner, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Concordia-Moorhead
+</td>
+
+
+<td  >
+11:16.91
+</td>
+
+
+<td  >
+Masanz Classic 
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+584
+</td>
+
+
+<td  >
+Hughes, Matthew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hope
+</td>
+
+
+<td  >
+11:17.54
+</td>
+
+
+<td  >
+MIAA Jamboree
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+585
+</td>
+
+
+<td  >
+Waldschmidt, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Westminster (Pa.)
+</td>
+
+
+<td  >
+11:18.30
+</td>
+
+
+<td  >
+Westminster Invitational 2015
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+586
+</td>
+
+
+<td  >
+Hadish, Johnny
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+11:19.04
+</td>
+
+
+<td  >
+Viking Olympics
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+587
+</td>
+
+
+<td  >
+Powell, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Franklin
+</td>
+
+
+<td  >
+11:19.10
+</td>
+
+
+<td  >
+Indiana DIII Track and Field Championships
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+588
+</td>
+
+
+<td  >
+Alvarado, Carlos
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Park
+</td>
+
+
+<td  >
+11:19.74
+</td>
+
+
+<td  >
+CCIW Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+589
+</td>
+
+
+<td  >
+Calantoni, Anthony
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Muhlenberg
+</td>
+
+
+<td  >
+11:19.85
+</td>
+
+
+<td  >
+2015 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+590
+</td>
+
+
+<td  >
+Jaramillo, Yorkbell
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U. of Chicago
+</td>
+
+
+<td  >
+11:20.26
+</td>
+
+
+<td  >
+NCC Gregory Final Qualifier
+</td>
+
+
+<td  >
+May 14, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+591
+</td>
+
+
+<td  >
+Martinez, Leo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois Wesleyan
+</td>
+
+
+<td  >
+11:21.26
+</td>
+
+
+<td  >
+2015 Don Church Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+592
+</td>
+
+
+<td  >
+Weisensee, Robert
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gettysburg
+</td>
+
+
+<td  >
+11:22.50
+</td>
+
+
+<td  >
+33rd Millersville Metrics
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+593
+</td>
+
+
+<td  >
+Jeide, Billy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Luther
+</td>
+
+
+<td  >
+11:23.14
+</td>
+
+
+<td  >
+St. Mary's Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+594
+</td>
+
+
+<td  >
+Rich, Dylan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gallaudet
+</td>
+
+
+<td  >
+11:23.58
+</td>
+
+
+<td  >
+11th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+595
+</td>
+
+
+<td  >
+Enterline, Travis
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shenandoah
+</td>
+
+
+<td  >
+11:23.78
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+596
+</td>
+
+
+<td  >
+Connor, Brendan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Plattsburgh St.
+</td>
+
+
+<td  >
+11:24.39
+</td>
+
+
+<td  >
+2015 Capital District Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+597
+</td>
+
+
+<td  >
+Broege, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Coe
+</td>
+
+
+<td  >
+11:25.17
+</td>
+
+
+<td  >
+Dr. Tucker Loras Open
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+598
+</td>
+
+
+<td  >
+Hause, Stephen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+11:25.57
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+599
+</td>
+
+
+<td  >
+Margopoulos, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Christopher Newport
+</td>
+
+
+<td  >
+11:25.84
+</td>
+
+
+<td  >
+2015 Capital Athletic Conference Outdoor Track & Field Champ
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+600
+</td>
+
+
+<td  >
+Goin, Robert
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Greenville
+</td>
+
+
+<td  >
+11:26.66
+</td>
+
+
+<td  >
+Greenville College "Select" Invite
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+601
+</td>
+
+
+<td  >
+Attori, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Union (N.Y.)
+</td>
+
+
+<td  >
+11:26.91
+</td>
+
+
+<td  >
+2015 Capital District Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+602
+</td>
+
+
+<td  >
+Deboer, Luke
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Houghton
+</td>
+
+
+<td  >
+11:27.31
+</td>
+
+
+<td  >
+St. John Fisher Cardinal Classic
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+603
+</td>
+
+
+<td  >
+Pearson, Keenan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bethel (Minn.)
+</td>
+
+
+<td  >
+11:27.59
+</td>
+
+
+<td  >
+Meet of the UnSaintly
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+604
+</td>
+
+
+<td  >
+Rantis, Peter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lawrence
+</td>
+
+
+<td  >
+11:28.30
+</td>
+
+
+<td  >
+Lawrence Invite
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+605
+</td>
+
+
+<td  >
+Zendt, Zach 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dallas
+</td>
+
+
+<td  >
+11:28.55
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+606
+</td>
+
+
+<td  >
+Cortes, Diego
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oberlin
+</td>
+
+
+<td  >
+11:29.09
+</td>
+
+
+<td  >
+Ashland Alumni Open
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+607
+</td>
+
+
+<td  >
+Sergey, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Lutheran
+</td>
+
+
+<td  >
+11:29.11
+</td>
+
+
+<td  >
+SCIAC Track and Field Multi-Dual # 2
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+608
+</td>
+
+
+<td  >
+Clemetson, Alexander
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+11:30.82
+</td>
+
+
+<td  >
+MWC Conference Championships
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+609
+</td>
+
+
+<td  >
+Wargo, Glenn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Geneva
+</td>
+
+
+<td  >
+11:31.42
+</td>
+
+
+<td  >
+The 2015 Bethany Invite
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+610
+</td>
+
+
+<td  >
+Taylor, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Catholic
+</td>
+
+
+<td  >
+11:31.79
+</td>
+
+
+<td  >
+2015 Landmark Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+611
+</td>
+
+
+<td  >
+Jara, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+DeSales
+</td>
+
+
+<td  >
+11:32.09
+</td>
+
+
+<td  >
+Coach P Open
+</td>
+
+
+<td  >
+Apr 10, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+612
+</td>
+
+
+<td  >
+Wall, Colin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+11:32.52
+</td>
+
+
+<td  >
+Roanoke College Track and Field Invitational
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+613
+</td>
+
+
+<td  >
+Wainwright, Dave
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wheaton (Ill.)
+</td>
+
+
+<td  >
+11:33.21
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Invitational
+</td>
+
+
+<td  >
+May 7, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+614
+</td>
+
+
+<td  >
+Mauer, Colin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oglethorpe
+</td>
+
+
+<td  >
+11:33.45
+</td>
+
+
+<td  >
+Southern Athletic Association Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+615
+</td>
+
+
+<td  >
+Hawes, Nicholas
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Westfield State
+</td>
+
+
+<td  >
+11:34.10
+</td>
+
+
+<td  >
+Coast Guard Invitational
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+616
+</td>
+
+
+<td  >
+Heise, Michael
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Norbert
+</td>
+
+
+<td  >
+11:35.45
+</td>
+
+
+<td  >
+St. Norbert Private College Championships
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+617
+</td>
+
+
+<td  >
+Clair, Joshua
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ursinus
+</td>
+
+
+<td  >
+11:35.62
+</td>
+
+
+<td  >
+Gwynedd Mercy Mid-Week Twilight Invitational
+</td>
+
+
+<td  >
+Apr 15, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+618
+</td>
+
+
+<td  >
+Gomez, Damon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+La Verne
+</td>
+
+
+<td  >
+11:36.00
+</td>
+
+
+<td  >
+Pomona-Pitzer/Whittier/La Verne/Claremont-M-S
+</td>
+
+
+<td  >
+Mar 28, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+619
+</td>
+
+
+<td  >
+Luehring, David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bethany Lutheran
+</td>
+
+
+<td  >
+11:37.64
+</td>
+
+
+<td  >
+Lee Krough Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+620
+</td>
+
+
+<td  >
+Hoffman II, John
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Concordia (Ill.)
+</td>
+
+
+<td  >
+11:37.81
+</td>
+
+
+<td  >
+Benedictine Eagle Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+621
+</td>
+
+
+<td  >
+Stern, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lynchburg
+</td>
+
+
+<td  >
+11:38.02
+</td>
+
+
+<td  >
+2015 ODAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+622
+</td>
+
+
+<td  >
+Granger, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+U of Northwestern Saint Paul
+</td>
+
+
+<td  >
+11:38.26
+</td>
+
+
+<td  >
+UMAC Track and Field Outdoor Championships
+</td>
+
+
+<td  >
+May 1, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+623
+</td>
+
+
+<td  >
+Nelson, Bryce
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grove City
+</td>
+
+
+<td  >
+11:38.60
+</td>
+
+
+<td  >
+PAC-2015 QUAD NORTH MEET
+</td>
+
+
+<td  >
+Apr 16, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+624
+</td>
+
+
+<td  >
+Lehman, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Aurora
+</td>
+
+
+<td  >
+11:38.76
+</td>
+
+
+<td  >
+Benedictine Eagle Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+625
+</td>
+
+
+<td  >
+Gleason, Keanan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grinnell
+</td>
+
+
+<td  >
+11:39.09
+</td>
+
+
+<td  >
+Monmouth fighting Scots Outdoor-
+</td>
+
+
+<td  >
+May 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+626
+</td>
+
+
+<td  >
+Acito, Alessandro
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rutgers-Newark
+</td>
+
+
+<td  >
+11:39.13
+</td>
+
+
+<td  >
+Ramapo College Roadrunner Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+627
+</td>
+
+
+<td  >
+Medina, Oscar
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rutgers-Newark
+</td>
+
+
+<td  >
+11:40.42
+</td>
+
+
+<td  >
+Ramapo College Roadrunner Invitational
+</td>
+
+
+<td  >
+Apr 3, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+628
+</td>
+
+
+<td  >
+Bunnell, Brady
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+11:43.18
+</td>
+
+
+<td  >
+Bob Kahn Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+629
+</td>
+
+
+<td  >
+Ruane, Brian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Roanoke
+</td>
+
+
+<td  >
+11:43.52
+</td>
+
+
+<td  >
+Roanoke College Track and Field Invitational
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+630
+</td>
+
+
+<td  >
+Long, Aaron
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Baldwin Wallace
+</td>
+
+
+<td  >
+11:44.23
+</td>
+
+
+<td  >
+2015 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+631
+</td>
+
+
+<td  >
+Schultz, Robert
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adrian
+</td>
+
+
+<td  >
+11:45.22
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+632
+</td>
+
+
+<td  >
+Noyes, Edwin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Widener
+</td>
+
+
+<td  >
+11:46.02
+</td>
+
+
+<td  >
+2015 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 27, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+633
+</td>
+
+
+<td  >
+Mullen, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Muskingum
+</td>
+
+
+<td  >
+11:46.52
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+634
+</td>
+
+
+<td  >
+Boyce, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+11:47.04
+</td>
+
+
+<td  >
+Bob Kahn Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+635
+</td>
+
+
+<td  >
+Villarreal, Matthew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas Lutheran
+</td>
+
+
+<td  >
+11:48.51
+</td>
+
+
+<td  >
+UTSA Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+636
+</td>
+
+
+<td  >
+Fitzpatrick, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+11:53.81
+</td>
+
+
+<td  >
+2015 Eric Loeschner Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+637
+</td>
+
+
+<td  >
+Hache, Adrian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montclair State
+</td>
+
+
+<td  >
+11:54.03
+</td>
+
+
+<td  >
+CTC Championships
+</td>
+
+
+<td  >
+Apr 17, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+638
+</td>
+
+
+<td  >
+Davis, Winston
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Shenandoah
+</td>
+
+
+<td  >
+11:54.80
+</td>
+
+
+<td  >
+Battleground Relays
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+639
+</td>
+
+
+<td  >
+Horton, Caleb
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+East Texas Baptist
+</td>
+
+
+<td  >
+12:00.01
+</td>
+
+
+<td  >
+ASC Track and Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+640
+</td>
+
+
+<td  >
+Kruger, Chad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-River Falls
+</td>
+
+
+<td  >
+12:02.71
+</td>
+
+
+<td  >
+Hamline Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+641
+</td>
+
+
+<td  >
+Roffee, Spencer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gordon
+</td>
+
+
+<td  >
+12:02.93
+</td>
+
+
+<td  >
+2015 Eric Loeschner Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+642
+</td>
+
+
+<td  >
+Prescott, Quinn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+U of Northwestern Saint Paul
+</td>
+
+
+<td  >
+12:07.02
+</td>
+
+
+<td  >
+UW - La Crosse Eagle Open
+</td>
+
+
+<td  >
+May 8, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+643
+</td>
+
+
+<td  >
+Koenig, Travis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas Lutheran
+</td>
+
+
+<td  >
+12:07.19
+</td>
+
+
+<td  >
+SCAC Track & Field Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+644
+</td>
+
+
+<td  >
+Scanlon, Patrick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wooster
+</td>
+
+
+<td  >
+12:08.11
+</td>
+
+
+<td  >
+Bob Kahn Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+645
+</td>
+
+
+<td  >
+McClenahan, Tanner
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Coe
+</td>
+
+
+<td  >
+12:10.20
+</td>
+
+
+<td  >
+2015 Cornell Outdoor Invite
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+646
+</td>
+
+
+<td  >
+Paron, Jamey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alma
+</td>
+
+
+<td  >
+12:11.08
+</td>
+
+
+<td  >
+Michigan Intercollegiate Athletic Association Championships
+</td>
+
+
+<td  >
+Apr 30, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+647
+</td>
+
+
+<td  >
+Dureska, Michael 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wittenberg
+</td>
+
+
+<td  >
+12:12.81
+</td>
+
+
+<td  >
+Polar Bear Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+648
+</td>
+
+
+<td  >
+Macnab, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lynchburg
+</td>
+
+
+<td  >
+12:14.09
+</td>
+
+
+<td  >
+2015 Dr. Jack M. Toms Open
+</td>
+
+
+<td  >
+Mar 21, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+649
+</td>
+
+
+<td  >
+Dang, Jason
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Piedmont
+</td>
+
+
+<td  >
+12:14.25
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 20, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+650
+</td>
+
+
+<td  >
+Benson, Joseph
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+CCNY
+</td>
+
+
+<td  >
+12:20.23
+</td>
+
+
+<td  >
+2015 Goucher Track & Field Classic
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+651
+</td>
+
+
+<td  >
+McElroy, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount St. Joseph
+</td>
+
+
+<td  >
+12:21.44
+</td>
+
+
+<td  >
+2015 HCAC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 24, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+652
+</td>
+
+
+<td  >
+Blair, Brendan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Worcester State
+</td>
+
+
+<td  >
+12:24.68
+</td>
+
+
+<td  >
+2015 Silfen Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+653
+</td>
+
+
+<td  >
+McGrath, Dave
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois Wesleyan
+</td>
+
+
+<td  >
+12:26.07
+</td>
+
+
+<td  >
+2015 Don Church Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+654
+</td>
+
+
+<td  >
+Rey, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Coe
+</td>
+
+
+<td  >
+12:30.28
+</td>
+
+
+<td  >
+2015 Cornell Outdoor Invite
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+655
+</td>
+
+
+<td  >
+McClimans, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+12:33.24
+</td>
+
+
+<td  >
+Penn State Behrend Open 2015
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+656
+</td>
+
+
+<td  >
+MacLean, Ryain
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+12:37.74
+</td>
+
+
+<td  >
+2015 Jim Sheehan Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+657
+</td>
+
+
+<td  >
+Hernandez , David
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+CCNY
+</td>
+
+
+<td  >
+12:38.01
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 11, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+658
+</td>
+
+
+<td  >
+Schneck, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concordia-Moorhead
+</td>
+
+
+<td  >
+12:41.54
+</td>
+
+
+<td  >
+Al Cassell Relays
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+659
+</td>
+
+
+<td  >
+Hickey, Doug
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ursinus
+</td>
+
+
+<td  >
+13:07.49
+</td>
+
+
+<td  >
+Muhlenberg Spring Invitational
+</td>
+
+
+<td  >
+Apr 4, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+660
+</td>
+
+
+<td  >
+Horn, Joshua
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+East Texas Baptist
+</td>
+
+
+<td  >
+13:17.27
+</td>
+
+
+<td  >
+SFA Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 2, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+661
+</td>
+
+
+<td  >
+Sangthong, Top
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+PSU-Behrend
+</td>
+
+
+<td  >
+14:47.74
+</td>
+
+
+<td  >
+Penn State Behrend Open 2015
+</td>
+
+
+<td  >
+Apr 25, 2015
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+662
+</td>
+
+
+<td  >
+Hardy, Glenn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fitchburg St.
+</td>
+
+
+<td  >
+14:47.88
+</td>
+
+
+<td  >
+2015 Eric Loeschner Invitational
+</td>
+
+
+<td  >
+Apr 18, 2015
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

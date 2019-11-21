@@ -1,0 +1,9216 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2013 NCAA Division II Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-second-title pb-0">
+                    <div class="row mb-10 ">
+                        <div class="col-lg-4 border-right">
+
+
+                            <div>
+                                <span class="panel-heading-normal-text font-size-15">ICON KEY:</span>
+
+
+                                <img src="http://images.tfrrs.org/ico-plus-2.png" class="mb-3"
+                                     title="NCAA DII Prov">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Prov</span>
+
+                                <img src="http://images.tfrrs.org/ico-check-2.png" class="mb-3"
+                                     title="NCAA DII Auto">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Auto</span>
+
+                            </div>
+
+                          </div>
+                   </div>
+            </div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+3000 Steeple 
+	
+	
+ (Women)
+                            </h3>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Auto
+&nbsp;
+10:25.00
+</span>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Prov
+&nbsp;
+11:15.00
+</span>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Nelson, Alicia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+10:03.70
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Tanui, Susan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+10:13.40
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Schnittger, Amy 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+10:25.97
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Osborn, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+10:26.34
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Davis, Victoria
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+10:34.52
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Agnew, Jennifer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+U-Mary
+</td>
+
+
+<td  >
+10:35.21
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Fitzgerald, Corinne
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+10:37.95
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bruce, Kelsey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+10:38.78
+</td>
+
+
+<td  >
+J. Fred Duckett Rice Twilight Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Susset, Chloe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Abilene Christian
+</td>
+
+
+<td  >
+10:39.43
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Lamb, Kelly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+10:41.29
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Sindet, Brenda
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+10:44.91
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Jones, Kasey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+10:45.44
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Taddie, Alyssa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+10:48.71
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Hill, Lauren
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+10:50.69
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Foldager, Denali
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal St. Stanislaus
+</td>
+
+
+<td  >
+10:52.07
+</td>
+
+
+<td  >
+CSU Stanislaus Twilight Qualifier
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Minor, Lauren 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+10:53.49
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Nehl, Alicia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+U-Mary
+</td>
+
+
+<td  >
+10:57.27
+</td>
+
+
+<td  >
+NSIC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Galvan, Natalie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+10:57.93
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Filemyr, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+10:58.27
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Cliff, Katelyn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+10:59.27
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Toddy, Megan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Clarion
+</td>
+
+
+<td  >
+10:59.52
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Marshall, Anna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+10:59.87
+</td>
+
+
+<td  >
+RMAC Championships
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Herbert, Anne
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+NW Missouri
+</td>
+
+
+<td  >
+10:59.96
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Roberts, Mellissa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+11:01.55
+</td>
+
+
+<td  >
+RMAC Championships
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bowman, Peri
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+11:01.69
+</td>
+
+
+<td  >
+Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Thompson, Samantha
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+11:02.13
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Steen, Katelyn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+11:04.67
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Krehlik, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+11:06.21
+</td>
+
+
+<td  >
+2013 Willamette Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Boucher, Savannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mansfield
+</td>
+
+
+<td  >
+11:06.51
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Kreft, Kelsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+11:07.81
+</td>
+
+
+<td  >
+WWU Twilight Track & Field Meet
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Young, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+11:08.88
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Jewell, Emma
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+11:09.15
+</td>
+
+
+<td  >
+J. Fred Duckett Rice Twilight Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Swanson, Hayley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+11:10.60
+</td>
+
+
+<td  >
+Woody Wilson Classic - University/Open
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Burgess, Kelsey 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwood
+</td>
+
+
+<td  >
+11:10.62
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Terrell, Meghan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+11:11.11
+</td>
+
+
+<td  >
+All Ohio Championships
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bagwell, Angelica 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+11:11.17
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Naranjo, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal St. Stanislaus
+</td>
+
+
+<td  >
+11:11.75
+</td>
+
+
+<td  >
+CSU Stanislaus Twilight Qualifier
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bowler, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+11:11.88
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Melendez, Larissa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+11:12.55
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+O'Connor, Haley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+11:13.35
+</td>
+
+
+<td  >
+Azusa Pacific Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Celaya, Mallory 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Michigan
+</td>
+
+
+<td  >
+11:14.43
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track & Field Meet
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Rubash, Keely
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Cloud State
+</td>
+
+
+<td  >
+11:14.95
+</td>
+
+
+<td  >
+Drake Alternative
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Thompson, Amber 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+11:15.83
+</td>
+
+
+<td  >
+Coastal Carolina University Invitational 
+</td>
+
+
+<td  >
+Mar 8, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Haebe, Bryn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+11:18.54
+</td>
+
+
+<td  >
+Ben Brown Invitational (College)
+</td>
+
+
+<td  >
+Mar 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Kakebeen, Anneke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+11:18.92
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Westcott, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Rose
+</td>
+
+
+<td  >
+11:20.87
+</td>
+
+
+<td  >
+2013 Capital District Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Wagner, Maggie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+11:22.81
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Gudmundson, Kayla
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Winona State
+</td>
+
+
+<td  >
+11:24.16
+</td>
+
+
+<td  >
+NSIC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Bernthisel, Kylee
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+11:24.79
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Strang, Andie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+11:25.26
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Becic, Melanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+11:25.96
+</td>
+
+
+<td  >
+55th Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Mulvey, Sarah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+11:26.38
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Daniels, Ashley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+11:26.50
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Bethea, Jaymi
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+11:26.69
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Cota, Paxton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+San Francisco St.
+</td>
+
+
+<td  >
+11:26.86
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Lyons, Chelsea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado Mesa
+</td>
+
+
+<td  >
+11:28.72
+</td>
+
+
+<td  >
+RMAC Championships
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Castaneda, Christian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+11:29.55
+</td>
+
+
+<td  >
+J. Fred Duckett Rice Twilight Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Chester, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+11:29.68
+</td>
+
+
+<td  >
+Michigan State Spartan Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Testa, Erica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+11:31.31
+</td>
+
+
+<td  >
+2013 Kansas Relays
+</td>
+
+
+<td  >
+Apr 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Beauvaus, Danielle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+11:31.43
+</td>
+
+
+<td  >
+Liberty Collegiate Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Johnson, Chelsea
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wayne St.
+</td>
+
+
+<td  >
+11:32.00
+</td>
+
+
+<td  >
+EMU Twilight
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+Sanger, Katie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+11:32.36
+</td>
+
+
+<td  >
+Woody Wilson Classic - University/Open
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Wolpern, Ali
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+11:32.47
+</td>
+
+
+<td  >
+UC Irvine Spring Break Classic
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Peinado, Quetta
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+11:32.95
+</td>
+
+
+<td  >
+Kim Duyst Invitational 2013
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Chinchar, Erin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+11:33.71
+</td>
+
+
+<td  >
+GNAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Knotts, Ashli
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+11:33.86
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Lippold, Kelli
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+11:35.25
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Snyder, Megan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Winona State
+</td>
+
+
+<td  >
+11:35.71
+</td>
+
+
+<td  >
+NSIC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Bradshaw, Hailey 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+11:35.94
+</td>
+
+
+<td  >
+2013 Buc Scoring Invite
+</td>
+
+
+<td  >
+Mar 21, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Jocelyn, Hannah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+11:36.32
+</td>
+
+
+<td  >
+NSIC Outdoor Championships
+</td>
+
+
+<td  >
+May 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Humeniuk, Tanya
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Simon Fraser
+</td>
+
+
+<td  >
+11:38.06
+</td>
+
+
+<td  >
+WWU Twilight Track & Field Meet
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Veit, Kristen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+11:39.52
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Crutcher, Emeline
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+11:40.69
+</td>
+
+
+<td  >
+Angelo State David Noble Relays
+</td>
+
+
+<td  >
+Apr 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Rudin, Alexandra 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+11:41.36
+</td>
+
+
+<td  >
+Grand View Viking Classic
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Volf, Rebecca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+11:42.79
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Dolan, Erin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Drury
+</td>
+
+
+<td  >
+11:43.29
+</td>
+
+
+<td  >
+Saint Louis University Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Wiechelt, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+11:44.19
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Dickerson, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+11:44.79
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Barondeau, Mikayla
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern State
+</td>
+
+
+<td  >
+11:44.89
+</td>
+
+
+<td  >
+2013 Concordia Outdoor Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Robichaud, Brittany 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwood
+</td>
+
+
+<td  >
+11:45.03
+</td>
+
+
+<td  >
+Raleigh Relays (College/University)
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Kaiser, Megan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+11:45.22
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Hirsch, Katie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+11:46.40
+</td>
+
+
+<td  >
+2013 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Murray, Johannah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Poly Pomona
+</td>
+
+
+<td  >
+11:47.08
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Lowry, Kim
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+11:47.56
+</td>
+
+
+<td  >
+Lehigh Games
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Cala, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+11:47.70
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Grimmer, Kelsey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+11:48.50
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Burditt, Emma
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+11:48.66
+</td>
+
+
+<td  >
+2013 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Wingert, Carly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Drury
+</td>
+
+
+<td  >
+11:49.32
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Raypole, Courtney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+11:49.38
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Gerard, Dominique
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+11:50.58
+</td>
+
+
+<td  >
+RMAC Championships
+</td>
+
+
+<td  >
+May 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Frost, Lindsey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+11:52.21
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Harm, Kelsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+11:52.24
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Muellner, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+11:52.44
+</td>
+
+
+<td  >
+Carleton Relays
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Morales, Chelsea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+11:53.51
+</td>
+
+
+<td  >
+Lehigh Games
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Daly, Jayme 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+11:54.42
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Callahan, Brittany
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+11:54.51
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Guerra, Andrea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+11:54.71
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Caldwell, Melody 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Midwestern St.
+</td>
+
+
+<td  >
+11:54.85
+</td>
+
+
+<td  >
+2013 Kansas Relays
+</td>
+
+
+<td  >
+Apr 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Long, Chelsea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+11:55.21
+</td>
+
+
+<td  >
+2013 Conference Carolinas Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Reyes, Marissa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+TAMU-Kingsville
+</td>
+
+
+<td  >
+11:55.25
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Owen, Mary
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+11:56.18
+</td>
+
+
+<td  >
+2013 Al Manuel Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Howell, Rose
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+11:56.21
+</td>
+
+
+<td  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Palm, Abby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+11:56.67
+</td>
+
+
+<td  >
+Grand View Viking Classic
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Rexroat, Allie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+11:57.19
+</td>
+
+
+<td  >
+UCMO Mule Relays
+</td>
+
+
+<td  >
+Apr 21, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Collins, Jessica 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+11:59.82
+</td>
+
+
+<td  >
+Millersville Metrics
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Soupir, Samantha
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+11:59.95
+</td>
+
+
+<td  >
+MSU Twilight
+</td>
+
+
+<td  >
+Apr 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Arnold, Alexis
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+12:00.01
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Stone, Leah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+12:00.05
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Palm, Alexandria
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+12:00.74
+</td>
+
+
+<td  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Oeffler, Chelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+12:01.60
+</td>
+
+
+<td  >
+UC Irvine Spring Break Classic
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Turi, Sarah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+12:01.78
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Reich, Alexandra
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+12:01.89
+</td>
+
+
+<td  >
+2013 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Kelly, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgian Court
+</td>
+
+
+<td  >
+12:02.24
+</td>
+
+
+<td  >
+GCU vs. Rowan (Duel Meet)
+</td>
+
+
+<td  >
+Apr 10, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Craig, Keely
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grand Canyon
+</td>
+
+
+<td  >
+12:04.60
+</td>
+
+
+<td  >
+PacWest Conference Championships
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Steilberg, Virginia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+12:05.59
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Carson, Nina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Humboldt State
+</td>
+
+
+<td  >
+12:05.71
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Caldwell, Krista 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+12:05.77
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Schneekloth, Bridgette
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+12:07.22
+</td>
+
+
+<td  >
+MIAA Conference Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Acosta, Marissa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TAMU-Kingsville
+</td>
+
+
+<td  >
+12:07.61
+</td>
+
+
+<td  >
+J. Fred Duckett Rice Twilight Meet
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Fuller, Chelsie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wayne St.
+</td>
+
+
+<td  >
+12:07.82
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 15, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Ruiz, Evelyne
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Michigan
+</td>
+
+
+<td  >
+12:08.37
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Mathewson, Samantha
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+New Haven
+</td>
+
+
+<td  >
+12:10.80
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Evans, Haley
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montevallo
+</td>
+
+
+<td  >
+12:11.24
+</td>
+
+
+<td  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Hession, Kacy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+12:11.28
+</td>
+
+
+<td  >
+MIAA Conference Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Schott, Leah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+12:11.52
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Ferrell, Evan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+12:11.52
+</td>
+
+
+<td  >
+2013 Conference Carolinas Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Chaffee, Liz
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lenoir-Rhyne
+</td>
+
+
+<td  >
+12:11.74
+</td>
+
+
+<td  >
+Beynon Sports Catamount Classic
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Archambault, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+12:12.00
+</td>
+
+
+<td  >
+Cedarville Yellow Jacket Open
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Williams, Katy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+12:12.69
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Roth, Mckenzie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+12:12.81
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Reese, Elizabeth
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Millersville
+</td>
+
+
+<td  >
+12:12.88
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Morgan, Connie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+12:14.24
+</td>
+
+
+<td  >
+CWU Spike Arlt Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Weber, Amanda
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+12:14.60
+</td>
+
+
+<td  >
+UCSD Triton Invitational - Colleges and Universities
+</td>
+
+
+<td  >
+Apr 25, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Miller, Micalyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+12:14.61
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Gaughan, Kylie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+12:16.16
+</td>
+
+
+<td  >
+MIAA Conference Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Wynn, Rachel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+12:16.60
+</td>
+
+
+<td  >
+WCU Open
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Hernandez-Melendez, Rosimayri
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+12:17.01
+</td>
+
+
+<td  >
+3ra Clasificatoria LAI 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Omarkhail , Leigh Ann 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+12:17.12
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Bettac, Erica
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Findlay
+</td>
+
+
+<td  >
+12:17.17
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Lombardo, Jamie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+12:17.46
+</td>
+
+
+<td  >
+University of the Cumberlands Invitation 
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Redfield, Melanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+12:17.90
+</td>
+
+
+<td  >
+All Ohio Championships
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Beam, Melynda
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+12:19.44
+</td>
+
+
+<td  >
+Millersville Metrics
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Cook, Hannah 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brevard
+</td>
+
+
+<td  >
+12:19.58
+</td>
+
+
+<td  >
+SE Regional Championship
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Malek, Justine
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saint Martin's
+</td>
+
+
+<td  >
+12:20.23
+</td>
+
+
+<td  >
+WWU Twilight Track & Field Meet
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Bock, Melanie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+12:20.51
+</td>
+
+
+<td  >
+Bobcat Open Outdoor Meet
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Edwards, Kayla
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+12:20.95
+</td>
+
+
+<td  >
+Millersville Metrics
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Mcbride, Rebekah 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alderson-Broaddus
+</td>
+
+
+<td  >
+12:20.95
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Schall, Milea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Clarion
+</td>
+
+
+<td  >
+12:22.40
+</td>
+
+
+<td  >
+2013 Ed Fry Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Priest, Amber
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+12:22.55
+</td>
+
+
+<td  >
+Hendrix Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Farrar, Tylo 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Midwestern St.
+</td>
+
+
+<td  >
+12:22.79
+</td>
+
+
+<td  >
+2013 Kansas Relays
+</td>
+
+
+<td  >
+Apr 17, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Woodson, Markeshia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Clark Atlanta
+</td>
+
+
+<td  >
+12:23.83
+</td>
+
+
+<td  >
+Wofford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Watkins, Astacia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Benedict
+</td>
+
+
+<td  >
+12:25.01
+</td>
+
+
+<td  >
+USC Gamecock Open
+</td>
+
+
+<td  >
+Apr 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Hosie, Rachel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Findlay
+</td>
+
+
+<td  >
+12:27.26
+</td>
+
+
+<td  >
+Ashland Alumni Open
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Presutti, Brianna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Seton Hill
+</td>
+
+
+<td  >
+12:27.36
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Bonilla, Kiara
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+So. Conn. St.
+</td>
+
+
+<td  >
+12:27.93
+</td>
+
+
+<td  >
+2013 Yale Springtime Invitational 
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Fox, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+12:28.99
+</td>
+
+
+<td  >
+Ashland Alumni Open
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Shannon, Molly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+12:29.25
+</td>
+
+
+<td  >
+Indiana Little State Meet
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Harrington, Kristen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saint Rose
+</td>
+
+
+<td  >
+12:31.36
+</td>
+
+
+<td  >
+2013 Capital District Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Reindl, Lindsay
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+12:31.60
+</td>
+
+
+<td  >
+WCU Open
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Ahlstedt, Shannon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+12:32.57
+</td>
+
+
+<td  >
+MSSU "Bill Williams/Bob Laptad" Invite
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Sparks, Taylor 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+12:34.36
+</td>
+
+
+<td  >
+West Texas A&M Springbreak Classic
+</td>
+
+
+<td  >
+Mar 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Baughman, Haley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+12:34.63
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Clemons, Rachel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+12:35.37
+</td>
+
+
+<td  >
+Bellarmine Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Whited, Tabatha 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+12:36.80
+</td>
+
+
+<td  >
+Shamrock Invitational XVII
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Chairez, Candida
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Incarnate Word
+</td>
+
+
+<td  >
+12:37.69
+</td>
+
+
+<td  >
+Lone Star Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Crawford, Kelsey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+12:37.90
+</td>
+
+
+<td  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Moultrie, Brooke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+San Francisco St.
+</td>
+
+
+<td  >
+12:37.97
+</td>
+
+
+<td  >
+Johnny Mathis Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Waddell, Rachael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+12:38.29
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Lee, Amy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mansfield
+</td>
+
+
+<td  >
+12:38.42
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Gourley, Jaydn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+12:41.81
+</td>
+
+
+<td  >
+All-Idaho Cup
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Marron, Lauren
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+12:41.94
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Lower, Sydney
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+12:42.13
+</td>
+
+
+<td  >
+MIAA Conference Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Lemke, Hannah 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+12:42.17
+</td>
+
+
+<td  >
+Hamline Unsaintly
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Boedeker, Debbie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Truman State
+</td>
+
+
+<td  >
+12:43.04
+</td>
+
+
+<td  >
+Grand View Viking Classic
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Stueve, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Emporia St.
+</td>
+
+
+<td  >
+12:44.89
+</td>
+
+
+<td  >
+Emporia State Spring Twilight
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Steadman, Becca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sioux Falls
+</td>
+
+
+<td  >
+12:45.10
+</td>
+
+
+<td  >
+Vance Butler Invite
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Roche, Abby
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Michigan
+</td>
+
+
+<td  >
+12:45.81
+</td>
+
+
+<td  >
+2013 Hillsdale Invitational
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Russ, Sloane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Molloy
+</td>
+
+
+<td  >
+12:46.37
+</td>
+
+
+<td  >
+St. Joseph's College Golden Eagle Invitational
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+East, Chelsea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Liberty St.
+</td>
+
+
+<td  >
+12:47.14
+</td>
+
+
+<td  >
+Washington & Jefferson Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Soni, Stephanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+12:47.34
+</td>
+
+
+<td  >
+Lehigh Games
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Palumbo, Brianna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+12:47.84
+</td>
+
+
+<td  >
+Shippensburg Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+McClure, Krenda
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+12:48.35
+</td>
+
+
+<td  >
+Gorilla Classic
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Barr, Justine
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+12:48.70
+</td>
+
+
+<td  >
+2013 Ed Fry Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Gilbert, Elizabeth
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+12:49.00
+</td>
+
+
+<td  >
+Trinity Tiger Relays
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Logan, Alison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+12:49.87
+</td>
+
+
+<td  >
+Cedarville Yellow Jacket Open
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Hoffman, Austin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wingate
+</td>
+
+
+<td  >
+12:50.84
+</td>
+
+
+<td  >
+SE Regional Championship
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Martinez, Tiffeny
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Mayaguez
+</td>
+
+
+<td  >
+12:51.93
+</td>
+
+
+<td  >
+3ra Clasificatoria LAI 2013
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Ruffo, Brittany
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+12:52.04
+</td>
+
+
+<td  >
+W&L Track & Field Carnival
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Parsons, Kayla
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Columbus St.
+</td>
+
+
+<td  >
+12:53.23
+</td>
+
+
+<td  >
+Peach Belt Conference Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Albanese, Samantha
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+12:53.69
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Learn, Susan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mansfield
+</td>
+
+
+<td  >
+12:54.37
+</td>
+
+
+<td  >
+Cornell Big Red Outdoor Invitational 2013
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Gutierrez, Liria
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+William Jewell
+</td>
+
+
+<td  >
+12:54.77
+</td>
+
+
+<td  >
+Darrel Gourley Open
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Bowman, Amanda 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Carson-Newman
+</td>
+
+
+<td  >
+12:56.31
+</td>
+
+
+<td  >
+SE Regional Championship
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Lafferty, Courtney
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Philadelphia U.
+</td>
+
+
+<td  >
+12:56.95
+</td>
+
+
+<td  >
+CTC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Snyder, Kaylie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+12:58.68
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 1, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Powers, Kellie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+12:59.50
+</td>
+
+
+<td  >
+Regis College Pride Classic
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Cruze, Rose
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+13:00.54
+</td>
+
+
+<td  >
+CWU Spike Arlt Invitational
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Rice, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+13:02.33
+</td>
+
+
+<td  >
+2013 Ken Shannon Invitational
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Conneway, Rana
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+13:02.52
+</td>
+
+
+<td  >
+WVIAC Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Tennal, Maggie 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+13:02.86
+</td>
+
+
+<td  >
+MSSU "Bill Williams/Bob Laptad" Invite
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Fondren, Chantelle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+13:02.92
+</td>
+
+
+<td  >
+Michigan State Spartan Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Kitts, Mallory
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio Dominican
+</td>
+
+
+<td  >
+13:04.54
+</td>
+
+
+<td  >
+Kenyon Spring Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Carroll, Bethany 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+13:05.91
+</td>
+
+
+<td  >
+Shamrock Invitational XVII
+</td>
+
+
+<td  >
+Mar 14, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Carpenter, Aly
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alderson-Broaddus
+</td>
+
+
+<td  >
+13:07.90
+</td>
+
+
+<td  >
+Cal U Early Bird
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Cruz, Grisel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Mayaguez
+</td>
+
+
+<td  >
+13:09.63
+</td>
+
+
+<td  >
+Justas LAI 2013
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Bergstrom, Natalie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+13:10.93
+</td>
+
+
+<td  >
+2013 Ken Shannon Invitational
+</td>
+
+
+<td  >
+May 4, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Boyce, Amanda 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+13:11.68
+</td>
+
+
+<td  >
+2013 Don Frail Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Hutchinson, Amber 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kentucky State
+</td>
+
+
+<td  >
+13:11.90
+</td>
+
+
+<td  >
+Centre Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Scharrenbroich, Kaitlyn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kutztown
+</td>
+
+
+<td  >
+13:14.15
+</td>
+
+
+<td  >
+Lynchburg College Dr. Toms Open 2013
+</td>
+
+
+<td  >
+Mar 16, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Appelt, Ashley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+13:14.63
+</td>
+
+
+<td  >
+Mines Pre Conference Open
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Hawkins, Bailey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Oklahoma
+</td>
+
+
+<td  >
+13:20.70
+</td>
+
+
+<td  >
+Bison Invitational
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+Ferguson, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+13:21.41
+</td>
+
+
+<td  >
+The 2013 Bethany Invite
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Hooker, Heidi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+13:21.47
+</td>
+
+
+<td  >
+SE Regional Championship
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Jordan, Christina
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+13:21.88
+</td>
+
+
+<td  >
+Chanticleer Classic 2013
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Whitworth, Chloe
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+13:21.93
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 29, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Adams, Shechinah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Alabama
+</td>
+
+
+<td  >
+13:28.32
+</td>
+
+
+<td  >
+Troy/Coach ''O'' Invite
+</td>
+
+
+<td  >
+Apr 27, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Waanders, Faye
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Caldwell
+</td>
+
+
+<td  >
+13:29.85
+</td>
+
+
+<td  >
+CTC Outdoor Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Brown, Nicole
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ohio Dominican
+</td>
+
+
+<td  >
+13:32.98
+</td>
+
+
+<td  >
+Cedarville Yellow Jacket Open
+</td>
+
+
+<td  >
+Mar 30, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Hand, Jamie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Georgian Court
+</td>
+
+
+<td  >
+13:34.98
+</td>
+
+
+<td  >
+Richard Stockton College Invitational
+</td>
+
+
+<td  >
+Mar 23, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Cheruka, Caitlin 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+13:35.60
+</td>
+
+
+<td  >
+WCU Open
+</td>
+
+
+<td  >
+Apr 26, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Paquet, Meghan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+13:44.80
+</td>
+
+
+<td  >
+Regis College Pride Classic
+</td>
+
+
+<td  >
+Apr 28, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Richemond, Sanley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Clark Atlanta
+</td>
+
+
+<td  >
+14:07.15
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 8, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Hearn, Joy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kentucky State
+</td>
+
+
+<td  >
+14:11.78
+</td>
+
+
+<td  >
+Centre Invitational
+</td>
+
+
+<td  >
+Apr 6, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Williams, Madeline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+14:12.77
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 13, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Mingora, Elena
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pitt.-Johnstown
+</td>
+
+
+<td  >
+14:16.60
+</td>
+
+
+<td  >
+2013 Ed Fry Invitational
+</td>
+
+
+<td  >
+Apr 20, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Mark, Katie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+14:17.65
+</td>
+
+
+<td  >
+UTA Bobby Lane Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Shirley, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+14:21.11
+</td>
+
+
+<td  >
+2013 Conference Carolinas Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Buckley, Jessica
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Limestone
+</td>
+
+
+<td  >
+14:46.42
+</td>
+
+
+<td  >
+2013 Conference Carolinas Championships
+</td>
+
+
+<td  >
+Apr 19, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Harvard, Kate
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+14:48.28
+</td>
+
+
+<td  >
+Miami Invitational
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Dyson, Chelsea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Greenville
+</td>
+
+
+<td  >
+14:49.86
+</td>
+
+
+<td  >
+Lenoir-Rhyne Powersox Invitational
+</td>
+
+
+<td  >
+Mar 2, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Lenz, Abigail
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Caldwell
+</td>
+
+
+<td  >
+15:12.19
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 12, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Whitaker, Nekesha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Clark Atlanta
+</td>
+
+
+<td  >
+15:21.54
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 8, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Stickelman, Chelsea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Glenville St.
+</td>
+
+
+<td  >
+15:44.06
+</td>
+
+
+<td  >
+The 2013 Bethany Invite
+</td>
+
+
+<td  >
+Apr 5, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Solomon, Jasmin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tuskegee
+</td>
+
+
+<td  >
+16:20.80
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 22, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Traylor, Olivia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albany State
+</td>
+
+
+<td  >
+16:37.01
+</td>
+
+
+<td  >
+SIAC Track and Field Championships
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Coleman, Corie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Paine
+</td>
+
+
+<td  >
+16:44.50
+</td>
+
+
+<td  >
+SIAC Track and Field Championships
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Lewis, Sherinna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Albany State
+</td>
+
+
+<td  >
+19:38.11
+</td>
+
+
+<td  >
+SIAC Track and Field Championships
+</td>
+
+
+<td  >
+Apr 18, 2013
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

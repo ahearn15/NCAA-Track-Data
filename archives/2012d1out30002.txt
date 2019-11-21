@@ -1,0 +1,23054 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2012 NCAA Div. I Outdoor Qualifiers (Final)</h3></div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+3000 Steeple 
+	
+	
+ (Women)
+                            </h3>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1
+</td>
+
+
+<td  >
+Kipp, Shalaya
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+9:43.09
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2
+</td>
+
+
+<td  >
+Praught, Aisha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+9:51.30
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3
+</td>
+
+
+<td  >
+Stowe, Rebeka 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+9:52.82
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4
+</td>
+
+
+<td  >
+Kulik, Alyssa 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Clemson
+</td>
+
+
+<td  >
+9:52.90
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5
+</td>
+
+
+<td  >
+Henry, Amber
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+9:53.94
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6
+</td>
+
+
+<td  >
+LaCaze, Genevieve
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+9:55.44
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7
+</td>
+
+
+<td  >
+Pappas, Alexi
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+9:58.07
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8
+</td>
+
+
+<td  >
+Krchova, Eva
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+San Francisco
+</td>
+
+
+<td  >
+10:02.15
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9
+</td>
+
+
+<td  >
+Quigley, Colleen
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Florida State
+</td>
+
+
+<td  >
+10:02.53
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10
+</td>
+
+
+<td  >
+Traynor, Nicol
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Richmond
+</td>
+
+
+<td  >
+10:04.20
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11
+</td>
+
+
+<td  >
+Ehrman, Breanne
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+10:04.25
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12
+</td>
+
+
+<td  >
+Hogardh, Caroline
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+10:05.80
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13
+</td>
+
+
+<td  >
+Mattox, Kimber
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+10:06.58
+</td>
+
+
+<td  >
+Oregon Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14
+</td>
+
+
+<td  >
+Leutert, Astrid
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida State
+</td>
+
+
+<td  >
+10:07.20
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15
+</td>
+
+
+<td  >
+Dow, Samantha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+10:07.99
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16
+</td>
+
+
+<td  >
+Greany, Shelby
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+10:08.76
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17
+</td>
+
+
+<td  >
+Davidson, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+10:09.70
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18
+</td>
+
+
+<td  >
+Stephens, Heather
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+10:11.51
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19
+</td>
+
+
+<td  >
+Leptich, Alexandra
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:11.85
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20
+</td>
+
+
+<td  >
+O'Connor, Leah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+10:12.36
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21
+</td>
+
+
+<td  >
+Beutler, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+10:12.97
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22
+</td>
+
+
+<td  >
+Sorna, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+10:13.18
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23
+</td>
+
+
+<td  >
+Peters, Nicole
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+10:13.22
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24
+</td>
+
+
+<td  >
+Heymsfield, Grace 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+10:13.41
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25
+</td>
+
+
+<td  >
+Thompson, Melanie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+10:13.51
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26
+</td>
+
+
+<td  >
+Hursey, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+10:14.05
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27
+</td>
+
+
+<td  >
+Finn, Michelle
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+10:14.09
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Bower, Natalie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+10:14.27
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+King, Jillian
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+10:14.59
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Anselmini, Mary Kate
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+10:15.16
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Busby, Natalie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+10:16.68
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Bonk, Stephanie 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+10:16.94
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Aufmann, Madeline
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+10:17.57
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Weberg, Kirsten
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+10:17.84
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Amaro, Emilie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+10:18.18
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Dahlberg, Bridget
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+10:18.32
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Hartung, Genna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+10:18.40
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Moraczewski, Katie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:18.60
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+Fogg, LeAnne
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+10:18.65
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Butterworth, Alycia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+10:18.78
+</td>
+
+
+<td  >
+Oregon Twilight
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41
+</td>
+
+
+<td  >
+Stack, Amber
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+10:19.07
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+McClellan, Maddie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+North Dakota St.
+</td>
+
+
+<td  >
+10:19.39
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Rozario, Nicole
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+10:19.68
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Bryson, Taylor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+California
+</td>
+
+
+<td  >
+10:19.73
+</td>
+
+
+<td  >
+Big Meet
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Neumeyer, Regina
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+10:19.85
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+George, Cali
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+10:20.48
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Tarver, Kauren
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Arizona State
+</td>
+
+
+<td  >
+10:20.86
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Strausa, Agata
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+10:21.03
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+Mercer, Erin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+10:22.17
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Senior, Ruth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+10:22.55
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Barnard, Jessica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Long Beach St.
+</td>
+
+
+<td  >
+10:22.90
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Wallace, Taylor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+10:23.16
+</td>
+
+
+<td  >
+Oregon Pepsi Invitational
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Cawley, Erin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+10:23.64
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Whitehead, Britney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+10:23.91
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Radcliff, Kristen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oral Roberts
+</td>
+
+
+<td  >
+10:23.94
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Jacobs, Andrea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:24.10
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Boozer, Leslie 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+10:24.15
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Cunningham, Meghan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+10:24.68
+</td>
+
+
+<td  >
+Princeton Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+MacKay, Rebekah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Syracuse
+</td>
+
+
+<td  >
+10:25.12
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Andrews, Katy 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:25.21
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Strasser, Stephanie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+10:25.32
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Norman, Samantha
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+10:25.32
+</td>
+
+
+<td  >
+Payton Jordan Cardinal Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Ginther, Samantha
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+10:25.56
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Aragon, Alexa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Notre Dame
+</td>
+
+
+<td  >
+10:25.82
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Formaz, Clea
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arizona
+</td>
+
+
+<td  >
+10:25.84
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Roa, Karen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+10:26.19
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Haug, Heather
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+10:26.36
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Breathitt, Katie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+10:26.64
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Kujawa, Kate
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Oklahoma State
+</td>
+
+
+<td  >
+10:27.15
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Kayfes, Molly
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:27.43
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Biwott, Beatrice
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Carolina
+</td>
+
+
+<td  >
+10:27.70
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Hintze, Laken
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:27.83
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Anderson, Mallory 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+10:28.03
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Thorne, Amy Jo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Dakota St.
+</td>
+
+
+<td  >
+10:28.48
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Schulz, McKinzie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Notre Dame
+</td>
+
+
+<td  >
+10:28.56
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Austin, Caroline 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+10:28.59
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Garry, Kira
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+10:28.63
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Hamric, Jordan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia
+</td>
+
+
+<td  >
+10:28.71
+</td>
+
+
+<td  >
+Princeton Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Giannotti, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+10:28.82
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Graybill, Lindsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+10:29.97
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Bouchet, Courtney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+10:30.06
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Vaughn, Kristina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UAB
+</td>
+
+
+<td  >
+10:30.25
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Zillmer, Kristen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:30.43
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Sigg, Elise
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:30.88
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Fulton, Eleanor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+10:31.07
+</td>
+
+
+<td  >
+WSU-UW Dual
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Klenke, Shannon
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+10:31.23
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Kertesz, Emma
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+10:32.27
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Brink, Victoria
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+10:32.29
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Vincent, Ashley 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Xavier (Ohio)
+</td>
+
+
+<td  >
+10:32.41
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Lobley, Kendra
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+10:32.97
+</td>
+
+
+<td  >
+Atlantic Sun Outdoor Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Mueller, Morgan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+10:33.19
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Fischer, Dani
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+10:33.37
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Hanenburg, Kaitlin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+10:33.37
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Hilton, Nicole
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+10:33.45
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Voronko, Victoria
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+10:33.50
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Roberts, Ruby
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+10:33.84
+</td>
+
+
+<td  >
+WSU-UW Dual
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Evans, Tiffany
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+10:33.85
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Frerichs, Courtney
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+10:34.48
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Cromartie, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Maryland
+</td>
+
+
+<td  >
+10:34.62
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Ainsworth, Imogen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+10:34.81
+</td>
+
+
+<td  >
+New Mexico Tailwind Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Orcutt, Paige
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:35.03
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Pasternak, Anna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:35.32
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Hottenrott, Laura
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+10:35.39
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Benson, Abbie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Penn State
+</td>
+
+
+<td  >
+10:35.53
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Drury, Lisa Marie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:35.68
+</td>
+
+
+<td  >
+2012 BYU Robison Invitational
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Hamilton, Samantha
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+10:36.44
+</td>
+
+
+<td  >
+Horizon League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Foster, Julia
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+10:36.51
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Brewer, Rachael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:36.70
+</td>
+
+
+<td  >
+Illinois State University vs Southern Illinois University
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Finnegan, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albany
+</td>
+
+
+<td  >
+10:36.71
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Parks, Allie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+10:36.98
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Marches, Brittany 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas
+</td>
+
+
+<td  >
+10:37.50
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Dawson, Kelly 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+TCU
+</td>
+
+
+<td  >
+10:37.50
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Slotboom, Giselle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Jacksonville St.
+</td>
+
+
+<td  >
+10:37.82
+</td>
+
+
+<td  >
+FSU Relays
+</td>
+
+
+<td  >
+Mar 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Weschler, Megan 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:38.17
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Brooker, Cassie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:38.26
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+de La Bruyere, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+10:38.33
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Moskal, Aubrey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia
+</td>
+
+
+<td  >
+10:38.62
+</td>
+
+
+<td  >
+Princeton Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Woodruff, Chelsi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Florida State
+</td>
+
+
+<td  >
+10:38.78
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Berndt, Danielle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iowa
+</td>
+
+
+<td  >
+10:39.17
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Chojnacky, Mackenzie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+10:39.19
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Burnett, Shelbi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+10:39.62
+</td>
+
+
+<td  >
+Horizon League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Carter, Mackenzie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+10:39.65
+</td>
+
+
+<td  >
+Oregon Pepsi Invitational
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Gleason, Lizzie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+10:39.85
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Hutchings, Sarah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IPFW
+</td>
+
+
+<td  >
+10:39.99
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Decker, Ashlie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:40.57
+</td>
+
+
+<td  >
+Big Ten Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Cummings, Lindsey 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+10:40.90
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Menefee, Erin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Arizona
+</td>
+
+
+<td  >
+10:41.02
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+George, Diana
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+10:41.04
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Kirk, Savannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+10:41.32
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Cortes, Carolina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stony Brook
+</td>
+
+
+<td  >
+10:41.88
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Weiler, Liz
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+10:41.93
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Neczypor, Hannah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+10:42.23
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Snyder, Danica
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+10:42.27
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Jacobsen, Cydney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+10:42.69
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Hanson, Shea 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+10:43.45
+</td>
+
+
+<td  >
+Oregon Twilight
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Nelson-Harrison, Andrea
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:43.69
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Vorthmann, Amanda
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Nebraska-Omaha
+</td>
+
+
+<td  >
+10:44.10
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Lageschulte, Jill
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+10:44.44
+</td>
+
+
+<td  >
+Musco Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+James, Erin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+10:44.68
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Johnson, Rachel 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Baylor
+</td>
+
+
+<td  >
+10:45.06
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Furlan, Jessica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+10:45.35
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Kearney, Samantha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+10:45.83
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Knurr, Hanna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+10:46.38
+</td>
+
+
+<td  >
+SEC/Big Ten Challenge
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Nowlin, Taylor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oregon State
+</td>
+
+
+<td  >
+10:46.47
+</td>
+
+
+<td  >
+Pac-12 Championships
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Breathitt, Kelsey
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+10:46.59
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Bremser, Jen
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Air Force
+</td>
+
+
+<td  >
+10:46.79
+</td>
+
+
+<td  >
+2012 Drake Relays
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Ruiz, Maria
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+10:46.85
+</td>
+
+
+<td  >
+Wolfpack Last Chance (College)
+</td>
+
+
+<td  >
+May 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Mitchell, Rachel
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+10:46.93
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Scalf, Allie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Vanderbilt
+</td>
+
+
+<td  >
+10:46.97
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+VanderMalle, Marissa 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+10:47.00
+</td>
+
+
+<td  >
+Mountain West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Kasal, Jacqueline
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+DePaul
+</td>
+
+
+<td  >
+10:47.20
+</td>
+
+
+<td  >
+Louisville Cardinal Twilight
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Dalton, Kalli
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+10:47.31
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Frazier, Elisa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+10:47.42
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Sorensen, Suzie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:47.42
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Eikrem-Engeset, Kristine
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SMU
+</td>
+
+
+<td  >
+10:47.50
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Wolfe, Kristen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Col. of Charleston
+</td>
+
+
+<td  >
+10:48.26
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Nicholas, Jackie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+10:48.56
+</td>
+
+
+<td  >
+Princeton Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Thomas, Michelle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+10:48.63
+</td>
+
+
+<td  >
+28th Annual Toledo Invitational (College/Open)
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Bever, Abi
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+10:48.66
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Raulli, Lindsay
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+10:48.88
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Schiller, Erika
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Kansas State
+</td>
+
+
+<td  >
+10:48.91
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+McCann, Danielle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:49.01
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Mosteller, Brooke 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+10:49.21
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Plentl, Randi
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+10:49.34
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Showalter, Katharine 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+10:49.58
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Sullivan, Katie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+10:49.78
+</td>
+
+
+<td  >
+Princeton Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Stanton, Holly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+10:50.18
+</td>
+
+
+<td  >
+2012 WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 8, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+McShea, Kelly
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:50.20
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Potts, Tera
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:50.27
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+France, Chelsea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+10:50.57
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Delozier, Sarah 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+10:50.58
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Selix, Ariana
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:50.65
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Stressenger, Marita
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boston U.
+</td>
+
+
+<td  >
+10:50.94
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Jax, Michelle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida Atlantic
+</td>
+
+
+<td  >
+10:51.37
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Aha, Nicole
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+10:51.40
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Ducommun, Kathryn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Houston
+</td>
+
+
+<td  >
+10:51.63
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Meyer, Svenja
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Jacksonville
+</td>
+
+
+<td  >
+10:51.64
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Handler, Brook
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:51.76
+</td>
+
+
+<td  >
+Sea Ray Relays
+</td>
+
+
+<td  >
+Apr 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Baker, Elle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+10:51.82
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Chadwick, Jessica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:51.94
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Chitwood, Alex
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+10:51.95
+</td>
+
+
+<td  >
+Mid American Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Wood, Courtney
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+10:52.31
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Hanselka, Kristen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Baylor
+</td>
+
+
+<td  >
+10:52.32
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Stasakova, Erika
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+10:52.38
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Waddington, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio U.
+</td>
+
+
+<td  >
+10:52.68
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Farrar, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+10:53.01
+</td>
+
+
+<td  >
+Washington Statevs Tennessee
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Moylan, Krista
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Miss.
+</td>
+
+
+<td  >
+10:53.21
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Darnell, Sadie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+10:53.62
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Horton, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+10:54.16
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Watson, Samantha
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Oral Roberts
+</td>
+
+
+<td  >
+10:54.53
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Klaus, Olivia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+10:54.94
+</td>
+
+
+<td  >
+Vanderbilt Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Gonzalez, Cecilia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+10:54.96
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Kelly, Courtney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+10:55.89
+</td>
+
+
+<td  >
+University of Cincinnati Oliver Nickoloff
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Roche, Morgan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Quinnipiac
+</td>
+
+
+<td  >
+10:56.01
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Orders, Hannah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+10:56.18
+</td>
+
+
+<td  >
+Beaches vs. Mountains
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Casey, Morgan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+10:56.70
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Mercer, Hanna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+10:57.24
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Mayer, Allegra
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northwestern
+</td>
+
+
+<td  >
+10:57.48
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Williams, T'nay
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Delaware State
+</td>
+
+
+<td  >
+10:57.54
+</td>
+
+
+<td  >
+2012 Don Webster Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Howes, Erica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+10:57.54
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Schaeffer, Erika
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+10:57.55
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Burt, Stephanie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+10:57.56
+</td>
+
+
+<td  >
+2012 Brutus Hamilton Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Byrd, Laurie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+10:57.60
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Jorgensen, Samantha
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+North Carolina
+</td>
+
+
+<td  >
+10:57.84
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Cook, Allison
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+10:57.99
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+Dunkley, Kadian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bethune-Cookman
+</td>
+
+
+<td  >
+10:58.10
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Chelulei, Carolyne 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+10:58.24
+</td>
+
+
+<td  >
+Atlantic Sun Outdoor Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Brennan, Erin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNC-Wilmington
+</td>
+
+
+<td  >
+10:58.32
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Kado, Merissa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+10:58.48
+</td>
+
+
+<td  >
+USC vs UCLA
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Bergam, Lauren
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+10:59.17
+</td>
+
+
+<td  >
+2012 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Ribant, Madeline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Michigan
+</td>
+
+
+<td  >
+10:59.28
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+212
+</td>
+
+
+<td  >
+McEntire, Jenifer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nevada
+</td>
+
+
+<td  >
+10:59.33
+</td>
+
+
+<td  >
+2012 Brutus Hamilton Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Williams, Hannah
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+10:59.92
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Dowe, Corey
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+11:00.06
+</td>
+
+
+<td  >
+Cornell Big Red Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Weyer, Shannen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Alabama
+</td>
+
+
+<td  >
+11:00.12
+</td>
+
+
+<td  >
+Sun Belt Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Dahlquist, Molly 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bradley
+</td>
+
+
+<td  >
+11:00.51
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Masterson, Renee  
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Miss State
+</td>
+
+
+<td  >
+11:00.55
+</td>
+
+
+<td  >
+Ole Miss Invite
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Weaver, Chelsea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+11:00.57
+</td>
+
+
+<td  >
+Sun Belt Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Gallagher, Samantha 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+11:00.66
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Cuff, Adrienne
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charleston Southern
+</td>
+
+
+<td  >
+11:00.69
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Boucher, Meagan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:00.88
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Smith, Alison
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Villanova
+</td>
+
+
+<td  >
+11:01.09
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Thompson, Melissa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Ohio U.
+</td>
+
+
+<td  >
+11:01.45
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Matthews, Ashley
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Campbell
+</td>
+
+
+<td  >
+11:01.57
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Yosef, Betel
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+11:01.58
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Storey, Loren
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+11:01.89
+</td>
+
+
+<td  >
+2012 BYU Robison Invitational
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Olsen, Bjork
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:01.90
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Malloy, Audrey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+11:02.24
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Ball, Sarah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+11:02.26
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Reed, Emma
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+11:02.48
+</td>
+
+
+<td  >
+New Mexico Tailwind Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Reida, Liz
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+11:02.66
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Goeke, Leah 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:02.70
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Eckert, Liana
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+11:02.71
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Tryon, Emily
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+11:02.76
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+McCary, Laura
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+11:02.82
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Schinski, Liz
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Richmond
+</td>
+
+
+<td  >
+11:02.99
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Garfield, Lucy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:03.07
+</td>
+
+
+<td  >
+NEICAAA Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Slomski, Marisa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+11:03.19
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Steel, Laura
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+11:03.64
+</td>
+
+
+<td  >
+Princeton Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+Markolovic, Suzana
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+11:03.70
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Johnson, Jaime 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Illinois-Chicago
+</td>
+
+
+<td  >
+11:03.96
+</td>
+
+
+<td  >
+Horizon League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Carrick, Chelsea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+11:04.36
+</td>
+
+
+<td  >
+2012 Yale Springtime Invitational 
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Klein, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+11:04.43
+</td>
+
+
+<td  >
+Texas Roadhouse Border Battle
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Martinez, Anya
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Morehead State
+</td>
+
+
+<td  >
+11:04.65
+</td>
+
+
+<td  >
+Miami Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Nero, Scarla
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+11:04.67
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Hart, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Iowa
+</td>
+
+
+<td  >
+11:04.80
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Valenzuela, Tanya
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Riverside
+</td>
+
+
+<td  >
+11:04.85
+</td>
+
+
+<td  >
+33rd Sun Angel Classic - Invited College
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Fish, Samantha 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+11:05.38
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Richardson, Margo
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Louis
+</td>
+
+
+<td  >
+11:05.41
+</td>
+
+
+<td  >
+Washington University Invite
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Freeland, Meggan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+11:05.43
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Staruch, Cortney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+11:05.95
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Prusz, Andrea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+11:06.19
+</td>
+
+
+<td  >
+ISU Pacesetter Quad
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Nally, Meaghan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Georgetown
+</td>
+
+
+<td  >
+11:06.42
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Prakel, Mary
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Army
+</td>
+
+
+<td  >
+11:06.68
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Joseph, Amira
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Vanderbilt
+</td>
+
+
+<td  >
+11:07.06
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Christoforou, Stella
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+11:07.13
+</td>
+
+
+<td  >
+Georgia Relays/UGA Alumni Meet
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Cline, Dayna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Army
+</td>
+
+
+<td  >
+11:07.16
+</td>
+
+
+<td  >
+Army vs. Navy
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Butler, Liz
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+11:07.29
+</td>
+
+
+<td  >
+Musco Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Rice, Leah
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+11:07.58
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Gallagher, Kelley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+11:07.86
+</td>
+
+
+<td  >
+2012 State Farm MVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Jette, Kate
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+11:07.88
+</td>
+
+
+<td  >
+Oregon Twilight
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Fields, Minna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:07.91
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Gonsalves, Ivie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+11:07.94
+</td>
+
+
+<td  >
+Great West Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Martin, Cassie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+11:07.99
+</td>
+
+
+<td  >
+Tennessee Challenge
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Taylor, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:08.14
+</td>
+
+
+<td  >
+Navy Women's Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Redd, Jennica
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+11:08.56
+</td>
+
+
+<td  >
+2012 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Ramsey, Erika 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+11:09.22
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Kinsella, Megan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount St. Mary's
+</td>
+
+
+<td  >
+11:09.23
+</td>
+
+
+<td  >
+Patriot Open Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Mooney, Annie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+11:09.30
+</td>
+
+
+<td  >
+USC vs UCLA
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Karabinus, Ariel
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+11:09.31
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Bowers, Alexsandra
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+11:09.38
+</td>
+
+
+<td  >
+LSU Relays (College/Open)
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Kirsch, Demerey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nevada
+</td>
+
+
+<td  >
+11:09.62
+</td>
+
+
+<td  >
+2012 WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 8, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Clark, Chelsea
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+11:09.76
+</td>
+
+
+<td  >
+Atlantic Sun Outdoor Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Lovelace, Anne
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+11:09.85
+</td>
+
+
+<td  >
+2012 Yale Springtime Invitational 
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Dennison, Jessica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Coastal Carolina
+</td>
+
+
+<td  >
+11:10.04
+</td>
+
+
+<td  >
+Duke Twilight
+</td>
+
+
+<td  >
+May 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Milner, Kirsty
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+11:10.04
+</td>
+
+
+<td  >
+Mountain West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Crusham, Kayla
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Murray State
+</td>
+
+
+<td  >
+11:10.08
+</td>
+
+
+<td  >
+Louisville Cardinal Twilight
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Sorenson, ReBecca 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+11:10.44
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Navarro, Michelle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:10.72
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Foster, Paige
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+11:10.82
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Grosskurth, Kelly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:10.90
+</td>
+
+
+<td  >
+Bucknell Team Challenge 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Pierce, Hannah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:10.92
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Edon, Courtney
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Ball State
+</td>
+
+
+<td  >
+11:11.27
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Castrogivanni, Brianna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:11.30
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Rea, Justine
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+11:11.64
+</td>
+
+
+<td  >
+2012 Cal-Nevada Championships
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Eberhardt, Elizabeth
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+11:12.05
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Stapleton, Allie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Richmond
+</td>
+
+
+<td  >
+11:12.18
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Hutchison, Kylie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+11:12.19
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Hanson-Fassmann, Maren
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+11:12.45
+</td>
+
+
+<td  >
+2012 BYU-USC-Boise Tri
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Scully, Annie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+11:12.63
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Grimes, Anna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Murray State
+</td>
+
+
+<td  >
+11:12.80
+</td>
+
+
+<td  >
+Louisville Cardinal Twilight
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Campbell, Kaylee
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+11:13.30
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Golick, Bronte
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+11:13.70
+</td>
+
+
+<td  >
+USC vs UCLA
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Lapp, Amanda
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:13.70
+</td>
+
+
+<td  >
+Beaches vs. Mountains
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Twitchell, Kristy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+11:14.25
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Menghini, Krista
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+11:14.38
+</td>
+
+
+<td  >
+ISU Pacesetter Quad
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+BLAIR, CHRISTINA
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:14.48
+</td>
+
+
+<td  >
+Army vs. Navy
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Talbot, Amy
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+McNeese State
+</td>
+
+
+<td  >
+11:14.57
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Miko, Kelley
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:14.69
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Meyerhoff, Samantha 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. John's
+</td>
+
+
+<td  >
+11:14.79
+</td>
+
+
+<td  >
+2012 Yale Springtime Invitational 
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Nicosia, Shelby
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Coastal Carolina
+</td>
+
+
+<td  >
+11:15.23
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Preciado, Anna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+11:15.31
+</td>
+
+
+<td  >
+2012 BYU Robison Invitational
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Miller, Carol
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+11:15.54
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Fraser, Kelsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+11:15.72
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Crosta, Courtney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+11:16.18
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Poole, Adriana
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Miss State
+</td>
+
+
+<td  >
+11:16.23
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Fowler, Halsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+11:16.24
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Diacont , Margaret
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+11:16.37
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Bitterly, Jessica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+11:16.54
+</td>
+
+
+<td  >
+Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 22, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Collazos, Sara
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Sam Houston St.
+</td>
+
+
+<td  >
+11:16.61
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Longden, Emily
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:16.83
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Mittelstaedt, Hannah
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Seattle U.
+</td>
+
+
+<td  >
+11:16.85
+</td>
+
+
+<td  >
+2012 Willamette Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Dye, Stephanie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+11:17.32
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Draper, Laurel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+11:17.40
+</td>
+
+
+<td  >
+Duane Hartman Invite and Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+West, Jennifer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Army
+</td>
+
+
+<td  >
+11:17.60
+</td>
+
+
+<td  >
+Army vs. Navy
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Anais , Cynthia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+11:17.60
+</td>
+
+
+<td  >
+Navy Women's Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+Moyer, Valerie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+11:17.66
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Garcia, Noelle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+11:17.78
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Chumo, Joyce 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+11:17.99
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Langley, Tristan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Winthrop
+</td>
+
+
+<td  >
+11:18.17
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Gipson, Autumn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mid. Tenn. State
+</td>
+
+
+<td  >
+11:18.54
+</td>
+
+
+<td  >
+Coach "O"  Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Pollack, Jacqueline
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+11:18.87
+</td>
+
+
+<td  >
+ACC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Lenihan, Kerri
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+11:19.02
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Erath, Lindsay
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+11:19.38
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Lewiecki, Caroline
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+New Mexico St.
+</td>
+
+
+<td  >
+11:19.67
+</td>
+
+
+<td  >
+2012 WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 8, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Lanning, Julie 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Quinnipiac
+</td>
+
+
+<td  >
+11:19.79
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Mullen, Alyssa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+11:20.37
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Padilla, Jenna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+New Mexico St.
+</td>
+
+
+<td  >
+11:20.80
+</td>
+
+
+<td  >
+Michael Johnson/Dr. Pepper Classic
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Baydoun, Zeinab
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Detroit Mercy
+</td>
+
+
+<td  >
+11:21.55
+</td>
+
+
+<td  >
+GVSU Al Owens Classic
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Tobin, Emma
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Towson
+</td>
+
+
+<td  >
+11:21.92
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+Ulland, Kailey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+San Francisco
+</td>
+
+
+<td  >
+11:22.09
+</td>
+
+
+<td  >
+2012 Brutus Hamilton Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Kott, Brooke
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:22.17
+</td>
+
+
+<td  >
+Beaches vs. Mountains
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Ostrander, Debra
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+11:22.66
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Olson, Mara
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+11:22.66
+</td>
+
+
+<td  >
+Purdue Mike Poehlein Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+Zielinski, Alley
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+11:23.53
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Barrett, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+11:23.62
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Ehrhardt, Tess
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Illinois-Chicago
+</td>
+
+
+<td  >
+11:23.92
+</td>
+
+
+<td  >
+Benedictine Eagle Invite
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Owen, Erica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Memphis
+</td>
+
+
+<td  >
+11:24.29
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Budelier, Melissa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+11:24.34
+</td>
+
+
+<td  >
+Marquette Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Schon, Scotti
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+11:24.35
+</td>
+
+
+<td  >
+2012 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Westervelt, Kaci
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas Tech
+</td>
+
+
+<td  >
+11:24.41
+</td>
+
+
+<td  >
+2012 Clyde Littlefield Texas Relays
+</td>
+
+
+<td  >
+Mar 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Bishop, Courtney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Belmont
+</td>
+
+
+<td  >
+11:24.61
+</td>
+
+
+<td  >
+Atlantic Sun Outdoor Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Benn, Janessa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+N. Carolina A&T
+</td>
+
+
+<td  >
+11:24.67
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Zell, Madeline
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:24.77
+</td>
+
+
+<td  >
+Navy Women's Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Buford, Julia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwestern
+</td>
+
+
+<td  >
+11:24.89
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+346
+</td>
+
+
+<td  >
+Collison, Claire
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+11:24.98
+</td>
+
+
+<td  >
+Big Meet
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Ahlrichs, Anna 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Xavier (Ohio)
+</td>
+
+
+<td  >
+11:25.17
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Peters, Samantha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+11:25.92
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+Mendoza, Carina
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Fresno State
+</td>
+
+
+<td  >
+11:25.93
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Soderstrom, Kira 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+USC
+</td>
+
+
+<td  >
+11:26.21
+</td>
+
+
+<td  >
+USC vs UCLA
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+Burditt, Emma 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Missouri State
+</td>
+
+
+<td  >
+11:26.45
+</td>
+
+
+<td  >
+Tom Botts Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Pitman, Whitney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oregon State
+</td>
+
+
+<td  >
+11:26.80
+</td>
+
+
+<td  >
+Linfield Twilight
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Brekka, Kathleen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+11:26.84
+</td>
+
+
+<td  >
+Holy Cross Invitational  Meet 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Tevnan, Brianna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:26.85
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Woller, Sammy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Milwaukee
+</td>
+
+
+<td  >
+11:26.95
+</td>
+
+
+<td  >
+Marquette Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Moore, Maria
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+11:27.02
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Kirksey, Kendra
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Austin Peay
+</td>
+
+
+<td  >
+11:27.04
+</td>
+
+
+<td  >
+Sea Ray Relays
+</td>
+
+
+<td  >
+Apr 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Zajac, Rachel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+11:27.09
+</td>
+
+
+<td  >
+Purdue Mike Poehlein Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Green, Juliana
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+California
+</td>
+
+
+<td  >
+11:27.37
+</td>
+
+
+<td  >
+2012 Brutus Hamilton Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Bishop, Alison
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:27.81
+</td>
+
+
+<td  >
+Auburn War Eagle Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Sawyer, Elisabeth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gardner-Webb
+</td>
+
+
+<td  >
+11:28.01
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Sanchez, Gael
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+New Mexico St.
+</td>
+
+
+<td  >
+11:28.25
+</td>
+
+
+<td  >
+2012 WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 8, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Reese, Aleshia
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+11:28.28
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Matranga, Erin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+USC
+</td>
+
+
+<td  >
+11:28.47
+</td>
+
+
+<td  >
+USC Trojan Invitational
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Porter, Brianne
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+11:28.63
+</td>
+
+
+<td  >
+Bellarmine Classic
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Fontenot, Allison
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northwestern St.
+</td>
+
+
+<td  >
+11:28.70
+</td>
+
+
+<td  >
+UTA Bobby Lane Invitational
+</td>
+
+
+<td  >
+Mar 24, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Slavin, Marina
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:28.83
+</td>
+
+
+<td  >
+America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+Myers, Denise
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UL-Monroe
+</td>
+
+
+<td  >
+11:28.90
+</td>
+
+
+<td  >
+Sun Belt Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Beals, Catherine
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:29.05
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Fitzgibbons, Erin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rider
+</td>
+
+
+<td  >
+11:29.32
+</td>
+
+
+<td  >
+MAAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Hynes, Meagan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+11:29.35
+</td>
+
+
+<td  >
+Purdue Open Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+Wilson, Keri
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+11:29.56
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Cushnie, Amber
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+11:29.57
+</td>
+
+
+<td  >
+2012 Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+Walker, Bianca
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+11:29.64
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+Wilding, Jessica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+11:29.88
+</td>
+
+
+<td  >
+Great West Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Shutt, Jillian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rider
+</td>
+
+
+<td  >
+11:30.08
+</td>
+
+
+<td  >
+MAAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+Shulik, Emily
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Houston Baptist
+</td>
+
+
+<td  >
+11:30.18
+</td>
+
+
+<td  >
+Great West Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Nelson, Courtney 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+11:30.53
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Miller, Paige
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:31.07
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Denton, Emma
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+11:31.19
+</td>
+
+
+<td  >
+Rochester Spring Invitational
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+Paradis, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+11:31.60
+</td>
+
+
+<td  >
+Buc Scoring Invite
+</td>
+
+
+<td  >
+Mar 22, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Rivera, Kristina
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+11:31.67
+</td>
+
+
+<td  >
+UCLA vs Tennessee
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+383
+</td>
+
+
+<td  >
+Behm, Nicole
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nebraska-Omaha
+</td>
+
+
+<td  >
+11:31.85
+</td>
+
+
+<td  >
+Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Helgesson, Tilda
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+11:31.90
+</td>
+
+
+<td  >
+Sun Belt Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+Westlake, Gloria
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+11:32.03
+</td>
+
+
+<td  >
+Vanderbilt Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Skidmore, Emily
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio U.
+</td>
+
+
+<td  >
+11:32.33
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+387
+</td>
+
+
+<td  >
+Foote, Ali
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:32.43
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Chandler, Rebecca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Vanderbilt
+</td>
+
+
+<td  >
+11:32.53
+</td>
+
+
+<td  >
+SEC Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Reist, Hannah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Francis (Pa.)
+</td>
+
+
+<td  >
+11:32.60
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+390
+</td>
+
+
+<td  >
+Burke, Blair
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+11:32.86
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Trevino, Kelly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas State
+</td>
+
+
+<td  >
+11:33.51
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Oberski, Katrina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Detroit Mercy
+</td>
+
+
+<td  >
+11:33.59
+</td>
+
+
+<td  >
+Horizon League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+393
+</td>
+
+
+<td  >
+Garza, Beatriz
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Pan American
+</td>
+
+
+<td  >
+11:33.65
+</td>
+
+
+<td  >
+2012 Texas State Bobcat Classic
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Witczak, Marci
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+11:33.95
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+McClanahan, Carolyn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Houston Baptist
+</td>
+
+
+<td  >
+11:34.14
+</td>
+
+
+<td  >
+Great West Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Justus, Lauren
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+11:34.15
+</td>
+
+
+<td  >
+New Mexico Tailwind Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Houle, Kacee
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:34.50
+</td>
+
+
+<td  >
+Mississippi Open and Heptathlon
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Sinclair, Anna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:34.61
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+McLeod, Kaitlyn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+11:34.67
+</td>
+
+
+<td  >
+Track-it Buster
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+400
+</td>
+
+
+<td  >
+Graves, Kylie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+11:35.16
+</td>
+
+
+<td  >
+Track-it Buster
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+Brown, Claire
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+11:35.18
+</td>
+
+
+<td  >
+Billy Hayes Invitational 2012
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Willey, Rose
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+11:35.75
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+Mahone, Jerrica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:35.97
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Bosse, Anna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loyola (Md.)
+</td>
+
+
+<td  >
+11:36.18
+</td>
+
+
+<td  >
+2012 TCNJ Lion's Invitational
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+405
+</td>
+
+
+<td  >
+Andrews, Jewelz
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+11:36.32
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Zufelt-Clegg, Kalina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+11:36.79
+</td>
+
+
+<td  >
+2012 BYU Robison Invitational
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+Zehel, Nicole
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+11:36.90
+</td>
+
+
+<td  >
+GVSU Al Owens Classic
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Davis, Larissa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNLV
+</td>
+
+
+<td  >
+11:37.03
+</td>
+
+
+<td  >
+adidas/Steve Scott Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+Hojeij, Lana
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:37.60
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Edon, Caitlynn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Ball State
+</td>
+
+
+<td  >
+11:37.72
+</td>
+
+
+<td  >
+Polytan Invitational 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+Haran, Katy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UNC-Wilmington
+</td>
+
+
+<td  >
+11:37.92
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Savarese, Michelle
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+James Madison
+</td>
+
+
+<td  >
+11:38.07
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Kristiansson, Frida
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+SMU
+</td>
+
+
+<td  >
+11:38.08
+</td>
+
+
+<td  >
+54th Annual Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+Mortakis, Kelley 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+11:38.20
+</td>
+
+
+<td  >
+UCF Invitational
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Rutto, Kellen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+11:38.62
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Hutchins, Elizabeth
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:38.70
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+417
+</td>
+
+
+<td  >
+Fulton, Gabby
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+11:38.79
+</td>
+
+
+<td  >
+Auburn War Eagle Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Rudd, Kirstin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:38.98
+</td>
+
+
+<td  >
+Bucknell Team Challenge 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Royal, Adrianna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+11:39.20
+</td>
+
+
+<td  >
+Sacramento State MONDO Mid-Major Challenge
+</td>
+
+
+<td  >
+Apr 12, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Tiapon, Kelsea
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Long Beach St.
+</td>
+
+
+<td  >
+11:39.39
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Smith, Soyong
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:40.04
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Montague, Kelly
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+11:40.06
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+D'Ornellas, Madison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Long Beach St.
+</td>
+
+
+<td  >
+11:40.12
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Robish, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+11:40.43
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Soza-Hodgkinson, Hannah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oregon State
+</td>
+
+
+<td  >
+11:41.16
+</td>
+
+
+<td  >
+Linfield Twilight
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+Goldsworthy, Taylor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Temple
+</td>
+
+
+<td  >
+11:41.44
+</td>
+
+
+<td  >
+Patriot Open Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+Barry, Janet
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+11:42.02
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+Machado, Christina
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:42.05
+</td>
+
+
+<td  >
+Atlantic 10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Stockmaster, Brittany 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+11:43.38
+</td>
+
+
+<td  >
+2012 Sparky Adams Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Dabrowski, Pauline 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+11:43.45
+</td>
+
+
+<td  >
+Penn vs Princeton (women)
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+Parks, Melissa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Drake
+</td>
+
+
+<td  >
+11:43.77
+</td>
+
+
+<td  >
+Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 26, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+Capozzi, Michelle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+11:44.12
+</td>
+
+
+<td  >
+2012 Danny Curran Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Cappello, Alexandra 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+11:44.51
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+434
+</td>
+
+
+<td  >
+Davidshofer, April
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+11:44.62
+</td>
+
+
+<td  >
+Musco Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Serna, Rose
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+11:44.83
+</td>
+
+
+<td  >
+Big West Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Bush, Chelsey
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Campbell
+</td>
+
+
+<td  >
+11:44.92
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Lewein, Jenna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+11:44.92
+</td>
+
+
+<td  >
+Tommie Twilight
+</td>
+
+
+<td  >
+May 2, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Koblitz, Brooke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia
+</td>
+
+
+<td  >
+11:44.96
+</td>
+
+
+<td  >
+Georgia Spec Towns Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Gooch, Courtney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:45.51
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+440
+</td>
+
+
+<td  >
+Huff, Teresa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UCF
+</td>
+
+
+<td  >
+11:46.38
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Ohm, Johanna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+11:47.45
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+Bloom, Mackenzie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Arkansas-Little Rock
+</td>
+
+
+<td  >
+11:47.54
+</td>
+
+
+<td  >
+ASU Red Wolf Open
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Harris, Nichelle
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Hampton
+</td>
+
+
+<td  >
+11:47.80
+</td>
+
+
+<td  >
+Norfolk State University Relays
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Dohogne, Mary
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+11:47.92
+</td>
+
+
+<td  >
+Vanderbilt Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Kent, Ava
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+11:48.28
+</td>
+
+
+<td  >
+USC vs UCLA
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+Givens, Lauren
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+11:48.98
+</td>
+
+
+<td  >
+Patriot Open Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+447
+</td>
+
+
+<td  >
+Stickley, Maria
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+11:49.53
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+448
+</td>
+
+
+<td  >
+Wilson, Shantia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:49.65
+</td>
+
+
+<td  >
+Auburn War Eagle Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+449
+</td>
+
+
+<td  >
+Vance, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+11:50.20
+</td>
+
+
+<td  >
+2012 Pepsi Florida Relays (College/Open)
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+450
+</td>
+
+
+<td  >
+Russ, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Notre Dame
+</td>
+
+
+<td  >
+11:50.61
+</td>
+
+
+<td  >
+Texas Roadhouse Border Battle
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+451
+</td>
+
+
+<td  >
+Mill, Meredith
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Carolina
+</td>
+
+
+<td  >
+11:50.79
+</td>
+
+
+<td  >
+USC State Meet
+</td>
+
+
+<td  >
+Apr 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+452
+</td>
+
+
+<td  >
+Boyes, Kayla
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+IPFW
+</td>
+
+
+<td  >
+11:51.01
+</td>
+
+
+<td  >
+Purdue Dave Rankin Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+453
+</td>
+
+
+<td  >
+Schrader, Bree
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Baylor
+</td>
+
+
+<td  >
+11:51.12
+</td>
+
+
+<td  >
+Michael Johnson/Dr. Pepper Classic
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+454
+</td>
+
+
+<td  >
+DiVenere, Jessica
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+11:51.22
+</td>
+
+
+<td  >
+Rider Invite
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Coughlin, McKenna
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+11:51.56
+</td>
+
+
+<td  >
+Ole Miss Invite
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+456
+</td>
+
+
+<td  >
+Braden, Melody 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+11:51.91
+</td>
+
+
+<td  >
+2012 BYU Robison Invitational
+</td>
+
+
+<td  >
+Apr 25, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+457
+</td>
+
+
+<td  >
+Tanui, Winny 
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+11:51.92
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Hetzel, Megan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:51.98
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+459
+</td>
+
+
+<td  >
+Hale, Megan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+11:52.14
+</td>
+
+
+<td  >
+Sun Belt Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+460
+</td>
+
+
+<td  >
+Dennis, Kelly
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Wagner
+</td>
+
+
+<td  >
+11:52.20
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+461
+</td>
+
+
+<td  >
+Guridy, Alicia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+11:52.25
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+462
+</td>
+
+
+<td  >
+Wright, Shannon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:52.43
+</td>
+
+
+<td  >
+Lehigh Games
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+463
+</td>
+
+
+<td  >
+Bondulich, Kelly
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loyola (Md.)
+</td>
+
+
+<td  >
+11:53.20
+</td>
+
+
+<td  >
+2012 TCNJ Lion's Invitational
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+464
+</td>
+
+
+<td  >
+Avery, Janelle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Austin Peay
+</td>
+
+
+<td  >
+11:53.80
+</td>
+
+
+<td  >
+Sea Ray Relays
+</td>
+
+
+<td  >
+Apr 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+465
+</td>
+
+
+<td  >
+Doherty, Lauren
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+11:54.67
+</td>
+
+
+<td  >
+Wolfpack Last Chance (College)
+</td>
+
+
+<td  >
+May 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+466
+</td>
+
+
+<td  >
+Fitzgerald, Kelsey
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+11:55.32
+</td>
+
+
+<td  >
+Cornell Big Red Invitational
+</td>
+
+
+<td  >
+Apr 29, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+467
+</td>
+
+
+<td  >
+Long, Brittany
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+11:55.39
+</td>
+
+
+<td  >
+2012 Pacific Twilight
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Burst, Bethany
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+SE Louisiana
+</td>
+
+
+<td  >
+11:55.72
+</td>
+
+
+<td  >
+LSU Relays (College/Open)
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+469
+</td>
+
+
+<td  >
+Jones, Melissa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+11:55.73
+</td>
+
+
+<td  >
+J Fred Duckett Rice Twilight
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+470
+</td>
+
+
+<td  >
+Ulrich, Ashley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+11:55.85
+</td>
+
+
+<td  >
+Princeton Sam Howell Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+471
+</td>
+
+
+<td  >
+Sims, Rachel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+11:56.04
+</td>
+
+
+<td  >
+Samford Multi
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+472
+</td>
+
+
+<td  >
+Koonz, Kayla
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Delaware
+</td>
+
+
+<td  >
+11:57.05
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Drummond, Danielle
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:57.55
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+474
+</td>
+
+
+<td  >
+Dowd, Missy
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:57.71
+</td>
+
+
+<td  >
+BSC 'Southern Invitational
+</td>
+
+
+<td  >
+Mar 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+475
+</td>
+
+
+<td  >
+Suhr, Alex
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+11:57.75
+</td>
+
+
+<td  >
+Sioux Falls Relays
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+476
+</td>
+
+
+<td  >
+Larson, Nicole
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Colorado
+</td>
+
+
+<td  >
+11:57.80
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 9, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Fierro, Elizabeth
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northwestern
+</td>
+
+
+<td  >
+11:57.87
+</td>
+
+
+<td  >
+2012 Ted Haydon Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+478
+</td>
+
+
+<td  >
+Delgado, Laura
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loyola Marymount
+</td>
+
+
+<td  >
+11:58.14
+</td>
+
+
+<td  >
+Oxy Invitational Colleges
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Thornburg, Whitney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Harvard
+</td>
+
+
+<td  >
+11:58.67
+</td>
+
+
+<td  >
+Harvard/Yale Dual Meet
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+480
+</td>
+
+
+<td  >
+Jeszensky, Julie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+IPFW
+</td>
+
+
+<td  >
+12:00.12
+</td>
+
+
+<td  >
+Purdue Dave Rankin Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+481
+</td>
+
+
+<td  >
+Reed, Johanna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+12:00.15
+</td>
+
+
+<td  >
+CU Invitational 2012
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+482
+</td>
+
+
+<td  >
+Lewis, Maegan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+12:00.18
+</td>
+
+
+<td  >
+2012 Colonial Relays
+</td>
+
+
+<td  >
+Apr 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+483
+</td>
+
+
+<td  >
+O'Brien, Margaret
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Delaware
+</td>
+
+
+<td  >
+12:00.51
+</td>
+
+
+<td  >
+2012 Towson University Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Malmborg, Charlotte
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+12:00.60
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+485
+</td>
+
+
+<td  >
+Whitehead, Karys
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Delaware
+</td>
+
+
+<td  >
+12:00.61
+</td>
+
+
+<td  >
+2012 Towson University Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+486
+</td>
+
+
+<td  >
+Milewski, Liz
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+12:01.05
+</td>
+
+
+<td  >
+Maryland Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+487
+</td>
+
+
+<td  >
+Govey, Paige
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+12:01.72
+</td>
+
+
+<td  >
+Conference USA Outdoor Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+488
+</td>
+
+
+<td  >
+Gass, Jessica
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+12:01.80
+</td>
+
+
+<td  >
+Big South Track & Field Championship 
+</td>
+
+
+<td  >
+Apr 19, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+489
+</td>
+
+
+<td  >
+Mancuso, Gabrielle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+12:01.92
+</td>
+
+
+<td  >
+2011 UNH Wildcat Invitational I
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+490
+</td>
+
+
+<td  >
+Brady, Erin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+12:02.92
+</td>
+
+
+<td  >
+MAAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+491
+</td>
+
+
+<td  >
+Strychalski, Anne
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+12:03.25
+</td>
+
+
+<td  >
+All Ohio Championships 2012
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+492
+</td>
+
+
+<td  >
+Noble, Monica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+12:03.45
+</td>
+
+
+<td  >
+Lenny Lyles-Clark Wood Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+493
+</td>
+
+
+<td  >
+Golden, Clarricia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:03.80
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+494
+</td>
+
+
+<td  >
+Listhrop, Nichola
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:03.84
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+495
+</td>
+
+
+<td  >
+Thompson, Kathleen
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+12:04.47
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+496
+</td>
+
+
+<td  >
+Jeter, Kaitlyn 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+McNeese State
+</td>
+
+
+<td  >
+12:04.66
+</td>
+
+
+<td  >
+2012 Texas State Bobcat Classic
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+497
+</td>
+
+
+<td  >
+Paez, Ana
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+12:05.35
+</td>
+
+
+<td  >
+Purdue Mike Poehlein Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+498
+</td>
+
+
+<td  >
+DelaCruz, Heather
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+VCU
+</td>
+
+
+<td  >
+12:05.47
+</td>
+
+
+<td  >
+CAA Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+499
+</td>
+
+
+<td  >
+Scott, Chelsea
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas Tech
+</td>
+
+
+<td  >
+12:05.65
+</td>
+
+
+<td  >
+Texas Tech Open
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+500
+</td>
+
+
+<td  >
+Eberhardt, Katelyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Belmont
+</td>
+
+
+<td  >
+12:05.72
+</td>
+
+
+<td  >
+Atlantic Sun Outdoor Championships
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+501
+</td>
+
+
+<td  >
+Dass, Jordyn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+North Dakota
+</td>
+
+
+<td  >
+12:06.66
+</td>
+
+
+<td  >
+NDSU, UND, SDSU Dual
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+502
+</td>
+
+
+<td  >
+Fabian, Tania
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Pan American
+</td>
+
+
+<td  >
+12:06.97
+</td>
+
+
+<td  >
+2012 Texas State Bobcat Classic
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+503
+</td>
+
+
+<td  >
+Rather, Taylor
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+12:07.88
+</td>
+
+
+<td  >
+Wildcat Open
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+504
+</td>
+
+
+<td  >
+Howley, Katherine
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+12:07.95
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+505
+</td>
+
+
+<td  >
+Peacock, Becca
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western Michigan
+</td>
+
+
+<td  >
+12:08.37
+</td>
+
+
+<td  >
+Miami Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+506
+</td>
+
+
+<td  >
+Dooley, Paige
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+12:08.60
+</td>
+
+
+<td  >
+Tennessee Challenge
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+507
+</td>
+
+
+<td  >
+Thompson, Devyn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Hampton
+</td>
+
+
+<td  >
+12:08.80
+</td>
+
+
+<td  >
+Norfolk State University Relays
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+508
+</td>
+
+
+<td  >
+Nordin, Haley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+12:08.82
+</td>
+
+
+<td  >
+Duane Hartman Invite and Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Dean, Heidi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charleston Southern
+</td>
+
+
+<td  >
+12:09.25
+</td>
+
+
+<td  >
+South Carolina Weems Baskin Invitational
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+510
+</td>
+
+
+<td  >
+Llewellyn, Kaitlyn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+12:09.59
+</td>
+
+
+<td  >
+Auburn Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+511
+</td>
+
+
+<td  >
+Mulvany, Nadine
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:09.65
+</td>
+
+
+<td  >
+41st Annual Morehouse Relays
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+512
+</td>
+
+
+<td  >
+Noble, Chelsie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Western Michigan
+</td>
+
+
+<td  >
+12:10.26
+</td>
+
+
+<td  >
+Miami Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+513
+</td>
+
+
+<td  >
+Cox, Latane 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oregon State
+</td>
+
+
+<td  >
+12:10.55
+</td>
+
+
+<td  >
+2012 Pacific Twilight
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+514
+</td>
+
+
+<td  >
+McLaughlin, Dayna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+12:11.09
+</td>
+
+
+<td  >
+MAAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+515
+</td>
+
+
+<td  >
+Springford, Kayla
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Arizona State
+</td>
+
+
+<td  >
+12:11.28
+</td>
+
+
+<td  >
+2012 Double Dual Meet - UA/ASU/NAU
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+516
+</td>
+
+
+<td  >
+Hynds, Keyana
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Fairleigh Dickinson
+</td>
+
+
+<td  >
+12:11.55
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+517
+</td>
+
+
+<td  >
+Mitchell, Abigail
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+12:12.08
+</td>
+
+
+<td  >
+Holy Cross Invitational  Meet 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+518
+</td>
+
+
+<td  >
+Clarkin, Christina
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+12:12.88
+</td>
+
+
+<td  >
+Bison Outdoor Classic 2012
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+519
+</td>
+
+
+<td  >
+Jackson, Chandelic
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:13.00
+</td>
+
+
+<td  >
+62nd Annual FAMU Relays
+</td>
+
+
+<td  >
+Mar 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+520
+</td>
+
+
+<td  >
+Miles, Claire
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lamar
+</td>
+
+
+<td  >
+12:13.57
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+521
+</td>
+
+
+<td  >
+Mattingly, Amy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+12:13.60
+</td>
+
+
+<td  >
+Miami Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+522
+</td>
+
+
+<td  >
+O'Dwyer, Nicole
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Colorado
+</td>
+
+
+<td  >
+12:13.82
+</td>
+
+
+<td  >
+Jack Christiansen Invitational
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+523
+</td>
+
+
+<td  >
+Jiraskova, Hana 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryland-Eastern Shore
+</td>
+
+
+<td  >
+12:14.39
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 3, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+524
+</td>
+
+
+<td  >
+Schenck, Cassandra
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+12:14.63
+</td>
+
+
+<td  >
+Mid American Conference Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+IRIZARRY, KASSANDRA
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+12:14.65
+</td>
+
+
+<td  >
+Norfolk State University Relays
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+526
+</td>
+
+
+<td  >
+Hinchliffe, Kelsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+12:15.14
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+527
+</td>
+
+
+<td  >
+Nelson, Shannon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+12:15.65
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Allen, Alyssa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+12:16.47
+</td>
+
+
+<td  >
+Liberty Collegiate Invitational
+</td>
+
+
+<td  >
+Apr 6, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Wedgworth, Meghan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+12:16.47
+</td>
+
+
+<td  >
+J Fred Duckett Rice Twilight
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+530
+</td>
+
+
+<td  >
+Galloso, Robin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas-Pan American
+</td>
+
+
+<td  >
+12:17.32
+</td>
+
+
+<td  >
+Trinity Alumni Classic
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+531
+</td>
+
+
+<td  >
+Mercer, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+12:18.32
+</td>
+
+
+<td  >
+ISU Pacesetter Quad
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+532
+</td>
+
+
+<td  >
+MacFarlane, Deirdre
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Temple
+</td>
+
+
+<td  >
+12:18.54
+</td>
+
+
+<td  >
+Maryland Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+533
+</td>
+
+
+<td  >
+Stanford, Mattie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+12:18.65
+</td>
+
+
+<td  >
+Northwest Nazarene Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+534
+</td>
+
+
+<td  >
+Reddin, Anna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+12:19.26
+</td>
+
+
+<td  >
+Hilltopper Relays
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+535
+</td>
+
+
+<td  >
+Rivers, Teshika
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hampton
+</td>
+
+
+<td  >
+12:21.45
+</td>
+
+
+<td  >
+Norfolk State University Relays
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+536
+</td>
+
+
+<td  >
+Naisby, Claire
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Davidson
+</td>
+
+
+<td  >
+12:21.47
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+537
+</td>
+
+
+<td  >
+Sulik, Stephanie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Coppin State
+</td>
+
+
+<td  >
+12:22.05
+</td>
+
+
+<td  >
+2012 Don Webster Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+538
+</td>
+
+
+<td  >
+Randall, Monica
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+12:22.10
+</td>
+
+
+<td  >
+Siena Heights Don Kleinow Memorial Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+539
+</td>
+
+
+<td  >
+Dart , Megan
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Hawaii
+</td>
+
+
+<td  >
+12:22.13
+</td>
+
+
+<td  >
+SDSU Aztec Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+540
+</td>
+
+
+<td  >
+Roy, Genevieve
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+UL-Lafayette
+</td>
+
+
+<td  >
+12:22.40
+</td>
+
+
+<td  >
+LSU Relays (College/Open)
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+541
+</td>
+
+
+<td  >
+Hughes, Kylen
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Mercer
+</td>
+
+
+<td  >
+12:22.62
+</td>
+
+
+<td  >
+Georgia Relays/UGA Alumni Meet
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+542
+</td>
+
+
+<td  >
+Thompson, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal St. Bakersfield
+</td>
+
+
+<td  >
+12:23.09
+</td>
+
+
+<td  >
+2012 Pomona-Pitzer T&F Invite
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+543
+</td>
+
+
+<td  >
+Jarvela, Angela
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+St. John's
+</td>
+
+
+<td  >
+12:23.86
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+544
+</td>
+
+
+<td  >
+MacBeth, Erin
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+12:24.41
+</td>
+
+
+<td  >
+Wake Forest Open
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+545
+</td>
+
+
+<td  >
+Harrison, Kaitlyn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+San Diego St.
+</td>
+
+
+<td  >
+12:24.62
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+546
+</td>
+
+
+<td  >
+Chapman, Stephanie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+12:24.73
+</td>
+
+
+<td  >
+Appalachian Opoen Outdoor Track Meet
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+Hilt, Moira
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+12:25.25
+</td>
+
+
+<td  >
+MIT Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+548
+</td>
+
+
+<td  >
+Faust, Christina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Quinnipiac
+</td>
+
+
+<td  >
+12:25.99
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+549
+</td>
+
+
+<td  >
+Snipes, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+12:29.17
+</td>
+
+
+<td  >
+Southland Conference Outdoor Championship 2012
+</td>
+
+
+<td  >
+May 11, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+550
+</td>
+
+
+<td  >
+Lai, Peggy 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+12:29.99
+</td>
+
+
+<td  >
+Coach P Invitational
+</td>
+
+
+<td  >
+Apr 13, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+551
+</td>
+
+
+<td  >
+O'Connell, Kathleen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+12:31.80
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+552
+</td>
+
+
+<td  >
+Bravo-Flores, Katherine
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+12:31.94
+</td>
+
+
+<td  >
+Duane Hartman Invite and Open
+</td>
+
+
+<td  >
+Apr 27, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+553
+</td>
+
+
+<td  >
+Gross, Nicki
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+12:32.86
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+554
+</td>
+
+
+<td  >
+Wardlaw, Amanda
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tennessee-Martin
+</td>
+
+
+<td  >
+12:34.89
+</td>
+
+
+<td  >
+Gateway Classic
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+555
+</td>
+
+
+<td  >
+Mickle, Molly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+La Salle
+</td>
+
+
+<td  >
+12:35.44
+</td>
+
+
+<td  >
+2012 Widener Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+556
+</td>
+
+
+<td  >
+Stroker, Sammantha
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+12:35.96
+</td>
+
+
+<td  >
+UCF Invitational
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+557
+</td>
+
+
+<td  >
+Cohen, Catherine
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+New Jersey Institute
+</td>
+
+
+<td  >
+12:36.25
+</td>
+
+
+<td  >
+CTC Outdoor Championships '12
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+558
+</td>
+
+
+<td  >
+Jacobson, Katelyn
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+12:36.44
+</td>
+
+
+<td  >
+Campbell Wright Open
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+559
+</td>
+
+
+<td  >
+Allocco, Danielle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+12:36.73
+</td>
+
+
+<td  >
+University of Massachusetts Spring Meet
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+560
+</td>
+
+
+<td  >
+Roles, Kristen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+12:36.84
+</td>
+
+
+<td  >
+Ohio Women's Team Challenge & Men's Distance Open
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+561
+</td>
+
+
+<td  >
+Cherubet, Irene
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Coppin State
+</td>
+
+
+<td  >
+12:39.66
+</td>
+
+
+<td  >
+Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 15, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+562
+</td>
+
+
+<td  >
+Williams, Ciera
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:39.89
+</td>
+
+
+<td  >
+UF Tom Jones Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+563
+</td>
+
+
+<td  >
+Cioffi, Amber
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+12:41.09
+</td>
+
+
+<td  >
+Rochester Spring Invitational
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+564
+</td>
+
+
+<td  >
+Kulp, Mary Katherine
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+12:42.03
+</td>
+
+
+<td  >
+Maryland Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+565
+</td>
+
+
+<td  >
+Kent, Nicole
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+12:42.44
+</td>
+
+
+<td  >
+UC Irvine Spring Break
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+566
+</td>
+
+
+<td  >
+Larson, Adrienne
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+New Mexico St.
+</td>
+
+
+<td  >
+12:42.62
+</td>
+
+
+<td  >
+2012 Willie Williams Classic (College/Open)
+</td>
+
+
+<td  >
+Mar 16, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+567
+</td>
+
+
+<td  >
+Brumwell, Stevie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fresno State
+</td>
+
+
+<td  >
+12:42.74
+</td>
+
+
+<td  >
+Sacramento State Hornet Invitational
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+568
+</td>
+
+
+<td  >
+Jackson, Kylie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Francis (Pa.)
+</td>
+
+
+<td  >
+12:44.17
+</td>
+
+
+<td  >
+Bucknell Team Challenge 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+569
+</td>
+
+
+<td  >
+Vetor, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+12:44.53
+</td>
+
+
+<td  >
+Summit League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+570
+</td>
+
+
+<td  >
+Klimkowski, Angela
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio U.
+</td>
+
+
+<td  >
+12:46.45
+</td>
+
+
+<td  >
+Ohio Open
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+571
+</td>
+
+
+<td  >
+Huyck, Katie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Creighton
+</td>
+
+
+<td  >
+12:47.54
+</td>
+
+
+<td  >
+2012 Prairie Wolf Invitational
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+572
+</td>
+
+
+<td  >
+Mitchell, Breanne
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Arkansas-Little Rock
+</td>
+
+
+<td  >
+12:47.56
+</td>
+
+
+<td  >
+ASU Red Wolf Open
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+573
+</td>
+
+
+<td  >
+Keith, Ali
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+12:48.31
+</td>
+
+
+<td  >
+Ole Miss Invite
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+574
+</td>
+
+
+<td  >
+Knapper, Kasie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mercer
+</td>
+
+
+<td  >
+12:48.81
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+575
+</td>
+
+
+<td  >
+Muschlitz, Julissa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+12:50.11
+</td>
+
+
+<td  >
+Lafayette College  v Lehigh University
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+576
+</td>
+
+
+<td  >
+Cline, Rebecca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tennessee Tech
+</td>
+
+
+<td  >
+12:50.51
+</td>
+
+
+<td  >
+Ohio Valley Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+577
+</td>
+
+
+<td  >
+Dillon, Alison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+12:51.44
+</td>
+
+
+<td  >
+Jim Taylor Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+578
+</td>
+
+
+<td  >
+McBride, Shannon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+12:52.42
+</td>
+
+
+<td  >
+Holy Cross Invitational  Meet 2012
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+579
+</td>
+
+
+<td  >
+Underwood, Maggie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+12:52.93
+</td>
+
+
+<td  >
+Patriot Open Invitational
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+580
+</td>
+
+
+<td  >
+Howell, Kayla
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Jersey Institute
+</td>
+
+
+<td  >
+12:57.23
+</td>
+
+
+<td  >
+CTC Outdoor Championships '12
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+581
+</td>
+
+
+<td  >
+Johnson, Jessi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+12:57.67
+</td>
+
+
+<td  >
+WAR 5 - NW Scoring Clash
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+582
+</td>
+
+
+<td  >
+Wysocki, Rachel
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Albany
+</td>
+
+
+<td  >
+12:58.61
+</td>
+
+
+<td  >
+Capital District Classic
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+583
+</td>
+
+
+<td  >
+Gethin, Erin 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+USC Upstate
+</td>
+
+
+<td  >
+12:58.88
+</td>
+
+
+<td  >
+Terrier Relays 
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+584
+</td>
+
+
+<td  >
+Wheeler, Jennifer
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+13:01.30
+</td>
+
+
+<td  >
+Dusty Lane Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+585
+</td>
+
+
+<td  >
+Delacruz, Alexandra
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Francis (N.Y.)
+</td>
+
+
+<td  >
+13:03.21
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+586
+</td>
+
+
+<td  >
+Womack, Kylie
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+13:04.12
+</td>
+
+
+<td  >
+2012 Southeast Regional Championship 
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+587
+</td>
+
+
+<td  >
+Messier, Stephanie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+13:05.09
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 5, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+588
+</td>
+
+
+<td  >
+Hays, Mary Kate
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Louisiana Tech
+</td>
+
+
+<td  >
+13:05.42
+</td>
+
+
+<td  >
+Mississippi Open and Heptathlon
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+589
+</td>
+
+
+<td  >
+Watkins, Grace
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+13:05.63
+</td>
+
+
+<td  >
+Purdue Mike Poehlein Invitational
+</td>
+
+
+<td  >
+Mar 30, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+590
+</td>
+
+
+<td  >
+Gallagher, Jenny
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+13:10.05
+</td>
+
+
+<td  >
+Southern Conference Outdoor Championships
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+591
+</td>
+
+
+<td  >
+Arambula, Chelsey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+13:10.34
+</td>
+
+
+<td  >
+J Fred Duckett Rice Twilight
+</td>
+
+
+<td  >
+Apr 21, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+592
+</td>
+
+
+<td  >
+Golden, Michelle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+13:14.62
+</td>
+
+
+<td  >
+Jim Taylor Invitational
+</td>
+
+
+<td  >
+Mar 31, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+593
+</td>
+
+
+<td  >
+Carmignani, Eileen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+13:14.83
+</td>
+
+
+<td  >
+Horizon League Outdoor Track & Field Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+594
+</td>
+
+
+<td  >
+Davidson, Mary
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston Southern
+</td>
+
+
+<td  >
+13:20.66
+</td>
+
+
+<td  >
+South Carolina Weems Baskin Invitational
+</td>
+
+
+<td  >
+Mar 23, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+595
+</td>
+
+
+<td  >
+Noble , Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+13:20.80
+</td>
+
+
+<td  >
+Rhodes Open
+</td>
+
+
+<td  >
+Mar 17, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+596
+</td>
+
+
+<td  >
+Connelley, Vanessa
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+Illinois-Chicago
+</td>
+
+
+<td  >
+13:28.74
+</td>
+
+
+<td  >
+DePaul University Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+597
+</td>
+
+
+<td  >
+Greene, Laura
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hofstra
+</td>
+
+
+<td  >
+13:34.64
+</td>
+
+
+<td  >
+Metropolitan Outdoor Championships
+</td>
+
+
+<td  >
+Apr 14, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+598
+</td>
+
+
+<td  >
+Martel, Heather
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas Southern
+</td>
+
+
+<td  >
+13:37.75
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+599
+</td>
+
+
+<td  >
+Okun, Amanda
+</td>
+
+
+<td  >
+
+</td>
+
+
+<td  >
+San Diego St.
+</td>
+
+
+<td  >
+13:45.22
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 20, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+600
+</td>
+
+
+<td  >
+Jolly, Brittany
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Jackson State
+</td>
+
+
+<td  >
+14:03.67
+</td>
+
+
+<td  >
+SWAC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 4, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+601
+</td>
+
+
+<td  >
+Kidd, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UL-Lafayette
+</td>
+
+
+<td  >
+14:04.76
+</td>
+
+
+<td  >
+Cole-Lancon Invitational
+</td>
+
+
+<td  >
+Apr 28, 2012
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+602
+</td>
+
+
+<td  >
+Brewington, Lauren
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+14:51.53
+</td>
+
+
+<td  >
+WAR 5 - NW Scoring Clash
+</td>
+
+
+<td  >
+Apr 7, 2012
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

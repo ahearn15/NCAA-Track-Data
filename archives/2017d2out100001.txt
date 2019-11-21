@@ -1,0 +1,17158 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2017 NCAA Div. II Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-second-title pb-0">
+                    <div class="row mb-10 ">
+                        <div class="col-lg-4 border-right">
+
+
+                            <div>
+                                <span class="panel-heading-normal-text font-size-15">ICON KEY:</span>
+
+
+                                <img src="http://images.tfrrs.org/ico-plus-2.png" class="mb-3"
+                                     title="NCAA DII Prov">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Prov</span>
+
+                                <img src="http://images.tfrrs.org/ico-check-2.png" class="mb-3"
+                                     title="NCAA DII Auto">
+                                <span class="panel-heading-normal-text font-size-15">NCAA DII Auto</span>
+
+                            </div>
+
+                          </div>
+                   </div>
+            </div>
+            <div class="panel-body">
+<a name="22" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+10,000m 
+	
+	
+ (Men)
+                            </h3>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Auto
+&nbsp;
+29:15.09
+</span>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+NCAA DII Prov
+&nbsp;
+31:00.00
+</span>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Kiprop, Vincent
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+28:19.94
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ngandu, James
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+28:50.75
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Panning, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+29:05.65
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Gidabuday, Sydney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:08.28
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Masterson, Kyle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:10.59
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="NCAA DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Notz, Dominik
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+29:12.23
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Reyes , Will 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+29:17.01
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Hind, Owen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+29:27.04
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+May, Chris
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+29:29.80
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Mahoney, Dan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+29:31.36
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Huizar, Mark
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Poly Pomona
+</td>
+
+
+<td  >
+29:35.65
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Craig, Adam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+29:39.72
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Monroe, Addison
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+29:44.01
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Lutz, Noah 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+29:47.77
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Patterson, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+29:48.39
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Kapes, Steven
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+29:51.97
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track  Field Invitational - 2017
+</td>
+
+
+<td  >
+May 11, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Fontana, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:52.84
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Pahl, Matthew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan Tech
+</td>
+
+
+<td  >
+29:53.24
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Torres, Armando
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+29:55.11
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track  Field Invitational - 2017
+</td>
+
+
+<td  >
+May 11, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ramirez, Lucio
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adams State
+</td>
+
+
+<td  >
+29:58.64
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Southgate, Joey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+30:02.89
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Kangogo, Edwin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+30:06.20
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Whalen, Blake
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+30:07.28
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ocampo , Ricardo
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+30:08.68
+</td>
+
+
+<td  >
+MINES FRIDAY Last Chance
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Matuszczak, Rafal 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Saint Leo
+</td>
+
+
+<td  >
+30:12.23
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Jama, Ahmed
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+30:12.96
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Schneiderman, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+30:17.12
+</td>
+
+
+<td  >
+MINES FRIDAY Last Chance
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Brown, Steven
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sioux Falls
+</td>
+
+
+<td  >
+30:21.36
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Komph, Eddie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+30:23.74
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Curry, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+30:24.65
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Graham, Dalton
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lake Erie
+</td>
+
+
+<td  >
+30:24.98
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Christ , Cody 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+MSU-Moorhead
+</td>
+
+
+<td  >
+30:25.43
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Beaudette, Greg
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+30:32.24
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Hazel, Mason
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Anderson (S.C.)
+</td>
+
+
+<td  >
+30:34.13
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Phipps, Brandon
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+NW Missouri
+</td>
+
+
+<td  >
+30:34.39
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Orndorf, Nate
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+30:35.94
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ferguson, Brandon 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Poly Pomona
+</td>
+
+
+<td  >
+30:37.07
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Cates, Preston
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+30:38.16
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Jensen, Tyler
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northwood (Mich.)
+</td>
+
+
+<td  >
+30:38.19
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Anderson, Clyde
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+30:40.13
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+41<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Klemz, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Washburn
+</td>
+
+
+<td  >
+30:41.07
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Santo, Joseph
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+30:41.83
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Thorpe, Simon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+30:45.17
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Lockman , Trevor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+30:46.94
+</td>
+
+
+<td  >
+MINES FRIDAY Last Chance
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Litwiller, Josh
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal St. San Marcos
+</td>
+
+
+<td  >
+30:47.12
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Parsons, Jeremy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+30:47.24
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Velarde, Steven
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+30:47.63
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Kipkoech, Silus
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UNC Pembroke
+</td>
+
+
+<td  >
+30:48.24
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Cruz, Pedro
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal St. East Bay
+</td>
+
+
+<td  >
+30:48.81
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Gee, Brendan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC San Diego
+</td>
+
+
+<td  >
+30:49.18
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Bains, Tom
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+30:51.73
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Erwin , Chris
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+30:53.47
+</td>
+
+
+<td  >
+MINES FRIDAY Last Chance
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Emerson, Jayden
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal Baptist
+</td>
+
+
+<td  >
+30:53.72
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Ellingson, Glen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+30:54.61
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Vavrik, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado Mesa
+</td>
+
+
+<td  >
+30:55.14
+</td>
+
+
+<td  >
+2017 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Christensen, Nick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+30:56.79
+</td>
+
+
+<td  >
+2017 Bellarmine Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Adamson, Jonathan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+30:57.10
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Porter, Jeremy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Azusa Pacific
+</td>
+
+
+<td  >
+30:58.69
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="NCAA DII Prov">
+</td>
+
+
+<td  >
+Humrichouser, Zach
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+30:59.82
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Rosas, Jose
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+31:00.18
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Fredrick, Nathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Black Hills St.
+</td>
+
+
+<td  >
+31:00.22
+</td>
+
+
+<td  >
+2017 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+Lindelsee, Eric
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+31:00.46
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Terris, Steven
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal St. San Marcos
+</td>
+
+
+<td  >
+31:00.95
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Alex, Ntagawa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lubbock Christian
+</td>
+
+
+<td  >
+31:01.11
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Parker, Cain
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:03.70
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Stanley , Jesse 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:05.30
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Drisko, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Azusa Pacific
+</td>
+
+
+<td  >
+31:05.95
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Nolan , Austin 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:07.00
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Cobourn, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+31:07.79
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Domenech-Ferrer, Pol
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+31:08.51
+</td>
+
+
+<td  >
+NCC Dr. Keeler Track  Field Invitational - 2017
+</td>
+
+
+<td  >
+May 11, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Graf, Blake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado Mesa
+</td>
+
+
+<td  >
+31:09.02
+</td>
+
+
+<td  >
+2017 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+Eagleson, Seth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lee (Tenn.)
+</td>
+
+
+<td  >
+31:09.34
+</td>
+
+
+<td  >
+Berry Field Day Invitational
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+Brown, Corey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC-Colo. Spgs.
+</td>
+
+
+<td  >
+31:09.40
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Rush, William
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+31:10.32
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Raftis, Anthony
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+31:10.50
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Lowrie, Michael
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal Baptist
+</td>
+
+
+<td  >
+31:11.50
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Carrancho, Justin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+31:12.39
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Pool, Turner
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+31:16.23
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Francken, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+31:16.72
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Moroney, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Trevecca Nazarene
+</td>
+
+
+<td  >
+31:17.81
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+81
+</td>
+
+
+<td  >
+Dearth, Mathew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+31:18.00
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Harris, Phil 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+31:20.07
+</td>
+
+
+<td  >
+2017 Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Sharnas, Trevor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+31:20.47
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Hall, Jereamy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+31:20.70
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Schrimp, Albert 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+31:21.69
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Rayas, Stetson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+31:24.43
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Berry, Cody
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+31:25.57
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Landrigan, Jahn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+31:27.13
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Fackelman, Tristan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saginaw Valley
+</td>
+
+
+<td  >
+31:29.97
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Beney, Sean
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Le Moyne
+</td>
+
+
+<td  >
+31:31.11
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Inman, Jeremy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+31:31.26
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Kromminga, Colby
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+31:31.50
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Allen, Jonathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Findlay
+</td>
+
+
+<td  >
+31:37.05
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Kemboi, Festus
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida Southern
+</td>
+
+
+<td  >
+31:38.78
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Perillat-Amede, Duncan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal Baptist
+</td>
+
+
+<td  >
+31:40.68
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Rodgers, Logan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Trevecca Nazarene
+</td>
+
+
+<td  >
+31:40.74
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Balla, Alexander
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+31:42.10
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Wieland, Tyson
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+31:42.42
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Dubnicka, Jake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+31:44.86
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Broaddrick, Kyle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oklahoma Christian
+</td>
+
+
+<td  >
+31:45.64
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Goodspeed, Lucas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+31:46.20
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+ Ventura IV, Jose
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+TAMU-Kingsville
+</td>
+
+
+<td  >
+31:46.56
+</td>
+
+
+<td  >
+Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Weidner, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+31:46.81
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Smith, Tai
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+31:46.92
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Ramlet, Logan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado Mines
+</td>
+
+
+<td  >
+31:47.53
+</td>
+
+
+<td  >
+MINES FRIDAY Last Chance
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Taylor, Aaron
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emporia St.
+</td>
+
+
+<td  >
+31:49.31
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Reddy, Jeff
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+31:50.25
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Reed, Xavier
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+31:50.33
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Alatalo, Erik
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+31:50.48
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Chase, Russell
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+31:50.71
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Greathouse, Justin 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:51.10
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Butler, Sam
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grand Valley St.
+</td>
+
+
+<td  >
+31:51.17
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Daigneault, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Hillsdale
+</td>
+
+
+<td  >
+31:53.35
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Butler, Peter
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+31:53.72
+</td>
+
+
+<td  >
+Puget Sound Ed Boitano Invitational
+</td>
+
+
+<td  >
+Mar 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Wirick, Spencer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Walsh
+</td>
+
+
+<td  >
+31:53.82
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Sams, Gabe
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Emporia St.
+</td>
+
+
+<td  >
+31:54.10
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Hamilton, Nick 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+31:54.72
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Kipchumba, Geoffrey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+31:54.74
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Palmer, Doug
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Southern Arkansas
+</td>
+
+
+<td  >
+31:54.89
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+Hamel, Eric
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+31:57.00
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Stark, Connor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pittsburg St.
+</td>
+
+
+<td  >
+31:57.10
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Onken, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+31:57.41
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Lopez, Larry 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+31:57.80
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Hall, Nathan 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Southern Indiana
+</td>
+
+
+<td  >
+31:57.90
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Werth, Layton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+31:58.07
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Laskero, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+31:58.50
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Riley, Austin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western State
+</td>
+
+
+<td  >
+31:58.65
+</td>
+
+
+<td  >
+2017 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Boston, Josh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+31:58.69
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Smetana, Devitt
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+31:59.84
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Chirchir, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+American Int'l
+</td>
+
+
+<td  >
+32:00.10
+</td>
+
+
+<td  >
+2017 Larry Ellis Invitational
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Mora, Richard
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Central
+</td>
+
+
+<td  >
+32:01.10
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+Lahr, Luke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+32:01.29
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+Anderson, Blake
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+32:03.31
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Cook, Tanner
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+32:03.71
+</td>
+
+
+<td  >
+Montreat College Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Avilla, Caton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+32:03.88
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Forester, Dylan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Augusta
+</td>
+
+
+<td  >
+32:05.31
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Thomas, Jacob
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+32:05.35
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Scheerer, Alec
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+32:05.50
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Snyder , Justin 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+32:05.90
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+Daniel, Zach 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+32:06.04
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Carpenter, Kevin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+U-Mary
+</td>
+
+
+<td  >
+32:06.15
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Reed, Peyton
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+32:06.94
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Gusew, Jon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+32:07.31
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Vinacco, Ken
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stonehill
+</td>
+
+
+<td  >
+32:08.33
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+Lehotay, Ben
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Walsh
+</td>
+
+
+<td  >
+32:09.16
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Sporleder, Ben
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Missouri
+</td>
+
+
+<td  >
+32:09.33
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Ballowe, James Russell
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+32:10.51
+</td>
+
+
+<td  >
+Montreat College Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Hall, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mount Olive
+</td>
+
+
+<td  >
+32:10.75
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Shanahan, Mike
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Missouri Southern
+</td>
+
+
+<td  >
+32:12.10
+</td>
+
+
+<td  >
+Kansas Relays
+</td>
+
+
+<td  >
+Apr 19, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Clausen, Tejai
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+32:12.34
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Burch, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southwest Baptist
+</td>
+
+
+<td  >
+32:13.11
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 13, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Colby, Henry
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+32:14.04
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Smith, BJ
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+32:14.22
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Fisher, Gabe
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northwest Nazarene
+</td>
+
+
+<td  >
+32:14.62
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Hays, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Joseph's (Ind.)
+</td>
+
+
+<td  >
+32:14.66
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Diaz, Adrian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Poly Pomona
+</td>
+
+
+<td  >
+32:15.18
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Cortelletti, Brett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Malone
+</td>
+
+
+<td  >
+32:15.38
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Jimenez, Neftali
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+California (Pa.)
+</td>
+
+
+<td  >
+32:15.73
+</td>
+
+
+<td  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Charette, Kevin 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+32:16.20
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Neiswender, Daniel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+32:18.75
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Burke, Caleb 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota State
+</td>
+
+
+<td  >
+32:20.02
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Lance, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ashland
+</td>
+
+
+<td  >
+32:20.05
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Onyango, Victor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Alabama
+</td>
+
+
+<td  >
+32:20.07
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Zuercher, Timothy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Oklahoma Christian
+</td>
+
+
+<td  >
+32:20.50
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Hulett, Noah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augusta
+</td>
+
+
+<td  >
+32:20.69
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Martin, Matthew 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC Pembroke
+</td>
+
+
+<td  >
+32:20.75
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Golian, Michael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lindenwood
+</td>
+
+
+<td  >
+32:21.14
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+Baritot, Gene
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+32:21.31
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 1, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Sullivan, Ethan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+32:23.54
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Demlew, Dessie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Benedict
+</td>
+
+
+<td  >
+32:23.63
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Ortiz Rivera, Victor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+32:25.10
+</td>
+
+
+<td  >
+1ra Clasificatoria Atletismo LAI 2017
+</td>
+
+
+<td  >
+Feb 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Waters, Jackson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+32:25.40
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Runge, Aaron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+32:26.37
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Jones, David
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+32:26.45
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Drabot, Joseph
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+32:26.50
+</td>
+
+
+<td  >
+2017 Bellarmine Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Love, Garrett
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+32:26.63
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+Stansbury, Dylan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+32:26.82
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Ramirez, Michel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alaska Anchorage
+</td>
+
+
+<td  >
+32:27.13
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Bush, Zack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+32:27.25
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Gillock, Sisay
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oklahoma Christian
+</td>
+
+
+<td  >
+32:29.07
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Fetterman, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+32:29.12
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Bermudez, Brett
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Academy of Art
+</td>
+
+
+<td  >
+32:29.46
+</td>
+
+
+<td  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Crum, Kaleb
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fort Hays St.
+</td>
+
+
+<td  >
+32:29.67
+</td>
+
+
+<td  >
+Wichita State KT Woodman Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Eterno, Joey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wis.-Parkside
+</td>
+
+
+<td  >
+32:32.44
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Young, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mississippi College
+</td>
+
+
+<td  >
+32:32.86
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Martin, Johnathan 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC Pembroke
+</td>
+
+
+<td  >
+32:33.05
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Harrison, Hayden
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Davis & Elkins
+</td>
+
+
+<td  >
+32:33.20
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Kulas, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan Tech
+</td>
+
+
+<td  >
+32:34.64
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Norris, Trevor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lincoln Memorial
+</td>
+
+
+<td  >
+32:35.05
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Zubko, Alex
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+32:35.64
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Gradijan, Martin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+32:36.55
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Ward, Logan 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UNC Pembroke
+</td>
+
+
+<td  >
+32:37.25
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Humphries, Tyler
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+32:37.31
+</td>
+
+
+<td  >
+WAR 10
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Whittington, Seth
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rogers State
+</td>
+
+
+<td  >
+32:37.43
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Cook, Eli
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois-Springfield
+</td>
+
+
+<td  >
+32:38.30
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Casto, Jake
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+32:38.90
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+Resor, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mars Hill
+</td>
+
+
+<td  >
+32:39.12
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Gotts, Jeremiah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Baptist
+</td>
+
+
+<td  >
+32:39.16
+</td>
+
+
+<td  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Rogers, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+32:40.63
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+Ebersole, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lake Erie
+</td>
+
+
+<td  >
+32:41.61
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Helton, Jamen
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+32:42.06
+</td>
+
+
+<td  >
+Augustana Meet of Champions
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Hindle, Tucker
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lee (Tenn.)
+</td>
+
+
+<td  >
+32:42.07
+</td>
+
+
+<td  >
+Berry Field Day Invitational
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Zorn, Matt
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Davis & Elkins
+</td>
+
+
+<td  >
+32:42.40
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Underwood, Gabriel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+32:43.40
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+VanSlembrouck, Thomas
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+32:43.62
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+206
+</td>
+
+
+<td  >
+McClung, Josh 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+32:44.80
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Galvan, Mauricio
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+32:45.64
+</td>
+
+
+<td  >
+51st Annual Hillsdale "GINA" Relays
+</td>
+
+
+<td  >
+Apr 27, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Groves-Scott, Brydon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+32:46.46
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Hoeksema, Djurre
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+32:47.50
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+210
+</td>
+
+
+<td  >
+Riggotti, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+32:49.56
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Hernandez, Jorge
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lincoln Memorial
+</td>
+
+
+<td  >
+32:49.72
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Yusuf , Nadir 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+MSU-Moorhead
+</td>
+
+
+<td  >
+32:49.72
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Miles, Jack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lake Superior State
+</td>
+
+
+<td  >
+32:51.09
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Thompson, Justin 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ohio Valley
+</td>
+
+
+<td  >
+32:52.11
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Arevalo, Arturo
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chico State
+</td>
+
+
+<td  >
+32:52.26
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Dombrowiecki, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+32:52.71
+</td>
+
+
+<td  >
+Widener Invitational
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Nowak, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+32:53.17
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Montgomery, Trevor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+32:54.09
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Buccino, Dan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Stroudsburg
+</td>
+
+
+<td  >
+32:54.81
+</td>
+
+
+<td  >
+2017 Coach P Invitational
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Splawn, Reid
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+32:55.78
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Turner, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Walsh
+</td>
+
+
+<td  >
+32:56.54
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Murphy, Cody
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+32:57.89
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Deleva, Anthony
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Leo
+</td>
+
+
+<td  >
+32:58.46
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Freshwaters, Cameron
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Washington
+</td>
+
+
+<td  >
+32:58.91
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Greer, Trace
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+32:59.50
+</td>
+
+
+<td  >
+Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Oppel, Christian
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Nova Southeastern
+</td>
+
+
+<td  >
+33:01.95
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Allen, Maxwell
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+33:05.30
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Colmenero, Ivan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+33:05.44
+</td>
+
+
+<td  >
+Trudnowki Open
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+229
+</td>
+
+
+<td  >
+Crabtree, Connor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+33:06.20
+</td>
+
+
+<td  >
+Mo S&T Dewey Allgood Invite
+</td>
+
+
+<td  >
+Apr 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Connelly, Gerard
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+33:06.70
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Lee, Hanson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+33:06.77
+</td>
+
+
+<td  >
+WAR 10
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Gentile, Christian
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+33:08.02
+</td>
+
+
+<td  >
+7th Annual Yellow Jacket Invitational
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Hill, Kendall
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+33:08.13
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Fisher, Ziggy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Chestnut Hill
+</td>
+
+
+<td  >
+33:08.68
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Reeves, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Trevecca Nazarene
+</td>
+
+
+<td  >
+33:10.30
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Debyle, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+NW Missouri
+</td>
+
+
+<td  >
+33:10.61
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+Burns, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+33:11.34
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Kipkemei, Nick
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Queens (N.C.)
+</td>
+
+
+<td  >
+33:11.92
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Burkey, Shane
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+33:12.43
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+DePaz, Julian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+33:12.59
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Conrardy, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+33:13.06
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Monroy , Christian 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern New Mexico
+</td>
+
+
+<td  >
+33:14.36
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Greene, Morgan 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+33:14.37
+</td>
+
+
+<td  >
+Montreat College Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Lawson, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota-Duluth
+</td>
+
+
+<td  >
+33:14.37
+</td>
+
+
+<td  >
+Phil Esten Challenge
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Nazario, Maurisio
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bloomfield
+</td>
+
+
+<td  >
+33:14.75
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Moore, Andy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+33:15.50
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+Turner, Brent
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tampa
+</td>
+
+
+<td  >
+33:15.72
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Buergler, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+33:16.59
+</td>
+
+
+<td  >
+Indiana Little State Championships @ Taylor University
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Escobar, Angel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Azusa Pacific
+</td>
+
+
+<td  >
+33:17.03
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Allen, Darin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Texas A&M
+</td>
+
+
+<td  >
+33:17.28
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Clifford, Ryan 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mansfield
+</td>
+
+
+<td  >
+33:17.74
+</td>
+
+
+<td  >
+2017 Millersville Metrics
+</td>
+
+
+<td  >
+Apr 1, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Weber, Colin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Haven
+</td>
+
+
+<td  >
+33:18.53
+</td>
+
+
+<td  >
+2017 Tribe Invitational
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Drescher, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bellarmine
+</td>
+
+
+<td  >
+33:18.75
+</td>
+
+
+<td  >
+2017 Bellarmine Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Garcia, Alejandro
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+33:18.82
+</td>
+
+
+<td  >
+Mount Marty Outdoor 2017
+</td>
+
+
+<td  >
+Apr 26, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Duncan , Phillip
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+33:18.90
+</td>
+
+
+<td  >
+Mount Marty Outdoor 2017
+</td>
+
+
+<td  >
+Apr 26, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Heaton, Sean
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+33:19.27
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+ Vega, Jared
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+33:20.90
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Lesnak, George
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lake Erie
+</td>
+
+
+<td  >
+33:21.04
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Melles, Tucker
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida Tech
+</td>
+
+
+<td  >
+33:23.62
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Miller, Austin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Martin's
+</td>
+
+
+<td  >
+33:24.16
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Jazo, Ricardo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fresno Pacific
+</td>
+
+
+<td  >
+33:24.62
+</td>
+
+
+<td  >
+2017 Occidental Distance Carnival Spring Break Classic
+</td>
+
+
+<td  >
+Mar 10, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Byram, Lloyd
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Seattle Pacific
+</td>
+
+
+<td  >
+33:25.91
+</td>
+
+
+<td  >
+Doris Heritage Distance Festival
+</td>
+
+
+<td  >
+Mar 25, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+Shelman, Josiah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Saint Martin's
+</td>
+
+
+<td  >
+33:26.10
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Gebreyesus, Haregot
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Benedict
+</td>
+
+
+<td  >
+33:26.50
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Masco, Ty
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska-Kearney
+</td>
+
+
+<td  >
+33:26.75
+</td>
+
+
+<td  >
+MIAA Outdoor Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Kreamer, Jace
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+33:27.29
+</td>
+
+
+<td  >
+Jim Taylor Invitational 
+</td>
+
+
+<td  >
+Mar 25, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Straube, Garrad
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois-Springfield
+</td>
+
+
+<td  >
+33:28.81
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Figueroa, Noel 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+East Central
+</td>
+
+
+<td  >
+33:29.26
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Brand, Alec
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+33:30.07
+</td>
+
+
+<td  >
+2017 Colonial Relays
+</td>
+
+
+<td  >
+Mar 30, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Bernal, Jakob
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Alabama
+</td>
+
+
+<td  >
+33:30.81
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Lee, Brandon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+33:32.60
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Trador, Zach
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nyack
+</td>
+
+
+<td  >
+33:32.96
+</td>
+
+
+<td  >
+Osprey Open and Multi Meet
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Weith, Jake
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Oklahoma Christian
+</td>
+
+
+<td  >
+33:33.50
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Lehn, Corbin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wayne St. (Neb.)
+</td>
+
+
+<td  >
+33:33.64
+</td>
+
+
+<td  >
+Sioux City Relays UCO 2017
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Choe, Elliot 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal Baptist
+</td>
+
+
+<td  >
+33:33.73
+</td>
+
+
+<td  >
+2017 Occidental Distance Carnival Spring Break Classic
+</td>
+
+
+<td  >
+Mar 10, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+Alexander, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rogers State
+</td>
+
+
+<td  >
+33:34.43
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Wallace, Colin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+33:35.00
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Troe, Caleb
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Concordia-St. Paul
+</td>
+
+
+<td  >
+33:37.13
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Fox, Cody
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Southern Arkansas
+</td>
+
+
+<td  >
+33:38.40
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Girard, Joseph
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nyack
+</td>
+
+
+<td  >
+33:38.57
+</td>
+
+
+<td  >
+Osprey Open and Multi Meet
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Ickes, Shane 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Davis & Elkins
+</td>
+
+
+<td  >
+33:39.62
+</td>
+
+
+<td  >
+Bobcat Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Anderson, Aidan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota Mines
+</td>
+
+
+<td  >
+33:39.67
+</td>
+
+
+<td  >
+SD Mines-Bauer Invitational 
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Avila, Levi 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+33:39.82
+</td>
+
+
+<td  >
+Mount Marty Outdoor 2017
+</td>
+
+
+<td  >
+Apr 26, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Gertner, Josef
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Chadron State
+</td>
+
+
+<td  >
+33:39.90
+</td>
+
+
+<td  >
+Mount Marty Outdoor 2017
+</td>
+
+
+<td  >
+Apr 26, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Lafferty, Jonathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+33:40.35
+</td>
+
+
+<td  >
+WAR 10
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Lake, Christian
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida Tech
+</td>
+
+
+<td  >
+33:42.86
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Carranza, Joe
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fresno Pacific
+</td>
+
+
+<td  >
+33:43.28
+</td>
+
+
+<td  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Souther, Nathaniel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augustana (S.D.)
+</td>
+
+
+<td  >
+33:44.02
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Aparicio, Edwin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+TAMU-Commerce
+</td>
+
+
+<td  >
+33:44.90
+</td>
+
+
+<td  >
+East Texas Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Shrock, Alex
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+33:46.77
+</td>
+
+
+<td  >
+All Ohio Champs
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Kiprono, Hassan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Brevard
+</td>
+
+
+<td  >
+33:48.03
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Peltier, Tanner
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern State
+</td>
+
+
+<td  >
+33:48.51
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Rivera Vera, Hector
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+33:48.88
+</td>
+
+
+<td  >
+Justas LAI 2017
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+Hill, Zack
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Augusta
+</td>
+
+
+<td  >
+33:49.48
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+McElroy, Ford
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+33:50.65
+</td>
+
+
+<td  >
+All Ohio Champs
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Evans, Josh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montevallo
+</td>
+
+
+<td  >
+33:51.97
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Wendorff, Casey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Indianapolis
+</td>
+
+
+<td  >
+33:53.12
+</td>
+
+
+<td  >
+Indiana Little State Championships @ Taylor University
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Walsh, Keegan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Truman
+</td>
+
+
+<td  >
+33:53.40
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Buytenhuys, Jonathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lock Haven
+</td>
+
+
+<td  >
+33:53.51
+</td>
+
+
+<td  >
+Jim Taylor Invitational 
+</td>
+
+
+<td  >
+Mar 25, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Sava, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+33:57.31
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Watson, Harrison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Southern Arkansas
+</td>
+
+
+<td  >
+33:57.61
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Maxwell, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+34:00.75
+</td>
+
+
+<td  >
+2017 Trojan Challenge
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Freund, AJ
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cal St. San Marcos
+</td>
+
+
+<td  >
+34:01.73
+</td>
+
+
+<td  >
+2017 Occidental Distance Carnival Spring Break Classic
+</td>
+
+
+<td  >
+Mar 10, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Birgen, Emmanuel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central State
+</td>
+
+
+<td  >
+34:01.88
+</td>
+
+
+<td  >
+Emory Classic
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Blanchard, Garrett
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+34:04.43
+</td>
+
+
+<td  >
+Mo S&T Dewey Allgood Invite
+</td>
+
+
+<td  >
+Apr 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Savarese, Eric
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Chester
+</td>
+
+
+<td  >
+34:06.14
+</td>
+
+
+<td  >
+Widener Invitational
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+307
+</td>
+
+
+<td  >
+Ryan, Jeremy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Drury
+</td>
+
+
+<td  >
+34:07.24
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Dugan, Danny
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+34:09.32
+</td>
+
+
+<td  >
+Dr. Jack Toms Alumni Invitational
+</td>
+
+
+<td  >
+Mar 25, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Klein, Griffin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Le Moyne
+</td>
+
+
+<td  >
+34:09.61
+</td>
+
+
+<td  >
+Nazareth College ROC City Track & Field Classic
+</td>
+
+
+<td  >
+Apr 9, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+King, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lincoln Memorial
+</td>
+
+
+<td  >
+34:10.55
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Oswald, Christopher
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Columbus St.
+</td>
+
+
+<td  >
+34:11.86
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Marenkovic, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Slippery Rock
+</td>
+
+
+<td  >
+34:16.56
+</td>
+
+
+<td  >
+2017 Trojan Challenge
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Matson, Jonathan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fresno Pacific
+</td>
+
+
+<td  >
+34:16.57
+</td>
+
+
+<td  >
+PacWest Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Geromini, Jonathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+34:16.79
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Reed, Jason
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+34:17.62
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+Chebii, Jacob
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Coker
+</td>
+
+
+<td  >
+34:17.88
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+Lugo, Marc
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bloomfield
+</td>
+
+
+<td  >
+34:18.03
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Uhrich , Tyler 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+34:18.05
+</td>
+
+
+<td  >
+Mo S&T Dewey Allgood Invite
+</td>
+
+
+<td  >
+Apr 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Traffie, Avery
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+34:21.39
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Henson, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+34:23.65
+</td>
+
+
+<td  >
+Mo S&T Dewey Allgood Invite
+</td>
+
+
+<td  >
+Apr 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+321
+</td>
+
+
+<td  >
+Walker, Joseph
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Seattle Pacific
+</td>
+
+
+<td  >
+34:23.77
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Johansen, Wyatt
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sioux Falls
+</td>
+
+
+<td  >
+34:25.10
+</td>
+
+
+<td  >
+Sioux City Relays UCO 2017
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Maloy, Tripp
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+34:26.37
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Baron, Joseph
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+34:28.19
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Marshall, Jacob
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+MSU-Billings
+</td>
+
+
+<td  >
+34:28.63
+</td>
+
+
+<td  >
+Trudnowki Open
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Solorio, Isaias
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wayne St. (Neb.)
+</td>
+
+
+<td  >
+34:28.71
+</td>
+
+
+<td  >
+Sioux City Relays UCO 2017
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Accardi, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+34:29.05
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Field, Sidney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+34:29.59
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Kidd, Austin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Columbus St.
+</td>
+
+
+<td  >
+34:29.93
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Iverson, Isaac
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Black Hills St.
+</td>
+
+
+<td  >
+34:32.13
+</td>
+
+
+<td  >
+2017 RMAC Outdoor Championships
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+Spencer, Nick 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Washington
+</td>
+
+
+<td  >
+34:32.78
+</td>
+
+
+<td  >
+WAR 10
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Binns, Blaise
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+34:33.06
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+Ducham, John
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Post
+</td>
+
+
+<td  >
+34:34.39
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Collins, Kiplimo
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+34:34.98
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+McKown, Christopher
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Tiffin
+</td>
+
+
+<td  >
+34:35.25
+</td>
+
+
+<td  >
+Falcon Track & Field Classic/Multi
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Mojica Gomez, Argenys
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+34:36.02
+</td>
+
+
+<td  >
+1ra Clasificatoria Atletismo LAI 2017
+</td>
+
+
+<td  >
+Feb 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Johnson, Zackary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Albany State
+</td>
+
+
+<td  >
+34:36.28
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Bean, Kyle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+American Int'l
+</td>
+
+
+<td  >
+34:36.59
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Gioe, Ryan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+LIU Post
+</td>
+
+
+<td  >
+34:36.63
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Edgecomb, Joe 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saint Martin's
+</td>
+
+
+<td  >
+34:36.98
+</td>
+
+
+<td  >
+Puget Sound Ed Boitano Invitational
+</td>
+
+
+<td  >
+Mar 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Graves, Lane
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lees-McRae
+</td>
+
+
+<td  >
+34:37.13
+</td>
+
+
+<td  >
+2017 Beynon Sports Surface Catamount Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Cardozo, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Assumption
+</td>
+
+
+<td  >
+34:37.55
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Heckard, Sawyer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Oregon
+</td>
+
+
+<td  >
+34:37.70
+</td>
+
+
+<td  >
+John Knight Twilight
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Giampietro, Nicholas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+34:39.25
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Boles, Marshall
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+34:39.77
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+346
+</td>
+
+
+<td  >
+McGuire, Nick
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+34:41.93
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Schilter, Levi
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saint Martin's
+</td>
+
+
+<td  >
+34:42.45
+</td>
+
+
+<td  >
+Puget Sound Ed Boitano Invitational
+</td>
+
+
+<td  >
+Mar 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Vojtisek, Ryan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+34:44.61
+</td>
+
+
+<td  >
+Cedarville Yellow Jacket Collegiate Outdoor Open
+</td>
+
+
+<td  >
+Mar 25, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+Morales, Miguel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal St. East Bay
+</td>
+
+
+<td  >
+34:46.23
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Givan, Andrew
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montevallo
+</td>
+
+
+<td  >
+34:48.87
+</td>
+
+
+<td  >
+Emory Invitational
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+Buckley-Noonan, Brennan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Oregon
+</td>
+
+
+<td  >
+34:50.07
+</td>
+
+
+<td  >
+2017 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Ferguson, Patrick
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio Dominican
+</td>
+
+
+<td  >
+34:51.17
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Reckemeier, Nils
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Limestone
+</td>
+
+
+<td  >
+34:51.72
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Fuller, Michael 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Dallas Baptist
+</td>
+
+
+<td  >
+34:51.96
+</td>
+
+
+<td  >
+Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Leon, Jesus
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal St. East Bay
+</td>
+
+
+<td  >
+34:52.23
+</td>
+
+
+<td  >
+CCAA Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Shamberg, Marcus
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Michigan Tech
+</td>
+
+
+<td  >
+34:52.51
+</td>
+
+
+<td  >
+GLIAC Outdoor Track & Field Championship 
+</td>
+
+
+<td  >
+May 3, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Bird, Koby
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Missouri S&T
+</td>
+
+
+<td  >
+34:53.34
+</td>
+
+
+<td  >
+Mo S&T Dewey Allgood Invite
+</td>
+
+
+<td  >
+Apr 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Robbie, Derek
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+34:55.07
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Gray, Brian
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+34:55.20
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Barinelli, Anthony
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+34:55.81
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Urban, Michael 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Shippensburg
+</td>
+
+
+<td  >
+34:56.23
+</td>
+
+
+<td  >
+13th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 29, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Lule, Manuel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+34:58.51
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Cox, Dalton
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wingate
+</td>
+
+
+<td  >
+34:59.42
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Serrano Colon, Guillermo
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Rio Piedras
+</td>
+
+
+<td  >
+35:03.10
+</td>
+
+
+<td  >
+Justas LAI 2017
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Applegate, Seth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kentucky Wesleyan
+</td>
+
+
+<td  >
+35:05.00
+</td>
+
+
+<td  >
+Lindsey Wilson College Invitational 
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Henley, Jake
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+35:05.30
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Linares, Jamer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+St. Thomas Aquinas
+</td>
+
+
+<td  >
+35:07.77
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+Meli , Timothy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Charleston (W.V.)
+</td>
+
+
+<td  >
+35:08.90
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Acey, Ryan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Post
+</td>
+
+
+<td  >
+35:09.09
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Kasten, Brock 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+35:10.61
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Noyes, John
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sioux Falls
+</td>
+
+
+<td  >
+35:11.66
+</td>
+
+
+<td  >
+Sioux City Relays UCO 2017
+</td>
+
+
+<td  >
+Apr 21, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+Phelps, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois-Springfield
+</td>
+
+
+<td  >
+35:16.44
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Arcara, Zak
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+35:18.24
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+LeMesurier, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cedarville
+</td>
+
+
+<td  >
+35:19.44
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+Broze, Ben 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SW Minnesota St.
+</td>
+
+
+<td  >
+35:21.59
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Trott, Thomas
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nyack
+</td>
+
+
+<td  >
+35:26.33
+</td>
+
+
+<td  >
+Osprey Open and Multi Meet
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+Macari, Justin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+35:26.77
+</td>
+
+
+<td  >
+22nd Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Khedaru, Aashaun
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Adelphi
+</td>
+
+
+<td  >
+35:27.06
+</td>
+
+
+<td  >
+22nd Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Brooks, Preston 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Angelo State
+</td>
+
+
+<td  >
+35:27.30
+</td>
+
+
+<td  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Healy, Matthew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Molloy
+</td>
+
+
+<td  >
+35:28.56
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+Ambury, Joey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+35:29.35
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Daigler, Carl
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roberts Wesleyan
+</td>
+
+
+<td  >
+35:29.86
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+383
+</td>
+
+
+<td  >
+McDonald, Declan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bloomsburg
+</td>
+
+
+<td  >
+35:32.91
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Carranza, Manuel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fresno Pacific
+</td>
+
+
+<td  >
+35:33.25
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+COMSTOCK, RYAN 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Caldwell
+</td>
+
+
+<td  >
+35:34.75
+</td>
+
+
+<td  >
+Ramapo College Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Currier, Andrew
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Malone
+</td>
+
+
+<td  >
+35:35.36
+</td>
+
+
+<td  >
+Mount Union John Homon Open
+</td>
+
+
+<td  >
+Apr 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+387
+</td>
+
+
+<td  >
+Nye, Andrew
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Malone
+</td>
+
+
+<td  >
+35:36.23
+</td>
+
+
+<td  >
+G-MAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Buckheit, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alderson Broaddus
+</td>
+
+
+<td  >
+35:39.39
+</td>
+
+
+<td  >
+2017 W&L Carnival	
+</td>
+
+
+<td  >
+Mar 17, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+O'Farrell, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+35:46.29
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+390
+</td>
+
+
+<td  >
+Lynch, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Chestnut Hill
+</td>
+
+
+<td  >
+35:46.59
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Krause, Ryan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+McKendree
+</td>
+
+
+<td  >
+35:47.97
+</td>
+
+
+<td  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Horwat, James
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pitt.-Johnstown
+</td>
+
+
+<td  >
+35:53.29
+</td>
+
+
+<td  >
+PSAC West
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+393
+</td>
+
+
+<td  >
+Brady, Cooper
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+35:53.40
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Mucklow, Caleb
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nyack
+</td>
+
+
+<td  >
+35:53.97
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+Haas, Brett
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lenoir-Rhyne
+</td>
+
+
+<td  >
+35:54.39
+</td>
+
+
+<td  >
+South Atlantic Conference Championship
+</td>
+
+
+<td  >
+Apr 14, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Gordon, J.R.
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+35:54.69
+</td>
+
+
+<td  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Noble, Justin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Rogers State
+</td>
+
+
+<td  >
+35:56.21
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Kondracki, Kyle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Thomas Aquinas
+</td>
+
+
+<td  >
+35:57.87
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Klins, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Edinboro
+</td>
+
+
+<td  >
+36:06.02
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 16, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+400
+</td>
+
+
+<td  >
+Poovey, Nathan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Arkansas
+</td>
+
+
+<td  >
+36:06.83
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+Kimutai, Nelson
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Alabama
+</td>
+
+
+<td  >
+36:07.16
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Meszaro, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Franklin Pierce
+</td>
+
+
+<td  >
+36:09.92
+</td>
+
+
+<td  >
+Silfen Track & Field Invitational
+</td>
+
+
+<td  >
+Apr 15, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+ Irizarry-Alvarez, Rolando
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+P.R.-Bayamon
+</td>
+
+
+<td  >
+36:12.14
+</td>
+
+
+<td  >
+1ra Clasificatoria Atletismo LAI 2017
+</td>
+
+
+<td  >
+Feb 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Ramos, Charles
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+36:17.88
+</td>
+
+
+<td  >
+Conference Carolinas Championship 2017
+</td>
+
+
+<td  >
+Apr 28, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+405
+</td>
+
+
+<td  >
+Aruga, Yuya
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+36:19.80
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Samalonis, Zachary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Philadelphia U.
+</td>
+
+
+<td  >
+36:23.84
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+Parsons, Will
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama-Huntsville
+</td>
+
+
+<td  >
+36:25.19
+</td>
+
+
+<td  >
+Falcon Track & Field Classic/Multi
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Brown, RJ
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Maryville (Mo.)
+</td>
+
+
+<td  >
+36:25.96
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+Penaloza, Kevin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Le Moyne
+</td>
+
+
+<td  >
+36:26.43
+</td>
+
+
+<td  >
+Cortland Classic Invitational
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Richards, Jonathan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Roberts Wesleyan
+</td>
+
+
+<td  >
+36:33.19
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+James, D'Shaun
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albany State
+</td>
+
+
+<td  >
+36:37.72
+</td>
+
+
+<td  >
+Cougar Classic
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Ronoh, Jeremmy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+36:38.04
+</td>
+
+
+<td  >
+Falcon Track & Field Classic/Multi
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Duez, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wheeling Jesuit
+</td>
+
+
+<td  >
+36:38.60
+</td>
+
+
+<td  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+<td  >
+May 5, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+Kent, Troy
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Merrimack
+</td>
+
+
+<td  >
+36:40.91
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Singleton, Theron
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota Mines
+</td>
+
+
+<td  >
+36:41.82
+</td>
+
+
+<td  >
+SD Mines-Bauer Invitational 
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Bertini, Andrew
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+36:44.28
+</td>
+
+
+<td  >
+7th Annual Yellow Jacket Invitational
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+417
+</td>
+
+
+<td  >
+Wallin, Jeff
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bentley
+</td>
+
+
+<td  >
+36:49.21
+</td>
+
+
+<td  >
+Bridgewater State University
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Velez-Rivera, Misael  
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+P.R.-Bayamon
+</td>
+
+
+<td  >
+36:58.88
+</td>
+
+
+<td  >
+1ra Clasificatoria Atletismo LAI 2017
+</td>
+
+
+<td  >
+Feb 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Axton, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Christian Bros.
+</td>
+
+
+<td  >
+36:59.58
+</td>
+
+
+<td  >
+Gulf South Conference 
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Sella, Matt
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana (Pa.)
+</td>
+
+
+<td  >
+37:02.48
+</td>
+
+
+<td  >
+13th Annual Paul Kaiser Classic
+</td>
+
+
+<td  >
+Apr 29, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Gallagher, Liam
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Molloy
+</td>
+
+
+<td  >
+37:13.43
+</td>
+
+
+<td  >
+2017 ECC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+Apr 22, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Dawson, Gregory
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Philadelphia U.
+</td>
+
+
+<td  >
+37:16.19
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+Swenson, Logan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern State
+</td>
+
+
+<td  >
+37:16.80
+</td>
+
+
+<td  >
+2017 NSIC Outdoor Track & Field Meet
+</td>
+
+
+<td  >
+May 12, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Johnson, Tyler
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Alabama
+</td>
+
+
+<td  >
+37:16.98
+</td>
+
+
+<td  >
+Falcon Track & Field Classic/Multi
+</td>
+
+
+<td  >
+Mar 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Kiprop, Kelvin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nyack
+</td>
+
+
+<td  >
+37:22.09
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+Hayward, Tyler 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Post
+</td>
+
+
+<td  >
+37:28.36
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+Orozco, John
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Holy Family
+</td>
+
+
+<td  >
+37:29.44
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+Kovalchick, Daniel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+King
+</td>
+
+
+<td  >
+37:33.73
+</td>
+
+
+<td  >
+Montreat College Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Torres-Martinez, Daniel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+P.R.-Bayamon
+</td>
+
+
+<td  >
+37:41.02
+</td>
+
+
+<td  >
+1ra Clasificatoria Atletismo LAI 2017
+</td>
+
+
+<td  >
+Feb 24, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Ashcraft , Jacob 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Concord
+</td>
+
+
+<td  >
+37:47.97
+</td>
+
+
+<td  >
+High Point VertKlasse Meeting
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+Drapeau, Trevor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Rose
+</td>
+
+
+<td  >
+37:50.16
+</td>
+
+
+<td  >
+7th Annual Yellow Jacket Invitational
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+Corbitt, Jovan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Morehouse
+</td>
+
+
+<td  >
+38:01.28
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Ginglen, Alex
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois-Springfield
+</td>
+
+
+<td  >
+38:01.52
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+434
+</td>
+
+
+<td  >
+Welch, Charles
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Liberty
+</td>
+
+
+<td  >
+38:02.19
+</td>
+
+
+<td  >
+PSAC West
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Mccabe, Tyler 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Florida Tech
+</td>
+
+
+<td  >
+38:06.21
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Higgins, Michael
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lewis
+</td>
+
+
+<td  >
+38:19.80
+</td>
+
+
+<td  >
+Wash U Invitational
+</td>
+
+
+<td  >
+Mar 31, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+437
+</td>
+
+
+<td  >
+Romano, Adam 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+38:21.54
+</td>
+
+
+<td  >
+Bobcat Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Cartier, Stephen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Notre Dame (Ohio)
+</td>
+
+
+<td  >
+38:54.29
+</td>
+
+
+<td  >
+Bob Kahn Invitational
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Chelelgo, Keneth
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Harding
+</td>
+
+
+<td  >
+39:13.10
+</td>
+
+
+<td  >
+Great American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+440
+</td>
+
+
+<td  >
+Hughes, Sam 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+West Virginia Wesleyan
+</td>
+
+
+<td  >
+39:16.07
+</td>
+
+
+<td  >
+Bobcat Classic
+</td>
+
+
+<td  >
+Mar 23, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Boyd, Brandon 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pfeiffer
+</td>
+
+
+<td  >
+39:54.04
+</td>
+
+
+<td  >
+Atlantic Independent Track & Field  Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+Gregory, Jacob
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Notre Dame (Ohio)
+</td>
+
+
+<td  >
+40:07.35
+</td>
+
+
+<td  >
+Bob Kahn Invitational
+</td>
+
+
+<td  >
+Apr 8, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Davis, Harrison
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Post
+</td>
+
+
+<td  >
+40:09.64
+</td>
+
+
+<td  >
+2017 CACC Outdoor Conference Championship
+</td>
+
+
+<td  >
+May 7, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Thompson, Timothy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Columbus St.
+</td>
+
+
+<td  >
+40:58.15
+</td>
+
+
+<td  >
+2017 Peach Belt Conference Track & Field Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Jones, Tykeenan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Claflin
+</td>
+
+
+<td  >
+45:25.16
+</td>
+
+
+<td  >
+SIAC Track and Field Championship
+</td>
+
+
+<td  >
+May 4, 2017
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+Watson, Mackennon
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pfeiffer
+</td>
+
+
+<td  >
+46:19.88
+</td>
+
+
+<td  >
+Atlantic Independent Track & Field  Championship
+</td>
+
+
+<td  >
+Apr 20, 2017
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

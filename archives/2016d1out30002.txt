@@ -1,0 +1,23016 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2016 NCAA Division I Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+3000 Steeple 
+	
+	
+ (Women)
+                            </h3>
+                        </div>
+
+                        <table class="tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody>
+<tr>
+
+
+<td  >
+1
+</td>
+
+
+<td  >
+Frerichs, Courtney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+9:29.31
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+2
+</td>
+
+
+<td  >
+Purrier, Elinor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+9:47.17
+</td>
+
+
+<td  >
+Ocean State Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+3
+</td>
+
+
+<td  >
+Kamilos, Jessica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+9:48.16
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+4
+</td>
+
+
+<td  >
+Clark, Erin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+9:48.72
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+5
+</td>
+
+
+<td  >
+Winslow, Danielle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+9:48.81
+</td>
+
+
+<td  >
+Ocean State Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+6
+</td>
+
+
+<td  >
+Donegan, Laura Rose
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+9:49.16
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+7
+</td>
+
+
+<td  >
+Kouba, Paige
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Harvard
+</td>
+
+
+<td  >
+9:50.21
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+8
+</td>
+
+
+<td  >
+Loevnes, Ingeborg
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oklahoma State
+</td>
+
+
+<td  >
+9:50.67
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+9
+</td>
+
+
+<td  >
+Griesche, Cornelia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Miss State
+</td>
+
+
+<td  >
+9:51.66
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+10
+</td>
+
+
+<td  >
+Clark, Devin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+9:54.83
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+11
+</td>
+
+
+<td  >
+Talbert, Madelin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+9:55.79
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+12
+</td>
+
+
+<td  >
+Mills, Shelby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+9:56.17
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+13
+</td>
+
+
+<td  >
+Berge, Frida
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+9:56.79
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+14
+</td>
+
+
+<td  >
+Landwehr, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+9:58.87
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+15
+</td>
+
+
+<td  >
+Ilarda, Brianna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+9:59.54
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+16
+</td>
+
+
+<td  >
+Prouse, Charlotte
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+10:00.67
+</td>
+
+
+<td  >
+Pepsi Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+17
+</td>
+
+
+<td  >
+Batt-Doyle, Isobel
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+10:02.00
+</td>
+
+
+<td  >
+Pepsi Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+18
+</td>
+
+
+<td  >
+Strandemo, Madeline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:03.52
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+19
+</td>
+
+
+<td  >
+Waggoner, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+10:04.69
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+20
+</td>
+
+
+<td  >
+Greenleaf, Katelyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+10:05.03
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+21
+</td>
+
+
+<td  >
+Constien, Val
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+10:05.65
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+22
+</td>
+
+
+<td  >
+Hehr, Antonia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Miss State
+</td>
+
+
+<td  >
+10:06.06
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+23
+</td>
+
+
+<td  >
+de La Bruyere, Emily
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+10:06.26
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+24
+</td>
+
+
+<td  >
+Nerud, Brianna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oregon
+</td>
+
+
+<td  >
+10:06.88
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+25
+</td>
+
+
+<td  >
+DeStefano, Audra
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+10:07.35
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+26
+</td>
+
+
+<td  >
+Barr, Erika
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+10:08.63
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+27
+</td>
+
+
+<td  >
+McShea, Kelly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:09.56
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+28
+</td>
+
+
+<td  >
+Child, Ellie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:09.68
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+29
+</td>
+
+
+<td  >
+Blake, Bridget
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida State
+</td>
+
+
+<td  >
+10:09.81
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+30
+</td>
+
+
+<td  >
+Lake, Iona
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Virginia
+</td>
+
+
+<td  >
+10:09.99
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+31
+</td>
+
+
+<td  >
+Mahoney, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+10:10.33
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+32
+</td>
+
+
+<td  >
+Weiler, Liz
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+10:10.89
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+33
+</td>
+
+
+<td  >
+Schmelzle, Hope
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northern Illinois
+</td>
+
+
+<td  >
+10:10.90
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+34
+</td>
+
+
+<td  >
+Gallein, Sofie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+10:10.92
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+35
+</td>
+
+
+<td  >
+Katz, Danielle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stanford
+</td>
+
+
+<td  >
+10:11.11
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+36
+</td>
+
+
+<td  >
+Scharmann, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+10:11.30
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+37
+</td>
+
+
+<td  >
+Urick, Kaila
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:11.54
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+38
+</td>
+
+
+<td  >
+Adelsberger, Teylar
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+10:12.39
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+39
+</td>
+
+
+<td  >
+Johnson, Brianna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+10:13.21
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Buchalski, Allie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Furman
+</td>
+
+
+<td  >
+10:13.28
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+40
+</td>
+
+
+<td  >
+Johnson, Carolina 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+10:13.28
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+42
+</td>
+
+
+<td  >
+Hukka, Minttu
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+10:14.06
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+43
+</td>
+
+
+<td  >
+Kunc, Katy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kentucky
+</td>
+
+
+<td  >
+10:14.66
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+44
+</td>
+
+
+<td  >
+Bird, Elizabeth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+10:15.03
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+45
+</td>
+
+
+<td  >
+Mikkalson, Taylor 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:15.26
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+46
+</td>
+
+
+<td  >
+Hirsch, Sidney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+10:16.71
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+47
+</td>
+
+
+<td  >
+Austin, Taylor
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+10:17.70
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+48
+</td>
+
+
+<td  >
+Teschuk, Erin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Dakota State
+</td>
+
+
+<td  >
+10:18.14
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+49
+</td>
+
+
+<td  >
+McCaslin, Caroline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kentucky
+</td>
+
+
+<td  >
+10:18.32
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+50
+</td>
+
+
+<td  >
+Bernal, Natasha
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Mexico
+</td>
+
+
+<td  >
+10:19.54
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+51
+</td>
+
+
+<td  >
+Darlington, Amy 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Penn
+</td>
+
+
+<td  >
+10:20.41
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+52
+</td>
+
+
+<td  >
+Dyer, Alyssa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Michigan
+</td>
+
+
+<td  >
+10:20.47
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+53
+</td>
+
+
+<td  >
+Pasternak, Anna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:20.53
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+54
+</td>
+
+
+<td  >
+Shubin, Lauren
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:20.55
+</td>
+
+
+<td  >
+2016 Oxy Invitational (College/University)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+55
+</td>
+
+
+<td  >
+Topham, Rebekah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+10:20.95
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+56
+</td>
+
+
+<td  >
+Kiptebeny, Josphine
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mid. Tenn. State
+</td>
+
+
+<td  >
+10:21.07
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+57
+</td>
+
+
+<td  >
+Eisenberg, Christine
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stony Brook
+</td>
+
+
+<td  >
+10:21.09
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+58
+</td>
+
+
+<td  >
+Cashin, Amy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+West Virginia
+</td>
+
+
+<td  >
+10:21.36
+</td>
+
+
+<td  >
+2016 Billy Hayes Invitational
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+59
+</td>
+
+
+<td  >
+Anderson, Olivia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Duke
+</td>
+
+
+<td  >
+10:21.86
+</td>
+
+
+<td  >
+Battle of the Blues
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+60
+</td>
+
+
+<td  >
+Hayes, Kelly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pittsburgh
+</td>
+
+
+<td  >
+10:22.08
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+61
+</td>
+
+
+<td  >
+Borchers, Claire
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:22.14
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+62
+</td>
+
+
+<td  >
+McKenna, Kelli
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+10:23.28
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+63
+</td>
+
+
+<td  >
+Dahl, Emma
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arkansas-Little Rock
+</td>
+
+
+<td  >
+10:23.72
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+64
+</td>
+
+
+<td  >
+Palermo, Valerie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+10:23.78
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+65
+</td>
+
+
+<td  >
+Applegate, Molly
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+10:23.82
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+66
+</td>
+
+
+<td  >
+Murphy, Grayson
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Santa Clara
+</td>
+
+
+<td  >
+10:24.03
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+67
+</td>
+
+
+<td  >
+Viparina, Olivia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+James Madison
+</td>
+
+
+<td  >
+10:24.58
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+68
+</td>
+
+
+<td  >
+Zieve, Sarah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:25.06
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+69
+</td>
+
+
+<td  >
+Novotna, Tereza
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+10:25.28
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+70
+</td>
+
+
+<td  >
+Holland, Sanne
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+10:25.34
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+71
+</td>
+
+
+<td  >
+Mechels, Halie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:25.39
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+72
+</td>
+
+
+<td  >
+King, Rachel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:25.75
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+73
+</td>
+
+
+<td  >
+West, Megan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:25.78
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+74
+</td>
+
+
+<td  >
+Gil-Echevarria, Paula 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+10:25.82
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+75
+</td>
+
+
+<td  >
+Markovich, Alexandra
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Princeton
+</td>
+
+
+<td  >
+10:26.24
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+76
+</td>
+
+
+<td  >
+Naumann, Kelly
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+10:26.95
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+77
+</td>
+
+
+<td  >
+Serrano, Chelsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+10:27.09
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+78
+</td>
+
+
+<td  >
+Yuan , Meg 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+West Virginia
+</td>
+
+
+<td  >
+10:27.39
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+79
+</td>
+
+
+<td  >
+Coughlin, McKenna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Mississippi
+</td>
+
+
+<td  >
+10:27.68
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Scott, Sarah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oklahoma
+</td>
+
+
+<td  >
+10:28.29
+</td>
+
+
+<td  >
+Payton Jordan Invitational
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+80
+</td>
+
+
+<td  >
+Deighan, Kayla
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+10:28.29
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+82
+</td>
+
+
+<td  >
+Young, Lucy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+10:28.33
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+83
+</td>
+
+
+<td  >
+Parkinson, Tori
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+10:28.48
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+84
+</td>
+
+
+<td  >
+Bartolomeo, Rachel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+10:28.73
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+85
+</td>
+
+
+<td  >
+Rush, Kristi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:28.75
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+86
+</td>
+
+
+<td  >
+Yarrow, Laura
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+10:29.05
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+87
+</td>
+
+
+<td  >
+Ocasio, Natalia 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+10:29.27
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+88
+</td>
+
+
+<td  >
+Brumley, Briar
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+10:29.44
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+89
+</td>
+
+
+<td  >
+Goyette, Maxine
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:29.85
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+90
+</td>
+
+
+<td  >
+Hayward, Katelyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UT-Arlington
+</td>
+
+
+<td  >
+10:29.89
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+91
+</td>
+
+
+<td  >
+Leff, Laura
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+10:30.24
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+92
+</td>
+
+
+<td  >
+Bobart, Valerie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+10:30.70
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+93
+</td>
+
+
+<td  >
+Coppinger, Courtney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+10:31.01
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+94
+</td>
+
+
+<td  >
+Sierra, Selena
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Houston
+</td>
+
+
+<td  >
+10:31.07
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+95
+</td>
+
+
+<td  >
+Fry, Katie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+10:31.15
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+96
+</td>
+
+
+<td  >
+Riches, Laura
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+10:31.19
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+97
+</td>
+
+
+<td  >
+Scheriff, Jessica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+10:31.80
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+98
+</td>
+
+
+<td  >
+Pesek, Shelby
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+10:31.87
+</td>
+
+
+<td  >
+SHSU Last Chance
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+99
+</td>
+
+
+<td  >
+Lincks, Janelle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+10:32.55
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+100
+</td>
+
+
+<td  >
+Melly, Erin 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+10:32.83
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+101
+</td>
+
+
+<td  >
+Bordes, Megan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+California
+</td>
+
+
+<td  >
+10:32.86
+</td>
+
+
+<td  >
+The Big Meet -Cal vs. Stanford
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+102
+</td>
+
+
+<td  >
+Cassidy, Carlee
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Col. of Charleston
+</td>
+
+
+<td  >
+10:32.95
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+103
+</td>
+
+
+<td  >
+Cheadle, Lucy
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+10:33.01
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+104
+</td>
+
+
+<td  >
+Blakely, Eryn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colorado
+</td>
+
+
+<td  >
+10:33.14
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+105
+</td>
+
+
+<td  >
+Weatherford, Colleen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+10:33.34
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+106
+</td>
+
+
+<td  >
+Vovk, Alesha
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+10:33.64
+</td>
+
+
+<td  >
+Jesse Owens Track & Field Classic - Ohio State University
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+107
+</td>
+
+
+<td  >
+Bortfeld, Devon 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+10:34.10
+</td>
+
+
+<td  >
+Ken Shannon Invitational
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+108
+</td>
+
+
+<td  >
+Skatteboe, Karoline
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SMU
+</td>
+
+
+<td  >
+10:34.22
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+109
+</td>
+
+
+<td  >
+Coffin, Hannah 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UAB
+</td>
+
+
+<td  >
+10:34.71
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+110
+</td>
+
+
+<td  >
+Janssen, Taylor
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Dakota State
+</td>
+
+
+<td  >
+10:34.86
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+111
+</td>
+
+
+<td  >
+Bogdanova, Alsu
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Michigan
+</td>
+
+
+<td  >
+10:35.20
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+112
+</td>
+
+
+<td  >
+Cologer, Sophia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+10:35.59
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+113
+</td>
+
+
+<td  >
+Klein, Dana
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+10:36.12
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+114
+</td>
+
+
+<td  >
+Caldwell, Abby 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+10:36.20
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+115
+</td>
+
+
+<td  >
+Sullivan, Grace
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+10:36.34
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+116
+</td>
+
+
+<td  >
+Sands, Colleen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMass Amherst
+</td>
+
+
+<td  >
+10:36.62
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+117
+</td>
+
+
+<td  >
+Neville, Alice
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:36.78
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+118
+</td>
+
+
+<td  >
+Campanaro, Samantha
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+10:37.00
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+119
+</td>
+
+
+<td  >
+Givens, Susan Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Auburn
+</td>
+
+
+<td  >
+10:37.01
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+120
+</td>
+
+
+<td  >
+DeVoe, Claire
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Cornell
+</td>
+
+
+<td  >
+10:37.59
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+121
+</td>
+
+
+<td  >
+Hollowood, Keelin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Providence
+</td>
+
+
+<td  >
+10:37.69
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+122
+</td>
+
+
+<td  >
+Coggins, Calli
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+10:37.78
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+123
+</td>
+
+
+<td  >
+Broschard, Gabrielle
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+10:37.83
+</td>
+
+
+<td  >
+2016 Nike Clyde Littlefield Texas Relays
+</td>
+
+
+<td  >
+Mar 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+124
+</td>
+
+
+<td  >
+Fogarty, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+10:37.89
+</td>
+
+
+<td  >
+Rock Chalk Classic
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+125
+</td>
+
+
+<td  >
+Mantilla, Leila
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+10:38.08
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+126
+</td>
+
+
+<td  >
+Rothman, Moa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northern Arizona
+</td>
+
+
+<td  >
+10:38.45
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+127
+</td>
+
+
+<td  >
+Wedekind, Morgan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kansas State
+</td>
+
+
+<td  >
+10:38.65
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+128
+</td>
+
+
+<td  >
+Handchen, Ashleigh
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+10:38.67
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+129
+</td>
+
+
+<td  >
+Noser, Claire
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+10:38.86
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+130
+</td>
+
+
+<td  >
+Doll, Kayla
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kansas State
+</td>
+
+
+<td  >
+10:38.87
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+131
+</td>
+
+
+<td  >
+Sisson, Annika
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Arkansas
+</td>
+
+
+<td  >
+10:39.87
+</td>
+
+
+<td  >
+John McDonnell Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+132
+</td>
+
+
+<td  >
+O'Dea, Jordan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+10:40.23
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+133
+</td>
+
+
+<td  >
+O'Neil, Megan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Central Michigan
+</td>
+
+
+<td  >
+10:40.44
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+134
+</td>
+
+
+<td  >
+Bailey, Jessica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+10:40.48
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+135
+</td>
+
+
+<td  >
+Gee, Emma
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:40.77
+</td>
+
+
+<td  >
+2016 Oxy Invitational (College/University)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+136
+</td>
+
+
+<td  >
+Van Kleunen, Lucy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Brown
+</td>
+
+
+<td  >
+10:41.11
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+137
+</td>
+
+
+<td  >
+Oliver, Layne
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+10:41.40
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+138
+</td>
+
+
+<td  >
+Mundell, Tessa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+James Madison
+</td>
+
+
+<td  >
+10:41.47
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+139
+</td>
+
+
+<td  >
+Piepenburg, Jamie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+10:41.80
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+140
+</td>
+
+
+<td  >
+McDermott, Devin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida
+</td>
+
+
+<td  >
+10:42.32
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+141
+</td>
+
+
+<td  >
+Corbin, Shaina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arizona State
+</td>
+
+
+<td  >
+10:42.40
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+142
+</td>
+
+
+<td  >
+Berdousi, Katerina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+USC
+</td>
+
+
+<td  >
+10:42.72
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+143
+</td>
+
+
+<td  >
+Grubb, Hannah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas
+</td>
+
+
+<td  >
+10:42.92
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+144
+</td>
+
+
+<td  >
+Nappi, Katie 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Maryland
+</td>
+
+
+<td  >
+10:42.98
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+145
+</td>
+
+
+<td  >
+McDonald, Grace
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+10:43.13
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+146
+</td>
+
+
+<td  >
+Bloy, Elizabeth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Valparaiso
+</td>
+
+
+<td  >
+10:43.25
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+147
+</td>
+
+
+<td  >
+Barlow, Stephanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+10:43.43
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+148
+</td>
+
+
+<td  >
+Knoblock, Megan
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Towson
+</td>
+
+
+<td  >
+10:43.64
+</td>
+
+
+<td  >
+IC4A/ECAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+149
+</td>
+
+
+<td  >
+Ratcliffe, Hana
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+10:43.94
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+150
+</td>
+
+
+<td  >
+Tong, Jenna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+USC
+</td>
+
+
+<td  >
+10:44.58
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+151
+</td>
+
+
+<td  >
+Howard, Antonia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. John's
+</td>
+
+
+<td  >
+10:45.05
+</td>
+
+
+<td  >
+Tom Farrell Classic
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+152
+</td>
+
+
+<td  >
+Butcher, Cara
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Col. of Charleston
+</td>
+
+
+<td  >
+10:45.29
+</td>
+
+
+<td  >
+Florida Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+153
+</td>
+
+
+<td  >
+Alt, Andrea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Bowling Green
+</td>
+
+
+<td  >
+10:45.73
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+154
+</td>
+
+
+<td  >
+Souza, Shanoah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SMU
+</td>
+
+
+<td  >
+10:45.82
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+155
+</td>
+
+
+<td  >
+Toppin, Andrea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+10:45.95
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+156
+</td>
+
+
+<td  >
+Sauers, Caroline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+10:46.03
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+157
+</td>
+
+
+<td  >
+Garippo, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+10:46.15
+</td>
+
+
+<td  >
+Gibson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+158
+</td>
+
+
+<td  >
+Ball, Maddie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:46.51
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+159
+</td>
+
+
+<td  >
+Petrey, Britten
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Illinois
+</td>
+
+
+<td  >
+10:46.86
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+160
+</td>
+
+
+<td  >
+Gollnick, Hailey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+10:46.94
+</td>
+
+
+<td  >
+Penn Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+161
+</td>
+
+
+<td  >
+Holdiman, Anna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Boise State
+</td>
+
+
+<td  >
+10:47.26
+</td>
+
+
+<td  >
+Mountain West Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+162
+</td>
+
+
+<td  >
+Dilmore, Paige
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+10:47.39
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+163
+</td>
+
+
+<td  >
+Cheruiyot, Rhema
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Mid. Tenn. State
+</td>
+
+
+<td  >
+10:47.54
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+164
+</td>
+
+
+<td  >
+Bolliger, Alyssa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tulsa
+</td>
+
+
+<td  >
+10:47.61
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+165
+</td>
+
+
+<td  >
+Fite, Katrina
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+10:47.76
+</td>
+
+
+<td  >
+Southland Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+166
+</td>
+
+
+<td  >
+Ankhelyi, Madeleine
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Harvard
+</td>
+
+
+<td  >
+10:47.79
+</td>
+
+
+<td  >
+Sam Howell (College)
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+167
+</td>
+
+
+<td  >
+Zimmerman, Madison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Baylor
+</td>
+
+
+<td  >
+10:47.88
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+168
+</td>
+
+
+<td  >
+O'Neill, Karli
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pittsburgh
+</td>
+
+
+<td  >
+10:48.58
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+169
+</td>
+
+
+<td  >
+Hodges, Claire
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UL-Lafayette
+</td>
+
+
+<td  >
+10:49.24
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+170
+</td>
+
+
+<td  >
+Garippo, Ruth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+10:49.66
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+171
+</td>
+
+
+<td  >
+Bucknam, Kate
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+10:50.13
+</td>
+
+
+<td  >
+Mt. SAC Relays
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+172
+</td>
+
+
+<td  >
+Benko, Stephanie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+10:50.36
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+173
+</td>
+
+
+<td  >
+Northey, Jenette
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+10:50.45
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+174
+</td>
+
+
+<td  >
+Pinson, Catherine
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Temple
+</td>
+
+
+<td  >
+10:50.73
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+175
+</td>
+
+
+<td  >
+Weingartz, Kailey 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oakland
+</td>
+
+
+<td  >
+10:50.74
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+176
+</td>
+
+
+<td  >
+Leonard, Ellie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan
+</td>
+
+
+<td  >
+10:51.06
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+177
+</td>
+
+
+<td  >
+O'Hea, Caroline
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Carolina
+</td>
+
+
+<td  >
+10:51.13
+</td>
+
+
+<td  >
+Wolfpack Last Chance
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+178
+</td>
+
+
+<td  >
+Pederson, Carly
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northern Illinois
+</td>
+
+
+<td  >
+10:51.32
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+179
+</td>
+
+
+<td  >
+Burr, Ashley
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Oakland
+</td>
+
+
+<td  >
+10:51.88
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+180
+</td>
+
+
+<td  >
+Evans, McKenna 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nevada
+</td>
+
+
+<td  >
+10:52.31
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+181
+</td>
+
+
+<td  >
+Barrow, Jennica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+10:52.33
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+182
+</td>
+
+
+<td  >
+Roeth, Allison
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio
+</td>
+
+
+<td  >
+10:52.39
+</td>
+
+
+<td  >
+Jesse Owens Track & Field Classic - Ohio State University
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+183
+</td>
+
+
+<td  >
+Gibbons, Grace
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Iowa State
+</td>
+
+
+<td  >
+10:52.45
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+184
+</td>
+
+
+<td  >
+Nakamura, Jennifer
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+10:52.49
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+185
+</td>
+
+
+<td  >
+Tedeschi, Courtney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+DePaul
+</td>
+
+
+<td  >
+10:52.56
+</td>
+
+
+<td  >
+BIG EAST Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+186
+</td>
+
+
+<td  >
+Naser, Courtney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+10:52.58
+</td>
+
+
+<td  >
+Florida Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+187
+</td>
+
+
+<td  >
+Kay, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+10:53.33
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+188
+</td>
+
+
+<td  >
+Harris, Haley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+10:53.75
+</td>
+
+
+<td  >
+Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+189
+</td>
+
+
+<td  >
+Enright, Olivia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Carolina St.
+</td>
+
+
+<td  >
+10:53.92
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+190
+</td>
+
+
+<td  >
+Scott, Ciara 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Kentucky
+</td>
+
+
+<td  >
+10:54.36
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+191
+</td>
+
+
+<td  >
+Melius, Mckenzie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+10:54.59
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+192
+</td>
+
+
+<td  >
+Kent, Sasha
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+10:54.74
+</td>
+
+
+<td  >
+Border Clash 2016
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+193
+</td>
+
+
+<td  >
+Baker, Rachael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Monmouth
+</td>
+
+
+<td  >
+10:54.91
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+194
+</td>
+
+
+<td  >
+Garner, Emma 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+10:54.99
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+195
+</td>
+
+
+<td  >
+Sheehan, Kristin
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Auburn
+</td>
+
+
+<td  >
+10:55.01
+</td>
+
+
+<td  >
+SEC Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+196
+</td>
+
+
+<td  >
+Braun, Caroline 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Colorado
+</td>
+
+
+<td  >
+10:55.17
+</td>
+
+
+<td  >
+Oregon Relays
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+197
+</td>
+
+
+<td  >
+East, Katy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Colorado
+</td>
+
+
+<td  >
+10:55.32
+</td>
+
+
+<td  >
+Oregon Relays
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+198
+</td>
+
+
+<td  >
+Snell, Dana
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah
+</td>
+
+
+<td  >
+10:55.76
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+199
+</td>
+
+
+<td  >
+Wojeski, Brooke
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+10:55.77
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+200
+</td>
+
+
+<td  >
+O'Connell, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+10:56.21
+</td>
+
+
+<td  >
+Cal Poly/UCSB Dual
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+201
+</td>
+
+
+<td  >
+Slingluff, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+10:56.22
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+202
+</td>
+
+
+<td  >
+Parks, Allison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+10:56.64
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+203
+</td>
+
+
+<td  >
+Flatley, Elizabeth
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+10:56.72
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+204
+</td>
+
+
+<td  >
+Albers, Olivia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+10:56.92
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Lantz, Olivia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dartmouth
+</td>
+
+
+<td  >
+10:57.09
+</td>
+
+
+<td  >
+Ivy League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+205
+</td>
+
+
+<td  >
+Forrester, Kalleigh 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UCF
+</td>
+
+
+<td  >
+10:57.09
+</td>
+
+
+<td  >
+UCF Black and Gold Challenge 
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+207
+</td>
+
+
+<td  >
+Michalek, Ariel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+10:57.21
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+208
+</td>
+
+
+<td  >
+Busse, Abigail 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+10:57.28
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Thomson, Margaret
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+10:57.35
+</td>
+
+
+<td  >
+Bucknell Team Challenge
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+209
+</td>
+
+
+<td  >
+Trevino, Kelly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas State
+</td>
+
+
+<td  >
+10:57.35
+</td>
+
+
+<td  >
+2016 Baylor Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Connelly, Tara
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+10:57.38
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+211
+</td>
+
+
+<td  >
+Sheprow, Elizabeth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+10:57.38
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+213
+</td>
+
+
+<td  >
+Diedrich, Desarae
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Purdue
+</td>
+
+
+<td  >
+10:57.75
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+214
+</td>
+
+
+<td  >
+Pease, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+10:57.91
+</td>
+
+
+<td  >
+2016 Louisville Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+215
+</td>
+
+
+<td  >
+Yamauchi, Kelsey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+10:58.34
+</td>
+
+
+<td  >
+Rafer Johnson-Jackie Joyner Kersee Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+216
+</td>
+
+
+<td  >
+Heinemann, Haley
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+10:58.38
+</td>
+
+
+<td  >
+Sacramento State Open (College)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+217
+</td>
+
+
+<td  >
+Mack, Lianna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wisconsin
+</td>
+
+
+<td  >
+10:58.54
+</td>
+
+
+<td  >
+2016 Drake Relays presented by Hy-Vee
+</td>
+
+
+<td  >
+Apr 27, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+218
+</td>
+
+
+<td  >
+Casin-Silva, Carolina
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+10:58.77
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+219
+</td>
+
+
+<td  >
+Blaney, Catherine
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+10:58.91
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+220
+</td>
+
+
+<td  >
+Anderson, Kirsten
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+10:58.93
+</td>
+
+
+<td  >
+2016 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+221
+</td>
+
+
+<td  >
+Langley, Tristan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Winthrop
+</td>
+
+
+<td  >
+10:59.17
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+222
+</td>
+
+
+<td  >
+Bailey, Kelly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Richmond
+</td>
+
+
+<td  >
+10:59.74
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+223
+</td>
+
+
+<td  >
+Garcia, Rebecca
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+10:59.77
+</td>
+
+
+<td  >
+Steve Scott Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+224
+</td>
+
+
+<td  >
+Jenkins, Julia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+10:59.80
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+225
+</td>
+
+
+<td  >
+Moreno, Ana
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sam Houston St.
+</td>
+
+
+<td  >
+10:59.90
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+226
+</td>
+
+
+<td  >
+Hansen, Amy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Kentucky
+</td>
+
+
+<td  >
+11:00.15
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+227
+</td>
+
+
+<td  >
+Stephens, Charlotte
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+11:00.20
+</td>
+
+
+<td  >
+Georgia Tech Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Russo, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Villanova
+</td>
+
+
+<td  >
+11:00.24
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+228
+</td>
+
+
+<td  >
+Lewis, Lindsey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+11:00.24
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+230
+</td>
+
+
+<td  >
+Levin, Danna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Boston College
+</td>
+
+
+<td  >
+11:00.45
+</td>
+
+
+<td  >
+Stonehill Skyhawk Invite
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+231
+</td>
+
+
+<td  >
+Santiago, Katrina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+11:00.48
+</td>
+
+
+<td  >
+Big Ten Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+232
+</td>
+
+
+<td  >
+Burns, Emily
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+11:00.54
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+233
+</td>
+
+
+<td  >
+Hawtin, Melissa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Iona
+</td>
+
+
+<td  >
+11:00.56
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+234
+</td>
+
+
+<td  >
+Cloetta, Catherine
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+11:00.77
+</td>
+
+
+<td  >
+2016 Wildcat Outdoor Open
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+235
+</td>
+
+
+<td  >
+Chinn, Olivia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Toledo
+</td>
+
+
+<td  >
+11:00.85
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+236
+</td>
+
+
+<td  >
+Dunne, Kathleen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Long Beach St.
+</td>
+
+
+<td  >
+11:00.90
+</td>
+
+
+<td  >
+BIG West Challenge
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+237
+</td>
+
+
+<td  >
+North, Ariana
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+George Washington
+</td>
+
+
+<td  >
+11:00.94
+</td>
+
+
+<td  >
+2016 Morgan State Legacy Meet
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+238
+</td>
+
+
+<td  >
+Henderson, Maura
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:00.96
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+239
+</td>
+
+
+<td  >
+Richards, Morgan
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Charlotte
+</td>
+
+
+<td  >
+11:01.36
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+240
+</td>
+
+
+<td  >
+McDannold, Brenna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:01.44
+</td>
+
+
+<td  >
+JMU Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+241
+</td>
+
+
+<td  >
+Penaflor, Gabrielle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMKC
+</td>
+
+
+<td  >
+11:01.47
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+242
+</td>
+
+
+<td  >
+Tevnan, Brianna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:01.88
+</td>
+
+
+<td  >
+2016 Colonial Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+243
+</td>
+
+
+<td  >
+Colyer, Reagan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+11:01.95
+</td>
+
+
+<td  >
+Oregon Relays
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+244
+</td>
+
+
+<td  >
+Priddy, Rebekah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Murray State
+</td>
+
+
+<td  >
+11:02.16
+</td>
+
+
+<td  >
+2016 WKU Hilltopper Relays
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+245
+</td>
+
+
+<td  >
+Wren, Emma
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kansas State
+</td>
+
+
+<td  >
+11:02.50
+</td>
+
+
+<td  >
+LSU Battle on the Bayou
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+246
+</td>
+
+
+<td  >
+Ribeiro, Elaine
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+San Diego St.
+</td>
+
+
+<td  >
+11:02.76
+</td>
+
+
+<td  >
+2016 Triton Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+247
+</td>
+
+
+<td  >
+DeFrank, Caroline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Pittsburgh
+</td>
+
+
+<td  >
+11:02.87
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+248
+</td>
+
+
+<td  >
+Cirone, Katerina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+DePaul
+</td>
+
+
+<td  >
+11:02.97
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+249
+</td>
+
+
+<td  >
+Harris, Kelsey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+11:02.98
+</td>
+
+
+<td  >
+Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+250
+</td>
+
+
+<td  >
+Bailey, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Morehead State
+</td>
+
+
+<td  >
+11:03.03
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+251
+</td>
+
+
+<td  >
+Grogan, Anneke
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+SMU
+</td>
+
+
+<td  >
+11:03.18
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+252
+</td>
+
+
+<td  >
+Maokhamphiou, Lalida
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+San Jose St.
+</td>
+
+
+<td  >
+11:03.44
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+253
+</td>
+
+
+<td  >
+Martinez , Montana 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Hawaii
+</td>
+
+
+<td  >
+11:03.50
+</td>
+
+
+<td  >
+2016 Rainbow Relays
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+254
+</td>
+
+
+<td  >
+Maloney, Colleen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Albany
+</td>
+
+
+<td  >
+11:03.72
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+255
+</td>
+
+
+<td  >
+Santora, Alex
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rider
+</td>
+
+
+<td  >
+11:04.12
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+256
+</td>
+
+
+<td  >
+Cooney, Riley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kansas
+</td>
+
+
+<td  >
+11:04.31
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+257
+</td>
+
+
+<td  >
+Creel, Bridget
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Montana
+</td>
+
+
+<td  >
+11:05.03
+</td>
+
+
+<td  >
+Tom Gage
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+258
+</td>
+
+
+<td  >
+Lloyd, Meghan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas
+</td>
+
+
+<td  >
+11:05.06
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+259
+</td>
+
+
+<td  >
+Fahmy, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+11:05.09
+</td>
+
+
+<td  >
+ACC Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+260
+</td>
+
+
+<td  >
+Chelelgo, Cynthia
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+11:05.76
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+261
+</td>
+
+
+<td  >
+Karle, Alyssa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+11:05.82
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+262
+</td>
+
+
+<td  >
+Hobby, Rebecca
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNLV
+</td>
+
+
+<td  >
+11:06.06
+</td>
+
+
+<td  >
+Rafer Johnson-Jackie Joyner Kersee Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+263
+</td>
+
+
+<td  >
+McDonald, Madeline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+11:06.38
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+264
+</td>
+
+
+<td  >
+Thomas, Erin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northern Colorado
+</td>
+
+
+<td  >
+11:06.72
+</td>
+
+
+<td  >
+Oregon Relays
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+265
+</td>
+
+
+<td  >
+Rabbitt, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+William and Mary
+</td>
+
+
+<td  >
+11:06.76
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+266
+</td>
+
+
+<td  >
+Miller, Haley
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SIU-Edwardsville
+</td>
+
+
+<td  >
+11:06.78
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+267
+</td>
+
+
+<td  >
+Royal, Adrianna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+11:06.81
+</td>
+
+
+<td  >
+Brutus Hamilton Challenge
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+268
+</td>
+
+
+<td  >
+Robinson, Vanessa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+11:07.05
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+269
+</td>
+
+
+<td  >
+Stenger, Madison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Indiana
+</td>
+
+
+<td  >
+11:07.51
+</td>
+
+
+<td  >
+2016 Indiana - Purdue Duals
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+270
+</td>
+
+
+<td  >
+Arrigoni, Catie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Eastern Washington
+</td>
+
+
+<td  >
+11:07.56
+</td>
+
+
+<td  >
+2016 OSU High Performance Meet
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+271
+</td>
+
+
+<td  >
+Albano, Gracie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacramento St.
+</td>
+
+
+<td  >
+11:07.64
+</td>
+
+
+<td  >
+Sacramento State Open (College)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+272
+</td>
+
+
+<td  >
+Jones, Rachel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Yale
+</td>
+
+
+<td  >
+11:07.69
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+273
+</td>
+
+
+<td  >
+Evans, Bethany 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+11:07.80
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+274
+</td>
+
+
+<td  >
+Keiran, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:08.08
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+275
+</td>
+
+
+<td  >
+Snyder, Alyssa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Montana State
+</td>
+
+
+<td  >
+11:08.65
+</td>
+
+
+<td  >
+Tom Gage
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+276
+</td>
+
+
+<td  >
+Smegal, Alison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+McNeese State
+</td>
+
+
+<td  >
+11:08.72
+</td>
+
+
+<td  >
+LSU Alumni Gold
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+277
+</td>
+
+
+<td  >
+Fisher, Kayla
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:08.73
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+278
+</td>
+
+
+<td  >
+Butler, Kate
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+11:08.79
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+279
+</td>
+
+
+<td  >
+Fisher, Brittany
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+11:08.83
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+280
+</td>
+
+
+<td  >
+Parrish, Elizabeth 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+11:08.85
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+281
+</td>
+
+
+<td  >
+Kavulich, Kayla 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Michigan State
+</td>
+
+
+<td  >
+11:09.02
+</td>
+
+
+<td  >
+2016 Louisville Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+282
+</td>
+
+
+<td  >
+Kibii, Judith
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+11:10.02
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+283
+</td>
+
+
+<td  >
+Dwyer, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+11:10.04
+</td>
+
+
+<td  >
+Pac-12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+284
+</td>
+
+
+<td  >
+Hodge, Grace
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington
+</td>
+
+
+<td  >
+11:10.21
+</td>
+
+
+<td  >
+ WSU-UW Dual Meet
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+285
+</td>
+
+
+<td  >
+Morley, Maria
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+11:10.34
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+286
+</td>
+
+
+<td  >
+Iacampo, Danielle
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wagner
+</td>
+
+
+<td  >
+11:10.40
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+287
+</td>
+
+
+<td  >
+Weiss, Corey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+11:10.49
+</td>
+
+
+<td  >
+2016 Phoenix Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+288
+</td>
+
+
+<td  >
+Genco, Gina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Xavier (Ohio)
+</td>
+
+
+<td  >
+11:10.56
+</td>
+
+
+<td  >
+RedHawk Invitational
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+289
+</td>
+
+
+<td  >
+Escobar, Magdalena
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Texas
+</td>
+
+
+<td  >
+11:10.69
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+290
+</td>
+
+
+<td  >
+Briody, Terra
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+11:10.80
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+291
+</td>
+
+
+<td  >
+Morgan, McKayla
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+11:11.02
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+292
+</td>
+
+
+<td  >
+Hawkins, Amber
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+George Mason
+</td>
+
+
+<td  >
+11:11.05
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+293
+</td>
+
+
+<td  >
+Condie, Andrea
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Idaho
+</td>
+
+
+<td  >
+11:11.30
+</td>
+
+
+<td  >
+Big Sky Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+294
+</td>
+
+
+<td  >
+Donovan, Samantha
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:11.44
+</td>
+
+
+<td  >
+Sun Belt Conference Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+295
+</td>
+
+
+<td  >
+Kohler, Grace
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+11:11.58
+</td>
+
+
+<td  >
+2016 Triton Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+296
+</td>
+
+
+<td  >
+Zambrano, Jeanette
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+San Jose St.
+</td>
+
+
+<td  >
+11:11.62
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+297
+</td>
+
+
+<td  >
+Hopkins, Carolyn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Elon
+</td>
+
+
+<td  >
+11:11.65
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+298
+</td>
+
+
+<td  >
+Callahan, Molly
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arizona
+</td>
+
+
+<td  >
+11:11.71
+</td>
+
+
+<td  >
+Brutus Hamilton Challenge
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+299
+</td>
+
+
+<td  >
+Quinn, Kelly
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:12.04
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+300
+</td>
+
+
+<td  >
+Bouton, Kat
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+11:12.06
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+301
+</td>
+
+
+<td  >
+Carrier, Macy
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+11:12.35
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+302
+</td>
+
+
+<td  >
+Barnes, Charde'
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Maryland
+</td>
+
+
+<td  >
+11:12.52
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+303
+</td>
+
+
+<td  >
+Wright, Abigail
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Louisville
+</td>
+
+
+<td  >
+11:12.69
+</td>
+
+
+<td  >
+2016 Louisville Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+304
+</td>
+
+
+<td  >
+Hilton, Natalie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Pittsburgh
+</td>
+
+
+<td  >
+11:12.71
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+305
+</td>
+
+
+<td  >
+Christ, Hannah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cincinnati
+</td>
+
+
+<td  >
+11:12.94
+</td>
+
+
+<td  >
+Raleigh Relays
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Ramirez, Nuria
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:12.95
+</td>
+
+
+<td  >
+Florida Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+306
+</td>
+
+
+<td  >
+Warner, Ashleigh
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+BYU
+</td>
+
+
+<td  >
+11:12.95
+</td>
+
+
+<td  >
+Stanford Invitational
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+308
+</td>
+
+
+<td  >
+Shah, Aliya
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Irvine
+</td>
+
+
+<td  >
+11:13.28
+</td>
+
+
+<td  >
+Steve Scott Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+309
+</td>
+
+
+<td  >
+Vane, Chelsea
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+11:13.42
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+310
+</td>
+
+
+<td  >
+Nadel, Stacie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:13.57
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+311
+</td>
+
+
+<td  >
+Daniel, Gina
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Duke
+</td>
+
+
+<td  >
+11:13.71
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+312
+</td>
+
+
+<td  >
+Allen, Katy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas Tech
+</td>
+
+
+<td  >
+11:13.84
+</td>
+
+
+<td  >
+Big 12 Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+313
+</td>
+
+
+<td  >
+Drouin, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Chattanooga
+</td>
+
+
+<td  >
+11:13.85
+</td>
+
+
+<td  >
+War Eagle Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+314
+</td>
+
+
+<td  >
+Boylan, Beatrice
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+11:14.34
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+315
+</td>
+
+
+<td  >
+Hensley, Kelly 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+11:14.59
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+316
+</td>
+
+
+<td  >
+Triskett, Allison 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Dayton
+</td>
+
+
+<td  >
+11:14.82
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+317
+</td>
+
+
+<td  >
+Naumann, Rachael
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal St. Northridge
+</td>
+
+
+<td  >
+11:15.22
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+318
+</td>
+
+
+<td  >
+Rogers, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+11:15.68
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+319
+</td>
+
+
+<td  >
+Shorter, Julia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:15.86
+</td>
+
+
+<td  >
+2016 UNH Pre-Conference Meet
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Hazzard, Lauren
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:15.88
+</td>
+
+
+<td  >
+Bucknell Team Challenge
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+320
+</td>
+
+
+<td  >
+Shearon, Christina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+11:15.88
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+322
+</td>
+
+
+<td  >
+Smith, Clarissa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SE Louisiana
+</td>
+
+
+<td  >
+11:16.28
+</td>
+
+
+<td  >
+LSU Alumni Gold
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+323
+</td>
+
+
+<td  >
+Gates, Ally
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+11:17.05
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+324
+</td>
+
+
+<td  >
+Schwartzkopf, Karlee
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+11:17.11
+</td>
+
+
+<td  >
+Kansas Relays
+</td>
+
+
+<td  >
+Apr 20, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+325
+</td>
+
+
+<td  >
+Tracy, Ella 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+11:17.29
+</td>
+
+
+<td  >
+Gibson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+326
+</td>
+
+
+<td  >
+Adkins, Peyton
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Ohio
+</td>
+
+
+<td  >
+11:17.41
+</td>
+
+
+<td  >
+Mid-American Conference Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+327
+</td>
+
+
+<td  >
+Sloan, Emma
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Brown
+</td>
+
+
+<td  >
+11:17.77
+</td>
+
+
+<td  >
+Virginia Challenge
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+328
+</td>
+
+
+<td  >
+Thomas, Hannah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Missouri
+</td>
+
+
+<td  >
+11:17.94
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+329
+</td>
+
+
+<td  >
+Wourms, Lindsay
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Pacific
+</td>
+
+
+<td  >
+11:18.00
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+330
+</td>
+
+
+<td  >
+Peterson, Emily
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+11:18.10
+</td>
+
+
+<td  >
+2016 West Coast Invitational
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+331
+</td>
+
+
+<td  >
+Matthews, Callie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+11:18.75
+</td>
+
+
+<td  >
+Tom Botts Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+332
+</td>
+
+
+<td  >
+Krolak, Megan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+11:18.84
+</td>
+
+
+<td  >
+Gibson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+333
+</td>
+
+
+<td  >
+DiCello, Danielle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+11:18.87
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+334
+</td>
+
+
+<td  >
+Lassere, Rebecca
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Seattle U.
+</td>
+
+
+<td  >
+11:18.93
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+335
+</td>
+
+
+<td  >
+O'Kane, Christine
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Bucknell
+</td>
+
+
+<td  >
+11:19.11
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+336
+</td>
+
+
+<td  >
+Taite, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UCLA
+</td>
+
+
+<td  >
+11:19.50
+</td>
+
+
+<td  >
+Jim Bush Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+337
+</td>
+
+
+<td  >
+Sears, Sarah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Davidson
+</td>
+
+
+<td  >
+11:19.51
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+338
+</td>
+
+
+<td  >
+Frederick, Christine 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+11:20.03
+</td>
+
+
+<td  >
+LSU Battle on the Bayou
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+339
+</td>
+
+
+<td  >
+Mace, Abbey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oklahoma
+</td>
+
+
+<td  >
+11:20.31
+</td>
+
+
+<td  >
+Oklahoma John Jacobs Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+340
+</td>
+
+
+<td  >
+Kozar, Bridgette
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Stephen F. Austin
+</td>
+
+
+<td  >
+11:20.38
+</td>
+
+
+<td  >
+2016 Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+341
+</td>
+
+
+<td  >
+Siemens, Kyla 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Jacksonville
+</td>
+
+
+<td  >
+11:20.47
+</td>
+
+
+<td  >
+UNF Twilight 
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+342
+</td>
+
+
+<td  >
+Shofner, Baylee
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+11:20.56
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+343
+</td>
+
+
+<td  >
+Fedders, Emily 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Appalachian State
+</td>
+
+
+<td  >
+11:20.63
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+344
+</td>
+
+
+<td  >
+Feerst, Brianna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Clemson
+</td>
+
+
+<td  >
+11:21.72
+</td>
+
+
+<td  >
+2016 Nike Clyde Littlefield Texas Relays
+</td>
+
+
+<td  >
+Mar 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Sheva, Caitlyn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:21.88
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+345
+</td>
+
+
+<td  >
+Goins, Olivia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+11:21.88
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+347
+</td>
+
+
+<td  >
+Shetler, Kaitlyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+11:21.92
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+348
+</td>
+
+
+<td  >
+Gibson, Kaila
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+11:22.05
+</td>
+
+
+<td  >
+L&C Spring Break Open
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+349
+</td>
+
+
+<td  >
+Carpenter, Audrey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Florida
+</td>
+
+
+<td  >
+11:22.12
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+350
+</td>
+
+
+<td  >
+Dillon, Caitlin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+11:22.30
+</td>
+
+
+<td  >
+Tommie Twilight
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+351
+</td>
+
+
+<td  >
+Hansen, Allison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois-Chicago
+</td>
+
+
+<td  >
+11:22.31
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+352
+</td>
+
+
+<td  >
+Lies, Hannah 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+11:22.34
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+353
+</td>
+
+
+<td  >
+Sandvik, Haley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+11:22.45
+</td>
+
+
+<td  >
+2016 Billy Hayes Invitational
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+354
+</td>
+
+
+<td  >
+Wood, Meagan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nevada
+</td>
+
+
+<td  >
+11:22.94
+</td>
+
+
+<td  >
+Bruin Legends of T&F Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+355
+</td>
+
+
+<td  >
+Merritt, Gabrielle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+11:23.04
+</td>
+
+
+<td  >
+2016 Phoenix Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+356
+</td>
+
+
+<td  >
+Long, Anna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Samford
+</td>
+
+
+<td  >
+11:23.11
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+357
+</td>
+
+
+<td  >
+Feringa, Ellen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Col. of Charleston
+</td>
+
+
+<td  >
+11:23.36
+</td>
+
+
+<td  >
+Lowcountry Collegiate 2016
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+358
+</td>
+
+
+<td  >
+Weisgerber, Maria
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+11:24.02
+</td>
+
+
+<td  >
+2016 Billy Hayes Invitational
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+359
+</td>
+
+
+<td  >
+Maestas, Jordan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wichita State
+</td>
+
+
+<td  >
+11:24.12
+</td>
+
+
+<td  >
+Rock Chalk Classic
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+360
+</td>
+
+
+<td  >
+Muklebust, Alesia 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Coastal Carolina
+</td>
+
+
+<td  >
+11:24.49
+</td>
+
+
+<td  >
+Big South Triangular Meet
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+361
+</td>
+
+
+<td  >
+Pavey, Steffie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Washington St.
+</td>
+
+
+<td  >
+11:24.50
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+362
+</td>
+
+
+<td  >
+Svensen, Kate
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:24.87
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+363
+</td>
+
+
+<td  >
+Greiner, Elizabeth
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+11:24.93
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+364
+</td>
+
+
+<td  >
+Bradford, Madeline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+11:24.94
+</td>
+
+
+<td  >
+UMass Leap Year Tri Meet
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+365
+</td>
+
+
+<td  >
+Marvin, Sarah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+11:24.99
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+366
+</td>
+
+
+<td  >
+Govatos, Katie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+11:25.01
+</td>
+
+
+<td  >
+2016 America East Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+367
+</td>
+
+
+<td  >
+Davis, Allison
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+11:25.25
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+368
+</td>
+
+
+<td  >
+Padgett, Payton
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+11:25.52
+</td>
+
+
+<td  >
+UC Irvine Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 19, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+369
+</td>
+
+
+<td  >
+Limo, Fridah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+11:25.59
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+370
+</td>
+
+
+<td  >
+Grider, Abigail
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Indiana State
+</td>
+
+
+<td  >
+11:25.74
+</td>
+
+
+<td  >
+Pacesetter Sports Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+371
+</td>
+
+
+<td  >
+Murray, Kaylor
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Hampton
+</td>
+
+
+<td  >
+11:25.82
+</td>
+
+
+<td  >
+2016 Morgan State Legacy Meet
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+372
+</td>
+
+
+<td  >
+Brumfield, Hailey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+11:25.87
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+373
+</td>
+
+
+<td  >
+Hunt, Lexi
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+11:26.09
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+374
+</td>
+
+
+<td  >
+Parker, Rebecca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia Southern
+</td>
+
+
+<td  >
+11:26.29
+</td>
+
+
+<td  >
+Lowcountry Collegiate 2016
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+375
+</td>
+
+
+<td  >
+Knolhoff, Quincy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+11:26.32
+</td>
+
+
+<td  >
+Illinois Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+376
+</td>
+
+
+<td  >
+Murray, Purity
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tennessee Tech
+</td>
+
+
+<td  >
+11:26.45
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+377
+</td>
+
+
+<td  >
+De Luca, Nevina
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+11:26.62
+</td>
+
+
+<td  >
+2016 OSU High Performance Meet
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+378
+</td>
+
+
+<td  >
+Sayer, Samantha
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+11:26.67
+</td>
+
+
+<td  >
+2016 Dartmouth Outdoor Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+379
+</td>
+
+
+<td  >
+Snyder, McKenzie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah Valley
+</td>
+
+
+<td  >
+11:26.74
+</td>
+
+
+<td  >
+2016 Oxy Invitational (College/University)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+380
+</td>
+
+
+<td  >
+Candau, Julie 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:26.92
+</td>
+
+
+<td  >
+JMU Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+381
+</td>
+
+
+<td  >
+MacFarlane, Christie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+11:27.30
+</td>
+
+
+<td  >
+21st Annual Monmouth Season Opener
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+382
+</td>
+
+
+<td  >
+Forman, Sarah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+11:27.38
+</td>
+
+
+<td  >
+Black & Gold Invitational
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+383
+</td>
+
+
+<td  >
+Root, Sidney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nevada
+</td>
+
+
+<td  >
+11:27.39
+</td>
+
+
+<td  >
+Beach Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+384
+</td>
+
+
+<td  >
+Murdock, Shannon
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+New Hampshire
+</td>
+
+
+<td  >
+11:27.81
+</td>
+
+
+<td  >
+2016 University of New Hampshire
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+385
+</td>
+
+
+<td  >
+Quiroga, Cynthia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+11:28.08
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+386
+</td>
+
+
+<td  >
+Wright, Shannon
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lehigh
+</td>
+
+
+<td  >
+11:28.22
+</td>
+
+
+<td  >
+2016 Lafayette College vs. Lehigh University
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+387
+</td>
+
+
+<td  >
+Bowers, Tina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Colgate
+</td>
+
+
+<td  >
+11:28.45
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+388
+</td>
+
+
+<td  >
+Hamberger, Sara
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+11:28.98
+</td>
+
+
+<td  >
+Border Clash 2016
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+389
+</td>
+
+
+<td  >
+Gondeiro, Mariah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Pepperdine
+</td>
+
+
+<td  >
+11:29.36
+</td>
+
+
+<td  >
+UC Irvine Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 19, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+390
+</td>
+
+
+<td  >
+Yancey, Colleen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Vermont
+</td>
+
+
+<td  >
+11:29.47
+</td>
+
+
+<td  >
+UVM vs Albany
+</td>
+
+
+<td  >
+Apr 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+391
+</td>
+
+
+<td  >
+Townsley, Jordan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:29.73
+</td>
+
+
+<td  >
+Florida Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+392
+</td>
+
+
+<td  >
+Campbell, Hannah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas A&M
+</td>
+
+
+<td  >
+11:29.78
+</td>
+
+
+<td  >
+2016 Nike Clyde Littlefield Texas Relays
+</td>
+
+
+<td  >
+Mar 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+393
+</td>
+
+
+<td  >
+Escobedo, Karen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Morgan State
+</td>
+
+
+<td  >
+11:30.20
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+394
+</td>
+
+
+<td  >
+Propst, Rachel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota St.
+</td>
+
+
+<td  >
+11:30.59
+</td>
+
+
+<td  >
+2016 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+395
+</td>
+
+
+<td  >
+Hite, Dylan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Portland
+</td>
+
+
+<td  >
+11:30.64
+</td>
+
+
+<td  >
+2016 OSU High Performance Meet
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+396
+</td>
+
+
+<td  >
+Ingram, Victoria
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Columbia
+</td>
+
+
+<td  >
+11:30.75
+</td>
+
+
+<td  >
+Larry Ellis Invite
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+397
+</td>
+
+
+<td  >
+Rice, Courtney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Radford
+</td>
+
+
+<td  >
+11:31.12
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+398
+</td>
+
+
+<td  >
+Dunn, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+11:31.13
+</td>
+
+
+<td  >
+2016 Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+399
+</td>
+
+
+<td  >
+Pusateri, Molly 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Ohio State
+</td>
+
+
+<td  >
+11:31.45
+</td>
+
+
+<td  >
+Jesse Owens Track & Field Classic - Ohio State University
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+400
+</td>
+
+
+<td  >
+Ayers, Katlyn
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNC-Greensboro
+</td>
+
+
+<td  >
+11:31.51
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+401
+</td>
+
+
+<td  >
+Buckley, Morgan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+11:32.09
+</td>
+
+
+<td  >
+Ashland Alumni Open
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+402
+</td>
+
+
+<td  >
+Manuel, Morgan 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Kent State
+</td>
+
+
+<td  >
+11:32.21
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+403
+</td>
+
+
+<td  >
+Bunao, Anya
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wofford
+</td>
+
+
+<td  >
+11:32.22
+</td>
+
+
+<td  >
+Terrier Relays 2016
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+404
+</td>
+
+
+<td  >
+Petrosky, Kristen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Miami (Ohio)
+</td>
+
+
+<td  >
+11:32.28
+</td>
+
+
+<td  >
+RedHawk Invitational
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+405
+</td>
+
+
+<td  >
+Connelly, Theresa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+11:32.59
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+406
+</td>
+
+
+<td  >
+Burton, Courtney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Radford
+</td>
+
+
+<td  >
+11:32.81
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+407
+</td>
+
+
+<td  >
+Bode, Sarah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+11:33.07
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+408
+</td>
+
+
+<td  >
+Boyd, Joanna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+11:33.14
+</td>
+
+
+<td  >
+UC Irvine Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 19, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+409
+</td>
+
+
+<td  >
+Westmoreland, Melissa
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+11:33.34
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+410
+</td>
+
+
+<td  >
+Miller, Michayla
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Weber State
+</td>
+
+
+<td  >
+11:33.47
+</td>
+
+
+<td  >
+UNLV Invitational and Sheila Tarr Multis
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+411
+</td>
+
+
+<td  >
+Yamazaki, Erika 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Binghamton
+</td>
+
+
+<td  >
+11:33.51
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+412
+</td>
+
+
+<td  >
+Griffin, Mackenzie 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Bradley
+</td>
+
+
+<td  >
+11:34.21
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+413
+</td>
+
+
+<td  >
+Rinehart, Ericka
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ball State
+</td>
+
+
+<td  >
+11:34.47
+</td>
+
+
+<td  >
+2016 Billy Hayes Invitational
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+414
+</td>
+
+
+<td  >
+Holt, Heather
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Utah State
+</td>
+
+
+<td  >
+11:34.57
+</td>
+
+
+<td  >
+Border Clash 2016
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+415
+</td>
+
+
+<td  >
+Zapata, Jennifer
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UT-Rio Grande Valley
+</td>
+
+
+<td  >
+11:34.78
+</td>
+
+
+<td  >
+WAC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 11, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+416
+</td>
+
+
+<td  >
+Huglen, Madeline
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+11:34.91
+</td>
+
+
+<td  >
+Summit League Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+417
+</td>
+
+
+<td  >
+Yanco, Tori
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Santa Barbara
+</td>
+
+
+<td  >
+11:35.15
+</td>
+
+
+<td  >
+Cal Poly/UCSB Dual
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+418
+</td>
+
+
+<td  >
+Fitzsimmons, Delaney
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Cal Poly
+</td>
+
+
+<td  >
+11:35.24
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+419
+</td>
+
+
+<td  >
+Beaumont, Haley 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Hawaii
+</td>
+
+
+<td  >
+11:35.48
+</td>
+
+
+<td  >
+Big West Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+420
+</td>
+
+
+<td  >
+Sonneborn, Mikayla
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+11:35.55
+</td>
+
+
+<td  >
+LSU Alumni Gold
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+421
+</td>
+
+
+<td  >
+Libruk, Laura
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Buffalo
+</td>
+
+
+<td  >
+11:35.73
+</td>
+
+
+<td  >
+Jesse Owens Track & Field Classic - Ohio State University
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+422
+</td>
+
+
+<td  >
+Pearl, Alana
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Connecticut
+</td>
+
+
+<td  >
+11:36.30
+</td>
+
+
+<td  >
+The American Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+423
+</td>
+
+
+<td  >
+Figurski, Raychel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Michigan
+</td>
+
+
+<td  >
+11:36.41
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+424
+</td>
+
+
+<td  >
+Waggoner, Aubrey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wake Forest
+</td>
+
+
+<td  >
+11:36.43
+</td>
+
+
+<td  >
+High Point VertKlasse Meeting
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+425
+</td>
+
+
+<td  >
+Kaplan, Caroline
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Butler
+</td>
+
+
+<td  >
+11:36.45
+</td>
+
+
+<td  >
+2016 Billy Hayes Invitational
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+426
+</td>
+
+
+<td  >
+Bodmer, Allison
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+James Madison
+</td>
+
+
+<td  >
+11:36.46
+</td>
+
+
+<td  >
+JMU Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+427
+</td>
+
+
+<td  >
+McDonnell, Maura
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+East Carolina
+</td>
+
+
+<td  >
+11:36.47
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+428
+</td>
+
+
+<td  >
+McIntyre, Keanna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alabama A&M
+</td>
+
+
+<td  >
+11:36.50
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+429
+</td>
+
+
+<td  >
+Prorok, Maggie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+11:37.10
+</td>
+
+
+<td  >
+JMU Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+430
+</td>
+
+
+<td  >
+Moore, Emily
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+11:37.54
+</td>
+
+
+<td  >
+Lafayette 7-Way Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+431
+</td>
+
+
+<td  >
+Willcox, Callie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+New Orleans
+</td>
+
+
+<td  >
+11:38.39
+</td>
+
+
+<td  >
+Alabama Relays
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+432
+</td>
+
+
+<td  >
+Oslund, Kristi
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+11:38.61
+</td>
+
+
+<td  >
+Wichita State KT Woodman Classic
+</td>
+
+
+<td  >
+Apr 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+433
+</td>
+
+
+<td  >
+Webb, Rachel
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Norfolk State
+</td>
+
+
+<td  >
+11:39.21
+</td>
+
+
+<td  >
+2016 Morgan State Legacy Meet
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+434
+</td>
+
+
+<td  >
+Rogenski , Elizabeth
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Youngstown St.
+</td>
+
+
+<td  >
+11:39.74
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+435
+</td>
+
+
+<td  >
+Mondo, Madeline
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+11:39.76
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+436
+</td>
+
+
+<td  >
+Eldien, Rebecca
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+11:39.78
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+437
+</td>
+
+
+<td  >
+Gauthier, Abby
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Towson
+</td>
+
+
+<td  >
+11:39.87
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+438
+</td>
+
+
+<td  >
+Green, Miranda
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+N. Carolina A&T
+</td>
+
+
+<td  >
+11:40.74
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+439
+</td>
+
+
+<td  >
+Cates, Claire
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Gardner-Webb
+</td>
+
+
+<td  >
+11:40.99
+</td>
+
+
+<td  >
+Charlotte Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+440
+</td>
+
+
+<td  >
+Turner, Aurora
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+11:41.06
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+441
+</td>
+
+
+<td  >
+Murray, Corrine
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gonzaga
+</td>
+
+
+<td  >
+11:41.21
+</td>
+
+
+<td  >
+Erik Anderson Twilight 5K and Hammer Throw
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+442
+</td>
+
+
+<td  >
+Peoples, Erika
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+High Point
+</td>
+
+
+<td  >
+11:41.22
+</td>
+
+
+<td  >
+Big South Triangular Meet
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+443
+</td>
+
+
+<td  >
+Cooper, Natalie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UC Davis
+</td>
+
+
+<td  >
+11:41.35
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+444
+</td>
+
+
+<td  >
+Johnson, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Towson
+</td>
+
+
+<td  >
+11:41.40
+</td>
+
+
+<td  >
+CAA Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+445
+</td>
+
+
+<td  >
+Thomas, Anna 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+11:41.60
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+446
+</td>
+
+
+<td  >
+Seabaugh, Lindsey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+11:41.65
+</td>
+
+
+<td  >
+Ohio Valley Conference Championship
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+447
+</td>
+
+
+<td  >
+Ruehl, Katarina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+11:42.34
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+448
+</td>
+
+
+<td  >
+Ruiz, Emily
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal St. Fullerton
+</td>
+
+
+<td  >
+11:42.84
+</td>
+
+
+<td  >
+2016 Oxy Invitational (College/University)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+449
+</td>
+
+
+<td  >
+Bork, Sydney
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+North Dakota State
+</td>
+
+
+<td  >
+11:42.89
+</td>
+
+
+<td  >
+2016 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+450
+</td>
+
+
+<td  >
+Collet, Caroline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+11:42.92
+</td>
+
+
+<td  >
+EIU Panther Twilight
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+451
+</td>
+
+
+<td  >
+Leo, Stephanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:43.01
+</td>
+
+
+<td  >
+2016 Fred Hardy Invitational
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+452
+</td>
+
+
+<td  >
+Littlefield, Amy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Michigan
+</td>
+
+
+<td  >
+11:43.30
+</td>
+
+
+<td  >
+EIU Panther Twilight
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+453
+</td>
+
+
+<td  >
+Bent, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:43.71
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+454
+</td>
+
+
+<td  >
+Coleman , Maggie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Portland State
+</td>
+
+
+<td  >
+11:43.85
+</td>
+
+
+<td  >
+L&C Spring Break Open
+</td>
+
+
+<td  >
+Mar 18, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Beamon, Scarlett
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+11:44.27
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+455
+</td>
+
+
+<td  >
+Fisher, Laurel
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Fordham
+</td>
+
+
+<td  >
+11:44.27
+</td>
+
+
+<td  >
+Stony Brook University - Wolfie Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+457
+</td>
+
+
+<td  >
+Hansen, Carly
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Idaho State
+</td>
+
+
+<td  >
+11:44.45
+</td>
+
+
+<td  >
+2016 Wildcat Outdoor Open
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+458
+</td>
+
+
+<td  >
+Casey, Jordan
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+11:45.23
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+459
+</td>
+
+
+<td  >
+Kosgei, Effiey
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+11:45.52
+</td>
+
+
+<td  >
+UF Tom Jones Memorial
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+460
+</td>
+
+
+<td  >
+Gardner, Nicole
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Alabama
+</td>
+
+
+<td  >
+11:45.64
+</td>
+
+
+<td  >
+LSU Battle on the Bayou
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+461
+</td>
+
+
+<td  >
+Ahearn, Erin
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+11:45.73
+</td>
+
+
+<td  >
+Holy Cross Invitational  2016
+</td>
+
+
+<td  >
+Apr 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+462
+</td>
+
+
+<td  >
+Estavillo, Taryn 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arizona
+</td>
+
+
+<td  >
+11:45.81
+</td>
+
+
+<td  >
+Jim Bush Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+463
+</td>
+
+
+<td  >
+Lucas, Lindsey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+11:45.83
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+464
+</td>
+
+
+<td  >
+Gerland, Jennifer
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Duquesne
+</td>
+
+
+<td  >
+11:45.85
+</td>
+
+
+<td  >
+Bison Outdoor Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+465
+</td>
+
+
+<td  >
+Krulik, Ashley
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:45.96
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+466
+</td>
+
+
+<td  >
+Chaplen, Cameron
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Quinnipiac
+</td>
+
+
+<td  >
+11:46.01
+</td>
+
+
+<td  >
+Stony Brook University - Wolfie Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+467
+</td>
+
+
+<td  >
+Lavallias, Sade
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:46.02
+</td>
+
+
+<td  >
+Florida Relays
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+468
+</td>
+
+
+<td  >
+Voss, Emily
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UTSA
+</td>
+
+
+<td  >
+11:46.05
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+469
+</td>
+
+
+<td  >
+Cahalan, Ashley 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+San Jose St.
+</td>
+
+
+<td  >
+11:46.26
+</td>
+
+
+<td  >
+San Francisco State Distance Carnival
+</td>
+
+
+<td  >
+Apr 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+470
+</td>
+
+
+<td  >
+Fetherolf, Sydnie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Detroit
+</td>
+
+
+<td  >
+11:46.39
+</td>
+
+
+<td  >
+Horizon League Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+471
+</td>
+
+
+<td  >
+Williams, Shakalia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alabama State
+</td>
+
+
+<td  >
+11:46.52
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+472
+</td>
+
+
+<td  >
+Beatty, Emily
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Virginia Tech
+</td>
+
+
+<td  >
+11:46.74
+</td>
+
+
+<td  >
+Hokie Twilight
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Losito, Clare
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:47.04
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+473
+</td>
+
+
+<td  >
+Nowak, Emma 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Richmond
+</td>
+
+
+<td  >
+11:47.04
+</td>
+
+
+<td  >
+Atlantic 10 Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+475
+</td>
+
+
+<td  >
+Chandler, Kyandra
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Arkansas State
+</td>
+
+
+<td  >
+11:47.57
+</td>
+
+
+<td  >
+SLU Billiken Invite
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+476
+</td>
+
+
+<td  >
+Rushford, Jacqueline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northwestern St.
+</td>
+
+
+<td  >
+11:47.70
+</td>
+
+
+<td  >
+LSU Alumni Gold
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+477
+</td>
+
+
+<td  >
+Nobles, Morgan
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+11:48.10
+</td>
+
+
+<td  >
+2016 Lafayette College vs. Lehigh University
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+478
+</td>
+
+
+<td  >
+Waterbury, Courtney
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Western Kentucky
+</td>
+
+
+<td  >
+11:48.26
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+479
+</td>
+
+
+<td  >
+Colonna, Nicole
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+11:48.55
+</td>
+
+
+<td  >
+NWU Spring Invitational
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+480
+</td>
+
+
+<td  >
+Gorin, Hannah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Marquette
+</td>
+
+
+<td  >
+11:48.74
+</td>
+
+
+<td  >
+UW-Whitewater Drake Alternative Meet
+</td>
+
+
+<td  >
+May 1, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+481
+</td>
+
+
+<td  >
+Morris, Haley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Chattanooga
+</td>
+
+
+<td  >
+11:48.87
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+482
+</td>
+
+
+<td  >
+Blair, Alexandra
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Akron
+</td>
+
+
+<td  >
+11:49.03
+</td>
+
+
+<td  >
+Akron - Cambell/Wright Open
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+483
+</td>
+
+
+<td  >
+Raynor, Jade
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Missouri State
+</td>
+
+
+<td  >
+11:49.04
+</td>
+
+
+<td  >
+Tom Botts Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+484
+</td>
+
+
+<td  >
+Dewitte, Jessica
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Citadel
+</td>
+
+
+<td  >
+11:49.15
+</td>
+
+
+<td  >
+UNF Twilight 
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+485
+</td>
+
+
+<td  >
+Hajduk, Natalia
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern Illinois
+</td>
+
+
+<td  >
+11:49.17
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+486
+</td>
+
+
+<td  >
+Gaffney, McKenna
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Arizona
+</td>
+
+
+<td  >
+11:49.36
+</td>
+
+
+<td  >
+Jim Bush Collegiate Invitational
+</td>
+
+
+<td  >
+Mar 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+487
+</td>
+
+
+<td  >
+Shaw, Sara
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+11:49.72
+</td>
+
+
+<td  >
+2016 Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+488
+</td>
+
+
+<td  >
+Sullivan, Anne
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+11:49.87
+</td>
+
+
+<td  >
+U Mass Amherst Minuteman Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+489
+</td>
+
+
+<td  >
+Spiroff, Ally
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+11:50.77
+</td>
+
+
+<td  >
+2016 MVC Outdoor Track and Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+490
+</td>
+
+
+<td  >
+Ford, Jenna
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Gardner-Webb
+</td>
+
+
+<td  >
+11:51.07
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+491
+</td>
+
+
+<td  >
+Brighouse Glueck, Madeline
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+11:51.31
+</td>
+
+
+<td  >
+Tommie Twilight
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+492
+</td>
+
+
+<td  >
+Ervin, Abbey
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Colorado St.
+</td>
+
+
+<td  >
+11:51.89
+</td>
+
+
+<td  >
+CU Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+493
+</td>
+
+
+<td  >
+Martinez, Cynthia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Cal St. Northridge
+</td>
+
+
+<td  >
+11:52.18
+</td>
+
+
+<td  >
+38th Annual Aztec Invitational
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+494
+</td>
+
+
+<td  >
+Brengel, Jackie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Coastal Carolina
+</td>
+
+
+<td  >
+11:52.54
+</td>
+
+
+<td  >
+Big South Triangular Meet
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+495
+</td>
+
+
+<td  >
+Campbell, Mandy 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+IUPUI
+</td>
+
+
+<td  >
+11:52.77
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+496
+</td>
+
+
+<td  >
+Jansen, Evie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:54.87
+</td>
+
+
+<td  >
+Navy Women's Track & Field Invitational
+</td>
+
+
+<td  >
+Mar 26, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+497
+</td>
+
+
+<td  >
+McCauley, Sarah
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+West Virginia
+</td>
+
+
+<td  >
+11:55.07
+</td>
+
+
+<td  >
+Jim Thorpe Open
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+498
+</td>
+
+
+<td  >
+Shealy, Lindsay
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Georgia State
+</td>
+
+
+<td  >
+11:55.20
+</td>
+
+
+<td  >
+Tiger Track Classic
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+499
+</td>
+
+
+<td  >
+Creagh, Taylor
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Coastal Carolina
+</td>
+
+
+<td  >
+11:55.36
+</td>
+
+
+<td  >
+Big South Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 10, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+500
+</td>
+
+
+<td  >
+Ibarra, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+11:55.45
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+501
+</td>
+
+
+<td  >
+Nicholes, Georgie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+St. Peter's
+</td>
+
+
+<td  >
+11:55.52
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+502
+</td>
+
+
+<td  >
+Figuerora, Anna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Rice
+</td>
+
+
+<td  >
+11:55.62
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+503
+</td>
+
+
+<td  >
+Geiger, Grace
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Nebraska
+</td>
+
+
+<td  >
+11:55.76
+</td>
+
+
+<td  >
+NWU Spring Invitational
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+504
+</td>
+
+
+<td  >
+Gilson, Sara
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Loyola (Md.)
+</td>
+
+
+<td  >
+11:55.90
+</td>
+
+
+<td  >
+Hopkins Loyola Invitational
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+505
+</td>
+
+
+<td  >
+McCray, Brandi 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Alcorn State
+</td>
+
+
+<td  >
+11:57.01
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+506
+</td>
+
+
+<td  >
+Sutton, Mary
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loyola (Md.)
+</td>
+
+
+<td  >
+11:58.08
+</td>
+
+
+<td  >
+Patriot League Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+507
+</td>
+
+
+<td  >
+Fensler, Breanna
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+IPFW
+</td>
+
+
+<td  >
+11:58.67
+</td>
+
+
+<td  >
+Crusader Open
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+508
+</td>
+
+
+<td  >
+Seiffert, Erin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Navy
+</td>
+
+
+<td  >
+11:58.72
+</td>
+
+
+<td  >
+Towson Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+509
+</td>
+
+
+<td  >
+Pan, Nyajock
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Bethune-Cookman
+</td>
+
+
+<td  >
+11:58.77
+</td>
+
+
+<td  >
+MEAC Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 5, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+510
+</td>
+
+
+<td  >
+Meuleners, Janessa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+North Dakota
+</td>
+
+
+<td  >
+11:59.46
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+511
+</td>
+
+
+<td  >
+Mutai, Ida
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Murray State
+</td>
+
+
+<td  >
+11:59.63
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+512
+</td>
+
+
+<td  >
+Pacilio, Mikayla
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+11:59.94
+</td>
+
+
+<td  >
+11th Annual All-American Invitational/Open Meet
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+513
+</td>
+
+
+<td  >
+Govey, Amber
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+11:59.98
+</td>
+
+
+<td  >
+Conference USA Championship
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+514
+</td>
+
+
+<td  >
+Wheeler, Rebecca
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Austin Peay
+</td>
+
+
+<td  >
+12:00.95
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+515
+</td>
+
+
+<td  >
+Kvitkauskas, Nicole
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:01.02
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+516
+</td>
+
+
+<td  >
+Kemper, Kacey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+12:01.46
+</td>
+
+
+<td  >
+2016 Govs Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+517
+</td>
+
+
+<td  >
+Clauss, Sophie
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+12:01.51
+</td>
+
+
+<td  >
+2016 Skechers Carl Kight Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+518
+</td>
+
+
+<td  >
+Tinto, Gianna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Manhattan
+</td>
+
+
+<td  >
+12:01.53
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+519
+</td>
+
+
+<td  >
+Doyle, Molly
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Delaware
+</td>
+
+
+<td  >
+12:01.58
+</td>
+
+
+<td  >
+Princeton Outdoor Invite
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+520
+</td>
+
+
+<td  >
+Diaz, Ebonique
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Southern
+</td>
+
+
+<td  >
+12:01.93
+</td>
+
+
+<td  >
+Louisiana Classic
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+521
+</td>
+
+
+<td  >
+Cope, Amanda
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Kennesaw State
+</td>
+
+
+<td  >
+12:02.15
+</td>
+
+
+<td  >
+ASUN Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 13, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+522
+</td>
+
+
+<td  >
+Booker, Jazmin
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+12:02.52
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+523
+</td>
+
+
+<td  >
+Chepkwony, Halima
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Grambling
+</td>
+
+
+<td  >
+12:02.63
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+524
+</td>
+
+
+<td  >
+Tuszkiewicz, Heidi
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Campbell
+</td>
+
+
+<td  >
+12:03.32
+</td>
+
+
+<td  >
+Duke Invitational
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+525
+</td>
+
+
+<td  >
+Swartz, Jessica
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+12:03.52
+</td>
+
+
+<td  >
+50th Annual Hillsdale College "GINA" Relays
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+526
+</td>
+
+
+<td  >
+Powell, Kristen
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Houston
+</td>
+
+
+<td  >
+12:05.42
+</td>
+
+
+<td  >
+Carolyn & Ron Yokubaitis Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+527
+</td>
+
+
+<td  >
+Falta, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Carolina
+</td>
+
+
+<td  >
+12:05.62
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+528
+</td>
+
+
+<td  >
+Dent, Victoria
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Marshall
+</td>
+
+
+<td  >
+12:05.66
+</td>
+
+
+<td  >
+2016 Kentucky Relays (College)
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+529
+</td>
+
+
+<td  >
+Pinon, Carrisa
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+12:06.07
+</td>
+
+
+<td  >
+Islander Collegiate Open
+</td>
+
+
+<td  >
+Mar 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+530
+</td>
+
+
+<td  >
+Erb, Kacie 
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+12:06.72
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+531
+</td>
+
+
+<td  >
+Manchess, Emma
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Ball State
+</td>
+
+
+<td  >
+12:07.57
+</td>
+
+
+<td  >
+RedHawk Invitational
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+532
+</td>
+
+
+<td  >
+Reynolds, Maddie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northern Iowa
+</td>
+
+
+<td  >
+12:07.75
+</td>
+
+
+<td  >
+Musco Twilight
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+533
+</td>
+
+
+<td  >
+Kurtz, Kammi
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+12:08.98
+</td>
+
+
+<td  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+534
+</td>
+
+
+<td  >
+McDermott, Stephanie
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+12:09.32
+</td>
+
+
+<td  >
+Army vs Navy Outdoor 2016
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+535
+</td>
+
+
+<td  >
+Wallace, Courtney
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loyola (Md.)
+</td>
+
+
+<td  >
+12:09.73
+</td>
+
+
+<td  >
+2016 Morgan State Legacy Meet
+</td>
+
+
+<td  >
+Apr 22, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+536
+</td>
+
+
+<td  >
+George, Andrea
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+12:09.81
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+537
+</td>
+
+
+<td  >
+Nunez, Danielle
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Loyola Marymount
+</td>
+
+
+<td  >
+12:09.98
+</td>
+
+
+<td  >
+38th Annual Aztec Invitational
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+538
+</td>
+
+
+<td  >
+Reeves, Lana
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+12:10.78
+</td>
+
+
+<td  >
+Charlotte 49er Classic
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+539
+</td>
+
+
+<td  >
+Hutchins, Kaitlyn
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Liberty
+</td>
+
+
+<td  >
+12:11.47
+</td>
+
+
+<td  >
+2016 Liberty Twilight
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+540
+</td>
+
+
+<td  >
+Burns, Shanna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Air Force
+</td>
+
+
+<td  >
+12:11.82
+</td>
+
+
+<td  >
+CU Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+541
+</td>
+
+
+<td  >
+Bell, Esther
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Central Michigan
+</td>
+
+
+<td  >
+12:12.16
+</td>
+
+
+<td  >
+Oakland University Invite
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+542
+</td>
+
+
+<td  >
+Cortina, Camila
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Northeastern
+</td>
+
+
+<td  >
+12:12.39
+</td>
+
+
+<td  >
+UMass Leap Year Tri Meet
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+543
+</td>
+
+
+<td  >
+Coleman, Kelley
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+12:12.91
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+544
+</td>
+
+
+<td  >
+Isaacs, Kaylee
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Georgia Tech
+</td>
+
+
+<td  >
+12:13.19
+</td>
+
+
+<td  >
+Georgia Tech Yellow Jacket Invitational
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+545
+</td>
+
+
+<td  >
+Lappas, Olivia
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Marist
+</td>
+
+
+<td  >
+12:13.66
+</td>
+
+
+<td  >
+Metro Atlantic Outdoor Track & Field Championships
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+546
+</td>
+
+
+<td  >
+Kiplagat, Caroline
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Florida A&M
+</td>
+
+
+<td  >
+12:14.62
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+547
+</td>
+
+
+<td  >
+Voss, Sarah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Illinois State
+</td>
+
+
+<td  >
+12:14.73
+</td>
+
+
+<td  >
+Gibson Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+548
+</td>
+
+
+<td  >
+Carr, Caroline
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Holy Cross
+</td>
+
+
+<td  >
+12:14.81
+</td>
+
+
+<td  >
+Holy Cross Invitational  2016
+</td>
+
+
+<td  >
+Apr 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+549
+</td>
+
+
+<td  >
+Leonard, Kiah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Wyoming
+</td>
+
+
+<td  >
+12:15.04
+</td>
+
+
+<td  >
+Tom Benich Invite
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+550
+</td>
+
+
+<td  >
+Hutchens, Victoria
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+East Tenn. St.
+</td>
+
+
+<td  >
+12:15.19
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+551
+</td>
+
+
+<td  >
+Jeon, Sarah
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+12:15.47
+</td>
+
+
+<td  >
+Army vs Navy Outdoor 2016
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+552
+</td>
+
+
+<td  >
+Nagasing, Zoe
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Lafayette
+</td>
+
+
+<td  >
+12:16.38
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+553
+</td>
+
+
+<td  >
+Williams, Dynasty 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Alcorn State
+</td>
+
+
+<td  >
+12:17.28
+</td>
+
+
+<td  >
+Jace LaCoste- Mississippi State Invitational
+</td>
+
+
+<td  >
+Apr 30, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+554
+</td>
+
+
+<td  >
+Houser, Olivia 
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+San Diego
+</td>
+
+
+<td  >
+12:18.63
+</td>
+
+
+<td  >
+Bryan Clay Invitational
+</td>
+
+
+<td  >
+Apr 14, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+555
+</td>
+
+
+<td  >
+Hoglin, Brianne
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Lipscomb
+</td>
+
+
+<td  >
+12:18.90
+</td>
+
+
+<td  >
+2016 Govs Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+556
+</td>
+
+
+<td  >
+Catania, Annie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Nebraska-Omaha
+</td>
+
+
+<td  >
+12:19.49
+</td>
+
+
+<td  >
+2016 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+557
+</td>
+
+
+<td  >
+Galindo, Vanessa
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas A&M-CC
+</td>
+
+
+<td  >
+12:19.74
+</td>
+
+
+<td  >
+34th Annual Victor Lopez Classic
+</td>
+
+
+<td  >
+Mar 24, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+558
+</td>
+
+
+<td  >
+Kopplin, Natalie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+SE Missouri
+</td>
+
+
+<td  >
+12:21.46
+</td>
+
+
+<td  >
+Memphis Tiger Invitational
+</td>
+
+
+<td  >
+Apr 29, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+559
+</td>
+
+
+<td  >
+Andrew, Cheyenne 
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Mercer
+</td>
+
+
+<td  >
+12:21.47
+</td>
+
+
+<td  >
+2016 Southern Conference Outdoor T&F Championships
+</td>
+
+
+<td  >
+May 12, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+560
+</td>
+
+
+<td  >
+Dooley, Courtney
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Army West Point
+</td>
+
+
+<td  >
+12:22.26
+</td>
+
+
+<td  >
+Army vs Navy Outdoor 2016
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+561
+</td>
+
+
+<td  >
+Hubbell, Dawn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Connecticut
+</td>
+
+
+<td  >
+12:23.08
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+562
+</td>
+
+
+<td  >
+Weibel, Violet
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Minnesota
+</td>
+
+
+<td  >
+12:25.97
+</td>
+
+
+<td  >
+Tommie Twilight
+</td>
+
+
+<td  >
+May 4, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+563
+</td>
+
+
+<td  >
+Sevier, Kristen
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+12:27.18
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+564
+</td>
+
+
+<td  >
+Aris, Hannah
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+UMBC
+</td>
+
+
+<td  >
+12:27.22
+</td>
+
+
+<td  >
+Spring Invitational
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+565
+</td>
+
+
+<td  >
+Lange, Skylar
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Central Arkansas
+</td>
+
+
+<td  >
+12:28.66
+</td>
+
+
+<td  >
+UCA Open
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+566
+</td>
+
+
+<td  >
+Phillips, Kelsey
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Texas Southern
+</td>
+
+
+<td  >
+12:29.31
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+567
+</td>
+
+
+<td  >
+Morrell, Erin
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Siena
+</td>
+
+
+<td  >
+12:30.64
+</td>
+
+
+<td  >
+2016 Cornell Outdoor Upstate Challenge
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+568
+</td>
+
+
+<td  >
+Ohm, Lynnsey
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+12:32.40
+</td>
+
+
+<td  >
+Greyhound Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+569
+</td>
+
+
+<td  >
+Bedell, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Tulane
+</td>
+
+
+<td  >
+12:32.49
+</td>
+
+
+<td  >
+Alabama Relays
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+570
+</td>
+
+
+<td  >
+Palazzolo, Antonia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+12:34.98
+</td>
+
+
+<td  >
+Stony Brook University - Wolfie Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+571
+</td>
+
+
+<td  >
+Rischar, Brianna
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+12:37.15
+</td>
+
+
+<td  >
+Seminole Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+572
+</td>
+
+
+<td  >
+Desir, Roselore
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Texas Southern
+</td>
+
+
+<td  >
+12:41.88
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+573
+</td>
+
+
+<td  >
+Johnson, Rebecca
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Saint Francis (Pa.)
+</td>
+
+
+<td  >
+12:44.85
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+574
+</td>
+
+
+<td  >
+Shaffer, Cassy
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Eastern Illinois
+</td>
+
+
+<td  >
+12:47.01
+</td>
+
+
+<td  >
+EIU Panther Twilight
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+575
+</td>
+
+
+<td  >
+Lewis, Tichina
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Grambling
+</td>
+
+
+<td  >
+12:48.23
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+576
+</td>
+
+
+<td  >
+McCoy, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Loyola (Ill.)
+</td>
+
+
+<td  >
+12:49.99
+</td>
+
+
+<td  >
+EIU Big Blue Classic 2016
+</td>
+
+
+<td  >
+Mar 31, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+577
+</td>
+
+
+<td  >
+Bezuidenhout, Sonel
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Tennessee Tech
+</td>
+
+
+<td  >
+12:56.73
+</td>
+
+
+<td  >
+2016 Govs Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+578
+</td>
+
+
+<td  >
+Estes, Elaine 
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+12:56.88
+</td>
+
+
+<td  >
+Rider Invite
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+579
+</td>
+
+
+<td  >
+Redweik, Kirsten
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Texas Tech
+</td>
+
+
+<td  >
+12:58.15
+</td>
+
+
+<td  >
+Texas Tech Masked Rider Open
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+580
+</td>
+
+
+<td  >
+Stockton, Lauren
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Houston Baptist
+</td>
+
+
+<td  >
+13:00.58
+</td>
+
+
+<td  >
+Carolyn & Ron Yokubaitis Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+581
+</td>
+
+
+<td  >
+Gamble, Katie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+UNC-Asheville
+</td>
+
+
+<td  >
+13:01.86
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+582
+</td>
+
+
+<td  >
+Feldman, Jessica
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+13:02.99
+</td>
+
+
+<td  >
+Howard Wood Dakota Relays
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+583
+</td>
+
+
+<td  >
+Wiles, Trinity
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Western Carolina
+</td>
+
+
+<td  >
+13:06.13
+</td>
+
+
+<td  >
+Beynon Sports Surfaces Catamount Classic
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+584
+</td>
+
+
+<td  >
+Grimshaw, Lottie
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+13:06.32
+</td>
+
+
+<td  >
+Howard Wood Dakota Relays
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+585
+</td>
+
+
+<td  >
+Comer, Lauren
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Wright State
+</td>
+
+
+<td  >
+13:08.00
+</td>
+
+
+<td  >
+All-Ohio Championships
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+586
+</td>
+
+
+<td  >
+Davis, Kenya
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+13:09.20
+</td>
+
+
+<td  >
+2016 University of Southern Mississippi Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+587
+</td>
+
+
+<td  >
+Nacci, Sarah
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Sacred Heart
+</td>
+
+
+<td  >
+13:09.33
+</td>
+
+
+<td  >
+Northeast Conference Championship
+</td>
+
+
+<td  >
+May 7, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+588
+</td>
+
+
+<td  >
+Sitarz, Emily
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Northwestern St.
+</td>
+
+
+<td  >
+13:09.71
+</td>
+
+
+<td  >
+Leon Johnson Invitational
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+589
+</td>
+
+
+<td  >
+Esperance, Estelle
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Alabama A&M
+</td>
+
+
+<td  >
+13:11.09
+</td>
+
+
+<td  >
+2016 SWAC Outdoor Championship
+</td>
+
+
+<td  >
+May 6, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+590
+</td>
+
+
+<td  >
+Thomas, Destanie
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Oral Roberts
+</td>
+
+
+<td  >
+13:17.26
+</td>
+
+
+<td  >
+8th Annual David Suenram Gorilla Classic
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+591
+</td>
+
+
+<td  >
+Sellers, Autezia
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Mississippi Valley
+</td>
+
+
+<td  >
+13:23.08
+</td>
+
+
+<td  >
+2016 WKU Hilltopper Relays
+</td>
+
+
+<td  >
+Apr 8, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+592
+</td>
+
+
+<td  >
+Rankin, Sara
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+St. Joseph's (Pa.)
+</td>
+
+
+<td  >
+13:23.29
+</td>
+
+
+<td  >
+Rider Invite
+</td>
+
+
+<td  >
+Apr 9, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+593
+</td>
+
+
+<td  >
+Menzie, Madeline
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+13:26.43
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+594
+</td>
+
+
+<td  >
+Brown, Andrea
+</td>
+
+
+<td  >
+SR-4
+</td>
+
+
+<td  >
+Texas Southern
+</td>
+
+
+<td  >
+13:28.76
+</td>
+
+
+<td  >
+Carolyn & Ron Yokubaitis Invitational
+</td>
+
+
+<td  >
+Apr 23, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+595
+</td>
+
+
+<td  >
+Hodges, Brooklynn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+South Dakota
+</td>
+
+
+<td  >
+13:31.65
+</td>
+
+
+<td  >
+USD Twilight
+</td>
+
+
+<td  >
+Apr 19, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+596
+</td>
+
+
+<td  >
+Stahler, Madison
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+South Florida
+</td>
+
+
+<td  >
+13:38.38
+</td>
+
+
+<td  >
+USF Bulls Invitational
+</td>
+
+
+<td  >
+Mar 17, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+597
+</td>
+
+
+<td  >
+Pethel, Jinni
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Georgia Southern
+</td>
+
+
+<td  >
+13:47.09
+</td>
+
+
+<td  >
+UNF Spring Break Invitational
+</td>
+
+
+<td  >
+Mar 25, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+598
+</td>
+
+
+<td  >
+Goben, Kristen
+</td>
+
+
+<td  >
+JR-3
+</td>
+
+
+<td  >
+Western Illinois
+</td>
+
+
+<td  >
+13:52.65
+</td>
+
+
+<td  >
+2016 Kip Janvrin Open
+</td>
+
+
+<td  >
+Apr 28, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+599
+</td>
+
+
+<td  >
+Adams, Brynn
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Robert Morris
+</td>
+
+
+<td  >
+14:24.00
+</td>
+
+
+<td  >
+Dave Labor Invt
+</td>
+
+
+<td  >
+Apr 2, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+600
+</td>
+
+
+<td  >
+McAlister, Theresa
+</td>
+
+
+<td  >
+FR-1
+</td>
+
+
+<td  >
+Drake
+</td>
+
+
+<td  >
+14:30.30
+</td>
+
+
+<td  >
+2016 Jim Duncan Invitational
+</td>
+
+
+<td  >
+Apr 15, 2016
+</td>
+</tr>
+
+<tr>
+
+
+<td  >
+601
+</td>
+
+
+<td  >
+Keaton, Kaelyn
+</td>
+
+
+<td  >
+SO-2
+</td>
+
+
+<td  >
+Prairie View
+</td>
+
+
+<td  >
+14:52.32
+</td>
+
+
+<td  >
+J Fred Duckett-Rice Twilight
+</td>
+
+
+<td  >
+Apr 16, 2016
+</td>
+</tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+

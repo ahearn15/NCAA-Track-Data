@@ -1,0 +1,18338 @@
+
+<!DOCTYPE html>
+<html class="no-js js-menubar" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.tfrrs.org/images/favicons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="//assets.tfrrs.org/images/favicons/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="//assets.tfrrs.org/images/favicons/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="//assets.tfrrs.org/images/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="//assets.tfrrs.org/images/favicons/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="//assets.tfrrs.org/images/favicons/mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="//assets.tfrrs.org/images/favicons/mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="//assets.tfrrs.org/images/favicons/mstile-310x310.png"/>
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/bootstrap-extend.min.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/site.css">
+
+    <link rel="stylesheet" href="//assets.tfrrs.org/styles/css/main.css">
+    
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/tablesaw.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/asScrollable.css">
+    <link rel="stylesheet" href="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/css/typeahead.min.css">
+    
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/Roboto/Roboto.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/proximanovo/proxima-nova.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/css/font-awesome.css">
+    <link rel='stylesheet' href="//assets.tfrrs.org/styles/fonts/material-design/material-design.min.css">
+    <script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/breakpoints.js"></script>
+    <script>
+        Breakpoints();
+    </script>
+</head>
+<body class=" page-body" >
+<table align="center">
+<tr><td>
+<img  src="//assets.tfrrs.org/images/TFRRS-logo.svg" title="" width=300 align="center">
+</td></tr></table>
+
+
+
+
+
+
+
+<div class="page container">    
+
+    <div class="page-content panel-container">
+        <div class="panel panel-bordered">
+            <div class="panel-heading">
+                <h3 class="panel-title">2018 NCAA Div. II Outdoor Qualifying (FINAL)</h3></div>
+            <div class="panel-second-title pb-0">
+                    <div class="row mb-10 ">
+                        <div class="col-lg-4 border-right">
+
+
+                            <div>
+                                <span class="panel-heading-normal-text font-size-15">ICON KEY:</span>
+
+
+                                <img src="http://images.tfrrs.org/ico-plus-2.png" class="mb-3"
+                                     title="DII Prov">
+                                <span class="panel-heading-normal-text font-size-15">DII Prov</span>
+
+                                <img src="http://images.tfrrs.org/ico-check-2.png" class="mb-3"
+                                     title="DII Auto">
+                                <span class="panel-heading-normal-text font-size-15">DII Auto</span>
+
+                            </div>
+
+                          </div>
+                   </div>
+            </div>
+            <div class="panel-body">
+<a name="19" ></a>
+<div class="row">
+<div class="col-lg-12">
+                        <div class="custom-table-title">
+                            <h3 class="font-weight-500">
+
+
+
+ 
+
+
+3000 Steeplechase
+	
+	
+ (Men)
+                            </h3>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+DII Auto
+&nbsp;
+8:53.80
+</span>
+<span style="font-size:11px;margin-left:20px;padding-top:25px;">
+DII Prov
+&nbsp;
+9:17.36
+</span>
+                        </div>
+
+                        <table id="myTable" class="tablesorter tablesaw table-striped table-bordered table-hover"
+                               data-tablesaw-mode="columntoggle">
+                            <thead>
+<tr>
+<th data-tablesaw-priority="persist" id=0 scope="col" class="text-right">
+RANK
+</th>
+<th data-tablesaw-priority="1" id=1 scope="col" >
+ATHLETE
+</th>
+<th data-tablesaw-priority="4" id=2 scope="col" >
+YEAR
+</th>
+<th data-tablesaw-priority="persist" id=3 scope="col" >
+TEAM
+</th>
+<th data-tablesaw-priority="persist" id=4 scope="col" >
+TIME
+</th>
+<th data-tablesaw-priority="3" id=5 scope="col" >
+MEET
+</th>
+<th data-tablesaw-priority="2" id=6 scope="col" >
+MEET DATE
+</th>
+</tr>												
+</thead>
+<tbody id="body" class="body">
+
+<tr class="filtered allRows DII_Auto DII_Prov ">
+
+
+
+<td id="col0"  >
+1<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Medina, Kyle
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Chico State
+</td>
+
+
+
+<td id="col4"  >
+8:44.40
+</td>
+
+
+
+<td id="col5"  >
+Stanford Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Auto DII_Prov ">
+
+
+
+<td id="col0"  >
+2<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Adams, Kale
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Adams State
+</td>
+
+
+
+<td id="col4"  >
+8:45.23
+</td>
+
+
+
+<td id="col5"  >
+Mt. SAC Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Auto DII_Prov ">
+
+
+
+<td id="col0"  >
+3<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Airiau, Gatien
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Academy of Art
+</td>
+
+
+
+<td id="col4"  >
+8:46.82
+</td>
+
+
+
+<td id="col5"  >
+Payton Jordan Invitational
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Auto DII_Prov ">
+
+
+
+<td id="col0"  >
+4<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Verbal, Evan 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+8:51.06
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Auto DII_Prov ">
+
+
+
+<td id="col0"  >
+5<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-check-2.png" title="DII Auto"><img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Dahlke, Jonathan
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+
+
+<td id="col4"  >
+8:53.36
+</td>
+
+
+
+<td id="col5"  >
+Mt. SAC Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+6<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Leet, Michael
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Lewis
+</td>
+
+
+
+<td id="col4"  >
+8:54.13
+</td>
+
+
+
+<td id="col5"  >
+Mt. SAC Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+7<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Egeland, Jorey
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+MSU-Billings
+</td>
+
+
+
+<td id="col4"  >
+8:55.30
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+8<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Williams, Derrick
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+CSU-Pueblo
+</td>
+
+
+
+<td id="col4"  >
+8:56.54
+</td>
+
+
+
+<td id="col5"  >
+CSU Pueblo Spank Blasing Invite
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+9<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Baritot, Gene
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Edinboro
+</td>
+
+
+
+<td id="col4"  >
+8:57.23
+</td>
+
+
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+10<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Phelps, Trent
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+
+
+<td id="col4"  >
+8:57.79
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+11<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Fisher , Connor
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Chico State
+</td>
+
+
+
+<td id="col4"  >
+8:57.82
+</td>
+
+
+
+<td id="col5"  >
+Sacramento State Hornet Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+12<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Jorgensen, Oliver
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+
+
+<td id="col4"  >
+8:58.72
+</td>
+
+
+
+<td id="col5"  >
+San Francisco State Distance Carnival
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+13<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Jack
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Chico State
+</td>
+
+
+
+<td id="col4"  >
+8:59.43
+</td>
+
+
+
+<td id="col5"  >
+Portland Twilight
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+14<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Stack, Taylor
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western State
+</td>
+
+
+
+<td id="col4"  >
+8:59.97
+</td>
+
+
+
+<td id="col5"  >
+Mt. SAC Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+15<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Kernell, Jacob 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Walsh
+</td>
+
+
+
+<td id="col4"  >
+9:00.76
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+16<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Detourbe, Pierre-Louis
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cal Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:01.07
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+17<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Mitchem , Jake 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+
+
+<td id="col4"  >
+9:01.39
+</td>
+
+
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+18<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Colligan, Grant
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+
+
+<td id="col4"  >
+9:01.48
+</td>
+
+
+
+<td id="col5"  >
+CU Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+19<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Salomon, Dustyn
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Humboldt State
+</td>
+
+
+
+<td id="col4"  >
+9:01.54
+</td>
+
+
+
+<td id="col5"  >
+Mt. SAC Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+20<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Classen, Trent
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cedarville
+</td>
+
+
+
+<td id="col4"  >
+9:02.12
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+21<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Domagalski, Jacob
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+
+
+<td id="col4"  >
+9:02.67
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+22<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Steinbrecher, Keith
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Merrimack
+</td>
+
+
+
+<td id="col4"  >
+9:04.69
+</td>
+
+
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+23<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Hansen, Corbin
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+
+
+<td id="col4"  >
+9:04.80
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+24<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Charlton, Braeden
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+
+
+<td id="col4"  >
+9:04.89
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+25<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Fields, Andrew
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+
+
+<td id="col4"  >
+9:06.15
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+26<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Ahl, Aaron
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Simon Fraser
+</td>
+
+
+
+<td id="col4"  >
+9:06.30
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+27<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Steible, Josh
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+
+
+<td id="col4"  >
+9:06.58
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+28<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Carlton, Corbin
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Central Washington
+</td>
+
+
+
+<td id="col4"  >
+9:07.71
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+29<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Too, Nehemia
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+9:08.89
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+30<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Fay, Ian
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western Washington
+</td>
+
+
+
+<td id="col4"  >
+9:09.25
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+31<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Fonseca, Dominick
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Pittsburg St.
+</td>
+
+
+
+<td id="col4"  >
+9:10.90
+</td>
+
+
+
+<td id="col5"  >
+Kansas Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+32<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Korir, Stephen
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Tiffin
+</td>
+
+
+
+<td id="col4"  >
+9:10.92
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+33<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Riffle, Hunter
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+9:11.00
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+34<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Weitzel , Jason
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+9:11.24
+</td>
+
+
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+35<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Kipchumba, Geoffrey
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+West Texas A&M
+</td>
+
+
+
+<td id="col4"  >
+9:11.66
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+36<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Schroeder, Nathan
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+
+
+<td id="col4"  >
+9:12.04
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+37<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Filer, Larry
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+East Central
+</td>
+
+
+
+<td id="col4"  >
+9:12.28
+</td>
+
+
+
+<td id="col5"  >
+2018 Oxy Invitational (College/University)
+</td>
+
+
+
+<td id="col6"  >
+May 12, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+38<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Spooner, Logan 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+MSU-Moorhead
+</td>
+
+
+
+<td id="col4"  >
+9:12.64
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+39<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Urtusuastegui, Jesus
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+
+
+<td id="col4"  >
+9:13.07
+</td>
+
+
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+40<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Benrubi, Joey
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+UC San Diego
+</td>
+
+
+
+<td id="col4"  >
+9:13.81
+</td>
+
+
+
+<td id="col5"  >
+2018 CCAA Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+41<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Korta, Kaleb
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Alaska Anchorage
+</td>
+
+
+
+<td id="col4"  >
+9:13.88
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+42<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Grimmitt, Adam
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Humboldt State
+</td>
+
+
+
+<td id="col4"  >
+9:16.42
+</td>
+
+
+
+<td id="col5"  >
+San Francisco State Distance Carnival
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+43<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Kelton, Thomas
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Lee (Tenn.)
+</td>
+
+
+
+<td id="col4"  >
+9:16.51
+</td>
+
+
+
+<td id="col5"  >
+Tennessee Challenge
+</td>
+
+
+
+<td id="col6"  >
+May 5, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows DII_Prov  ">
+
+
+
+<td id="col0"  >
+44<img class="mb-3" src="//d3rdyu12qfqk51.cloudfront.net/ico-plus-2.png" title="DII Prov">
+</td>
+
+
+
+<td id="col1"  >
+Cecil , James 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Southern Indiana
+</td>
+
+
+
+<td id="col4"  >
+9:16.64
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+45
+</td>
+
+
+
+<td id="col1"  >
+Fisher, Colin 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+
+
+<td id="col4"  >
+9:17.93
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+46
+</td>
+
+
+
+<td id="col1"  >
+Coakley, Mitchell
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+
+
+<td id="col4"  >
+9:18.37
+</td>
+
+
+
+<td id="col5"  >
+Penn Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+47
+</td>
+
+
+
+<td id="col1"  >
+Giordano, Dominic
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Concordia (Ore.)
+</td>
+
+
+
+<td id="col4"  >
+9:18.71
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+48
+</td>
+
+
+
+<td id="col1"  >
+Iverson, Jake
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+
+
+<td id="col4"  >
+9:19.71
+</td>
+
+
+
+<td id="col5"  >
+2018 Tom Benich Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+49
+</td>
+
+
+
+<td id="col1"  >
+Cunningham, Wick 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+NW Missouri
+</td>
+
+
+
+<td id="col4"  >
+9:19.73
+</td>
+
+
+
+<td id="col5"  >
+2018 Drake Relays presented by Hy-Vee
+</td>
+
+
+
+<td id="col6"  >
+Apr 25, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+50
+</td>
+
+
+
+<td id="col1"  >
+Miller, Zac
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+NW Missouri
+</td>
+
+
+
+<td id="col4"  >
+9:20.78
+</td>
+
+
+
+<td id="col5"  >
+Kansas Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+51
+</td>
+
+
+
+<td id="col1"  >
+Torvik, Matthew
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:20.80
+</td>
+
+
+
+<td id="col5"  >
+OSU High Performance Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+51
+</td>
+
+
+
+<td id="col1"  >
+Overmyer, Isaac
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+9:20.80
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+53
+</td>
+
+
+
+<td id="col1"  >
+Heaton, Sean
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+
+
+<td id="col4"  >
+9:21.42
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+54
+</td>
+
+
+
+<td id="col1"  >
+Theisen, Jonah
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+
+
+<td id="col4"  >
+9:22.77
+</td>
+
+
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+55
+</td>
+
+
+
+<td id="col1"  >
+Alexander, Lane 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+
+
+<td id="col4"  >
+9:23.19
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+56
+</td>
+
+
+
+<td id="col1"  >
+Lewis, Judd
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Concordia (Ore.)
+</td>
+
+
+
+<td id="col4"  >
+9:23.46
+</td>
+
+
+
+<td id="col5"  >
+John Knight Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+57
+</td>
+
+
+
+<td id="col1"  >
+Correia, Cameron
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+American Int'l
+</td>
+
+
+
+<td id="col4"  >
+9:23.62
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+58
+</td>
+
+
+
+<td id="col1"  >
+Duchatscheck, Clayton
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lindenwood
+</td>
+
+
+
+<td id="col4"  >
+9:23.90
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+59
+</td>
+
+
+
+<td id="col1"  >
+Selbig, Brandon
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+MSU-Moorhead
+</td>
+
+
+
+<td id="col4"  >
+9:25.03
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+60
+</td>
+
+
+
+<td id="col1"  >
+McCartney, George
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+9:25.67
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+61
+</td>
+
+
+
+<td id="col1"  >
+Wilson, Matthew
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Pittsburg St.
+</td>
+
+
+
+<td id="col4"  >
+9:26.34
+</td>
+
+
+
+<td id="col5"  >
+2018 MIAA Outdoor Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+62
+</td>
+
+
+
+<td id="col1"  >
+Kimaiyo, David
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+UC-Colo. Spgs.
+</td>
+
+
+
+<td id="col4"  >
+9:27.06
+</td>
+
+
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+63
+</td>
+
+
+
+<td id="col1"  >
+Messmer, Dennis
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Cal Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:27.17
+</td>
+
+
+
+<td id="col5"  >
+San Francisco State Distance Carnival
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+64
+</td>
+
+
+
+<td id="col1"  >
+Kosut, Tyler 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+9:27.34
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+65
+</td>
+
+
+
+<td id="col1"  >
+Day, Jay
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+
+
+<td id="col4"  >
+9:27.45
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+66
+</td>
+
+
+
+<td id="col1"  >
+Lepine, Garrett
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+UC San Diego
+</td>
+
+
+
+<td id="col4"  >
+9:27.69
+</td>
+
+
+
+<td id="col5"  >
+UC Irvine Spring Break Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+67
+</td>
+
+
+
+<td id="col1"  >
+Stockhausen, Malte
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Florida Tech
+</td>
+
+
+
+<td id="col4"  >
+9:28.32
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+68
+</td>
+
+
+
+<td id="col1"  >
+Jones, Cody
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Southern Nazarene
+</td>
+
+
+
+<td id="col4"  >
+9:28.40
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+69
+</td>
+
+
+
+<td id="col1"  >
+DeJong, Skylar
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+
+
+<td id="col4"  >
+9:28.54
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+70
+</td>
+
+
+
+<td id="col1"  >
+Schwartz, Connor
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+
+
+<td id="col4"  >
+9:28.93
+</td>
+
+
+
+<td id="col5"  >
+Hillsdale "GINA" Relays - 52nd Edition
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+71
+</td>
+
+
+
+<td id="col1"  >
+Holmes, Peyton
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Concordia-St. Paul
+</td>
+
+
+
+<td id="col4"  >
+9:29.26
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+72
+</td>
+
+
+
+<td id="col1"  >
+Heckman, Jasper
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Saint Martin's
+</td>
+
+
+
+<td id="col4"  >
+9:29.30
+</td>
+
+
+
+<td id="col5"  >
+Beach Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+73
+</td>
+
+
+
+<td id="col1"  >
+Smalley, Owen
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+9:29.45
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+74
+</td>
+
+
+
+<td id="col1"  >
+Kiptoo, Nickson
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Missouri Southern
+</td>
+
+
+
+<td id="col4"  >
+9:29.52
+</td>
+
+
+
+<td id="col5"  >
+2018 MIAA Outdoor Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+75
+</td>
+
+
+
+<td id="col1"  >
+Michels, Brian 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Molloy
+</td>
+
+
+
+<td id="col4"  >
+9:29.70
+</td>
+
+
+
+<td id="col5"  >
+Penn Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+76
+</td>
+
+
+
+<td id="col1"  >
+Cannon, Christopher 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+9:30.93
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+77
+</td>
+
+
+
+<td id="col1"  >
+Churchwell, Noah
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Columbus St.
+</td>
+
+
+
+<td id="col4"  >
+9:31.74
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+78
+</td>
+
+
+
+<td id="col1"  >
+Bindner, Joe
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+
+
+<td id="col4"  >
+9:32.93
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+79
+</td>
+
+
+
+<td id="col1"  >
+Hamilton, Nick 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Northwest Nazarene
+</td>
+
+
+
+<td id="col4"  >
+9:33.23
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+80
+</td>
+
+
+
+<td id="col1"  >
+Steele, Derek
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Colorado Mines
+</td>
+
+
+
+<td id="col4"  >
+9:33.33
+</td>
+
+
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+81
+</td>
+
+
+
+<td id="col1"  >
+Rocha, Dylan
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Northwood (Mich.)
+</td>
+
+
+
+<td id="col4"  >
+9:33.38
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+82
+</td>
+
+
+
+<td id="col1"  >
+Kemboi, Felix
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Alaska Anchorage
+</td>
+
+
+
+<td id="col4"  >
+9:33.69
+</td>
+
+
+
+<td id="col5"  >
+San Francisco State Distance Carnival
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+83
+</td>
+
+
+
+<td id="col1"  >
+Kipkoech, Silus
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+
+
+<td id="col4"  >
+9:33.93
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+84
+</td>
+
+
+
+<td id="col1"  >
+Whitson, Blaine
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:34.20
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+85
+</td>
+
+
+
+<td id="col1"  >
+Gerland, Yannik
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+
+
+<td id="col4"  >
+9:34.32
+</td>
+
+
+
+<td id="col5"  >
+2018 Colonial Relays 
+</td>
+
+
+
+<td id="col6"  >
+Apr 5, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+86
+</td>
+
+
+
+<td id="col1"  >
+Lewis, Kyle
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Western State
+</td>
+
+
+
+<td id="col4"  >
+9:35.06
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+87
+</td>
+
+
+
+<td id="col1"  >
+Armstrong, Daniel
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Sioux Falls
+</td>
+
+
+
+<td id="col4"  >
+9:35.33
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+88
+</td>
+
+
+
+<td id="col1"  >
+Wilson, Kenton
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Illinois-Springfield
+</td>
+
+
+
+<td id="col4"  >
+9:35.34
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+89
+</td>
+
+
+
+<td id="col1"  >
+Liester, Josh
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Sioux Falls
+</td>
+
+
+
+<td id="col4"  >
+9:35.66
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+90
+</td>
+
+
+
+<td id="col1"  >
+Williamson, Austin
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+
+
+<td id="col4"  >
+9:35.96
+</td>
+
+
+
+<td id="col5"  >
+Howard Wood Dakota Relays
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+91
+</td>
+
+
+
+<td id="col1"  >
+Woodward, Gavin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+So. Conn. St.
+</td>
+
+
+
+<td id="col4"  >
+9:36.34
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+92
+</td>
+
+
+
+<td id="col1"  >
+Williams, Nick
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Rogers State
+</td>
+
+
+
+<td id="col4"  >
+9:36.36
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+93
+</td>
+
+
+
+<td id="col1"  >
+REY, ERWIN
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+P.R.-Mayaguez
+</td>
+
+
+
+<td id="col4"  >
+9:36.81
+</td>
+
+
+
+<td id="col5"  >
+Justas LAI 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+94
+</td>
+
+
+
+<td id="col1"  >
+McGinty, Tadgh
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Saint Leo
+</td>
+
+
+
+<td id="col4"  >
+9:36.82
+</td>
+
+
+
+<td id="col5"  >
+UF Tom Jones Memorial
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+95
+</td>
+
+
+
+<td id="col1"  >
+Mcllroy, Jackson
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western Washington
+</td>
+
+
+
+<td id="col4"  >
+9:37.11
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+96
+</td>
+
+
+
+<td id="col1"  >
+Smith, Tai
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+
+
+<td id="col4"  >
+9:37.36
+</td>
+
+
+
+<td id="col5"  >
+2018 Trojan Challenge
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+97
+</td>
+
+
+
+<td id="col1"  >
+Gutierrez, Xavier 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Kutztown
+</td>
+
+
+
+<td id="col4"  >
+9:37.42
+</td>
+
+
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+98
+</td>
+
+
+
+<td id="col1"  >
+Sherfey, Justin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+UC San Diego
+</td>
+
+
+
+<td id="col4"  >
+9:37.47
+</td>
+
+
+
+<td id="col5"  >
+2018 CCAA Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+99
+</td>
+
+
+
+<td id="col1"  >
+Rios, Alejandro
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Stanislaus State
+</td>
+
+
+
+<td id="col4"  >
+9:38.30
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+100
+</td>
+
+
+
+<td id="col1"  >
+Davitt, Chris
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+
+
+<td id="col4"  >
+9:38.54
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+101
+</td>
+
+
+
+<td id="col1"  >
+Carey, Nate
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+
+
+<td id="col4"  >
+9:38.69
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+102
+</td>
+
+
+
+<td id="col1"  >
+Osowski, Keith
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+
+
+<td id="col4"  >
+9:38.86
+</td>
+
+
+
+<td id="col5"  >
+RMAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+103
+</td>
+
+
+
+<td id="col1"  >
+Montgomery, Reese
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Angelo State
+</td>
+
+
+
+<td id="col4"  >
+9:39.68
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+104
+</td>
+
+
+
+<td id="col1"  >
+Murray, Noah
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Walsh
+</td>
+
+
+
+<td id="col4"  >
+9:40.22
+</td>
+
+
+
+<td id="col5"  >
+Ashland Alumni Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+105
+</td>
+
+
+
+<td id="col1"  >
+Cardenas, Anamacio
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Cal Poly Pomona
+</td>
+
+
+
+<td id="col4"  >
+9:40.28
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+106
+</td>
+
+
+
+<td id="col1"  >
+Milodragovich, Henry
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Central Washington
+</td>
+
+
+
+<td id="col4"  >
+9:40.63
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+107
+</td>
+
+
+
+<td id="col1"  >
+Hamilton, Chase
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+SW Minnesota St.
+</td>
+
+
+
+<td id="col4"  >
+9:40.97
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+108
+</td>
+
+
+
+<td id="col1"  >
+Reynolds, Kelton
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Oklahoma Christian
+</td>
+
+
+
+<td id="col4"  >
+9:41.71
+</td>
+
+
+
+<td id="col5"  >
+2018 Oxy Invitational (College/University)
+</td>
+
+
+
+<td id="col6"  >
+May 12, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+109
+</td>
+
+
+
+<td id="col1"  >
+Geehrer, Bryan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Edinboro
+</td>
+
+
+
+<td id="col4"  >
+9:41.90
+</td>
+
+
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+110
+</td>
+
+
+
+<td id="col1"  >
+Clifford, Ryan 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Mansfield
+</td>
+
+
+
+<td id="col4"  >
+9:42.39
+</td>
+
+
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+111
+</td>
+
+
+
+<td id="col1"  >
+Quillen, Philip
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Anderson (S.C.)
+</td>
+
+
+
+<td id="col4"  >
+9:43.21
+</td>
+
+
+
+<td id="col5"  >
+ETSU Tri Star Track & Field Classic 
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+112
+</td>
+
+
+
+<td id="col1"  >
+Turney, Jordan
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+9:43.23
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+113
+</td>
+
+
+
+<td id="col1"  >
+Callaway, Michael 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Cal Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:43.37
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+114
+</td>
+
+
+
+<td id="col1"  >
+Kozik, Mitchell
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Florida Southern
+</td>
+
+
+
+<td id="col4"  >
+9:43.71
+</td>
+
+
+
+<td id="col5"  >
+North Florida Invitational 
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+115
+</td>
+
+
+
+<td id="col1"  >
+Mccormick, Ross
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Lewis
+</td>
+
+
+
+<td id="col4"  >
+9:43.74
+</td>
+
+
+
+<td id="col5"  >
+Bellarmine Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+116
+</td>
+
+
+
+<td id="col1"  >
+Pinarski, Nicholas
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Christian Bros.
+</td>
+
+
+
+<td id="col4"  >
+9:43.88
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+117
+</td>
+
+
+
+<td id="col1"  >
+Weiford, R.J. 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Davis & Elkins
+</td>
+
+
+
+<td id="col4"  >
+9:44.01
+</td>
+
+
+
+<td id="col5"  >
+Fred Hardy Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+118
+</td>
+
+
+
+<td id="col1"  >
+Gradijan, Martin
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Franklin Pierce
+</td>
+
+
+
+<td id="col4"  >
+9:44.74
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+119
+</td>
+
+
+
+<td id="col1"  >
+Sickinger, Joshua
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Saint Leo
+</td>
+
+
+
+<td id="col4"  >
+9:44.86
+</td>
+
+
+
+<td id="col5"  >
+USF Bulls Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 22, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+120
+</td>
+
+
+
+<td id="col1"  >
+Murphy, James
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Stonehill
+</td>
+
+
+
+<td id="col4"  >
+9:45.16
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+121
+</td>
+
+
+
+<td id="col1"  >
+Bredeson, Luke
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cedarville
+</td>
+
+
+
+<td id="col4"  >
+9:45.18
+</td>
+
+
+
+<td id="col5"  >
+RedHawk Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+122
+</td>
+
+
+
+<td id="col1"  >
+Chudy, Cole
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+9:45.81
+</td>
+
+
+
+<td id="col5"  >
+CU Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+123
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Hanbyul
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+
+
+<td id="col4"  >
+9:46.05
+</td>
+
+
+
+<td id="col5"  >
+GVSU Al Owens Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+124
+</td>
+
+
+
+<td id="col1"  >
+Wieck, Derek
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+West Texas A&M
+</td>
+
+
+
+<td id="col4"  >
+9:46.38
+</td>
+
+
+
+<td id="col5"  >
+ACU Wes Kittley Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+125
+</td>
+
+
+
+<td id="col1"  >
+Lagat, Joel
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Barton
+</td>
+
+
+
+<td id="col4"  >
+9:46.63
+</td>
+
+
+
+<td id="col5"  >
+Conference Carolinas Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+126
+</td>
+
+
+
+<td id="col1"  >
+Jessop, Carson
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+MSU-Billings
+</td>
+
+
+
+<td id="col4"  >
+9:46.77
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+126
+</td>
+
+
+
+<td id="col1"  >
+Williams, Tyler
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+
+
+<td id="col4"  >
+9:46.77
+</td>
+
+
+
+<td id="col5"  >
+2018 MIAA Outdoor Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+128
+</td>
+
+
+
+<td id="col1"  >
+Clark, Duncan
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+
+
+<td id="col4"  >
+9:47.78
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+129
+</td>
+
+
+
+<td id="col1"  >
+Winders, Javan 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Southern Indiana
+</td>
+
+
+
+<td id="col4"  >
+9:47.91
+</td>
+
+
+
+<td id="col5"  >
+Kentucky Wesleyan Track & Field Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+130
+</td>
+
+
+
+<td id="col1"  >
+Heckard, Sawyer
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Western Oregon
+</td>
+
+
+
+<td id="col4"  >
+9:48.20
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+131
+</td>
+
+
+
+<td id="col1"  >
+Ward, Logan 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+
+
+<td id="col4"  >
+9:48.21
+</td>
+
+
+
+<td id="col5"  >
+2018 Trojan Challenge
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+132
+</td>
+
+
+
+<td id="col1"  >
+Vittetow, Kieffer
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+
+
+<td id="col4"  >
+9:48.24
+</td>
+
+
+
+<td id="col5"  >
+2018 Indiana Little State Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+133
+</td>
+
+
+
+<td id="col1"  >
+Sedbrook, Cody
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+9:48.26
+</td>
+
+
+
+<td id="col5"  >
+Rittgers Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+134
+</td>
+
+
+
+<td id="col1"  >
+Barco, Israel
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+
+
+<td id="col4"  >
+9:48.77
+</td>
+
+
+
+<td id="col5"  >
+2018 MIAA Outdoor Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+135
+</td>
+
+
+
+<td id="col1"  >
+Wiedeburg, Jachob
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+
+
+<td id="col4"  >
+9:48.92
+</td>
+
+
+
+<td id="col5"  >
+SBU Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+136
+</td>
+
+
+
+<td id="col1"  >
+Calvert, Isaac
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Central Missouri
+</td>
+
+
+
+<td id="col4"  >
+9:50.07
+</td>
+
+
+
+<td id="col5"  >
+UCM Mule Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+137
+</td>
+
+
+
+<td id="col1"  >
+Robles, DeAngelo
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:50.21
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+138
+</td>
+
+
+
+<td id="col1"  >
+Patrick, Bryce
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Walsh
+</td>
+
+
+
+<td id="col4"  >
+9:50.27
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+139
+</td>
+
+
+
+<td id="col1"  >
+Kraus, Adam
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+
+
+<td id="col4"  >
+9:50.60
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+140
+</td>
+
+
+
+<td id="col1"  >
+Wilkinson, Grady 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Southern Indiana
+</td>
+
+
+
+<td id="col4"  >
+9:50.63
+</td>
+
+
+
+<td id="col5"  >
+Hillsdale "GINA" Relays - 52nd Edition
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+141
+</td>
+
+
+
+<td id="col1"  >
+Moreno, Osiel
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mississippi College
+</td>
+
+
+
+<td id="col4"  >
+9:50.82
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+142
+</td>
+
+
+
+<td id="col1"  >
+Chelelgo, Keneth
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+9:51.02
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+143
+</td>
+
+
+
+<td id="col1"  >
+Cirlincione, Dario
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Western Washington
+</td>
+
+
+
+<td id="col4"  >
+9:51.38
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+144
+</td>
+
+
+
+<td id="col1"  >
+Dugan, Danny
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Bloomsburg
+</td>
+
+
+
+<td id="col4"  >
+9:51.97
+</td>
+
+
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+145
+</td>
+
+
+
+<td id="col1"  >
+Witt, Jackson
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Southern Nazarene
+</td>
+
+
+
+<td id="col4"  >
+9:52.22
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+146
+</td>
+
+
+
+<td id="col1"  >
+Casto, Jake
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+9:52.65
+</td>
+
+
+
+<td id="col5"  >
+Otterbein Twilight Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+147
+</td>
+
+
+
+<td id="col1"  >
+Velasquez, Jose
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Adelphi
+</td>
+
+
+
+<td id="col4"  >
+9:53.36
+</td>
+
+
+
+<td id="col5"  >
+Dr. Jack M. Toms Alumni Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+148
+</td>
+
+
+
+<td id="col1"  >
+Gideon, Kevin
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cedarville
+</td>
+
+
+
+<td id="col4"  >
+9:53.47
+</td>
+
+
+
+<td id="col5"  >
+RedHawk Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+149
+</td>
+
+
+
+<td id="col1"  >
+Lewis, Levi
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Northwest Nazarene
+</td>
+
+
+
+<td id="col4"  >
+9:53.84
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+150
+</td>
+
+
+
+<td id="col1"  >
+Werley, Mark
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cal St. San Marcos
+</td>
+
+
+
+<td id="col4"  >
+9:53.89
+</td>
+
+
+
+<td id="col5"  >
+Bryan Clay Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+151
+</td>
+
+
+
+<td id="col1"  >
+Whittington, Noah
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+9:53.98
+</td>
+
+
+
+<td id="col5"  >
+Mount Union Homon Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+152
+</td>
+
+
+
+<td id="col1"  >
+Black, Jacob
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Lenoir-Rhyne
+</td>
+
+
+
+<td id="col4"  >
+9:54.00
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+153
+</td>
+
+
+
+<td id="col1"  >
+Blount, Hunter
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Pittsburg St.
+</td>
+
+
+
+<td id="col4"  >
+9:54.03
+</td>
+
+
+
+<td id="col5"  >
+10th Annual David Suenram Gorilla Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+154
+</td>
+
+
+
+<td id="col1"  >
+Kiplimo, Collins
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Morehouse
+</td>
+
+
+
+<td id="col4"  >
+9:54.49
+</td>
+
+
+
+<td id="col5"  >
+Charleston Southern University Spring Break Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+155
+</td>
+
+
+
+<td id="col1"  >
+Goatley, Tyler 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Southwest Baptist
+</td>
+
+
+
+<td id="col4"  >
+9:54.64
+</td>
+
+
+
+<td id="col5"  >
+10th Annual David Suenram Gorilla Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+156
+</td>
+
+
+
+<td id="col1"  >
+Reed, Peyton
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Lewis
+</td>
+
+
+
+<td id="col4"  >
+9:54.66
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+157
+</td>
+
+
+
+<td id="col1"  >
+Karl, Tyler
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Concordia-St. Paul
+</td>
+
+
+
+<td id="col4"  >
+9:54.88
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+158
+</td>
+
+
+
+<td id="col1"  >
+McCambridge, Conal
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Queens (N.C.)
+</td>
+
+
+
+<td id="col4"  >
+9:55.22
+</td>
+
+
+
+<td id="col5"  >
+Terrier Relays 2018
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+159
+</td>
+
+
+
+<td id="col1"  >
+Meyer, Garrett
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Eastern New Mexico
+</td>
+
+
+
+<td id="col4"  >
+9:55.51
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+160
+</td>
+
+
+
+<td id="col1"  >
+Gower, Bradyn
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+
+
+<td id="col4"  >
+9:55.60
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+161
+</td>
+
+
+
+<td id="col1"  >
+Boyer, Nate 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+9:55.85
+</td>
+
+
+
+<td id="col5"  >
+Mount Union Homon Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+162
+</td>
+
+
+
+<td id="col1"  >
+McMichael, Porter
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western Washington
+</td>
+
+
+
+<td id="col4"  >
+9:56.28
+</td>
+
+
+
+<td id="col5"  >
+Saint Martin's Jay Hammer Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+163
+</td>
+
+
+
+<td id="col1"  >
+Conley, Micah
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+9:56.31
+</td>
+
+
+
+<td id="col5"  >
+Mines Kit Mayer Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+164
+</td>
+
+
+
+<td id="col1"  >
+Kubat, Braydon
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+9:56.34
+</td>
+
+
+
+<td id="col5"  >
+Rittgers Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+165
+</td>
+
+
+
+<td id="col1"  >
+Cannon, Nathan
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+9:56.73
+</td>
+
+
+
+<td id="col5"  >
+SUNY Geneseo Early Season Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+166
+</td>
+
+
+
+<td id="col1"  >
+Akers, Alex 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Wingate
+</td>
+
+
+
+<td id="col4"  >
+9:56.92
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+167
+</td>
+
+
+
+<td id="col1"  >
+Brown, Jordan 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Lubbock Christian
+</td>
+
+
+
+<td id="col4"  >
+9:56.96
+</td>
+
+
+
+<td id="col5"  >
+Texas State Bobcat Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 29, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+168
+</td>
+
+
+
+<td id="col1"  >
+Mayo, Gage
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western State
+</td>
+
+
+
+<td id="col4"  >
+9:57.80
+</td>
+
+
+
+<td id="col5"  >
+CSU Pueblo Spank Blasing Invite
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+169
+</td>
+
+
+
+<td id="col1"  >
+Anderson, Blake
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+9:58.29
+</td>
+
+
+
+<td id="col5"  >
+2018 Jim Duncan Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+170
+</td>
+
+
+
+<td id="col1"  >
+Trador, Zach
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Nyack
+</td>
+
+
+
+<td id="col4"  >
+9:58.51
+</td>
+
+
+
+<td id="col5"  >
+ Ramapo College Track & Field Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+171
+</td>
+
+
+
+<td id="col1"  >
+Knoll, Grant
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Emporia St.
+</td>
+
+
+
+<td id="col4"  >
+9:58.91
+</td>
+
+
+
+<td id="col5"  >
+Kansas Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+172
+</td>
+
+
+
+<td id="col1"  >
+Hanson, Noah
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Augustana (S.D.)
+</td>
+
+
+
+<td id="col4"  >
+9:59.00
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+173
+</td>
+
+
+
+<td id="col1"  >
+Loeffler, Robert
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+
+
+<td id="col4"  >
+9:59.02
+</td>
+
+
+
+<td id="col5"  >
+2018 Kip Janvrin Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+174
+</td>
+
+
+
+<td id="col1"  >
+Keller, Jonathan
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+North Greenville
+</td>
+
+
+
+<td id="col4"  >
+9:59.12
+</td>
+
+
+
+<td id="col5"  >
+Winthrop Adidas University Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 22, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+175
+</td>
+
+
+
+<td id="col1"  >
+Droste, Tanner
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Davenport
+</td>
+
+
+
+<td id="col4"  >
+10:00.17
+</td>
+
+
+
+<td id="col5"  >
+Bellarmine Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+176
+</td>
+
+
+
+<td id="col1"  >
+Murry, Noah
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Concordia (Ore.)
+</td>
+
+
+
+<td id="col4"  >
+10:00.27
+</td>
+
+
+
+<td id="col5"  >
+2018 GNAC Outdoor Track and Field Championship 
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+177
+</td>
+
+
+
+<td id="col1"  >
+Dowd, Riley
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Stonehill
+</td>
+
+
+
+<td id="col4"  >
+10:00.45
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+178
+</td>
+
+
+
+<td id="col1"  >
+Wagner, Joshua
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Florida Southern
+</td>
+
+
+
+<td id="col4"  >
+10:00.94
+</td>
+
+
+
+<td id="col5"  >
+UCF Black and Gold Challenge
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+179
+</td>
+
+
+
+<td id="col1"  >
+Ciaccio, Thomas
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+East Stroudsburg
+</td>
+
+
+
+<td id="col4"  >
+10:00.96
+</td>
+
+
+
+<td id="col5"  >
+49er Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+180
+</td>
+
+
+
+<td id="col1"  >
+Stansbury, Jake
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+NW Missouri
+</td>
+
+
+
+<td id="col4"  >
+10:01.14
+</td>
+
+
+
+<td id="col5"  >
+Kansas Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+181
+</td>
+
+
+
+<td id="col1"  >
+Hill, Kendall
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Minnesota-Duluth
+</td>
+
+
+
+<td id="col4"  >
+10:01.80
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+182
+</td>
+
+
+
+<td id="col1"  >
+Bruns, Luke 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+10:02.05
+</td>
+
+
+
+<td id="col5"  >
+CU Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+183
+</td>
+
+
+
+<td id="col1"  >
+Ellis, Jarrett
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+
+
+<td id="col4"  >
+10:02.36
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+184
+</td>
+
+
+
+<td id="col1"  >
+Schaller, Aaron 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+10:02.79
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+185
+</td>
+
+
+
+<td id="col1"  >
+Amiabile, Quincy 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mansfield
+</td>
+
+
+
+<td id="col4"  >
+10:02.99
+</td>
+
+
+
+<td id="col5"  >
+PSAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+186
+</td>
+
+
+
+<td id="col1"  >
+Tamminga, Nathaniel
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Azusa Pacific
+</td>
+
+
+
+<td id="col4"  >
+10:03.00
+</td>
+
+
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+187
+</td>
+
+
+
+<td id="col1"  >
+Parker, Matthew
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Black Hills St.
+</td>
+
+
+
+<td id="col4"  >
+10:03.14
+</td>
+
+
+
+<td id="col5"  >
+2018 Tom Benich Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+188
+</td>
+
+
+
+<td id="col1"  >
+Murphy, Connor
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Merrimack
+</td>
+
+
+
+<td id="col4"  >
+10:03.29
+</td>
+
+
+
+<td id="col5"  >
+Assumption - Merrimack Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+189
+</td>
+
+
+
+<td id="col1"  >
+Carter, Brendan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Assumption
+</td>
+
+
+
+<td id="col4"  >
+10:04.19
+</td>
+
+
+
+<td id="col5"  >
+Black & Gold Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+190
+</td>
+
+
+
+<td id="col1"  >
+Capps, Nolan
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Lees-McRae
+</td>
+
+
+
+<td id="col4"  >
+10:04.32
+</td>
+
+
+
+<td id="col5"  >
+Conference Carolinas Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+191
+</td>
+
+
+
+<td id="col1"  >
+Mckenzie, Zach
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Ferris State
+</td>
+
+
+
+<td id="col4"  >
+10:04.61
+</td>
+
+
+
+<td id="col5"  >
+GVSU Al Owens Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+192
+</td>
+
+
+
+<td id="col1"  >
+Boyd, Taryk
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Central Washington
+</td>
+
+
+
+<td id="col4"  >
+10:04.80
+</td>
+
+
+
+<td id="col5"  >
+Saint Martin's Jay Hammer Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+193
+</td>
+
+
+
+<td id="col1"  >
+Ekanger, Alan
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Western Oregon
+</td>
+
+
+
+<td id="col4"  >
+10:05.16
+</td>
+
+
+
+<td id="col5"  >
+John Knight Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+194
+</td>
+
+
+
+<td id="col1"  >
+De LaMelena, Miguel
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Saint Martin's
+</td>
+
+
+
+<td id="col4"  >
+10:05.23
+</td>
+
+
+
+<td id="col5"  >
+WWU Quad Team Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+195
+</td>
+
+
+
+<td id="col1"  >
+Warner, Camren
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Trevecca Nazarene
+</td>
+
+
+
+<td id="col4"  >
+10:05.42
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+196
+</td>
+
+
+
+<td id="col1"  >
+Lawrence, Adam
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+
+
+<td id="col4"  >
+10:05.65
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+197
+</td>
+
+
+
+<td id="col1"  >
+Gatewood, Jacob
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lincoln Memorial
+</td>
+
+
+
+<td id="col4"  >
+10:05.73
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+198
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Aaron 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+MSU-Moorhead
+</td>
+
+
+
+<td id="col4"  >
+10:05.88
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+199
+</td>
+
+
+
+<td id="col1"  >
+Camasso, Anthony
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Seton Hill
+</td>
+
+
+
+<td id="col4"  >
+10:06.30
+</td>
+
+
+
+<td id="col5"  >
+Bethany College Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+200
+</td>
+
+
+
+<td id="col1"  >
+Snyder, David
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Shippensburg
+</td>
+
+
+
+<td id="col4"  >
+10:06.34
+</td>
+
+
+
+<td id="col5"  >
+Shippensburg University Mid-Week College Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+201
+</td>
+
+
+
+<td id="col1"  >
+Mendoza, Tyus
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+MSU-Billings
+</td>
+
+
+
+<td id="col4"  >
+10:06.50
+</td>
+
+
+
+<td id="col5"  >
+WAR XI
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+202
+</td>
+
+
+
+<td id="col1"  >
+Russell, Adam
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+
+
+<td id="col4"  >
+10:06.90
+</td>
+
+
+
+<td id="col5"  >
+2018 Indiana Little State Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+203
+</td>
+
+
+
+<td id="col1"  >
+Bentzel, Harrison
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+U-Mary
+</td>
+
+
+
+<td id="col4"  >
+10:06.92
+</td>
+
+
+
+<td id="col5"  >
+South Dakota Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+204
+</td>
+
+
+
+<td id="col1"  >
+Murray, Ethan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mars Hill
+</td>
+
+
+
+<td id="col4"  >
+10:07.21
+</td>
+
+
+
+<td id="col5"  >
+Mountaineer Open Track Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+205
+</td>
+
+
+
+<td id="col1"  >
+Dennehy, John
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+
+
+<td id="col4"  >
+10:07.51
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+206
+</td>
+
+
+
+<td id="col1"  >
+Elkins, Patrik
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Illinois-Springfield
+</td>
+
+
+
+<td id="col4"  >
+10:07.62
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+206
+</td>
+
+
+
+<td id="col1"  >
+Scullion, Shawn 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Assumption
+</td>
+
+
+
+<td id="col4"  >
+10:07.62
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+208
+</td>
+
+
+
+<td id="col1"  >
+Mostellar, Theodore
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+East Stroudsburg
+</td>
+
+
+
+<td id="col4"  >
+10:07.66
+</td>
+
+
+
+<td id="col5"  >
+Lehigh Games
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+209
+</td>
+
+
+
+<td id="col1"  >
+Richards, Benjamin
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+10:07.80
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+210
+</td>
+
+
+
+<td id="col1"  >
+Hasselquist, Gunnar 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Merrimack
+</td>
+
+
+
+<td id="col4"  >
+10:07.85
+</td>
+
+
+
+<td id="col5"  >
+Assumption - Merrimack Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+211
+</td>
+
+
+
+<td id="col1"  >
+Ormsby, Ean
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+
+
+<td id="col4"  >
+10:08.27
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+212
+</td>
+
+
+
+<td id="col1"  >
+Swepson, Michal
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Catawba
+</td>
+
+
+
+<td id="col4"  >
+10:08.30
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+213
+</td>
+
+
+
+<td id="col1"  >
+Halverson, Damien
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Ferris State
+</td>
+
+
+
+<td id="col4"  >
+10:08.34
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+214
+</td>
+
+
+
+<td id="col1"  >
+Franklin, Peter
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+
+
+<td id="col4"  >
+10:08.58
+</td>
+
+
+
+<td id="col5"  >
+UNK Loper Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+215
+</td>
+
+
+
+<td id="col1"  >
+Clark, Patric
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+American Int'l
+</td>
+
+
+
+<td id="col4"  >
+10:08.83
+</td>
+
+
+
+<td id="col5"  >
+Stonehill Skyhawk Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+216
+</td>
+
+
+
+<td id="col1"  >
+Haupt, Ben
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Northwood (Mich.)
+</td>
+
+
+
+<td id="col4"  >
+10:08.91
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+217
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Erik
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+10:09.02
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+218
+</td>
+
+
+
+<td id="col1"  >
+Sholl, Andrew
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cedarville
+</td>
+
+
+
+<td id="col4"  >
+10:09.06
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+219
+</td>
+
+
+
+<td id="col1"  >
+White, Garrett
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Grand Valley St.
+</td>
+
+
+
+<td id="col4"  >
+10:09.13
+</td>
+
+
+
+<td id="col5"  >
+Bison Outdoor Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+220
+</td>
+
+
+
+<td id="col1"  >
+Mentz, Jared
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Central Missouri
+</td>
+
+
+
+<td id="col4"  >
+10:09.25
+</td>
+
+
+
+<td id="col5"  >
+Bill Williams/Bob Laptad Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+221
+</td>
+
+
+
+<td id="col1"  >
+Wojcuich, Jon
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mount Olive
+</td>
+
+
+
+<td id="col4"  >
+10:09.34
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+222
+</td>
+
+
+
+<td id="col1"  >
+Reed, Xavier
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Lewis
+</td>
+
+
+
+<td id="col4"  >
+10:09.42
+</td>
+
+
+
+<td id="col5"  >
+Hillsdale "GINA" Relays - 52nd Edition
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+223
+</td>
+
+
+
+<td id="col1"  >
+Yoder, Trenton
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Tiffin
+</td>
+
+
+
+<td id="col4"  >
+10:09.98
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+224
+</td>
+
+
+
+<td id="col1"  >
+Elmore, Garrett
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Oklahoma Baptist
+</td>
+
+
+
+<td id="col4"  >
+10:10.11
+</td>
+
+
+
+<td id="col5"  >
+Oklahoma Baptist Early Outdoor Invite
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+225
+</td>
+
+
+
+<td id="col1"  >
+Montemayor, Nate
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Maryville (Mo.)
+</td>
+
+
+
+<td id="col4"  >
+10:10.13
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+226
+</td>
+
+
+
+<td id="col1"  >
+Jenkins, Cheyne
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Malone
+</td>
+
+
+
+<td id="col4"  >
+10:10.17
+</td>
+
+
+
+<td id="col5"  >
+Otterbein Twilight Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+227
+</td>
+
+
+
+<td id="col1"  >
+Miller, Donovan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Northern State
+</td>
+
+
+
+<td id="col4"  >
+10:10.34
+</td>
+
+
+
+<td id="col5"  >
+2018 Kip Janvrin Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+228
+</td>
+
+
+
+<td id="col1"  >
+Parameswaran, Anthony
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+
+
+<td id="col4"  >
+10:10.43
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+229
+</td>
+
+
+
+<td id="col1"  >
+Montoya, Augustine
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+West Alabama
+</td>
+
+
+
+<td id="col4"  >
+10:10.58
+</td>
+
+
+
+<td id="col5"  >
+'Southern Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 9, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+230
+</td>
+
+
+
+<td id="col1"  >
+Davern, John
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+
+
+<td id="col4"  >
+10:11.02
+</td>
+
+
+
+<td id="col5"  >
+Big Red Outdoor Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 29, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+231
+</td>
+
+
+
+<td id="col1"  >
+Dautlick, Michael
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Indiana (Pa.)
+</td>
+
+
+
+<td id="col4"  >
+10:11.11
+</td>
+
+
+
+<td id="col5"  >
+Oliver Nikoloff Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+232
+</td>
+
+
+
+<td id="col1"  >
+Kleiner, Arin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Angelo State
+</td>
+
+
+
+<td id="col4"  >
+10:11.19
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+233
+</td>
+
+
+
+<td id="col1"  >
+Ingalls, Thomas
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Nova Southeastern
+</td>
+
+
+
+<td id="col4"  >
+10:12.04
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+234
+</td>
+
+
+
+<td id="col1"  >
+Trott, Thomas
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Nyack
+</td>
+
+
+
+<td id="col4"  >
+10:12.76
+</td>
+
+
+
+<td id="col5"  >
+2018 CACC Outdoor Track and Field Championship
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+235
+</td>
+
+
+
+<td id="col1"  >
+Masterson, Blain 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Wis.-Parkside
+</td>
+
+
+
+<td id="col4"  >
+10:12.97
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+236
+</td>
+
+
+
+<td id="col1"  >
+Chavis, Derek
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Lenoir-Rhyne
+</td>
+
+
+
+<td id="col4"  >
+10:13.69
+</td>
+
+
+
+<td id="col5"  >
+49er Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+237
+</td>
+
+
+
+<td id="col1"  >
+Knutson, Logan 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+SW Minnesota St.
+</td>
+
+
+
+<td id="col4"  >
+10:14.22
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+238
+</td>
+
+
+
+<td id="col1"  >
+Braswell, Tyler
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Mississippi College
+</td>
+
+
+
+<td id="col4"  >
+10:14.33
+</td>
+
+
+
+<td id="col5"  >
+Mississippi College Season Opener
+</td>
+
+
+
+<td id="col6"  >
+Mar 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+239
+</td>
+
+
+
+<td id="col1"  >
+Moukas, George
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Post
+</td>
+
+
+
+<td id="col4"  >
+10:14.47
+</td>
+
+
+
+<td id="col5"  >
+2018 CACC Outdoor Track and Field Championship
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+240
+</td>
+
+
+
+<td id="col1"  >
+Parr, Patrick 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Georgian Court
+</td>
+
+
+
+<td id="col4"  >
+10:14.61
+</td>
+
+
+
+<td id="col5"  >
+2018 CACC Outdoor Track and Field Championship
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+241
+</td>
+
+
+
+<td id="col1"  >
+Sheets, Michael
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Bellarmine
+</td>
+
+
+
+<td id="col4"  >
+10:15.04
+</td>
+
+
+
+<td id="col5"  >
+GLVC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+242
+</td>
+
+
+
+<td id="col1"  >
+Chac, Bryan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Truman
+</td>
+
+
+
+<td id="col4"  >
+10:15.07
+</td>
+
+
+
+<td id="col5"  >
+Central Methodist Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+243
+</td>
+
+
+
+<td id="col1"  >
+Helm, Keaton
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+10:15.29
+</td>
+
+
+
+<td id="col5"  >
+Jerry Quiller Classic 2018
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+244
+</td>
+
+
+
+<td id="col1"  >
+Bryan, Brandon
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Lake Erie
+</td>
+
+
+
+<td id="col4"  >
+10:15.34
+</td>
+
+
+
+<td id="col5"  >
+Walsh Cavaliers Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+245
+</td>
+
+
+
+<td id="col1"  >
+Grambihler, Kyle
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Western State
+</td>
+
+
+
+<td id="col4"  >
+10:15.53
+</td>
+
+
+
+<td id="col5"  >
+CSU Pueblo Spank Blasing Invite
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+246
+</td>
+
+
+
+<td id="col1"  >
+Schilter, Levi
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Saint Martin's
+</td>
+
+
+
+<td id="col4"  >
+10:16.34
+</td>
+
+
+
+<td id="col5"  >
+Puget Sound Shotwell Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+247
+</td>
+
+
+
+<td id="col1"  >
+Tabor, Ben
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lee (Tenn.)
+</td>
+
+
+
+<td id="col4"  >
+10:16.52
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+248
+</td>
+
+
+
+<td id="col1"  >
+Rohan, Carson
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Truman
+</td>
+
+
+
+<td id="col4"  >
+10:16.68
+</td>
+
+
+
+<td id="col5"  >
+Central Methodist Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+249
+</td>
+
+
+
+<td id="col1"  >
+Rock, Kieran
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Adelphi
+</td>
+
+
+
+<td id="col4"  >
+10:17.00
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+250
+</td>
+
+
+
+<td id="col1"  >
+Ingram, Connor
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Ashland
+</td>
+
+
+
+<td id="col4"  >
+10:17.64
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+251
+</td>
+
+
+
+<td id="col1"  >
+Wyngaard, Parker
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Lake Superior State
+</td>
+
+
+
+<td id="col4"  >
+10:17.67
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+252
+</td>
+
+
+
+<td id="col1"  >
+Albright, Spencer
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Spring Hill
+</td>
+
+
+
+<td id="col4"  >
+10:17.70
+</td>
+
+
+
+<td id="col5"  >
+'Southern Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 9, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+253
+</td>
+
+
+
+<td id="col1"  >
+Burkwald, Cory
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+
+
+<td id="col4"  >
+10:18.07
+</td>
+
+
+
+<td id="col5"  >
+North Central College Dr. Keeler Meet
+</td>
+
+
+
+<td id="col6"  >
+May 10, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+254
+</td>
+
+
+
+<td id="col1"  >
+Barrett, Camden
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+10:18.10
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+255
+</td>
+
+
+
+<td id="col1"  >
+Luecke, Evan
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+TAMU-Commerce
+</td>
+
+
+
+<td id="col4"  >
+10:18.46
+</td>
+
+
+
+<td id="col5"  >
+UTA Bobby Lane Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+256
+</td>
+
+
+
+<td id="col1"  >
+Gibson, Daniel
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Augusta
+</td>
+
+
+
+<td id="col4"  >
+10:18.74
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+257
+</td>
+
+
+
+<td id="col1"  >
+Haglund, Matthew
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Western Oregon
+</td>
+
+
+
+<td id="col4"  >
+10:19.07
+</td>
+
+
+
+<td id="col5"  >
+John Knight Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+258
+</td>
+
+
+
+<td id="col1"  >
+Berg, Joseph 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Florida Tech
+</td>
+
+
+
+<td id="col4"  >
+10:19.68
+</td>
+
+
+
+<td id="col5"  >
+Embry-Riddle Spike's Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+259
+</td>
+
+
+
+<td id="col1"  >
+Drummond, John
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Anderson (S.C.)
+</td>
+
+
+
+<td id="col4"  >
+10:19.81
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+260
+</td>
+
+
+
+<td id="col1"  >
+Jones, Will
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Nebraska-Kearney
+</td>
+
+
+
+<td id="col4"  >
+10:19.98
+</td>
+
+
+
+<td id="col5"  >
+Prairie Wolf Outdoor Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+261
+</td>
+
+
+
+<td id="col1"  >
+Mirtile, Ian
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+St. Thomas Aquinas
+</td>
+
+
+
+<td id="col4"  >
+10:20.21
+</td>
+
+
+
+<td id="col5"  >
+2018 Lafayette 8-Way Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+262
+</td>
+
+
+
+<td id="col1"  >
+Reimund, Alexander
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Walsh
+</td>
+
+
+
+<td id="col4"  >
+10:20.32
+</td>
+
+
+
+<td id="col5"  >
+Ashland Alumni Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+263
+</td>
+
+
+
+<td id="col1"  >
+Danielson, Clay
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Northern State
+</td>
+
+
+
+<td id="col4"  >
+10:20.96
+</td>
+
+
+
+<td id="col5"  >
+2018 NSU Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+264
+</td>
+
+
+
+<td id="col1"  >
+Silva De La Pena, Rodrigo
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Wingate
+</td>
+
+
+
+<td id="col4"  >
+10:21.88
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+265
+</td>
+
+
+
+<td id="col1"  >
+Nabatov, Elliot
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Illinois-Springfield
+</td>
+
+
+
+<td id="col4"  >
+10:22.05
+</td>
+
+
+
+<td id="col5"  >
+Southwestern College Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+266
+</td>
+
+
+
+<td id="col1"  >
+Haynes, Samuel 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+10:22.70
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+267
+</td>
+
+
+
+<td id="col1"  >
+Raftis, Anthony
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Queens (N.C.)
+</td>
+
+
+
+<td id="col4"  >
+10:22.90
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+268
+</td>
+
+
+
+<td id="col1"  >
+Rahmeto, Feysel
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Fort Hays St.
+</td>
+
+
+
+<td id="col4"  >
+10:22.97
+</td>
+
+
+
+<td id="col5"  >
+Alex Francis Classic College Division
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+269
+</td>
+
+
+
+<td id="col1"  >
+Mosher, Steven
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Adelphi
+</td>
+
+
+
+<td id="col4"  >
+10:23.07
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+270
+</td>
+
+
+
+<td id="col1"  >
+Tallent, Cody
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Franklin Pierce
+</td>
+
+
+
+<td id="col4"  >
+10:23.21
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+271
+</td>
+
+
+
+<td id="col1"  >
+Pulver, Colton
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Western Washington
+</td>
+
+
+
+<td id="col4"  >
+10:23.30
+</td>
+
+
+
+<td id="col5"  >
+Saint Martin's Jay Hammer Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+272
+</td>
+
+
+
+<td id="col1"  >
+Bolander, Louis 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Eastern New Mexico
+</td>
+
+
+
+<td id="col4"  >
+10:25.12
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+273
+</td>
+
+
+
+<td id="col1"  >
+Reichl, Braden
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+
+
+<td id="col4"  >
+10:26.05
+</td>
+
+
+
+<td id="col5"  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+274
+</td>
+
+
+
+<td id="col1"  >
+Hovis, Brooks
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+North Greenville
+</td>
+
+
+
+<td id="col4"  >
+10:26.49
+</td>
+
+
+
+<td id="col5"  >
+Conference Carolinas Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+274
+</td>
+
+
+
+<td id="col1"  >
+Martinez, Steeven
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+TAMU-Commerce
+</td>
+
+
+
+<td id="col4"  >
+10:26.49
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+276
+</td>
+
+
+
+<td id="col1"  >
+Porter, Ryan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lewis
+</td>
+
+
+
+<td id="col4"  >
+10:27.24
+</td>
+
+
+
+<td id="col5"  >
+Hillsdale "GINA" Relays - 52nd Edition
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+277
+</td>
+
+
+
+<td id="col1"  >
+Huff, Tyreece
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Virginia State
+</td>
+
+
+
+<td id="col4"  >
+10:27.57
+</td>
+
+
+
+<td id="col5"  >
+2018 Colonial Relays 
+</td>
+
+
+
+<td id="col6"  >
+Apr 5, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+278
+</td>
+
+
+
+<td id="col1"  >
+Basinski, Chris
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Central Missouri
+</td>
+
+
+
+<td id="col4"  >
+10:27.79
+</td>
+
+
+
+<td id="col5"  >
+UCM Mule Relays
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+279
+</td>
+
+
+
+<td id="col1"  >
+Kirk, Toby
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Eastern New Mexico
+</td>
+
+
+
+<td id="col4"  >
+10:27.97
+</td>
+
+
+
+<td id="col5"  >
+Lone Star Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+280
+</td>
+
+
+
+<td id="col1"  >
+Maroni, Justin 
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Walsh
+</td>
+
+
+
+<td id="col4"  >
+10:28.46
+</td>
+
+
+
+<td id="col5"  >
+Ashland Alumni Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+281
+</td>
+
+
+
+<td id="col1"  >
+Nesland, Scott
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Alderson Broaddus
+</td>
+
+
+
+<td id="col4"  >
+10:29.12
+</td>
+
+
+
+<td id="col5"  >
+Brandi Bowen Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+282
+</td>
+
+
+
+<td id="col1"  >
+Poulson, Trevor
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+
+
+<td id="col4"  >
+10:29.33
+</td>
+
+
+
+<td id="col5"  >
+2018 Louisiana Classics
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+283
+</td>
+
+
+
+<td id="col1"  >
+Horwat, James
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Pitt.-Johnstown
+</td>
+
+
+
+<td id="col4"  >
+10:30.29
+</td>
+
+
+
+<td id="col5"  >
+Westminster Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+284
+</td>
+
+
+
+<td id="col1"  >
+Ronoh, Kelvin
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Carson-Newman
+</td>
+
+
+
+<td id="col4"  >
+10:30.33
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+285
+</td>
+
+
+
+<td id="col1"  >
+Moes, Caleb
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Emporia St.
+</td>
+
+
+
+<td id="col4"  >
+10:30.70
+</td>
+
+
+
+<td id="col5"  >
+Emporia State Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+286
+</td>
+
+
+
+<td id="col1"  >
+Dixon, Riley
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Anderson (S.C.)
+</td>
+
+
+
+<td id="col4"  >
+10:31.02
+</td>
+
+
+
+<td id="col5"  >
+Weems Baskin Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+287
+</td>
+
+
+
+<td id="col1"  >
+Bautista-Catalan, Duvan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Ashland
+</td>
+
+
+
+<td id="col4"  >
+10:31.38
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+288
+</td>
+
+
+
+<td id="col1"  >
+Brady, Cooper
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+10:31.49
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+289
+</td>
+
+
+
+<td id="col1"  >
+Tropeck, Cody
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+10:31.82
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+290
+</td>
+
+
+
+<td id="col1"  >
+Feeney, Damian
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+TAMU-Kingsville
+</td>
+
+
+
+<td id="col4"  >
+10:32.18
+</td>
+
+
+
+<td id="col5"  >
+Victor Lopez Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 22, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+291
+</td>
+
+
+
+<td id="col1"  >
+Lopez, Andrew
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+East Stroudsburg
+</td>
+
+
+
+<td id="col4"  >
+10:32.43
+</td>
+
+
+
+<td id="col5"  >
+Lehigh Games
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+292
+</td>
+
+
+
+<td id="col1"  >
+Null, Michael 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Glenville St.
+</td>
+
+
+
+<td id="col4"  >
+10:32.56
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+293
+</td>
+
+
+
+<td id="col1"  >
+Howlett, Derrick
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Saint Martin's
+</td>
+
+
+
+<td id="col4"  >
+10:32.97
+</td>
+
+
+
+<td id="col5"  >
+WWU Quad Team Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+294
+</td>
+
+
+
+<td id="col1"  >
+Carpenter, Andrew
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Embry-Riddle
+</td>
+
+
+
+<td id="col4"  >
+10:33.12
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+294
+</td>
+
+
+
+<td id="col1"  >
+Lopez, Josue
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Southern Arkansas
+</td>
+
+
+
+<td id="col4"  >
+10:33.12
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+296
+</td>
+
+
+
+<td id="col1"  >
+Kiptoo, Hosea 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+10:33.13
+</td>
+
+
+
+<td id="col5"  >
+Great American Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+297
+</td>
+
+
+
+<td id="col1"  >
+Hobbs, Skyler
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Westminster (Utah)
+</td>
+
+
+
+<td id="col4"  >
+10:33.34
+</td>
+
+
+
+<td id="col5"  >
+Mark Faldmo Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+298
+</td>
+
+
+
+<td id="col1"  >
+Barker, Caleb
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Northwood (Mich.)
+</td>
+
+
+
+<td id="col4"  >
+10:33.48
+</td>
+
+
+
+<td id="col5"  >
+Hillsdale "GINA" Relays - 52nd Edition
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+299
+</td>
+
+
+
+<td id="col1"  >
+Guthrie, Austin
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Findlay
+</td>
+
+
+
+<td id="col4"  >
+10:34.54
+</td>
+
+
+
+<td id="col5"  >
+Miami Duals
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+300
+</td>
+
+
+
+<td id="col1"  >
+Evans, Jackson
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Maryville (Mo.)
+</td>
+
+
+
+<td id="col4"  >
+10:35.27
+</td>
+
+
+
+<td id="col5"  >
+Mo. S&T Dewey Allgood Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+301
+</td>
+
+
+
+<td id="col1"  >
+Resor, Nick
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Mars Hill
+</td>
+
+
+
+<td id="col4"  >
+10:35.81
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+302
+</td>
+
+
+
+<td id="col1"  >
+Bunch, Corey
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+10:36.48
+</td>
+
+
+
+<td id="col5"  >
+Duke Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+303
+</td>
+
+
+
+<td id="col1"  >
+Ittari, Matteo
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Molloy
+</td>
+
+
+
+<td id="col4"  >
+10:38.77
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+304
+</td>
+
+
+
+<td id="col1"  >
+Ashcraft , Jacob 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+10:39.11
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+305
+</td>
+
+
+
+<td id="col1"  >
+Vazquez, Vincent
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+St. Thomas Aquinas
+</td>
+
+
+
+<td id="col4"  >
+10:39.59
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+306
+</td>
+
+
+
+<td id="col1"  >
+Hayward, Tyler 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Post
+</td>
+
+
+
+<td id="col4"  >
+10:39.64
+</td>
+
+
+
+<td id="col5"  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+307
+</td>
+
+
+
+<td id="col1"  >
+Reynolds, Nick
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Illinois-Springfield
+</td>
+
+
+
+<td id="col4"  >
+10:39.84
+</td>
+
+
+
+<td id="col5"  >
+Emporia State Spring Invite
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+308
+</td>
+
+
+
+<td id="col1"  >
+Workman, Zachary
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Lake Superior State
+</td>
+
+
+
+<td id="col4"  >
+10:40.13
+</td>
+
+
+
+<td id="col5"  >
+Spartan Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+309
+</td>
+
+
+
+<td id="col1"  >
+Barinelli, Anthony
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Franklin Pierce
+</td>
+
+
+
+<td id="col4"  >
+10:40.27
+</td>
+
+
+
+<td id="col5"  >
+CCSU Track & FIeld Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+310
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Justin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Missouri S&T
+</td>
+
+
+
+<td id="col4"  >
+10:40.49
+</td>
+
+
+
+<td id="col5"  >
+Bill Williams/Bob Laptad Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+311
+</td>
+
+
+
+<td id="col1"  >
+Tullo, Carson
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+
+
+<td id="col4"  >
+10:40.97
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+312
+</td>
+
+
+
+<td id="col1"  >
+Sayers-O'Neill, Anthony
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+
+
+<td id="col4"  >
+10:41.36
+</td>
+
+
+
+<td id="col5"  >
+High Point VertKlasse
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+313
+</td>
+
+
+
+<td id="col1"  >
+Letellier, Jack
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Merrimack
+</td>
+
+
+
+<td id="col4"  >
+10:41.63
+</td>
+
+
+
+<td id="col5"  >
+Assumption - Merrimack Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+314
+</td>
+
+
+
+<td id="col1"  >
+Shirey, Caleb 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+10:42.56
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+315
+</td>
+
+
+
+<td id="col1"  >
+Turbush, Brandon
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+New Haven
+</td>
+
+
+
+<td id="col4"  >
+10:43.57
+</td>
+
+
+
+<td id="col5"  >
+Yale Springtime Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 29, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+316
+</td>
+
+
+
+<td id="col1"  >
+Polley, Zach
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Dallas Baptist
+</td>
+
+
+
+<td id="col4"  >
+10:44.41
+</td>
+
+
+
+<td id="col5"  >
+UTA Bobby Lane Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+317
+</td>
+
+
+
+<td id="col1"  >
+Canales, Lucas
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Daemen
+</td>
+
+
+
+<td id="col4"  >
+10:45.42
+</td>
+
+
+
+<td id="col5"  >
+University at Buffalo Track & Field Invite 
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+318
+</td>
+
+
+
+<td id="col1"  >
+Strong, Denver
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+William Jewell
+</td>
+
+
+
+<td id="col4"  >
+10:45.84
+</td>
+
+
+
+<td id="col5"  >
+William Jewell Darrel Gourley
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+319
+</td>
+
+
+
+<td id="col1"  >
+Beason, Jackson
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Tusculum
+</td>
+
+
+
+<td id="col4"  >
+10:45.94
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+320
+</td>
+
+
+
+<td id="col1"  >
+Buytenhuys, Jonathan
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Lock Haven
+</td>
+
+
+
+<td id="col4"  >
+10:47.08
+</td>
+
+
+
+<td id="col5"  >
+Bucknell Team Challenge
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+321
+</td>
+
+
+
+<td id="col1"  >
+Calogero, Kyle
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Mansfield
+</td>
+
+
+
+<td id="col4"  >
+10:47.11
+</td>
+
+
+
+<td id="col5"  >
+Fred Hardy Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+322
+</td>
+
+
+
+<td id="col1"  >
+Hosey, Jordan 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+West Liberty
+</td>
+
+
+
+<td id="col4"  >
+10:47.90
+</td>
+
+
+
+<td id="col5"  >
+Mountain East Conference Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+323
+</td>
+
+
+
+<td id="col1"  >
+Olsen, Payton
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Westminster (Utah)
+</td>
+
+
+
+<td id="col4"  >
+10:48.12
+</td>
+
+
+
+<td id="col5"  >
+Mark Faldmo Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+324
+</td>
+
+
+
+<td id="col1"  >
+Bodnar, Joshua 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Daemen
+</td>
+
+
+
+<td id="col4"  >
+10:48.48
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+325
+</td>
+
+
+
+<td id="col1"  >
+Diaz, Christian
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+St. Thomas Aquinas
+</td>
+
+
+
+<td id="col4"  >
+10:48.82
+</td>
+
+
+
+<td id="col5"  >
+Rider Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+326
+</td>
+
+
+
+<td id="col1"  >
+Haggerty, Justin
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Belmont Abbey
+</td>
+
+
+
+<td id="col4"  >
+10:49.22
+</td>
+
+
+
+<td id="col5"  >
+Phoenix Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+327
+</td>
+
+
+
+<td id="col1"  >
+Kohout, Ryan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Findlay
+</td>
+
+
+
+<td id="col4"  >
+10:49.47
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+328
+</td>
+
+
+
+<td id="col1"  >
+O'Farrell, Kyle
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Maryville (Mo.)
+</td>
+
+
+
+<td id="col4"  >
+10:50.37
+</td>
+
+
+
+<td id="col5"  >
+True Blue Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+329
+</td>
+
+
+
+<td id="col1"  >
+Drummond, Matthew
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Assumption
+</td>
+
+
+
+<td id="col4"  >
+10:51.02
+</td>
+
+
+
+<td id="col5"  >
+Northeast-10 Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 4, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+330
+</td>
+
+
+
+<td id="col1"  >
+Higginbotham, Riley
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Clayton State
+</td>
+
+
+
+<td id="col4"  >
+10:51.27
+</td>
+
+
+
+<td id="col5"  >
+Peach Belt Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+331
+</td>
+
+
+
+<td id="col1"  >
+James, D'Shaun
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Albany State
+</td>
+
+
+
+<td id="col4"  >
+10:51.45
+</td>
+
+
+
+<td id="col5"  >
+Berry Field Day Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+332
+</td>
+
+
+
+<td id="col1"  >
+Kirwa, Danson
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Nyack
+</td>
+
+
+
+<td id="col4"  >
+10:52.76
+</td>
+
+
+
+<td id="col5"  >
+2018 CACC Outdoor Track and Field Championship
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+333
+</td>
+
+
+
+<td id="col1"  >
+Slater, Hunter
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Indianapolis
+</td>
+
+
+
+<td id="col4"  >
+10:53.37
+</td>
+
+
+
+<td id="col5"  >
+RedHawk Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+334
+</td>
+
+
+
+<td id="col1"  >
+Henry, Zack
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Wheeling Jesuit
+</td>
+
+
+
+<td id="col4"  >
+10:53.70
+</td>
+
+
+
+<td id="col5"  >
+Bethany College Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 31, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+335
+</td>
+
+
+
+<td id="col1"  >
+Kaufman, Rylan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Tarleton State
+</td>
+
+
+
+<td id="col4"  >
+10:53.96
+</td>
+
+
+
+<td id="col5"  >
+ACU Oliver Jackson Twilight 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 26, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+336
+</td>
+
+
+
+<td id="col1"  >
+Fleming, Lance
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+LeMoyne-Owen
+</td>
+
+
+
+<td id="col4"  >
+10:54.10
+</td>
+
+
+
+<td id="col5"  >
+Mississippi State Bulldog Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+337
+</td>
+
+
+
+<td id="col1"  >
+Wilson, Quinn
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Newberry
+</td>
+
+
+
+<td id="col4"  >
+10:55.73
+</td>
+
+
+
+<td id="col5"  >
+Terrier Relays 2018
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+338
+</td>
+
+
+
+<td id="col1"  >
+Cavender , Austin 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Kentucky Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+10:56.15
+</td>
+
+
+
+<td id="col5"  >
+Bellarmine Classic 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+339
+</td>
+
+
+
+<td id="col1"  >
+Hilburn, Austin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Wingate
+</td>
+
+
+
+<td id="col4"  >
+10:56.49
+</td>
+
+
+
+<td id="col5"  >
+Gamecock Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 7, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+340
+</td>
+
+
+
+<td id="col1"  >
+McGregor, Frank
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Chestnut Hill
+</td>
+
+
+
+<td id="col4"  >
+10:56.93
+</td>
+
+
+
+<td id="col5"  >
+Oscar Moore Track and Field Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+341
+</td>
+
+
+
+<td id="col1"  >
+Hanson, Anders
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Colo. Christian
+</td>
+
+
+
+<td id="col4"  >
+10:57.03
+</td>
+
+
+
+<td id="col5"  >
+Mines Kit Mayer Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+342
+</td>
+
+
+
+<td id="col1"  >
+McKinley, Cameron
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Carson-Newman
+</td>
+
+
+
+<td id="col4"  >
+10:57.27
+</td>
+
+
+
+<td id="col5"  >
+South Atlantic Conference Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+343
+</td>
+
+
+
+<td id="col1"  >
+Kulkarni, Kavi
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Saginaw Valley
+</td>
+
+
+
+<td id="col4"  >
+10:57.61
+</td>
+
+
+
+<td id="col5"  >
+GVSU Al Owens Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+344
+</td>
+
+
+
+<td id="col1"  >
+Romano, Adam 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+10:58.11
+</td>
+
+
+
+<td id="col5"  >
+Brandi Bowen Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+345
+</td>
+
+
+
+<td id="col1"  >
+Coffee, Gavin
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+West Texas A&M
+</td>
+
+
+
+<td id="col4"  >
+10:58.92
+</td>
+
+
+
+<td id="col5"  >
+WT Classic & Multi
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+346
+</td>
+
+
+
+<td id="col1"  >
+Bostic, Jacob
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Limestone
+</td>
+
+
+
+<td id="col4"  >
+10:59.48
+</td>
+
+
+
+<td id="col5"  >
+Weems Baskin Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+347
+</td>
+
+
+
+<td id="col1"  >
+Haynie, Curtis
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+UNC Pembroke
+</td>
+
+
+
+<td id="col4"  >
+11:00.27
+</td>
+
+
+
+<td id="col5"  >
+High Point VertKlasse
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+348
+</td>
+
+
+
+<td id="col1"  >
+Crider, Kramer
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+
+
+<td id="col4"  >
+11:00.33
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+349
+</td>
+
+
+
+<td id="col1"  >
+Craun, Tanner
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Roberts Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+11:02.95
+</td>
+
+
+
+<td id="col5"  >
+2018 ECC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+350
+</td>
+
+
+
+<td id="col1"  >
+Penaranda, Daniel 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Florida Tech
+</td>
+
+
+
+<td id="col4"  >
+11:02.99
+</td>
+
+
+
+<td id="col5"  >
+UCF Black and Gold Challenge
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+351
+</td>
+
+
+
+<td id="col1"  >
+Reimund, Nick
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Ashland
+</td>
+
+
+
+<td id="col4"  >
+11:03.23
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+352
+</td>
+
+
+
+<td id="col1"  >
+Scrima, Arthur 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Nyack
+</td>
+
+
+
+<td id="col4"  >
+11:04.45
+</td>
+
+
+
+<td id="col5"  >
+Widener Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 20, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+353
+</td>
+
+
+
+<td id="col1"  >
+Gaines, Dylan
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Michigan Tech
+</td>
+
+
+
+<td id="col4"  >
+11:05.43
+</td>
+
+
+
+<td id="col5"  >
+St. Norbert Quad
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+354
+</td>
+
+
+
+<td id="col1"  >
+Etienne, Clivensky 
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Queens (N.Y.)
+</td>
+
+
+
+<td id="col4"  >
+11:05.54
+</td>
+
+
+
+<td id="col5"  >
+ Ramapo College Track & Field Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 30, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+355
+</td>
+
+
+
+<td id="col1"  >
+Maher, Daniel
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Tiffin
+</td>
+
+
+
+<td id="col4"  >
+11:07.57
+</td>
+
+
+
+<td id="col5"  >
+GLIAC Outdoor Track & Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 2, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+356
+</td>
+
+
+
+<td id="col1"  >
+Stewart, Tyler
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Wheeling Jesuit
+</td>
+
+
+
+<td id="col4"  >
+11:08.32
+</td>
+
+
+
+<td id="col5"  >
+14th Annual Paul Kaiser Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+357
+</td>
+
+
+
+<td id="col1"  >
+Klein, Nick
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Alabama-Huntsville
+</td>
+
+
+
+<td id="col4"  >
+11:10.89
+</td>
+
+
+
+<td id="col5"  >
+Gulf South Conference Track Championships
+</td>
+
+
+
+<td id="col6"  >
+Apr 19, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+358
+</td>
+
+
+
+<td id="col1"  >
+Lindstrom, Alexander
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Pitt.-Johnstown
+</td>
+
+
+
+<td id="col4"  >
+11:11.61
+</td>
+
+
+
+<td id="col5"  >
+14th Annual Paul Kaiser Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+359
+</td>
+
+
+
+<td id="col1"  >
+Heaster, Trey
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Charleston (W.V.)
+</td>
+
+
+
+<td id="col4"  >
+11:13.33
+</td>
+
+
+
+<td id="col5"  >
+Brandi Bowen Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+360
+</td>
+
+
+
+<td id="col1"  >
+Witkowski, Rory
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Belmont Abbey
+</td>
+
+
+
+<td id="col4"  >
+11:14.72
+</td>
+
+
+
+<td id="col5"  >
+SWU Susan Rouse Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+361
+</td>
+
+
+
+<td id="col1"  >
+Wright, Cole
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+West Liberty
+</td>
+
+
+
+<td id="col4"  >
+11:14.86
+</td>
+
+
+
+<td id="col5"  >
+Bethany Mini Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+362
+</td>
+
+
+
+<td id="col1"  >
+Gibbs, David
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Cedarville
+</td>
+
+
+
+<td id="col4"  >
+11:14.88
+</td>
+
+
+
+<td id="col5"  >
+RedHawk Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+363
+</td>
+
+
+
+<td id="col1"  >
+Wong, Nathaniel
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Cal Baptist
+</td>
+
+
+
+<td id="col4"  >
+11:15.19
+</td>
+
+
+
+<td id="col5"  >
+PacWest Outdoor Track & Field Championship
+</td>
+
+
+
+<td id="col6"  >
+Apr 27, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+364
+</td>
+
+
+
+<td id="col1"  >
+WHITE, JELANI
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Tuskegee
+</td>
+
+
+
+<td id="col4"  >
+11:16.80
+</td>
+
+
+
+<td id="col5"  >
+Falcon Classic & Multi
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+365
+</td>
+
+
+
+<td id="col1"  >
+McCoy, Gus
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Harding
+</td>
+
+
+
+<td id="col4"  >
+11:17.35
+</td>
+
+
+
+<td id="col5"  >
+Little Rock Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+366
+</td>
+
+
+
+<td id="col1"  >
+Ostrofsky, Jack
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Adelphi
+</td>
+
+
+
+<td id="col4"  >
+11:19.56
+</td>
+
+
+
+<td id="col5"  >
+Dr. Jack M. Toms Alumni Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+367
+</td>
+
+
+
+<td id="col1"  >
+Price, Connor
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Le Moyne
+</td>
+
+
+
+<td id="col4"  >
+11:19.73
+</td>
+
+
+
+<td id="col5"  >
+SLU Twilight Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+368
+</td>
+
+
+
+<td id="col1"  >
+Iraheta, Edwin
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Sioux Falls
+</td>
+
+
+
+<td id="col4"  >
+11:20.12
+</td>
+
+
+
+<td id="col5"  >
+Northern Sun Intercollegiate Conference Championships
+</td>
+
+
+
+<td id="col6"  >
+May 11, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+369
+</td>
+
+
+
+<td id="col1"  >
+Strand, Matt
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+11:20.65
+</td>
+
+
+
+<td id="col5"  >
+Alan Connie Shamrock Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+370
+</td>
+
+
+
+<td id="col1"  >
+Tidwell, Alex
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Wingate
+</td>
+
+
+
+<td id="col4"  >
+11:22.46
+</td>
+
+
+
+<td id="col5"  >
+49er Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 15, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+371
+</td>
+
+
+
+<td id="col1"  >
+Jones, Tyreese
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Livingstone
+</td>
+
+
+
+<td id="col4"  >
+11:27.91
+</td>
+
+
+
+<td id="col5"  >
+2018 Trojan Challenge
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+372
+</td>
+
+
+
+<td id="col1"  >
+Genao, Edward
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Belmont Abbey
+</td>
+
+
+
+<td id="col4"  >
+11:28.11
+</td>
+
+
+
+<td id="col5"  >
+USC Open
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+373
+</td>
+
+
+
+<td id="col1"  >
+Barbera , Andrew 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Concord
+</td>
+
+
+
+<td id="col4"  >
+11:28.63
+</td>
+
+
+
+<td id="col5"  >
+Jasmine Clagget Memorial
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+374
+</td>
+
+
+
+<td id="col1"  >
+Toney, Michael 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Livingstone
+</td>
+
+
+
+<td id="col4"  >
+11:30.49
+</td>
+
+
+
+<td id="col5"  >
+Braves Track Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+375
+</td>
+
+
+
+<td id="col1"  >
+Ray, Andrew
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Limestone
+</td>
+
+
+
+<td id="col4"  >
+11:31.79
+</td>
+
+
+
+<td id="col5"  >
+Weems Baskin Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+376
+</td>
+
+
+
+<td id="col1"  >
+Appleby, Timothy 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Trevecca Nazarene
+</td>
+
+
+
+<td id="col4"  >
+11:32.31
+</td>
+
+
+
+<td id="col5"  >
+G-MAC Outdoor Track and Field Championships
+</td>
+
+
+
+<td id="col6"  >
+May 3, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+377
+</td>
+
+
+
+<td id="col1"  >
+Ronoh, Jeremmy
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Morehouse
+</td>
+
+
+
+<td id="col4"  >
+11:35.41
+</td>
+
+
+
+<td id="col5"  >
+Charleston Southern University Spring Break Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+378
+</td>
+
+
+
+<td id="col1"  >
+Johnson, Jonathan
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Kentucky Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+11:36.17
+</td>
+
+
+
+<td id="col5"  >
+Bellarmine Classic 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+379
+</td>
+
+
+
+<td id="col1"  >
+Bell, Zachary
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Merrimack
+</td>
+
+
+
+<td id="col4"  >
+11:37.90
+</td>
+
+
+
+<td id="col5"  >
+Stonehill Skyhawk Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+380
+</td>
+
+
+
+<td id="col1"  >
+Rush, Juantre
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Bowie State
+</td>
+
+
+
+<td id="col4"  >
+11:45.70
+</td>
+
+
+
+<td id="col5"  >
+Johnson C. Smith University Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+381
+</td>
+
+
+
+<td id="col1"  >
+Dutt, Jason
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Chestnut Hill
+</td>
+
+
+
+<td id="col4"  >
+11:49.51
+</td>
+
+
+
+<td id="col5"  >
+2018 CACC Outdoor Track and Field Championship
+</td>
+
+
+
+<td id="col6"  >
+May 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+382
+</td>
+
+
+
+<td id="col1"  >
+Stephenson, Travon
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Kentucky State
+</td>
+
+
+
+<td id="col4"  >
+11:56.52
+</td>
+
+
+
+<td id="col5"  >
+Centre College Track & Field Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+383
+</td>
+
+
+
+<td id="col1"  >
+Johanneman, Mark
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Kentucky State
+</td>
+
+
+
+<td id="col4"  >
+11:56.55
+</td>
+
+
+
+<td id="col5"  >
+Margaret Simmons Invitational
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+384
+</td>
+
+
+
+<td id="col1"  >
+Jones Jr, Corey 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Kentucky State
+</td>
+
+
+
+<td id="col4"  >
+11:58.41
+</td>
+
+
+
+<td id="col5"  >
+Centre College Track & Field Twilight
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+385
+</td>
+
+
+
+<td id="col1"  >
+Kiprop, Kelvin
+</td>
+
+
+
+<td id="col2"  >
+SR-4
+</td>
+
+
+
+<td id="col3"  >
+Nyack
+</td>
+
+
+
+<td id="col4"  >
+12:01.69
+</td>
+
+
+
+<td id="col5"  >
+Osprey Open and Multi Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 13, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+386
+</td>
+
+
+
+<td id="col1"  >
+Dang, Jason
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Clayton State
+</td>
+
+
+
+<td id="col4"  >
+12:04.81
+</td>
+
+
+
+<td id="col5"  >
+Berry Field Day Invitational
+</td>
+
+
+
+<td id="col6"  >
+Apr 6, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+387
+</td>
+
+
+
+<td id="col1"  >
+Bergan, Tory
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Minot State
+</td>
+
+
+
+<td id="col4"  >
+12:08.49
+</td>
+
+
+
+<td id="col5"  >
+Mines Kit Mayer Invite
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+388
+</td>
+
+
+
+<td id="col1"  >
+Avila, Giovanni
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Lane
+</td>
+
+
+
+<td id="col4"  >
+12:25.40
+</td>
+
+
+
+<td id="col5"  >
+Mississippi State Bulldog Relays
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+389
+</td>
+
+
+
+<td id="col1"  >
+Lattgua, Devin 
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+Caldwell
+</td>
+
+
+
+<td id="col4"  >
+12:38.53
+</td>
+
+
+
+<td id="col5"  >
+13th Annual All American Invitational/Open Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 21, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+390
+</td>
+
+
+
+<td id="col1"  >
+Bell, Robert 
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Pitt.-Johnstown
+</td>
+
+
+
+<td id="col4"  >
+12:38.64
+</td>
+
+
+
+<td id="col5"  >
+14th Annual Paul Kaiser Classic
+</td>
+
+
+
+<td id="col6"  >
+Apr 28, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+391
+</td>
+
+
+
+<td id="col1"  >
+Soignet, Darvy
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+Belmont Abbey
+</td>
+
+
+
+<td id="col4"  >
+12:42.20
+</td>
+
+
+
+<td id="col5"  >
+Phoenix Invitational 2018
+</td>
+
+
+
+<td id="col6"  >
+Apr 14, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+392
+</td>
+
+
+
+<td id="col1"  >
+Denis, Benaja
+</td>
+
+
+
+<td id="col2"  >
+FR-1
+</td>
+
+
+
+<td id="col3"  >
+Livingstone
+</td>
+
+
+
+<td id="col4"  >
+13:23.46
+</td>
+
+
+
+<td id="col5"  >
+Braves Track Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 16, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+393
+</td>
+
+
+
+<td id="col1"  >
+Camenzuli, Mark
+</td>
+
+
+
+<td id="col2"  >
+JR-3
+</td>
+
+
+
+<td id="col3"  >
+West Virginia Wesleyan
+</td>
+
+
+
+<td id="col4"  >
+13:27.83
+</td>
+
+
+
+<td id="col5"  >
+Bobcat Classic
+</td>
+
+
+
+<td id="col6"  >
+Mar 23, 2018
+</td>
+</tr>
+
+
+<tr class="filtered allRows   ">
+
+
+
+<td id="col0"  >
+394
+</td>
+
+
+
+<td id="col1"  >
+Games, Michael
+</td>
+
+
+
+<td id="col2"  >
+SO-2
+</td>
+
+
+
+<td id="col3"  >
+West Liberty
+</td>
+
+
+
+<td id="col4"  >
+13:49.24
+</td>
+
+
+
+<td id="col5"  >
+Bethany Mini Meet
+</td>
+
+
+
+<td id="col6"  >
+Apr 18, 2018
+</td>
+</tr>
+
+
+                            </tbody>
+			
+                        </table>
+			<div class="loaderspinner"></div>
+                    </div>
+                </div>
+ 												
+ 
+
+
+</div>    
+</div>
+</div>
+</div>
+</form>
+
+
+<footer class="site-footer">
+    <div class="container vertical-container">
+        <div class="site-footer-center">
+
+            <p class="text-center footer-copyright">Copyright © 2018 DirectAthletics, Inc.</p>
+        </div>
+    </div>
+    </div>
+</footer>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/babel-external-helpers.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tether.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bootstrap.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollbar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery-asScrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/State.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Component.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Plugin.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Base.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tablesaw-init.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Menubar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/Sidebar.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/PageAside.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/menu.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/AssetSite.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/asscrollable.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/panel-actions.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/jquery.asPaginator.min.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/aspaginator.js"></script>
+
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.bundle.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/typeahead.jquery.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/bloodhound.js"></script>
+<script src="//assets.tfrrs.org/theme-responsive-bootstrap-4-admin/js/tabs.js"></script>
+<script src="//assets.tfrrs.org/js/jquery-scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/scrolltofixed.js"></script>
+<script src="//assets.tfrrs.org/js/auto-complete.js"></script>
+<script src="//assets.tfrrs.org/js/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="//assets.tfrrs.org/css/jquery.fancybox.min.css"  media="all" type="text/css" />
+</body>
+</html>
+
+
